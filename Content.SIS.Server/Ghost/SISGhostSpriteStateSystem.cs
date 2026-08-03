@@ -4,6 +4,7 @@ using Content.Inky.Common.Medical;
 using Content.Shared.Body;
 using Content.Shared.Ghost;
 using Content.Shared.Mind.Components;
+using Content.SIS.Shared.Ghost;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
 

@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
-namespace Content.SIS.Server.Ghost;
+namespace Content.SIS.Shared.Ghost;
 
 /// <summary>
 /// Ghost with this component has a chance to spawn with a custom sprite instead of the default one.
