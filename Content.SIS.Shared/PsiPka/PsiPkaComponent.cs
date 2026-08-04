@@ -1,11 +1,11 @@
 namespace Content.SIS.Shared.PsiPka;
 
-[RegisterComponent]
+[RegisterComponent, AutoGenerateComponentState]
 public sealed partial class PsiPkaComponent : Component
 {
-    [DataField("strikeActionEntity")]
+    [DataField]
     public EntityUid? StrikeActionEntity;
 
-    [DataField("strikeAction")]
+    [DataField, AutoNetworkedField]
     public string StrikeAction = "ActionPsionikStrike";
 }

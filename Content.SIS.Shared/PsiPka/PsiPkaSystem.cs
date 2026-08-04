@@ -14,5 +14,6 @@ public sealed class PsiPkaSystem : EntitySystem
     private void GetPsiPkaAction(EntityUid uid, PsiPkaComponent component, GetItemActionsEvent args)
     {
         args.AddAction(ref component.StrikeActionEntity, component.StrikeAction);
+        Dirty(uid, component);
     }
 }
