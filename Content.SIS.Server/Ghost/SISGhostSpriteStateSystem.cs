@@ -9,7 +9,7 @@ using Robust.Shared.Random;
 
 namespace Content.SIS.Server.Ghost;
 
-public sealed partial class SIS_GhostSpriteStateSystem : EntitySystem
+public sealed partial class SISGhostSpriteStateSystem : EntitySystem
 {
     [Dependency] private SharedAppearanceSystem _appearance = default!;
     [Dependency] private BodySystem _body = default!;
@@ -20,10 +20,10 @@ public sealed partial class SIS_GhostSpriteStateSystem : EntitySystem
 
     public override void Initialize()
     {
-        SubscribeLocalEvent<SIS_GhostSpriteStateComponent, MindAddedMessage>(OnGhostMindAdded);
+        SubscribeLocalEvent<SISGhostSpriteStateComponent, MindAddedMessage>(OnGhostMindAdded);
     }
 
-    private void OnGhostMindAdded(EntityUid uid, SIS_GhostSpriteStateComponent component, MindAddedMessage args)
+    private void OnGhostMindAdded(EntityUid uid, SISGhostSpriteStateComponent component, MindAddedMessage args)
     {
         if (_random.Prob(component.Chance))
         {

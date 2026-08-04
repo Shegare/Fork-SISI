@@ -139,7 +139,7 @@
     noiseAmount: 0 # In case default values change
     noiseMultiplier: 0 # In case default values change
   # SIS-Start
-  - type: SIS_GhostSpriteState
+  - type: SISGhostSpriteState
   - type: MovementSpeedModifier
     baseWalkSpeed: 24
   # SIS-End
