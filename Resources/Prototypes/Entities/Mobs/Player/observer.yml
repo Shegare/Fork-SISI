@@ -138,7 +138,6 @@
     noiseAmount: 0 # In case default values change
     noiseMultiplier: 0 # In case default values change
   # SIS-Start
-  - type: MyTest
   - type: MyTestTwo
   - type: MovementSpeedModifier
     baseWalkSpeed: 24
