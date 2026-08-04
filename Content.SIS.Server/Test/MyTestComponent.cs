@@ -1,8 +1,6 @@
-using Robust.Shared.GameStates;
+namespace Content.SIS.Server.Test;
 
-namespace Content.SIS.Shared.Test;
-
-[RegisterComponent, NetworkedComponent]
+[RegisterComponent]
 public sealed partial class MyTestComponent : Component
 {
     [DataField]
