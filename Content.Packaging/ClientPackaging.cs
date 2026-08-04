@@ -25,7 +25,7 @@ public static class ClientPackaging
                 ArgumentList =
                 {
                     "build",
-                    Path.Combine("Content.Inky.Client", "Content.Inky.Client.csproj"), // Trauma - Trauma.Client depends on everything // inky edit - fix client crash?
+                    Path.Combine("Content.SIS.Client", "Content.SIS.Client.csproj"), // Trauma - Trauma.Client depends on everything // inky edit - fix client crash? // SIS
                     "-c", configuration,
                     "--nologo",
                     "/v:m",
