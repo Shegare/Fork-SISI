@@ -18,7 +18,6 @@
   <ItemGroup>
     <ProjectReference Include="../Content.SIS.Shared/Content.SIS.Shared.csproj" />
     <ProjectReference Include="../Content.Inky.Server/Content.Inky.Server.csproj" />
-    <ProjectReference Include="../Content.Trauma.Server/Content.Trauma.Server.csproj" />
     <ProjectReference Include="../Content.Server/Content.Server.csproj" />
   </ItemGroup>
 
