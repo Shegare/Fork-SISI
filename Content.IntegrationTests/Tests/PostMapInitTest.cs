@@ -95,8 +95,7 @@ namespace Content.IntegrationTests.Tests
             "/Maps/_Inky/dev.yml",
             // /inky
             "/Maps/Shuttles/AdminSpawn/**", // admin gaming
-            // SIS
-            "/Maps/_SIS/centcomm.yml"
+            "/Maps/_SIS/centcomm.yml" // SIS
         };
 
         /// <summary>
