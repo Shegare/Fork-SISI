@@ -1211,3 +1211,6 @@ ClothingOuterArmorBulletproof: null
 
 # 2026-07-5 inky, Kill Echem
 # EnergyChemDispenser: ChemDispenser # SIS
+
+# 2026-08-26
+SpawnMobCorgiMouse: null
