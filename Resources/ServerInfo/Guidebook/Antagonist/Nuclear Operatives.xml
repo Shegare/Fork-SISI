@@ -123,9 +123,8 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - Экипаж эвакуируется, но бомба всё ещё вооружена.
   - Бомба вооружена и доставлена в Центральное Командование на эвакуационном шаттле.
 
-  [bold][color=red]Малая Победа Синдиката[/color][/bold]
-  - Экипаж эвакуируется, но все оперативники выживают.
-  - Экипаж эвакуируется, и часть оперативников погибает, но экипаж теряет диск.
+  [bold][color=red]Syndicate Minor Victory[/color][/bold]
+  - At least one operative survives, and the crew escapes, leaving the disk behind.
 
   [bold][color=#999999]Нейтральная Победа[/color][/bold]
   - Бомба взрывается за пределами станции.
