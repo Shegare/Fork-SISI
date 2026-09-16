@@ -2,7 +2,7 @@
 
 using Content.Inky.Common.Medical;
 using Content.Shared.Body;
-using Content.Shared.Ghost;
+using Content.Shared.Ghost.Components;
 using Content.Shared.Mind.Components;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
