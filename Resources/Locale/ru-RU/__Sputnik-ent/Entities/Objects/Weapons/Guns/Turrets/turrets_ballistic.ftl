@@ -2,10 +2,6 @@ ent-WeaponTurretSyndicate = { ent-BaseWeaponBallisticTurret }
     .suffix = Синдикат
     .desc = { ent-BaseWeaponBallisticTurret.desc }
 
-# AUTOGEN-Start
-# баллистическая турель
-# .suffix = Синдикат, тулбокс, ящик
-# AUTOGEN-End TODO(Update_Locale):
 ent-WeaponTurretSyndicateDisposable = баллистическая турель
     .desc = { ent-BaseWeaponBallisticTurretIndestructible.desc }
     .suffix = Синдикат, тулбокс, ящик

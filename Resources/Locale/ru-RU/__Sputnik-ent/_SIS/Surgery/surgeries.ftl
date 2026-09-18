@@ -1,2 +1,2 @@
-ent-SurgeryCorticalBorerRemoval = Remove Cortical Borer
-    .desc = Удаление кортикального бурильщика из тела.
+ent-SurgeryCorticalBorerRemoval = Удаление Кортикального Червя
+    .desc = Удалить заражение Кортикальным Червём из организма.

@@ -15,7 +15,7 @@ uplink-shuttle-iff-desc = Позволяет управлять IFF и хара�
 
 uplink-cameraBug-name-trauma = жучок-камера
 
-uplink-super-surplus-bundle-name = Ящик суперизлишков
+uplink-super-surplus-bundle-name = Ящик Припасов
 uplink-super-surplus-bundle-desc = Содержит случайные предметы Синдиката общей стоимостью 625 телекристаллов.
 
 uplink-syndicate-segway-crate-name = Сегвей Синдиката

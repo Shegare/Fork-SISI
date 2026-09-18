@@ -20,9 +20,6 @@ condition-body-trauma-BoneDamage-Cracked = • Кость {$woundable} выгл�
 condition-body-trauma-BoneDamage-Broken = • Кость {$woundable} сломана!
 condition-body-trauma-OrganDamage = • {$woundable} имеет некоторые повреждения органов.
 condition-body-trauma-VeinsDamage = • {$woundable} имеет некоторые повреждения вен.
-# AUTOGEN-Start
-# • $targetSymmetry$targetType была удалена...
-# AUTOGEN-End TODO(Update_Locale):
 condition-body-trauma-Dismemberment = • {$source} был отрублен!
 condition-body-unrevivable = • {$entity} обладает особенно слабым организмом. Он не выдержит удара дефибриллятора.
 condition-body-bleeding = • {$entity} истекает кровью.

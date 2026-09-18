@@ -1,10 +1,6 @@
 ent-BaseWindowStructure = окно
     .desc = Не заляпайте стекло внизу.
 
-# AUTOGEN-Start
-# окно
-# .desc = Смотри не заляпай.
-# AUTOGEN-End TODO(Update_Locale):
 ent-Window = окно
     .desc = Смотри не заляпай.
 
@@ -25,10 +21,6 @@ ent-WindowRCDResistant = { ent-Window }
 ent-BaseWindowStructureDirectional = направленное окно
     .desc = Не заляпайте стекло внизу.
 
-# AUTOGEN-Start
-# направленное окно
-# .desc = Смотри не заляпай.
-# AUTOGEN-End TODO(Update_Locale):
 ent-WindowDirectional = направленное окно
     .desc = Смотри не заляпай.
 

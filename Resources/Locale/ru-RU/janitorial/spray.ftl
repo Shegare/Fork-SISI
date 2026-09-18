@@ -1,1 +1,1 @@
-spray-bottle-label-space-cleaner = очиститель космоса
+spray-bottle-label-space-cleaner = космический очиститель

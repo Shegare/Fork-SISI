@@ -16,10 +16,10 @@ ent-StatusEffectForcedSleeping = принудительный сон
 ent-StatusEffectSSDSleeping = принудительный сон
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectPressureImmunity = pressure immunity
+ent-StatusEffectPressureImmunity = иммунитет к давлению
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-MutedStatusEffectBase = muted
+ent-MutedStatusEffectBase = немота
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectMuted = { ent-MutedStatusEffectBase }

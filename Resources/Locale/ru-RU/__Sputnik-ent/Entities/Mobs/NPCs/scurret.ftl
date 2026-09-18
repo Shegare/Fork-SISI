@@ -1,14 +1,11 @@
-ent-MobBaseScurret = скюррет
+ent-MobBaseScurret = слизнекотик
     .desc = { ent-MobBaseAncestor.desc }
 
-ent-MobScurret = скюррет
+ent-MobScurret = слизнекотик
     .desc = Более известен как Вава, с болот планеты Вава. Эти создания составляют большую часть лояльных сотрудников пиццерии Arnold.
 
-# AUTOGEN-Start
-# скюррет эмоциональной поддержи
-# AUTOGEN-End TODO(Update_Locale):
-ent-MobBaseEmotionalSupportScurret = скюррет эмоциональной поддержи
+ent-MobBaseEmotionalSupportScurret = слизнекотик эмоциональной поддержи
     .desc = { "" }
 
-ent-MobEmotionalSupportScurret = скюррет эмоциональной поддержи
+ent-MobEmotionalSupportScurret = слизнекотик эмоциональной поддержи
     .desc = Более известен как Вава, с болот планеты Вава. Эти создания составляют большую часть лояльных сотрудников пиццерии Arnold. Он здесь в качестве временного сотрудника.

@@ -2,8 +2,8 @@
 location-beacon = маяк
 
 # Mobs
-location-nar-sie = Nar'Sie
-location-ratvar = Ratvar
+location-nar-sie = Нар'Си
+location-ratvar = Ратвар
 location-mothership-core = Ядро материнского корабля
 
 # Objects

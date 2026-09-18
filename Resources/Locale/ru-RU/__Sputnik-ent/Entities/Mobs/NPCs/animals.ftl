@@ -186,10 +186,6 @@ ent-SolutionVenomSpider = { ent-SolutionWeapon }
 ent-MobSpiderAngryBase = { ent-MobSpiderBase }
     .desc = { ent-MobSpiderBase.desc }
 
-# AUTOGEN-Start
-# тарантул
-# .desc = Общепризнанно, что это буквально худшее существо на свете.
-# AUTOGEN-End TODO(Update_Locale):
 ent-MobGiantSpider = тарантул
     .desc = Общепризнанно, что это буквально худшее существо на свете.
 

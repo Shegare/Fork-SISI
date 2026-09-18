@@ -26,9 +26,6 @@ ent-GunSafeSurplusBallistics = сейф для излишков баллисти
 ent-GunSafeMelee = сейф для холодного оружия
     .desc = { ent-BaseTraumaGunSafe.desc }
 
-# AUTOGEN-Start
-# сейф для дзюдо
-# AUTOGEN-End TODO(Update_Locale):
 ent-GunSafeJudo = сейф с дзюдо
     .desc = { ent-GunSafeBaseSecure.desc }
 

@@ -1,15 +1,9 @@
 ent-SurgeryOpenTailSlot = Создать сустав хвоста
     .desc = { ent-SurgeryOpenCavityBase.desc }
 
-# AUTOGEN-Start
-# Удалить язык
-# AUTOGEN-End TODO(Update_Locale):
 ent-SurgeryRemoveTongue = Удалить язык
     .desc = { ent-SurgeryBase.desc }
 
-# AUTOGEN-Start
-# Вставить язык
-# AUTOGEN-End TODO(Update_Locale):
 ent-SurgeryInsertTongue = Вставить язык
     .desc = { ent-SurgeryBase.desc }
 

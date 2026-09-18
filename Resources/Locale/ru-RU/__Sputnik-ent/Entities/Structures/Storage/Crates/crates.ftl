@@ -31,9 +31,6 @@ ent-CrateScience = научный ящик
 ent-CrateSurgery = хирургический ящик
     .desc = { ent-CrateGenericSteel.desc }
 
-# AUTOGEN-Start
-# паутинный ящик
-# AUTOGEN-End TODO(Update_Locale):
 ent-CrateWeb = паутинный ящик
     .desc = { ent-BaseCrate.desc }
 
@@ -88,15 +85,9 @@ ent-CrateCommandSecure = ящик командования
 ent-CrateSyndicateSecure = защищённый ящик Синдиката
     .desc = Стальной ящик тёмного цвета с красными полосами и выдавленной на передней панели литерой S.
 
-# AUTOGEN-Start
-# ящик для скота
-# AUTOGEN-End TODO(Update_Locale):
 ent-CrateLivestock = ящик для скота
     .desc = { ent-BaseCrate.desc }
 
-# AUTOGEN-Start
-# хомячья клетка
-# AUTOGEN-End TODO(Update_Locale):
 ent-CrateRodentCage = хомячья клетка
     .desc = { ent-BaseCrate.desc }
 

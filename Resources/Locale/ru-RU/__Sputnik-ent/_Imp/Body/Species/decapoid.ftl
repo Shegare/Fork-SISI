@@ -1,6 +1,3 @@
-# AUTOGEN-Start
-# внешность декаподов
-# AUTOGEN-End TODO(Update_Locale):
 ent-AppearanceDecapoid = Внешность декапоида
     .desc = { ent-BaseSpeciesAppearanceDecapoid.desc }
 

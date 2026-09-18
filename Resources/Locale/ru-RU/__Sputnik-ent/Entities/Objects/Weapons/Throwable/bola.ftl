@@ -1,13 +1,6 @@
-# AUTOGEN-Start
-# бола
-# .desc = Связана из запасных наручников и металла.
-# AUTOGEN-End TODO(Update_Locale):
 ent-BaseBola = бола
     .desc = Связана из запасных наручников и металла.
 
-# AUTOGEN-Start
-# бола
-# AUTOGEN-End TODO(Update_Locale):
 ent-Bola = бола
     .desc = Самодельная бола, собранная из запасных наручников и металла. Похоже, долго она не продержится.
 

@@ -67,9 +67,6 @@ xenoarch-trigger-tip-tritium = Тритий
 xenoarch-trigger-tip-ammonia = Аммиак
 xenoarch-trigger-tip-n2o = Оксид азота
 xenoarch-trigger-tip-frezon = Фрезон
-# AUTOGEN-Start
-# Радиация
-# AUTOGEN-End TODO(Update_Locale):
 xenoarch-trigger-tip-radiation = Ионизирующее излучение
 xenoarch-trigger-tip-microwave = Микроволновое излучение
 xenoarch-trigger-tip-brute-damage = Физическое повреждение

@@ -133,10 +133,6 @@ marking-MothWingsWitchwing = Крылья (Ведьмино крыло)
 
 marking-MothWingsUnderwing-underwing_primary = Основной
 marking-MothWingsUnderwing-underwing_secondary = Вторичный
-# Trauma - no open wing visuals
-# AUTOGEN-Start
-# Крылья (Подкрылье)
-# AUTOGEN-End TODO(Update_Locale):
 marking-MothWingsUnderwing = Крылья (Подкрылье, без открытых крыльев)
 
 

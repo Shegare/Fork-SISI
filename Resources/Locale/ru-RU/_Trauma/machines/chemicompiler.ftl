@@ -1,6 +1,6 @@
 chemicompiler-slot-reservoir = Резервуар
 
-chemicompiler-window-title = ChemiCompiler M7
+chemicompiler-window-title = ХимКомпилятор M7
 chemicompiler-window-code = Код
 chemicompiler-window-save = Сохранить
 chemicompiler-window-load = Загрузить

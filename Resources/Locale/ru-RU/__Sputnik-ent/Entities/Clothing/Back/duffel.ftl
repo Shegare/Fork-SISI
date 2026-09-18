@@ -67,10 +67,6 @@ ent-ClothingBackpackDuffelSyndicateMedical = { ent-ClothingBackpackDuffelSyndica
 ent-ClothingBackpackDuffelSyndicateMedicalBundle = { ent-ClothingBackpackDuffelSyndicateMedical }
     .desc = { ent-ClothingBackpackDuffelSyndicateMedical.desc }
 
-# AUTOGEN-Start
-# бездонный вещмешок
-# .desc = вещмешок, открывающийся в локализованный карман блюспейса.
-# AUTOGEN-End TODO(Update_Locale):
 ent-ClothingBackpackDuffelHolding = бездонный вещмешок
     .desc = вещмешок, открывающийся в локализованный карман блюспейса.
 

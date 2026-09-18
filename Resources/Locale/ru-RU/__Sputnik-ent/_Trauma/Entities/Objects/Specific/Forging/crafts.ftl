@@ -10,15 +10,9 @@ ent-BaseForgedProductCrossGuard = { ent-BaseForgedProduct }
 ent-BaseForgedProductSeparateHead = { ent-BaseForgedProduct }
     .desc = { ent-BaseForgedProduct.desc }
 
-# AUTOGEN-Start
-# нож
-# AUTOGEN-End TODO(Update_Locale):
 ent-ForgedKnife = нож
     .desc = { ent-BaseForgedKnife.desc }
 
-# AUTOGEN-Start
-# тесак
-# AUTOGEN-End TODO(Update_Locale):
 ent-ForgedCleaver = тесак
     .desc = { ent-BaseForgedKnife.desc }
 

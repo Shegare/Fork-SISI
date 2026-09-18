@@ -1,7 +1,7 @@
 ent-ActionCorticalBorerChemMenu = Химикаты
     .desc = Открыть меню химикатов.
 
-ent-ActionCorticalBorerInfest = Заразиться
+ent-ActionCorticalBorerInfest = Заразить
     .desc = Заразить гуманоида. У носителя должна быть кровеносная система.
 
 ent-ActionCorticalBorerEject = Покинуть носителя

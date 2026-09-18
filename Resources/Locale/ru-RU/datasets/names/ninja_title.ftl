@@ -28,9 +28,6 @@ names-ninja-title-dataset-27 = Док.
 names-ninja-title-dataset-28 = Нуб
 names-ninja-title-dataset-29 = Ночь
 names-ninja-title-dataset-30 = Багрянец
-# AUTOGEN-Start
-# Хвататель
-# AUTOGEN-End TODO(Update_Locale):
 names-ninja-title-dataset-31 = Хвататель
 names-ninja-title-dataset-32 = Ультимативный
 names-ninja-title-dataset-33 = Безжалостный

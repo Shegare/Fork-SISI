@@ -43,33 +43,12 @@ accent-demonic-words-replace-14 = цирковое порождение
 accent-demonic-words-15 = волшебник
 accent-demonic-words-replace-15 = заклинающий червяк
 
-# AUTOGEN-Start
-# ТЫ БЫЛ РОЖДЁН ЧТОБЫ ИСТЕЧЬ КРОВЬЮ.
-# AUTOGEN-End TODO(Update_Locale):
 accent-demonic-suffix-1 = {" "}ТЫ БЫЛ РОЖДЁН, ЧТОБЫ ИСТЕЧЬ КРОВЬЮ.
-# AUTOGEN-Start
-# ПЛОТЬ СЛАБА.
-# AUTOGEN-End TODO(Update_Locale):
 accent-demonic-suffix-2 = {" "}ПЛОТЬ СЛАБА.
-# AUTOGEN-Start
-# РВИ И ТЕРЗАЙ.
-# AUTOGEN-End TODO(Update_Locale):
 accent-demonic-suffix-3 = {" "}РВИ И ТЕРЗАЙ.
-# AUTOGEN-Start
-# УМРИ В МУКАХ.
-# AUTOGEN-End TODO(Update_Locale):
 accent-demonic-suffix-4 = {" "}УМРИ С КРИКОМ.
-# AUTOGEN-Start
-# Я СЛЫШУ ТВОЁ СЕРДЦЕБИЕНИЕ.
-# AUTOGEN-End TODO(Update_Locale):
 accent-demonic-suffix-5 = {" "}Я СЛЫШУ ТВОЁ СЕРДЦЕ.
-# AUTOGEN-Start
-# РАСПОТРОШУ.
-# AUTOGEN-End TODO(Update_Locale):
 accent-demonic-suffix-6 = {" "}ПРЕПОДНЕСИ СВОИ КОСТИ.
-# AUTOGEN-Start
-# ТЫ ЗАХЛЕБНЕШЬСЯ В КРОВИ.
-# AUTOGEN-End TODO(Update_Locale):
 accent-demonic-suffix-7 = {" "}КРОВЬ ТЕБЯ УТОПИТ.
 
 # speech verbs

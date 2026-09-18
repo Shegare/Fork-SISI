@@ -16,9 +16,6 @@ ent-DrinkBottlePlasticSmallBaseFull = { ent-SolutionSmall }
 ent-DrinkWaterBottleFull = бутылка воды
     .desc = Простая чистая вода неизвестного происхождения. Возможно, вы не хотите знать, откуда она.
 
-# AUTOGEN-Start
-# .suffix = Полная
-# AUTOGEN-End TODO(Update_Locale):
 ent-DrinkBottlePlasticBaseFull = { ent-DrinkBottlePlasticBase }
     .desc = { ent-DrinkBottlePlasticBase.desc }
     .suffix = Полная

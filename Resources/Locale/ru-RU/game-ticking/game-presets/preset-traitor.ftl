@@ -23,12 +23,6 @@ traitor-death-match-end-round-description-entry = КПК { $originalName }, с {
 ## TraitorRole
 
 # TraitorRole
-# AUTOGEN-Start
-# Вы - агент организации $corporation на задании [color = darkred]Синдиката.[/color].
-# Ваши цели и кодовые слова перечислены в меню персонажа.
-# Воспользуйтесь своим аплинком, чтобы приобрести всё необходимое для выполнения работы.
-# Смерть NanoTrasen!
-# AUTOGEN-End TODO(Update_Locale):
 traitor-role-greeting =
     Вы - агент, отправленный [color = darkred]Синдикатом[/color] от имени {$corporation}.
     Ваши цели и кодовые слова перечислены в меню персонажа. Используйте свой аплинк, чтобы приобрести инструменты, необходимые для этой миссии.
@@ -49,11 +43,5 @@ traitor-role-uplink-implant =
 traitor-role-codewords-short =
     Кодовые слова:
     { $codewords }.
-# AUTOGEN-Start
-# Ваш код аплинка: $code. Установите его в качестве рингтона КПК для доступа к аплинку.
-# AUTOGEN-End TODO(Update_Locale):
 traitor-role-uplink-code-short = Ваш код аплинка: {$code}. Установите его в качестве рингтона КПК для доступа к аплинку.
-# AUTOGEN-Start
-# Ваш аплинк был имплантирован. Воспользуйтесь им из хотбара.
-# AUTOGEN-End TODO(Update_Locale):
 traitor-role-uplink-implant-short = Ваш аплинк был имплантирован. Получите к нему доступ через меню действий.

@@ -7,30 +7,18 @@ ent-BaseFenceWoodHigh = { ent-BaseFenceWood }
 ent-BaseFenceWoodSmall = небольшой деревянный забор
     .desc = Часть небольшого деревянного забора. Лучшее средство для ограждения частной территории!
 
-# AUTOGEN-Start
-# .suffix = Прямой
-# AUTOGEN-End TODO(Update_Locale):
 ent-FenceWoodHighStraight = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
     .suffix = Прямой
 
-# AUTOGEN-Start
-# .suffix = Конец
-# AUTOGEN-End TODO(Update_Locale):
 ent-FenceWoodHighEnd = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
     .suffix = Конец
 
-# AUTOGEN-Start
-# .suffix = Угол
-# AUTOGEN-End TODO(Update_Locale):
 ent-FenceWoodHighCorner = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
     .suffix = Угол
 
-# AUTOGEN-Start
-# .suffix = Т-образный
-# AUTOGEN-End TODO(Update_Locale):
 ent-FenceWoodHighTJunction = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
     .suffix = Т-образный

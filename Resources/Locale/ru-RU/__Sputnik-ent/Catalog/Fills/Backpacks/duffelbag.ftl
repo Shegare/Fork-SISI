@@ -5,8 +5,8 @@ ent-ClothingBackpackDuffelSyndicateFilledMedical = { ent-ClothingBackpackDuffelS
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
     .suffix = Набор Хирурга Синдиката
 
-ent-ClothingBackpackDuffelSyndicateFilledMedicine = syndicate medicine duffel bag
-    .desc = A large duffel bag containing essential medicinal reagents.
+ent-ClothingBackpackDuffelSyndicateFilledMedicine = медицинский вещмешок синдиката
+    .desc = Большой вещмешок, содержащий необходимые медицинские реагенты.
 
 ent-ClothingBackpackDuffelSyndicateFilledShotgun = { ent-ClothingBackpackDuffelSyndicate }
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
@@ -58,7 +58,7 @@ ent-ClothingBackpackChameleonFill = { ent-ClothingBackpackDuffelSyndicate }
 
 ent-ClothingBackpackChameleonFillAgent = { ent-ClothingBackpackChameleon }
     .desc = { ent-ClothingBackpackChameleon.desc }
-    .suffix = Fill, Chameleon, Syndie
+    .suffix = Заполненный, Хамелеон, Синди
 
 ent-ClothingBackpackDuffelSyndicateEVABundle = { ent-ClothingBackpackDuffelSyndicate }
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
@@ -96,5 +96,5 @@ ent-ClothingBackpackDuffelSyndicateFilledStarterKit = { ent-ClothingBackpackDuff
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
     .suffix = Набор Оперативника
 
-ent-ClothingBackpackDuffelSyndicateFilledHushpup = Hushpup bundle
-    .desc = Contains the Hushpup, bundled with a box of buckshot. Quarter included.
+ent-ClothingBackpackDuffelSyndicateFilledHushpup = Набор Hushpup
+    .desc = Содержит Hushpup в комплекте с коробкой картечи. Четвертак прилагается.

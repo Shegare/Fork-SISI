@@ -191,96 +191,57 @@ marking-AntennaShort-nub = Усики
 
 # Tail
 
-# AUTOGEN-Start
-# Крылья (Лунная моль)
-# AUTOGEN-End TODO(Update_Locale):
 marking-LunaWings = Крылья (Лунная моль, без визуализации раскрытых крыльев)
 marking-LunaWings-luna1 = Крылья
 marking-LunaWings-luna2 = Пятна
 
-# AUTOGEN-Start
-# Крылья (Шмель)
-# AUTOGEN-End TODO(Update_Locale):
 marking-MothBee = Крылья (Шмель, без визуализации раскрытых крыльев)
 marking-MothBee-bee1 = Внешние полосы
 marking-MothBee-bee2 = Крылья
 marking-MothBee-bee3 = Внутренние полосы
 
-# AUTOGEN-Start
-# Крылья (Жук июньский)
-# AUTOGEN-End TODO(Update_Locale):
 marking-MothBeetleTail = Крылья (Жук июньский, без визуализации раскрытых крыльев)
 marking-MothBeetleTail-beetle1 = Контур
 marking-MothBeetleTail-beetle2 = Крылья
 marking-MothBeetleTail-beetle3 = Блеск
 
-# AUTOGEN-Start
-# Крылья (Светлячок, подложка)
-# AUTOGEN-End TODO(Update_Locale):
 marking-MothFirefly = Крылья (Подложка светлячка, без визуализации раскрытых крыльев)
 marking-MothFirefly-firefly2 = Крылья светлячка
 
-# AUTOGEN-Start
-# Светлячок (Наложение)
-# AUTOGEN-End TODO(Update_Locale):
 marking-MothFireflyOverlay = Светлячок (Наложение, без визуализации раскрытых крыльев)
 marking-MothFireflyOverlay-firefly1 = Светлячок (Наложение)
 
-# AUTOGEN-Start
-# Крылья (Стеклянные крылья)
-# AUTOGEN-End TODO(Update_Locale):
 marking-MothGlasswing = Крылья (Стеклянные крылья, без визуализации раскрытых крыльев)
 marking-MothGlasswing-glasswing1 = Внешние
 marking-MothGlasswing-glasswing2 = Внутренние
 marking-MothGlasswing-glasswing3 = Полосы
 
-# AUTOGEN-Start
-# Крылья (Жук-носорог)
-# AUTOGEN-End TODO(Update_Locale):
 marking-MothRhinoBeetle = Крылья (Жук-носорог, без визуализации раскрытых крыльев)
 marking-MothRhinoBeetle-rhinobeetle1 = Контур
 marking-MothRhinoBeetle-rhinobeetle2 = Блеск
 marking-MothRhinoBeetle-rhinobeetle3 = Крылья
 
-# AUTOGEN-Start
-# Крылья (Snoth)
-# AUTOGEN-End TODO(Update_Locale):
 marking-MothSnoth = Крылья (Снот, без визуализации раскрытых крыльев)
 marking-MothSnoth-snoth1 = Крылья
 marking-MothSnoth-snoth2 = Панцирь
 
-# AUTOGEN-Start
-# Крылья (Радужная бабочка)
-# AUTOGEN-End TODO(Update_Locale):
 marking-MothTrueButterfly = Крылья (Радужная бабочка, без визуализации раскрытых крыльев)
 marking-MothTrueButterfly-truebutterfly1 = Полосы
 marking-MothTrueButterfly-truebutterfly2 = Точки
 marking-MothTrueButterfly-truebutterfly3 = Крылья
 
-# AUTOGEN-Start
-# Крылья (Удар в спину)
-# AUTOGEN-End TODO(Update_Locale):
 marking-WingsBackstabbed = Крылья (Удар в спину, без визуализации раскрытых крыльев)
 marking-WingsBackstabbed-backstabbed = Крылья
 
-# AUTOGEN-Start
-# Крылья (Муха)
-# AUTOGEN-End TODO(Update_Locale):
 marking-WingsFly = Крылья (Муха, без визуализации раскрытых крыльев)
 marking-WingsFly-fly1 = Шея
 marking-WingsFly-fly2 = Крылья
 marking-WingsFly-fly3 = Хвост
 
-# AUTOGEN-Start
-# Крылья (Стрекоза)
-# AUTOGEN-End TODO(Update_Locale):
 marking-WingsDragonfly = Крылья (Стрекоза, без визуализации раскрытых крыльев)
 marking-WingsDragonfly-dragonfly1 = Шея
 marking-WingsDragonfly-dragonfly2 = Крылья
 marking-WingsDragonfly-dragonfly3 = Хвост
 
-# AUTOGEN-Start
-# Крылья (Фонарь)
-# AUTOGEN-End TODO(Update_Locale):
 marking-WingsLanternfly = Крылья (Фонарница, без визуализации раскрытых крыльев)
 marking-WingsLanternfly-lanternfly = Крылья

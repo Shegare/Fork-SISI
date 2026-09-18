@@ -1,10 +1,4 @@
-# AUTOGEN-Start
-# Кость c [color=lightgray]$sidesAmount[/color] сторонами.
-# AUTOGEN-End TODO(Update_Locale):
 dice-component-on-examine-message-part-1 = {$name} с [color=lightgray]{$sidesAmount}[/color] гранями.
-# AUTOGEN-Start
-# {CAPITALIZE($die)} приземляется на $currentSide.
-# AUTOGEN-End TODO(Update_Locale):
 dice-component-on-roll-land = { CAPITALIZE($die) } выпадает на {$currentSide}.
 
 dice-component-type-die = кость

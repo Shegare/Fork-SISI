@@ -27,11 +27,11 @@ ent-PuddleBlood = { ent-PuddleTemporary }
 
 ent-PuddleFluorosulfuricAcidSmall = { ent-PuddleTemporary }
     .desc = { ent-PuddleTemporary.desc }
-    .suffix = FluorosulfuricAcid (5u)
+    .suffix = Фторсерная Кислота (5u)
 
 ent-PuddleFluorosulfuricAcid = { ent-PuddleTemporary }
     .desc = { ent-PuddleTemporary.desc }
-    .suffix = FluorosulfuricAcid (15u)
+    .suffix = Фторсерная Кислота (15u)
 
 ent-PuddleWatermelon = { ent-PuddleTemporary }
     .desc = { ent-PuddleTemporary.desc }

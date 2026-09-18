@@ -13,10 +13,6 @@ ent-ActionVampRejuvenateII = Омоложение II
 ent-ActionVampireGlare = Пронзающий взгляд
     .desc = Работает на расстоянии ближнего боя и по-разному действует в зависимости от того, с какой стороны вы находитесь. Требуется 2 заряда для полного оглушения.
 
-# AUTOGEN-Start
-# Выбрать специализацию
-# .desc = Выбрать специализацию
-# AUTOGEN-End TODO(Update_Locale):
 ent-ActionChooseSpecialization = Выбрать специализацию
     .desc = Выберите свой вампирский класс!
 

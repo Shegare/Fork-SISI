@@ -1,6 +1,3 @@
-# AUTOGEN-Start
-# шахтёрское окно
-# AUTOGEN-End TODO(Update_Locale):
 ent-MiningWindow = шахтёрское окно
     .desc = { ent-BaseWindowStructure.desc }
 

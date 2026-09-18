@@ -13,13 +13,13 @@ ent-BulletHighCaliber = пуля (.50 антиматериальная)
 ent-BulletHighCaliberExplosive = пуля (.50 фугасно-зажигательная)
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-HeavyPulse = heavy pulse beam
+ent-HeavyPulse = тяжёлый импульсный луч
     .desc = { ent-BasicHitscan.desc }
 
-ent-LightPulse = light pulse beam
+ent-LightPulse = лёгкий импульсный луч
     .desc = { ent-BasicHitscan.desc }
 
-ent-LaserSniper = laser sniper
+ent-LaserSniper = снайперский лазер
     .desc = { ent-BasicHitscan.desc }
 
 ent-RedMediumSplitLaser = средний красный расщепляющий лазер
@@ -34,7 +34,7 @@ ent-BulletLaserHeavyStructural = тяжёлый лазерный болт
 ent-BulletLaserSpreadHeavy = тяжёлый лазерный залп
     .desc = { ent-BulletLaserHeavy.desc }
 
-ent-StunPulse = stun pulse
+ent-StunPulse = оглушающий импульс
     .desc = { ent-BasicHitscan.desc }
 
 ent-BulletTemperatureCold = холодный температурный болт
@@ -67,5 +67,5 @@ ent-ProjectileMonkeyDart = дротик дартс-обезьяны
 ent-BulletMime = пуля (тихая)
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletSingularityBusterRocket = singularity buster rocket
+ent-BulletSingularityBusterRocket = ракета-разрушитель сингулярностей
     .desc = { ent-BulletRocket.desc }

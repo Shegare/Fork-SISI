@@ -16,10 +16,6 @@ ent-BaseChristmasLightsRed = { ent-BaseChristmasLights }
 ent-BaseChristmasLightsBlue = { ent-BaseChristmasLights }
     .desc = Несколько синих рождественских гирлянд.
 
-# AUTOGEN-Start
-# белые рождественские гирлянды
-# .desc = Несколько белых рождественских гирлянд.
-# AUTOGEN-End TODO(Update_Locale):
 ent-ChristmasLightsWhite1 = { ent-BaseChristmasLights }
     .desc = { ent-BaseChristmasLights.desc }
 
@@ -38,10 +34,6 @@ ent-ChristmasLightsWhite5 = { ent-BaseChristmasLights }
 ent-ChristmasLightsWhite6 = { ent-BaseChristmasLights }
     .desc = { ent-BaseChristmasLights.desc }
 
-# AUTOGEN-Start
-# красные рождественские гирлянды
-# .desc = Несколько красных рождественских гирлянд.
-# AUTOGEN-End TODO(Update_Locale):
 ent-ChristmasLightsRed1 = { ent-BaseChristmasLightsRed }
     .desc = { ent-BaseChristmasLightsRed.desc }
 
@@ -60,10 +52,6 @@ ent-ChristmasLightsRed5 = { ent-BaseChristmasLightsRed }
 ent-ChristmasLightsRed6 = { ent-BaseChristmasLightsRed }
     .desc = { ent-BaseChristmasLightsRed.desc }
 
-# AUTOGEN-Start
-# синие рождественские гирлянды
-# .desc = Несколько синих рождественских гирлянд.
-# AUTOGEN-End TODO(Update_Locale):
 ent-ChristmasLightsBlue1 = { ent-BaseChristmasLightsBlue }
     .desc = { ent-BaseChristmasLightsBlue.desc }
 

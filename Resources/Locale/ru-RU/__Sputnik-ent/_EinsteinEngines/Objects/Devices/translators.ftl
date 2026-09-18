@@ -32,7 +32,7 @@ ent-MofficTranslator = переводчик (Моффик)
 ent-XenoTranslator = переводчик (Ксено)
     .desc = Переводит речь между Ксено и Межгалактический. Хотя вряд ли поможет тебе выжить при встрече.
 
-ent-BioweaponTranslator = Bioweapon translator
+ent-BioweaponTranslator = переводчик (Биооружие)
     .desc = Переводит речь между милтехом и Галактическим Общим. Если его потерять, любой сможет управлять биооружием!
 
 ent-AnimalTranslator = переводчик (Животные)

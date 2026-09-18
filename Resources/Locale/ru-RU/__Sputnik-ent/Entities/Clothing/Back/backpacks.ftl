@@ -82,10 +82,6 @@ ent-ClothingBackpackSyndicate = рюкзак Синдиката
 ent-ClothingBackpackHoldingBase = { ent-ClothingBackpack }
     .desc = { ent-ClothingBackpack.desc }
 
-# AUTOGEN-Start
-# бездонный рюкзак
-# .desc = Рюкзак, открывающийся в локальный карман блюспейса.
-# AUTOGEN-End TODO(Update_Locale):
 ent-ClothingBackpackHolding = бездонный рюкзак
     .desc = Рюкзак, открывающийся в локальный карман блюспейса.
 

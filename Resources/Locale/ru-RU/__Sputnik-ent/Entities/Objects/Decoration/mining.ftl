@@ -10,9 +10,6 @@ ent-BaseWoodenSupport = { ent-BaseStructure }
 ent-WoodenSupport = деревянная опора
     .desc = Повышает уверенность в том, что камень не свалится на голову.
 
-# AUTOGEN-Start
-# деревянная опорная балка
-# AUTOGEN-End TODO(Update_Locale):
 ent-WoodenSupportBeam = деревянная опорная балка
     .desc = { ent-BaseWoodenSupport.desc }
 

@@ -16,7 +16,7 @@ ent-StatusEffectOwO = увушный акцент
 ent-StatusEffectAllCaps = акцент капсом
     .desc = { ent-SpeechStatusEffectBase.desc }
 
-ent-StatusEffectRatvarianLanguage = ratvarian language patterns
+ent-StatusEffectRatvarianLanguage = ратварианская речь
     .desc = { ent-SpeechStatusEffectBase.desc }
 
 ent-StatusEffectBark = акцент лая

@@ -10,9 +10,6 @@ ent-ClothingHeadLightBase = базовый шлем с фонарём
 ent-ClothingHeadEVAHelmetBase = базовый космический шлем
     .desc = { ent-ClothingHeadBase.desc }
 
-# AUTOGEN-Start
-# базовый шлем скафандра
-# AUTOGEN-End TODO(Update_Locale):
 ent-ClothingHeadHardsuitBase = базовый шлем скафандра
     .desc = { ent-TemperatureProtection.desc }
 

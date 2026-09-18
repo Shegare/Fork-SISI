@@ -37,9 +37,6 @@ ghost-gui-toggle-hearing-popup-off = Теперь вы слышите тольк
 ghost-target-window-title = Телепорт призрака
 ghost-target-window-current-button = Телепорт в: { $name }
 ghost-target-window-warp-to-title = [bold]Быстрый телепорт[/bold]
-# AUTOGEN-Start
-# Телепорт к самому следуемому
-# AUTOGEN-End TODO(Update_Locale):
 ghost-target-window-warp-to-most-followed = За самым отслеживаемым
 ghost-target-window-warp-to-random-followed = За случайным отслеживаемым
 ghost-target-window-warp-to-random = Случайный

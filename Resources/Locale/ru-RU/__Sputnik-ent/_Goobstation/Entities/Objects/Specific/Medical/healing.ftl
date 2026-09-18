@@ -6,11 +6,6 @@ ent-SyringePoisonCentcomm = { ent-PrefilledSyringe }
     .suffix = Яд
     .desc = { ent-PrefilledSyringe.desc }
 
-# AUTOGEN-Start
-# использованный шприц с фентанилом
-# .desc = Какого хуя?!
-# .suffix = Фентанил
-# AUTOGEN-End TODO(Update_Locale):
 ent-SyringePoisonFentUsed = использованный шприц с фентанилом
     .desc = { ent-SyringePoisonFent.desc }
 

@@ -1,10 +1,6 @@
 ent-CrateMedicalSupplies = ящик медицинских припасов
     .desc = Стандартные медикаменты.
 
-# AUTOGEN-Start
-# ящик химического оборудования
-# .desc = Стандартное химическое оборудование.
-# AUTOGEN-End TODO(Update_Locale):
 ent-CrateChemistrySupplies = ящик химического оборудования
     .desc = Стандартное химическое оборудование.
 

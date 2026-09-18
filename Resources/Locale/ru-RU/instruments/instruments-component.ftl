@@ -45,13 +45,7 @@ instruments-component-menu-input-notice-label = Подключите MIDI-уст
 instruments-component-band-title-label = Группы
 instruments-component-band-refresh = Обновить
 instruments-component-channels-menu = Выбор MIDI-канала
-# AUTOGEN-Start
-# Все
-# AUTOGEN-End TODO(Update_Locale):
 instruments-component-channels-all-button = Включить
-# AUTOGEN-Start
-# Очистить
-# AUTOGEN-End TODO(Update_Locale):
 instruments-component-channels-clear-button = Выключить
 instruments-component-channels-all-channels-label = Все каналы
 instruments-component-channels-percussion-channel-name = [Перкуссия]

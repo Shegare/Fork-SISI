@@ -5,10 +5,6 @@ ent-FoodLemonade = лимонад
 ent-FoodCoconut = кокос
     .desc = Наверное, стоит расколоть его перед едой...
 
-# AUTOGEN-Start
-# половина кокоса
-# .desc = Идеальная защита... если вы осьминог.
-# AUTOGEN-End TODO(Update_Locale):
 ent-FoodCoconutHalf = половинка кокоса
     .desc = Идеальная защита... если вы осьминог. Ботанист убил бы за такую.
 

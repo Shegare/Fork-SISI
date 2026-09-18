@@ -19,7 +19,7 @@ ent-StatusEffectHemorrhage = кровоизлияние
 ent-StatusEffectPainNumbness = онемение боли
     .desc = { ent-PainNumbnessStatusEffectBase.desc }
 
-ent-StatusEffectAdrenaline = adrenaline
+ent-StatusEffectAdrenaline = адреналин
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StaminaModifierStatusEffect = { ent-MobStatusEffectBase }

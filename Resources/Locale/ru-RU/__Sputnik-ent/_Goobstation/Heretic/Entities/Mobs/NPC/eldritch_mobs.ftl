@@ -46,13 +46,13 @@ ent-MobGhoulFireShark = пылающая акула
 ent-MobGhoulFireSharkLock = усиленная пылающая акула
     .desc = { ent-BaseMobGhoulLock.desc }
 
-ent-MobGhoulAshSpiritBase = ash spirit
+ent-MobGhoulAshSpiritBase = дух пепла
     .desc = Проявление пепла, оставляющее за собой вечное облако недолговечных угольков.
 
 ent-MobGhoulAshSpirit = { ent-BaseMobHereticGhoul }
     .desc = { ent-BaseMobHereticGhoul.desc }
 
-ent-MobGhoulAshSpiritLock = empowered ash spirit
+ent-MobGhoulAshSpiritLock = усиленный дух пепла
     .desc = { ent-BaseMobGhoulLock.desc }
 
 ent-MobGhoulRustWalkerBase = скиталец ржавчины

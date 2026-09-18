@@ -10,19 +10,10 @@ uplink-caseless-pistol-tranq-desc = Магазин с 10 патронами тр
 uplink-caseless-pistol-poison-name = пистолетный магазин (.25 безгильзовый, токсин)
 uplink-caseless-pistol-poison-desc = Магазин с 10 патронами ядовитых боеприпасов, снаряжёнными лексорином. Убивает за четыре выстрела и небольшое время. Используется с «Коброй».
 
-# AUTOGEN-Start
-# барабанный магазин (12 калибр)
-# AUTOGEN-End TODO(Update_Locale):
 uplink-magazine-bulldog-pellet-name-trauma = барабанный магазин (12 калибр, дробь)
 
-# AUTOGEN-Start
-# барабанный магазин (12 калибр)
-# AUTOGEN-End TODO(Update_Locale):
 uplink-magazine-bulldog-slug-name-trauma = барабанный магазин (12 калибр, пуля)
 
-# AUTOGEN-Start
-# магазин для ПП (.35 авто)
-# AUTOGEN-End TODO(Update_Locale):
 uplink-pistol-magazine-c20r-name-trauma = магазин для ПП (9 мм)
 
 uplink-speedloader-magnum-name = Спидлоадер (.45 магнум, бронебойные)

@@ -25,13 +25,9 @@ ent-HereticBladeFleshGhoul = клинок гуля
     .desc = Серповидный клинок, рожденный из искажённого плоти существа. Осторожно осознающий, он стремится распространить страдания, которые пережил из своих ужасных истоков.
     .suffix = Плоть гуля
 
-# AUTOGEN-Start
-# кровавый клинок
-# .suffix = Плоть
-# AUTOGEN-End TODO(Update_Locale):
-ent-HereticBladeFlesh = bloody blade
+ent-HereticBladeFlesh = кровавый клинок
     .desc = { ent-HereticBladeFleshBase.desc }
-    .suffix = Flesh
+    .suffix = Плоть
 
 ent-HereticBladeLock = клинок-ключ
     .desc = Клинок и ключ, ключ к чему? Какие великие врата он открывает?

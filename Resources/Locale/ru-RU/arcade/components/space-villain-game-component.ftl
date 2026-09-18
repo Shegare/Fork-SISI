@@ -8,45 +8,15 @@
 
 ## SpaceVillainGame
 
-# AUTOGEN-Start
-# Вы атакуете $enemyName на $attackAmount урона!
-# AUTOGEN-End TODO(Update_Locale):
 space-villain-game-player-attack-message = Вы атакуете {$enemyName} и наносите {$attackAmount} урона!
-# AUTOGEN-Start
-# Вы используете $magicPointAmount магии, чтобы исцелить $healAmount урона!
-# AUTOGEN-End TODO(Update_Locale):
 space-villain-game-player-heal-message = Вы тратите {$magicPointAmount} {-spacevillain-magic}, чтобы восстановить {$healAmount} {-spacevillain-health}!
-# AUTOGEN-Start
-# Вы набираете $regainedPoints очков
-# AUTOGEN-End TODO(Update_Locale):
 space-villain-game-player-recharge-message = Вы восстанавливаете {$regainedPoints} {-spacevillain-magic}!
 space-villain-game-player-wins-message = Вы победили!
-# AUTOGEN-Start
-# $enemyName умирает.
-# AUTOGEN-End TODO(Update_Locale):
 space-villain-game-enemy-dies-message = {CAPITALIZE($enemyName)} умирает.
 space-villain-game-player-loses-message = Вы проиграли!
-# AUTOGEN-Start
-# $enemyName ликует.
-# AUTOGEN-End TODO(Update_Locale):
 space-villain-game-enemy-cheers-message = {CAPITALIZE($enemyName)} ликует.
-# AUTOGEN-Start
-# $enemyName умирает, но забирает вас с собой.
-# AUTOGEN-End TODO(Update_Locale):
 space-villain-game-enemy-dies-with-player-message = {CAPITALIZE($enemyName)} умирает, но забирает вас с собой.
-# AUTOGEN-Start
-# $enemyName бросает бомбу, взрывая вас на $damageReceived урона!
-# AUTOGEN-End TODO(Update_Locale):
 space-villain-game-enemy-throws-bomb-message = {CAPITALIZE($enemyName)} бросает бомбу, взрывая вас на {$damageReceived} урона!
-# AUTOGEN-Start
-# $enemyName крадёт $stolenAmount вашей силы!
-# AUTOGEN-End TODO(Update_Locale):
 space-villain-game-enemy-steals-player-power-message = {CAPITALIZE($enemyName)} крадёт {$stolenAmount} вашей силы!
-# AUTOGEN-Start
-# $enemyName исцеляет $healedAmount здоровья!
-# AUTOGEN-End TODO(Update_Locale):
 space-villain-game-enemy-heals-message = {CAPITALIZE($enemyName)} исцеляет на {$healedAmount} {-spacevillain-health}!
-# AUTOGEN-Start
-# $enemyName атакует вас, нанося $damageDealt урона!
-# AUTOGEN-End TODO(Update_Locale):
 space-villain-game-enemy-attacks-message = {CAPITALIZE($enemyName)} атакует вас, нанося {$damageDealt} урона!

@@ -1,10 +1,6 @@
 ent-BaseVendingMachine = торговый автомат
     .desc = Просто добавь капитализма!
 
-# AUTOGEN-Start
-# торговый автомат
-# .desc = Просто добавь капитализма!
-# AUTOGEN-End TODO(Update_Locale):
 ent-VendingMachine = торговый автомат
     .desc = Просто добавь капитализма!
 

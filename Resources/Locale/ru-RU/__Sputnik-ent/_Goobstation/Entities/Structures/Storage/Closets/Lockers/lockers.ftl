@@ -1,5 +1,2 @@
-# AUTOGEN-Start
-# шкаф представителя NanoTrasen
-# AUTOGEN-End TODO(Update_Locale):
-ent-LockerNanorep = nanotrasen representative locker
+ent-LockerNanorep = шкаф представителя NanoTrasen
     .desc = { ent-LockerBase.desc }

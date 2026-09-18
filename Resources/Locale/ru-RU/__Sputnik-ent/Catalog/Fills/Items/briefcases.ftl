@@ -14,14 +14,14 @@ ent-BriefcaseThiefBribingBundleFilled = коричневый чемодан
     .suffix = Вор, Кредиты
     .desc = { ent-BriefcaseSyndie.desc }
 
-ent-BriefcaseWeaponHushpupFilled = secure hushpup case
+ent-BriefcaseWeaponHushpupFilled = охранный кейс с hushpup
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponC20Filled = secure C-20r case
+ent-BriefcaseWeaponC20Filled = охранный кейс с C-20r
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponBulldogFilled = secure Bulldog case
+ent-BriefcaseWeaponBulldogFilled = охранный кейс с Бульдогом
     .desc = { ent-BriefcaseWeapon.desc }
 
-ent-BriefcaseWeaponChinaLakeFilled = secure china lake case
+ent-BriefcaseWeaponChinaLakeFilled = охранный кейс с china lake
     .desc = { ent-BriefcaseWeapon.desc }

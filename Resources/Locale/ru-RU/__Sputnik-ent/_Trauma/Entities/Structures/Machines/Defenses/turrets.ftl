@@ -1,6 +1,3 @@
-# AUTOGEN-Start
-# .suffix = Заполнено
-# AUTOGEN-End TODO(Update_Locale):
 ent-BaseWeaponTurretRevolutionary = { ent-BaseWeaponTurretIndestructible }
     .desc = { ent-BaseWeaponTurretIndestructible.desc }
     .suffix = Заполнено

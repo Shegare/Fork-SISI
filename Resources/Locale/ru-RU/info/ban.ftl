@@ -1,9 +1,6 @@
 # ban
 cmd-ban-desc = Банит кого-либо
 # Trauma - added severity and webhook reason
-# AUTOGEN-Start
-# Использование: ban <name or user ID> <reason> [продолжительность в минутах, без указания или 0 для пермабана]
-# AUTOGEN-End TODO(Update_Locale):
 cmd-ban-help = Использование: ban <имя или ID пользователя> <причина> [продолжительность в минутах, не указывать или 0 для перманентного бана] [тяжесть] [переопределение причины вебхука]
 cmd-ban-player = Не удалось найти игрока с таким именем.
 cmd-ban-invalid-minutes = { $minutes } не является допустимым количеством минут!

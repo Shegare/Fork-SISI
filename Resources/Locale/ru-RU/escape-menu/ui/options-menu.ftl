@@ -339,17 +339,11 @@ ui-options-accessibility-header-content = Содержимое
 ui-options-enable-color-name = Цветные имена персонажей
 ui-options-colorblind-friendly = Режим для дальтоников
 
-# AUTOGEN-Start
-# Снижение интенсивности визуальных эффектов
-# AUTOGEN-End TODO(Update_Locale):
 ui-options-reduced-motion = Уменьшать общие визуальные эффекты
 ui-options-reduced-motion-tooltip = Включите, чтобы для некоторых предметов отображались альтернативные спрайты с уменьшенной анимацией.
 
 # accessibility option tooltips taken from CVar summary blocks.
 
-# AUTOGEN-Start
-# Отключить эффект статики на оверлее камеры ИИ
-# AUTOGEN-End TODO(Update_Locale):
 ui-options-disable-ai-static = Статика камеры ИИ
 ui-options-disable-ai-static-tooltip = Заменяет эффект статики камеры ИИ обычным градиентом.
 ui-options-disable-blurry-vision = Размытое зрение
@@ -360,9 +354,6 @@ ui-options-disable-flash-effect = Вспышка
 ui-options-disable-flash-effect-tooltip = Заменяет эффект «вспышки» на эквивалент с уменьшенным движением.
 ui-options-disable-heat-distortion = Искажение от жары
 ui-options-disable-heat-distortion-tooltip = Уменьшает движение в шейдере искажения от жары.
-# AUTOGEN-Start
-# Отключить эффект шума на оверлее ночного видения
-# AUTOGEN-End TODO(Update_Locale):
 ui-options-disable-nv-noise = Оверлей ночного видения
 ui-options-disable-nv-noise-tooltip = Отключает эффект шума на оверлее ночного видения.
 ui-options-disable-rainbow-overlay = Радужный оверлей

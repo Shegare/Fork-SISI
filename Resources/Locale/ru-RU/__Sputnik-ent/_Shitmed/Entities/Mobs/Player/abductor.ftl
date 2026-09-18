@@ -10,7 +10,7 @@ ent-MobAbductorScientist = абдуктор-ученый
 ent-MobAbductorAgent = абдуктор-агент
     .desc = { ent-MobAbductorAntag.desc }
 
-ent-SpawnPointAbductor = abductor spawn point
+ent-SpawnPointAbductor = спавнпоинт абдуктора
     .desc = { ent-MarkerBase.desc }
 
 ent-LoneAbductorSpawner = { ent-BaseAntagSpawner }

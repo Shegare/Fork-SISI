@@ -4,8 +4,8 @@ ent-BoxCardboard = картонная коробка
 ent-BoxCardboardSmall = маленькая картонная коробка
     .desc = Маленькая картонная коробка для хранения вещей.
 
-ent-BoxHug = box of hugs
-    .desc = A special box for sensitive people.
+ent-BoxHug = коробка объятий
+    .desc = Особая коробка для чувствительных людей.
 
 ent-BoxLightbulb = коробка с лампочками
     .desc = Внутренняя форма этой коробки сделана так, что в неё помещаются только лампы и трубки.

@@ -1,2 +1,2 @@
-ent-MachineMasterMaterialSilo = master material silo
+ent-MachineMasterMaterialSilo = главный силос материалов
     .desc = Главный силос, распределяющий загруженные материалы по всем силосам станции.

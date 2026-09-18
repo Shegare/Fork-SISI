@@ -21,9 +21,6 @@ inspect-wound-Ballistic-minor = прострелено
 inspect-wound-Ballistic-moderate = разнесено выстрелом
 inspect-wound-Ballistic-severe = усеяно пулевыми отверстиями
 
-# AUTOGEN-Start
-# покраснение
-# AUTOGEN-End TODO(Update_Locale):
 inspect-wound-Burn-minor = обожжено
 inspect-wound-Burn-moderate = покрыто волдырями
 inspect-wound-Burn-severe = кожа отслаивается

@@ -4,8 +4,8 @@ ent-CrateMaterialGlass = ящик стекла
 ent-CrateMaterialSteel = ящик стали
     .desc = 90 единиц стали.
 
-ent-CrateMaterialCloth = cloth crate
-    .desc = 90 pieces of cloth.
+ent-CrateMaterialCloth = ящик с тканью
+    .desc = 90 единиц ткани.
 
 ent-CrateMaterialPlastic = ящик пластика
     .desc = 90 единиц пластика.

@@ -4,39 +4,21 @@ ent-BaseDemon = демон
 ent-DemonAcid = демонический кислотный плевок
     .desc = { ent-BaseBullet.desc }
 
-# AUTOGEN-Start
-# странный человек
-# AUTOGEN-End TODO(Update_Locale):
 ent-MinorDemonGuy = искажённый клоун
     .desc = Что происходит, когда клоун осыпает пирогами слишком много священников. За поступки приходится отвечать.
 
-# AUTOGEN-Start
-# воплощённая зависть
-# AUTOGEN-End TODO(Update_Locale):
 ent-MinorDemonIncel = воплощённая зависть
     .desc = Адское создание, обитающее на втором слое ада и утомительно разговорчивое.
 
-# AUTOGEN-Start
-# Урист МакРуки
-# AUTOGEN-End TODO(Update_Locale):
 ent-MinorDemonUrist = грешник
     .desc = Злой человек, отправленный вечно страдать в аду.
 
-# AUTOGEN-Start
-# Гончая из плоти
-# AUTOGEN-End TODO(Update_Locale):
 ent-MinorDemonIan = гончая из плоти
     .desc = Проведя достаточно времени в аду, души начинают принимать более... первобытную форму.
 
-# AUTOGEN-Start
-# изгой
-# AUTOGEN-End TODO(Update_Locale):
 ent-MinorDemonVox = изгой
     .desc = Ненавистное даже самым отвратительным демонам существо в одиночестве странствует по планам ада.
 
-# AUTOGEN-Start
-# яростный зверь
-# AUTOGEN-End TODO(Update_Locale):
 ent-MinorDemonVulp = яростный зверь
     .desc = Доминирующий вид давно минувшей эпохи, ныне мучимый в аду за свою гордыню.
 
@@ -46,21 +28,12 @@ ent-MinorDemonCentifiend = младший центифенд
 ent-MinorDemonFlesh = жалкое плотяное существо
     .desc = Отвратительная живая масса из жира, мышечной ткани, слизи и крови. Ритуал, должно быть, каким-то образом провалился, и это несчастное существо - его результат.
 
-# AUTOGEN-Start
-# Сотнехищник
-# AUTOGEN-End TODO(Update_Locale):
 ent-MediumDemonCentifiend = центифенд
     .desc = Один из самых распространённых демонов ада, этот огромный членистоногий распространяет заразу своим укусом.
 
-# AUTOGEN-Start
-# гордый демон
-# AUTOGEN-End TODO(Update_Locale):
 ent-MediumDemonChad = гордый демон
     .desc = Он очень гордится своими усами. Раньше он гордился своей кожей...
 
-# AUTOGEN-Start
-# хеллмет
-# AUTOGEN-End TODO(Update_Locale):
 ent-MediumDemonHamlet = хеллмет
     .desc = Выведенные в аду как домашний скот, хеллметы, согласно слухам, на вкус как курица.
 
@@ -85,36 +58,21 @@ ent-MajorAngelLizard = Аспект хищничества
 ent-MajorAngelMoth = Аспект безумия
     .desc = Поглотив множество адских душ, ничтожный грешник может стать Аспектом. Моли воплощают аспект Безумия.
 
-# AUTOGEN-Start
-# бош
-# AUTOGEN-End TODO(Update_Locale):
 ent-MajorDemonBosche = боше
     .desc = Рождённый из снов безумного художника, он умеет только поглощать.
 
-# AUTOGEN-Start
-# лихорадочная птица
-# AUTOGEN-End TODO(Update_Locale):
 ent-MajorDemonFeverbird = лихорадочная птица
     .desc = У вас болит голова. Что-то не так. Слой лука один. Слой лука два. Слой лука три...
 
-# AUTOGEN-Start
-# повешенный
-# AUTOGEN-End TODO(Update_Locale):
 ent-MajorDemonHanged = повешенный
     .desc = После отправки на виселицу души преступников входят во флору ада, чтобы вернуться и отомстить.
 
-# AUTOGEN-Start
-# роевик
-# AUTOGEN-End TODO(Update_Locale):
 ent-MajorDemonHiver = хайвер
     .desc = Слабые демоны, установившие симбиотические отношения с адскими пчёлами. Да, в аду есть пчёлы, и их много.
 
 ent-BeeLaughterDemon = пчела-демон
     .desc = { ent-BeeLaughter.desc }
 
-# AUTOGEN-Start
-# паровик
-# AUTOGEN-End TODO(Update_Locale):
 ent-MajorDemonSteamer = паровик
     .desc = Паровики - демоны, рождённые из душ погибших от сварочных бомб. Их гнев проявляется как пылающее масло внутри живота.
 

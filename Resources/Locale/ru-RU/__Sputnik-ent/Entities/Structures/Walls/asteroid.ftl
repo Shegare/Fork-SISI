@@ -5,10 +5,6 @@ ent-AsteroidRock = астероидный камень
     .desc = Каменистый астероид.
     .suffix = Низкое содержание руды
 
-# AUTOGEN-Start
-# .suffix = Гибтонит
-# .desc = 
-# AUTOGEN-End TODO(Update_Locale):
 ent-BaseRockGibtonite = { ent-BaseWall }
     .desc = { ent-BaseWall.desc }
     .suffix = Гибтонит

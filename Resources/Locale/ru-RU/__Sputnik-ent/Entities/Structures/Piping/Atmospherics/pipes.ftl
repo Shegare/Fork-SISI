@@ -1,10 +1,6 @@
 ent-GasPipeSansLayersIndestructible = газовая труба
     .desc = Удерживает газ.
 
-# AUTOGEN-Start
-# газовая труба
-# .desc = Удерживает газ.
-# AUTOGEN-End TODO(Update_Locale):
 ent-GasPipeSansLayers = газовая труба
     .desc = Удерживает газ.
 

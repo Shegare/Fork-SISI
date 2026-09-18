@@ -1,10 +1,6 @@
 ent-BaseCrate = ящик
     .desc = Большой контейнер для предметов.
 
-# AUTOGEN-Start
-# ящик
-# .desc = Большой контейнер для предметов.
-# AUTOGEN-End TODO(Update_Locale):
 ent-CrateGeneric = ящик
     .desc = Большой контейнер для предметов.
 

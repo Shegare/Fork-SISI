@@ -14,9 +14,6 @@ ent-WallBrick = кирпичная стена
 ent-WallClock = заводная стена
     .desc = { ent-BaseWall.desc }
 
-# AUTOGEN-Start
-# бананиумовая стена
-# AUTOGEN-End TODO(Update_Locale):
 ent-WallClown = бананиумовая стена
     .desc = { ent-BaseWall.desc }
 

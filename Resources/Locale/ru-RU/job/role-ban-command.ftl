@@ -2,9 +2,6 @@
 
 cmd-roleban-desc = Запрещает пользователю играть на роли
 # Trauma - added severity and webhook reason
-# AUTOGEN-Start
-# Использование: roleban <name or user ID> <job> <reason> [продолжительность в минутах, не указывать или 0 для навсегда]
-# AUTOGEN-End TODO(Update_Locale):
 cmd-roleban-help = Использование: roleban <имя или ID пользователя> <должность> <причина> [продолжительность в минутах, не указывать или 0 для перманентного бана] [тяжесть] [переопределение причины вебхука]
 
 ## Completion result hints
@@ -57,7 +54,4 @@ cmd-roleban-until = до { $expires }
 # Department bans
 cmd-departmentban-desc = Запрещает пользователю играть на ролях, входящих в отдел
 # Trauma - added severity and webhook reason
-# AUTOGEN-Start
-# Использование: departmentban <name or user ID> <department> <reason> [продолжительность в минутах, не указывать или 0 для навсегда]
-# AUTOGEN-End TODO(Update_Locale):
 cmd-departmentban-help = Использование: departmentban <имя или ID пользователя> <отдел> <причина> [продолжительность в минутах, не указывать или 0 для перманентного бана] [тяжесть] [переопределение причины вебхука]
