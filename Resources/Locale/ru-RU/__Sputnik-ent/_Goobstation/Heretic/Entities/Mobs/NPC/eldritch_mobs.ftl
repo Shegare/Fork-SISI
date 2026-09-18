@@ -46,6 +46,15 @@ ent-MobGhoulFireShark = пылающая акула
 ent-MobGhoulFireSharkLock = усиленная пылающая акула
     .desc = { ent-BaseMobGhoulLock.desc }
 
+ent-MobGhoulAshSpiritBase = ash spirit
+    .desc = A manifestation of ash, trailing a perpetual cloud of short-lived cinders.
+
+ent-MobGhoulAshSpirit = { ent-BaseMobHereticGhoul }
+    .desc = { ent-BaseMobHereticGhoul.desc }
+
+ent-MobGhoulAshSpiritLock = empowered ash spirit
+    .desc = { ent-BaseMobGhoulLock.desc }
+
 ent-MobGhoulRustWalkerBase = скиталец ржавчины
     .desc = Скрежещущая, гремящая конструкция, вытягивающая жизнь из всего вокруг с каждым бронированным шагом.
 

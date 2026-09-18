@@ -70,6 +70,9 @@ ent-ArtifactCrusherMachineCircuitboard = дробитель артефактов
     .desc = Печатная плата для дробителя артефактов.
     .suffix = { ent-BaseMachineCircuitboard.suffix }
 
+ent-StationTeleporterMachineCircuitboard = teleporter machine board
+    .desc = A machine printed circuit board for a bluespace teleporter.
+
 ent-AnomalyVesselCircuitboard = сосуд аномалии (машинная плата)
     .desc = Печатная плата для сосуда аномалии.
     .suffix = { ent-BaseMachineCircuitboard.suffix }

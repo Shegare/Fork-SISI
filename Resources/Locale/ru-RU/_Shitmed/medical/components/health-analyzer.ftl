@@ -7,6 +7,12 @@ health-analyzer-window-entity-bpm-stopped-text = Остановка сердца
 condition-heart-fibrillating = • [color=orange]Сердце {$entity} фибриллирует![/color]
 condition-heart-stopped = • [color=red]Сердце {$entity} остановилось.[/color]
 
+condition-brain-oxygen-Unstable = • [color=yellow]The patient lacks air.[/color]
+condition-brain-oxygen-Dangerous = • [color=orange]The patients brain severely lacks air.[/color]
+condition-brain-oxygen-Critical = • [color=red]The patients brain starts to die off due to a lack of air.[/color]
+condition-brain-oxygen-Fatal = • [color=red]The patients brain does not receive air.[/color]
+condition-body-asphyxiation-severe = • [color=red]The patient has severe hypoxemia.[/color]
+
 # inky end
 condition-body-trauma-BoneDamage-Normal = • {$woundable} имеет очень незначительное повреждение кости.
 condition-body-trauma-BoneDamage-Damaged = • Кость {$woundable} немного повреждена.
@@ -14,7 +20,10 @@ condition-body-trauma-BoneDamage-Cracked = • Кость {$woundable} выгл�
 condition-body-trauma-BoneDamage-Broken = • Кость {$woundable} сломана!
 condition-body-trauma-OrganDamage = • {$woundable} имеет некоторые повреждения органов.
 condition-body-trauma-VeinsDamage = • {$woundable} имеет некоторые повреждения вен.
-condition-body-trauma-Dismemberment = • {$targetSymmetry}{$targetType} была удалена...
+# AUTOGEN-Start
+# • $targetSymmetry$targetType была удалена...
+# AUTOGEN-End TODO(Update_Locale):
+condition-body-trauma-Dismemberment = • The {$source} has been hacked off!
 condition-body-unrevivable = • {$entity} обладает особенно слабым организмом. Он не выдержит удара дефибриллятора.
 condition-body-bleeding = • {$entity} истекает кровью.
 

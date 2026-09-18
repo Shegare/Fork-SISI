@@ -1,24 +1,39 @@
 ent-BaseFenceWood = деревянный забор
     .desc = Часть деревянного забора. Надеюсь, за ним находится бабушкин сад.
 
+ent-BaseFenceWoodHigh = { ent-BaseFenceWood }
+    .desc = { ent-BaseFenceWood.desc }
+
 ent-BaseFenceWoodSmall = небольшой деревянный забор
     .desc = Часть небольшого деревянного забора. Лучшее средство для ограждения частной территории!
 
-ent-FenceWoodHighStraight = { ent-BaseFenceWood }
-    .suffix = Прямой
-    .desc = { ent-BaseFenceWood.desc }
+# AUTOGEN-Start
+# .suffix = Прямой
+# AUTOGEN-End TODO(Update_Locale):
+ent-FenceWoodHighStraight = { ent-BaseFenceWoodHigh }
+    .desc = { ent-BaseFenceWoodHigh.desc }
+    .suffix = Straight
 
-ent-FenceWoodHighEnd = { ent-BaseFenceWood }
-    .suffix = Конец
-    .desc = { ent-BaseFenceWood.desc }
+# AUTOGEN-Start
+# .suffix = Конец
+# AUTOGEN-End TODO(Update_Locale):
+ent-FenceWoodHighEnd = { ent-BaseFenceWoodHigh }
+    .desc = { ent-BaseFenceWoodHigh.desc }
+    .suffix = End
 
-ent-FenceWoodHighCorner = { ent-BaseFenceWood }
-    .suffix = Угол
-    .desc = { ent-BaseFenceWood.desc }
+# AUTOGEN-Start
+# .suffix = Угол
+# AUTOGEN-End TODO(Update_Locale):
+ent-FenceWoodHighCorner = { ent-BaseFenceWoodHigh }
+    .desc = { ent-BaseFenceWoodHigh.desc }
+    .suffix = Corner
 
-ent-FenceWoodHighTJunction = { ent-BaseFenceWood }
-    .suffix = Т-образный
-    .desc = { ent-BaseFenceWood.desc }
+# AUTOGEN-Start
+# .suffix = Т-образный
+# AUTOGEN-End TODO(Update_Locale):
+ent-FenceWoodHighTJunction = { ent-BaseFenceWoodHigh }
+    .desc = { ent-BaseFenceWoodHigh.desc }
+    .suffix = T-Junction
 
 ent-FenceWoodHighGate = ворота деревянного забора
     .desc = Имеешь ли ты представление, что ждёт тебя за этими воротами? Это может быть как туалет, так и роскошный особняк. А ты продолжай любить своих эмобоев.

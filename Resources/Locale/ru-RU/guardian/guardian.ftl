@@ -15,7 +15,10 @@ guardian-injector-empty-examine = [color=#ba1919]Инъектор пуст.[/col
 ## Guardian deck specific
 
 guardian-deck-invalid-creation = Колода может предоставить только одного стража за раз!
-guardian-deck-used-examine = [color=#ba1919]Печать колоды нарушена.[/color]
+# AUTOGEN-Start
+# [color=#ba1919]Печать колоды нарушена.[/color]
+# AUTOGEN-End TODO(Update_Locale):
+guardian-deck-used-examine = [color=#ba1919]The deck's magic has been used up.[/color]
 
 ## Guardian entity specific
 

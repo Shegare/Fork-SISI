@@ -1,5 +1,12 @@
-ent-VendingMachine = торговый автомат
-    .desc = Просто добавь капитализма!
+ent-BaseVendingMachine = vending machine
+    .desc = Just add capitalism!
+
+# AUTOGEN-Start
+# торговый автомат
+# .desc = Просто добавь капитализма!
+# AUTOGEN-End TODO(Update_Locale):
+ent-VendingMachine = { ent-BaseVendingMachine }
+    .desc = { ent-BaseVendingMachine.desc }
 
 ent-VendingMachineWallmount = торговый автомат
     .desc = { ent-VendingMachine.desc }

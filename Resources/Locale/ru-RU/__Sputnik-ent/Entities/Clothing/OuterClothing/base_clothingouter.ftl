@@ -4,11 +4,20 @@ ent-ClothingOuterBase = { ent-Clothing }
 ent-ClothingOuterBaseLarge = { ent-ClothingOuterBase }
     .desc = { ent-ClothingOuterBase.desc }
 
+ent-ClothingOuterBaseLargeInsulated = { ent-ClothingOuterBaseLarge }
+    .desc = { ent-ClothingOuterBaseLarge.desc }
+
+ent-ClothingOuterBaseLargeFireproof = { ent-ClothingOuterBaseLarge }
+    .desc = { ent-ClothingOuterBaseLarge.desc }
+
 ent-ClothingOuterStorageBase = { ent-ClothingOuterBase }
     .desc = { ent-ClothingOuterBase.desc }
 
 ent-ClothingOuterStorageEdible = { ent-SolutionFood }
     .desc = { ent-SolutionFood.desc }
+
+ent-ClothingOuterJacketBase = { ent-ClothingOuterStorageEdible }
+    .desc = { ent-ClothingOuterStorageEdible.desc }
 
 ent-ClothingOuterStorageFoldableBase = { ent-ClothingOuterStorageBase }
     .desc = { ent-ClothingOuterStorageBase.desc }
@@ -17,14 +26,14 @@ ent-ClothingOuterStorageFoldableBaseOpened = { ent-ClothingOuterStorageFoldableB
     .suffix = Открытый
     .desc = { ent-ClothingOuterStorageFoldableBase.desc }
 
-ent-ClothingOuterStorageToggleableBase = { ent-ClothingOuterStorageBase }
-    .desc = { ent-ClothingOuterStorageBase.desc }
-
-ent-ClothingOuterHardsuitBase = base hardsuit
-    .desc = { ent-ClothingOuterBase.desc }
+ent-ClothingOuterJacketToggleableBase = { ent-ClothingOuterJacketBase }
+    .desc = { ent-ClothingOuterJacketBase.desc }
 
 ent-ClothingOuterEVASuitBase = base EVA Suit
-    .desc = { ent-ClothingOuterBase.desc }
+    .desc = { ent-ClothingOuterBaseLargeInsulated.desc }
+
+ent-ClothingOuterHardsuitBase = base hardsuit
+    .desc = { ent-ClothingOuterEVASuitBase.desc }
 
 ent-ClothingOuterEVASuitBaseToggleable = { ent-ClothingOuterEVASuitBase }
     .desc = { ent-ClothingOuterEVASuitBase.desc }

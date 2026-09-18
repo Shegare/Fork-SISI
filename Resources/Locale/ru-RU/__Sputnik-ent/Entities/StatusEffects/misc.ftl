@@ -16,6 +16,21 @@ ent-StatusEffectForcedSleeping = принудительный сон
 ent-StatusEffectSSDSleeping = принудительный сон
     .desc = { ent-MobStatusEffectBase.desc }
 
+ent-StatusEffectPressureImmunity = pressure immunity
+    .desc = { ent-MobStatusEffectBase.desc }
+
+ent-MutedStatusEffectBase = muted
+    .desc = { ent-MobStatusEffectBase.desc }
+
+ent-StatusEffectMuted = { ent-MutedStatusEffectBase }
+    .desc = { ent-MutedStatusEffectBase.desc }
+
+ent-StatusEffectMimeMuted = { ent-MutedStatusEffectBase }
+    .desc = { ent-MutedStatusEffectBase.desc }
+
+ent-StatusEffectVentriloquistPuppetMuted = { ent-MutedStatusEffectBase }
+    .desc = { ent-MutedStatusEffectBase.desc }
+
 ent-StatusEffectDrowsiness = сонливость
     .desc = { ent-MobStatusEffectDebuff.desc }
 

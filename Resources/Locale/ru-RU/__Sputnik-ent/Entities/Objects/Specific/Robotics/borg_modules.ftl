@@ -139,8 +139,12 @@ ent-BorgModuleAdvancedClowning = продвинутый клоунский мо�
 ent-BorgModuleSyndicateWeapon = оружейный модуль киборга
     .desc = { ent-BaseBorgModule.desc }
 
-ent-BorgModuleOperative = оперативный модуль киборга
-    .desc = Модуль, оснащённый парой синдикатских гидравлических ножниц, Эмагом, взломщиком доступа и синдикатским пинпоинтером.
+# AUTOGEN-Start
+# оперативный модуль киборга
+# .desc = Модуль, оснащённый парой синдикатских гидравлических ножниц, Эмагом, взломщиком доступа и синдикатским пинпоинтером.
+# AUTOGEN-End TODO(Update_Locale):
+ent-BorgModuleOperative = operative cyborg module
+    .desc = A module that comes with a pair of syndicate jaws of life, an Access Breaker and a syndicate pinpointer.
 
 ent-BorgModuleEsword = модуль киборга с энергетическим мечом
     .desc = Оружейный модуль, оснащённый энергетическим мечом.
@@ -172,11 +176,23 @@ ent-XenoborgModuleAccessBreaker = модуль ксеноборга со взл�
 ent-XenoborgModuleFireExtinguisher = модуль ксеноборга с огнетушителем
     .desc = Модуль с самозаправляющимся огнетушителем.
 
+ent-XenoborgModuleDeflectorField = deflector field xenoborg module
+    .desc = Module with a self-recharging deflector field projector.
+
 ent-XenoborgModuleDoorControl = модуль ксеноборга для управления дверьми
     .desc = Модуль, позволяющий ксеноборгам управлять шлюзами.
 
 ent-XenoborgModuleTileGun = модуль ксеноборга с плиточной пушкой
     .desc = Модуль с плиточной пушкой. Стоп, с чем?
+
+ent-XenoborgModuleZap = zap xenoborg module
+    .desc = Module that disables the grounding of the xenoborg, making them electrified. Shocking!
+
+ent-XenoborgModuleOilGun = oil gun xenoborg module
+    .desc = Module with a gun that shoots ampoules filled with flammable oil.
+
+ent-XenoborgModuleNaniteGun = nanite gun xenoborg module
+    .desc = Module that allows Xenoborgs to have a crystal firing nanite gun.
 
 ent-XenoborgModuleJammer = модуль ксеноборга с глушителем
     .desc = Модуль с глушителем связи.
@@ -186,6 +202,12 @@ ent-XenoborgModuleLaser = модуль ксеноборга с лазером
 
 ent-XenoborgModuleHeavyLaser = модуль ксеноборга с лазерной пушкой
     .desc = Модуль с лазерной пушкой.
+
+ent-XenoborgModuleBurstFireLaser = burst fire laser xenoborg module
+    .desc = Module with a burst fire incendiary laser.
+
+ent-XenoborgModuleHeavyRadioactive = radioactive xenoborg module
+    .desc = Module that causes a xenoborg to emanate radioactive energy.
 
 ent-XenoborgModuleSpaceMovement = модуль ксеноборга для передвижения в космосе
     .desc = Модуль, помогающий ксеноборгу лучше передвигаться в космосе.

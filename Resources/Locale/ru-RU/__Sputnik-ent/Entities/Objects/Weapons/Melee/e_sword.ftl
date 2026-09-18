@@ -24,6 +24,9 @@ ent-EnergySwordDoubleBase = двухклинковый энергетическ�
 ent-EnergySwordDouble = { ent-EnergySwordDoubleBase }
     .desc = { ent-EnergySwordDoubleBase.desc }
 
+ent-HyperEutacticBlade = hypereutactic-blade
+    .desc = A supermassive weapon envisioned to cleave the very fabric of space and time itself in twain, the hypereutactic blade dynamically flash-forges a hypereutactic crystaline nanostructure capable of passing through most known forms of matter like a hot knife through butter.
+
 ent-CyborgEnergySword = { ent-EnergySword }
     .desc = Очень громкий и опасный меч с лезвием из чистой концентрированной плазмы. Специально разработан для киборгов Синдиката.
     .suffix = Для боргов

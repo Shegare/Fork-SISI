@@ -3,6 +3,7 @@ role-subtype-shadow-demon = Демон тени
 role-subtype-morph = Морф
 role-subtype-fugitive = Беглец
 role-subtype-hunter = Охотник
+role-subtype-spy = Spy
 
 role-type-animal-name = Животное
 role-type-animal-color = #51dd26

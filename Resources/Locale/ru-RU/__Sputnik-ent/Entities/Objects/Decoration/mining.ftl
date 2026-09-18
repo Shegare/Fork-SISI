@@ -4,14 +4,20 @@ ent-WoodenSign = деревянный знак
 ent-WoodenSignRight = { ent-WoodenSign }
     .desc = { ent-WoodenSign.desc }
 
+ent-BaseWoodenSupport = { ent-BaseStructure }
+    .desc = { ent-BaseStructure.desc }
+
 ent-WoodenSupport = деревянная опора
     .desc = Повышает уверенность в том, что камень не свалится на голову.
 
-ent-WoodenSupportBeam = деревянная опорная балка
-    .desc = { ent-WoodenSupport.desc }
+# AUTOGEN-Start
+# деревянная опорная балка
+# AUTOGEN-End TODO(Update_Locale):
+ent-WoodenSupportBeam = wooden support beam
+    .desc = { ent-BaseWoodenSupport.desc }
 
 ent-WoodenSupportWall = деревянная опорная стена
     .desc = Старая, гнилая стена.
 
-ent-WoodenSupportWallBroken = { ent-WoodenSupportWall }
-    .desc = { ent-WoodenSupportWall.desc }
+ent-WoodenSupportWallBroken = { ent-BaseWoodenSupport }
+    .desc = { ent-BaseWoodenSupport.desc }

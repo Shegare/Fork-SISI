@@ -1,3 +1,16 @@
-dice-component-on-examine-message-part-1 = Кость c [color=lightgray]{ $sidesAmount }[/color] сторонами.
-dice-component-on-examine-message-part-2 = Она приземлилась на [color=white]{ $currentSide }[/color].
-dice-component-on-roll-land = { CAPITALIZE($die) } приземляется на { $currentSide }.
+# AUTOGEN-Start
+# Кость c [color=lightgray]$sidesAmount[/color] сторонами.
+# AUTOGEN-End TODO(Update_Locale):
+dice-component-on-examine-message-part-1 = A {$name} with [color=lightgray]{$sidesAmount}[/color] sides.
+# AUTOGEN-Start
+# {CAPITALIZE($die)} приземляется на $currentSide.
+# AUTOGEN-End TODO(Update_Locale):
+dice-component-on-roll-land = { CAPITALIZE(THE($die)) } lands on {$currentSide}.
+
+dice-component-type-die = die
+
+dice-component-roll-generic = It has landed on a [color=white]{$currentSide}[/color].
+dice-component-roll-specific = It has landed on [color=white]{$currentSide}[/color].
+
+dice-component-coin-value-1 = heads
+dice-component-coin-value-2 = tails

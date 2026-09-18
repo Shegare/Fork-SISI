@@ -1,8 +1,12 @@
 ent-ReinforcedPlasmaWindow = плазменное бронеокно
     .desc = { ent-WindowRCDResistant.desc }
 
-ent-PlasmaReinforcedWindowDirectional = направленное плазменное бронеокно
-    .desc = Смотри, не заляпай.
+# AUTOGEN-Start
+# направленное плазменное бронеокно
+# .desc = Смотри, не заляпай.
+# AUTOGEN-End TODO(Update_Locale):
+ent-PlasmaReinforcedWindowDirectional = directional reinforced plasma window
+    .desc = { ent-BaseDeltaPressureReinforcedPlasmaQuarter.desc }
 
 ent-ReinforcedPlasmaWindowDiagonal = { ent-ReinforcedPlasmaWindow }
     .suffix = Диагональ

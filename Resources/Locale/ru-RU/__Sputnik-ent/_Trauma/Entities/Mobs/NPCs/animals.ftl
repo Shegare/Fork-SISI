@@ -83,3 +83,6 @@ ent-SolutionMouseBites = { ent-SolutionWeapon }
 
 ent-SolutionClownSpider = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
+
+ent-MobBabySpider = baby spider
+    .desc = A growing spider, better deal with it before it gets big.

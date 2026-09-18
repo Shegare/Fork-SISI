@@ -1,5 +1,6 @@
 store-category-security = Безопасность
 store-category-specialists = Спецназовцы
+store-category-bioweapons = Bioweaponry
 
 store-category-service = Сервис
 store-category-engineering = Инженерия

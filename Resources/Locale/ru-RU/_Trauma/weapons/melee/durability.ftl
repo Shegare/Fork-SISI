@@ -86,3 +86,7 @@ durability-drill-0 = Сверло начинает тупиться.
 durability-drill-1 = Сверло полностью затупилось.
 durability-drill-2 = Сверло почти бесполезно.
 durability-drill-3 = Сверло нужно заменить.
+
+durability-nettle-0 = Some leaves fall off the death nettle.
+durability-nettle-1 = More leaves fall off the death nettle.
+durability-nettle-2 = The death nettle is now bare and useless.

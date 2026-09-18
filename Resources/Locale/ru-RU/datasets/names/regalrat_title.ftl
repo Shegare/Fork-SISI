@@ -8,7 +8,10 @@ names-regal-rat-title-dataset-7 = Мастер
 names-regal-rat-title-dataset-8 = Сёгун
 names-regal-rat-title-dataset-9 = Боярин
 names-regal-rat-title-dataset-10 = Царь
-names-regal-rat-title-dataset-11 = Фанат #vs
+# AUTOGEN-Start
+# Фанат #vs
+# AUTOGEN-End TODO(Update_Locale):
+names-regal-rat-title-dataset-11 = Fan
 names-regal-rat-title-dataset-12 = Ценитель
 names-regal-rat-title-dataset-13 = Президент
 names-regal-rat-title-dataset-14 = Мэр

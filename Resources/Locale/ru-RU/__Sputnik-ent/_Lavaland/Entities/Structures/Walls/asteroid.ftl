@@ -1,12 +1,17 @@
-ent-WallRockGibtonite = { ent-BaseRockGibtonite }
+ent-WallRockGibtonite = rock
     .desc = { ent-BaseRockGibtonite.desc }
-ent-WallRockBasaltGibtonite = { ent-BaseRockGibtonite }
+
+ent-WallRockBasaltGibtonite = basalt
     .desc = { ent-BaseRockGibtonite.desc }
-ent-WallRockSnowGibtonite = { ent-BaseRockGibtonite }
+
+ent-WallRockSnowGibtonite = snowdrift
     .desc = { ent-BaseRockGibtonite.desc }
-ent-WallRockSandGibtonite = { ent-BaseRockGibtonite }
+
+ent-WallRockSandGibtonite = sandstone
     .desc = { ent-BaseRockGibtonite.desc }
-ent-WallRockChromiteGibtonite = { ent-BaseRockGibtonite }
+
+ent-WallRockChromiteGibtonite = chromite
     .desc = { ent-BaseRockGibtonite.desc }
-ent-WallRockAndesiteGibtonite = { ent-BaseRockGibtonite }
+
+ent-WallRockAndesiteGibtonite = andesite
     .desc = { ent-BaseRockGibtonite.desc }

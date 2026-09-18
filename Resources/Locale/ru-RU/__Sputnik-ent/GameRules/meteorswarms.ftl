@@ -42,3 +42,9 @@ ent-PotatoSwarm = { ent-MeteorSwarm }
 
 ent-FunSwarm = { ent-MeteorSwarm }
     .desc = { ent-MeteorSwarm.desc }
+
+ent-MeteorSwarmFlesh = { ent-MeteorSwarm }
+    .desc = { ent-MeteorSwarm.desc }
+
+ent-MeteorSwarmKudzu = { ent-MeteorSwarm }
+    .desc = { ent-MeteorSwarm.desc }

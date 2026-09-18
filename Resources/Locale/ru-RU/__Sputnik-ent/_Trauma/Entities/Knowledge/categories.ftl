@@ -1,9 +1,6 @@
 ent-BaseMedicalKnowledge = { ent-BaseKnowledge }
     .desc = { ent-BaseKnowledge.desc }
 
-ent-BasePhysicalKnowledge = { ent-BaseKnowledge }
-    .desc = { ent-BaseKnowledge.desc }
-
 ent-BaseWarKnowledge = { ent-BaseKnowledge }
     .desc = { ent-BaseKnowledge.desc }
 

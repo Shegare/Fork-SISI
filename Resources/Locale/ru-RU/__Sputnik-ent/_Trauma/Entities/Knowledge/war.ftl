@@ -7,11 +7,11 @@ ent-MeleeKnowledge = Обучение Безоружному Бою
 ent-KnowledgeWeaponsBludgeon = Обучение Дробящему Оружию
     .desc = Размахивание тяжёлыми дубинками, битами и прочим очень быстро причиняет боль вашим врагам.
 
-ent-KnowledgeWeaponsKnife = Обучение Ножевому Бою
-    .desc = Эффективное использование ножей и других малых клинков требует быстрых и мощных колющих и режущих ударов.
+ent-KnowledgeWeaponsShortBlade = Short Blade Training
+    .desc = Using knives and other small blades effectively needs quick and powerful stabs and cuts.
 
-ent-KnowledgeWeaponsSword = Обучение Владению Мечом
-    .desc = Крупные клинки лучше всего использовать, нанося колющие и режущие удары по врагам, с достаточным весом даже для парирования атак.
+ent-KnowledgeWeaponsLongBlade = Long Blade Training
+    .desc = Large blades are best used by stabbing and slashing your enemies, with enough heft to even parry attacks.
 
 ent-KnowledgeWeaponsPolearm = Обучение Владению Древковым Оружием
     .desc = Человечество начало насаживать острые предметы на палки десятки тысяч лет назад. Пронзайте врагов мощными выпадами.
@@ -22,6 +22,12 @@ ent-KnowledgeWeaponsNonLethal = Обучение Нелетальному Ору
 ent-KnowledgeWeaponsTool = Обучение Бою Инструментами
     .desc = Большинство обывателей думают, что легко сражаться кусторезами и гвоздезабивателями, но настоящий работяга знает в этом секрет.
 
+ent-KnowledgeWeaponsShield = Shield Training
+    .desc = Allows you to parry and block damage better with shields.
+
+ent-KnowledgeWeaponsEnergy = Energy Weapon Training
+    .desc = Modern energy weapons are highly dangerous and unintuitive, it takes lots of training to use them correctly.
+
 ent-BaseKnowledgeWeaponsRanged = { ent-BaseWarKnowledge }
     .desc = { ent-BaseWarKnowledge.desc }
 
@@ -31,14 +37,25 @@ ent-ShootingKnowledge = Меткая Стрельба
 ent-KnowledgeWeaponsPistol = Обучение Владению Пистолетом
     .desc = Насколько хорошо вы обращаетесь с одноручным баллистическим оружием. В основном с магазинами и барабанами револьверов.
 
-ent-KnowledgeWeaponsRifle = Обучение Владению Винтовкой
-    .desc = Насколько хорошо вы обращаетесь с баллистическим длинноствольным оружием, таким как штурмовые винтовки и мосинки.
+# AUTOGEN-Start
+# Обучение Владению Винтовкой
+# .desc = Насколько хорошо вы обращаетесь с баллистическим длинноствольным оружием, таким как штурмовые винтовки и мосинки.
+# AUTOGEN-End TODO(Update_Locale):
+ent-KnowledgeWeaponsRifle = Longarm Training
+    .desc = How good you are with ballistic long arms like assault rifles and mosins.
+
+ent-KnowledgeWeaponsSMG = SMG Training
+    .desc = How good you are with ballistic sub machine guns.
 
 ent-KnowledgeWeaponsShotgun = Обучение Владению Дробовиком
     .desc = Знаете, почему я использую дробовик? Дробовик не промахивается.
 
-ent-KnowledgeWeaponsSniper = Обучение Снайперской Стрельбе
-    .desc = Насколько хорошо вы можете снайперить, используя винтовку с прицелом на дальней дистанции. 🦋
+# AUTOGEN-Start
+# Обучение Снайперской Стрельбе
+# .desc = Насколько хорошо вы можете снайперить, используя винтовку с прицелом на дальней дистанции. 🦋
+# AUTOGEN-End TODO(Update_Locale):
+ent-KnowledgeWeaponsSniper = Sniper Training
+    .desc = How well you can snipe using a scoped rifle at long range.
 
 ent-KnowledgeWeaponsHeavy = Обучение Тяжёлому Оружию
     .desc = Я — специалист по тяжёлому оружию... а это — моё тяжёлое оружие.
@@ -48,3 +65,6 @@ ent-KnowledgeWeaponsLaser = Обучение Лазерному Оружию
 
 ent-KnowledgeWeaponsMining = Обучение Горнодобывающему Оружию
     .desc = Насколько хорошо вы обращаетесь с горнодобывающим оружием, от модифицированных ПКА до простой кирки.
+
+ent-ThrowingKnowledge = Throwing
+    .desc = Makes you throw items faster and with more precision.

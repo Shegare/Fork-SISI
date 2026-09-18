@@ -72,9 +72,12 @@ ent-ChemistryBottleDiphenhydramine = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }
     .suffix = Дифенгидрамин
 
+# AUTOGEN-Start
+# .suffix = Метамфетамин
+# AUTOGEN-End TODO(Update_Locale):
 ent-ChemistryBottleDiphenylmethylamine = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }
-    .suffix = Метамфетамин
+    .suffix = diphenylmethylamine
 
 ent-ChemistryBottleDoxarubixadone = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }

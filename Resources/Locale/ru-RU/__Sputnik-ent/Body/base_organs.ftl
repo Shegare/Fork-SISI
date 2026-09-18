@@ -4,11 +4,17 @@ ent-OrganBase = орган
 ent-OrganBaseOrganic = орган
     .desc = { ent-OrganBaseFleshy.desc }
 
-ent-OrganBaseTorso = торс
-    .desc = { ent-OrganBaseExternal.desc }
+# AUTOGEN-Start
+# торс
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseTorso = torso
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseHead = голова
-    .desc = { ent-OrganBaseExternal.desc }
+# AUTOGEN-Start
+# голова
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseHead = head
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseArmLeft = левая рука
     .desc = { ent-OrganBaseArm.desc }
@@ -34,41 +40,71 @@ ent-OrganBaseFootLeft = левая стопа
 ent-OrganBaseFootRight = правая стопа
     .desc = { ent-OrganBaseFoot.desc }
 
-ent-OrganBaseBrain = мозг
-    .desc = { ent-OrganBaseInternal.desc }
+# AUTOGEN-Start
+# мозг
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseBrain = brain
+    .desc = { ent-BaseKnowledgeContainer.desc }
 
-ent-OrganBaseEyes = глаза
-    .desc = { ent-OrganBaseInternal.desc }
+# AUTOGEN-Start
+# глаза
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseEyes = eyes
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseTongue = язык
-    .desc = { ent-OrganBaseInternal.desc }
+# AUTOGEN-Start
+# язык
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseTongue = tongue
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseAppendix = аппендикс
-    .desc = { ent-OrganBaseInternal.desc }
+# AUTOGEN-Start
+# аппендикс
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseAppendix = appendix
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseEars = уши
-    .desc = { ent-OrganBaseInternal.desc }
+# AUTOGEN-Start
+# уши
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseEars = ears
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseLungs = лёгкие
-    .desc = { ent-OrganBaseInternal.desc }
+# AUTOGEN-Start
+# лёгкие
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseLungs = lungs
+    .desc = { ent-OrganBase.desc }
 
 ent-SolutionLungGas = { ent-Solution }
     .desc = { ent-Solution.desc }
 
-ent-OrganBaseHeart = сердце
-    .desc = { ent-OrganBaseInternal.desc }
+# AUTOGEN-Start
+# сердце
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseHeart = heart
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseStomach = желудок
-    .desc = { ent-OrganBaseInternal.desc }
+# AUTOGEN-Start
+# желудок
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseStomach = stomach
+    .desc = { ent-OrganBase.desc }
 
 ent-SolutionStomach = { ent-Solution }
     .desc = { ent-Solution.desc }
 
-ent-OrganBaseLiver = печень
-    .desc = { ent-OrganBaseInternal.desc }
+# AUTOGEN-Start
+# печень
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseLiver = liver
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseKidneys = почки
-    .desc = { ent-OrganBaseInternal.desc }
+# AUTOGEN-Start
+# почки
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseKidneys = kidneys
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganSpriteHumanInternal = { "" }
     .desc = { "" }
@@ -78,3 +114,12 @@ ent-OrganBaseHeadSexed = голова
 
 ent-OrganBaseTorsoSexed = торс
     .desc = { "" }
+
+ent-OrganBaseParent = { ent-OrganBase }
+    .desc = { ent-OrganBase.desc }
+
+ent-OrganBaseChildExternal = { ent-OrganBaseExternal }
+    .desc = { ent-OrganBaseExternal.desc }
+
+ent-OrganBaseChildInternal = { ent-OrganBase }
+    .desc = { ent-OrganBase.desc }

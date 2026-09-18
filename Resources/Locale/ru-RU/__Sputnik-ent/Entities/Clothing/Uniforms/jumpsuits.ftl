@@ -229,6 +229,9 @@ ent-ClothingUniformJumpsuitAtmosCasual = повседневный комбине
 ent-ClothingUniformJumpsuitPsychologist = костюм психолога
     .desc = Я не теряю вещи. Я кладу вещи в места, которые впоследствии от меня ускользают.
 
+ent-ClothingUniformJumpsuitTramDriver = tram driver jumpsuit
+    .desc = Perfectly ironed, for well-prepared professionals.
+
 ent-ClothingUniformJumpsuitReporter = костюм репортёра
     .desc = Хороший репортёр всю жизнь остаётся скептиком.
 

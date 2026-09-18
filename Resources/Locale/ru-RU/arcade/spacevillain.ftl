@@ -1,6 +1,26 @@
+# SPDX-FileCopyrightText: 2021 Visne <39844191+Visne@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+#
+# SPDX-License-Identifier: MIT
+
 spacevillain-menu-title = Космический злодей
 spacevillain-menu-label-player = Игрок
-spacevillain-menu-button-attack = АТАКА
-spacevillain-menu-button-heal = ЛЕЧЕНИЕ
-spacevillain-menu-button-recharge = ПЕРЕЗАРЯДКА
+spacevillain-menu-label-enemy = Villain
+spacevillain-menu-label-health = {$amount} {-spacevillain-health}
+spacevillain-menu-label-magic = {$amount} {-spacevillain-magic}
+# AUTOGEN-Start
+# АТАКА
+# AUTOGEN-End TODO(Update_Locale):
+spacevillain-menu-button-attack = Attack
+# AUTOGEN-Start
+# ЛЕЧЕНИЕ
+# AUTOGEN-End TODO(Update_Locale):
+spacevillain-menu-button-heal = Heal
+# AUTOGEN-Start
+# ПЕРЕЗАРЯДКА
+# AUTOGEN-End TODO(Update_Locale):
+spacevillain-menu-button-recharge = Recharge
 spacevillain-menu-button-new-game = Новая игра
+
+-spacevillain-health = HP
+-spacevillain-magic = MP

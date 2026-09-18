@@ -18,13 +18,20 @@ ent-HereticBladeBlade = раздробленный клинок
     .desc = Доблестный клинок, раздробленный и разорванный. Яростно клинок режет. Серебряные шрамы навсегда связывают его с его тёмной целью.
     .suffix = Клинок
 
+ent-HereticBladeFleshBase = { ent-HereticBladeBaseNoTeleport }
+    .desc = A crescent blade born from a fleshwarped creature. Keenly aware, it seeks to spread to others the suffering it has endured from its dreadful origins.
+
 ent-HereticBladeFleshGhoul = клинок гуля
     .desc = Серповидный клинок, рожденный из искажённого плоти существа. Осторожно осознающий, он стремится распространить страдания, которые пережил из своих ужасных истоков.
     .suffix = Плоть гуля
 
-ent-HereticBladeFlesh = кровавый клинок
-    .suffix = Плоть
-    .desc = { ent-HereticBladeFleshGhoul.desc }
+# AUTOGEN-Start
+# кровавый клинок
+# .suffix = Плоть
+# AUTOGEN-End TODO(Update_Locale):
+ent-HereticBladeFlesh = bloody blade
+    .desc = { ent-HereticBladeFleshBase.desc }
+    .suffix = Flesh
 
 ent-HereticBladeLock = клинок-ключ
     .desc = Клинок и ключ, ключ к чему? Какие великие врата он открывает?

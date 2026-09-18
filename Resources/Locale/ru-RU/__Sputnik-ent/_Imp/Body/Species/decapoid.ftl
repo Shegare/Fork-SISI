@@ -1,5 +1,8 @@
-ent-AppearanceDecapoid = внешность декаподов
-    .desc = { ent-BaseSpeciesAppearance.desc }
+# AUTOGEN-Start
+# внешность декаподов
+# AUTOGEN-End TODO(Update_Locale):
+ent-AppearanceDecapoid = Decapoid appearance
+    .desc = { ent-BaseSpeciesAppearanceDecapoid.desc }
 
 ent-MobDecapoid = Урист МакКраб
     .desc = { ent-AppearanceDecapoid.desc }

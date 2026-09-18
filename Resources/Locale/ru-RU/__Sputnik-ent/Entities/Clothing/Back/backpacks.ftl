@@ -79,8 +79,15 @@ ent-ClothingBackpackDeathSquad = рюкзак Эскадрона Смерти
 ent-ClothingBackpackSyndicate = рюкзак Синдиката
     .desc = { "" }
 
-ent-ClothingBackpackHolding = бездонный рюкзак
-    .desc = Рюкзак, открывающийся в локальный карман блюспейса.
+ent-ClothingBackpackHoldingBase = { ent-ClothingBackpack }
+    .desc = { ent-ClothingBackpack.desc }
+
+# AUTOGEN-Start
+# бездонный рюкзак
+# .desc = Рюкзак, открывающийся в локальный карман блюспейса.
+# AUTOGEN-End TODO(Update_Locale):
+ent-ClothingBackpackHolding = backpack of holding
+    .desc = A backpack that opens into a localized pocket of bluespace.
 
 ent-ClothingBackpackCluwne = трясушкин фон трясхертон
     .desc = Это рюкзак, изготовленный компанией "Jonk! Co".

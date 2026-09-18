@@ -1,474 +1,474 @@
-ent-PaintingMonkey = картина обезьяны
-    .desc = Отвергни эволюцию, стань манки.
+ent-PaintingMonkey = monkey painting
+    .desc = Return to monky.
 
 ent-BaseSignDirectional = { ent-BaseSign }
     .desc = { ent-BaseSign.desc }
 
-ent-SignDirectionalAtmos = знак "атмос"
-    .desc = Указатель в сторону атмосферного отсека.
+ent-SignDirectionalAtmos = atmos sign
+    .desc = A direction sign, pointing out which way the Atmospherics department is.
 
-ent-SignDirectionalBar = знак "бар"
-    .desc = Указатель в сторону бара.
+ent-SignDirectionalBar = bar sign
+    .desc = A direction sign, pointing out which way the bar is.
 
-ent-SignDirectionalBridge = знак "мостик"
-    .desc = Указатель в сторону капитанского мостика.
+ent-SignDirectionalBridge = bridge sign
+    .desc = A direction sign, pointing out which way the Bridge is.
 
-ent-SignDirectionalBrig = знак "бриг"
-    .desc = Указатель в сторону брига.
+ent-SignDirectionalBrig = brig sign
+    .desc = A direction sign, pointing out which way the Brig is.
 
-ent-SignDirectionalChapel = знак "храм"
-    .desc = Указатель в сторону церкви.
+ent-SignDirectionalChapel = chapel sign
+    .desc = A direction sign, pointing out which way the Chapel is.
 
-ent-SignDirectionalChemistry = знак "химлаб"
-    .desc = Указатель в сторону химической лаборатории.
+ent-SignDirectionalChemistry = chemistry sign
+    .desc = A direction sign, pointing out which way the chemistry lab is.
 
-ent-SignDirectionalCryo = знак "крио"
-    .desc = Указатель в сторону отдела криогеники.
+ent-SignDirectionalCryo = cryo sign
+    .desc = A direction sign, pointing out the way to cryogenics.
 
-ent-SignDirectionalDorms = знак "жилой отсек"
-    .desc = Указатель в сторону жилого отсека.
+ent-SignDirectionalDorms = dorms sign
+    .desc = A direction sign, pointing out which way the Dorms are.
 
-ent-SignDirectionalEng = знак "инженерный отдел"
-    .desc = Указатель в сторону инженерного отдела.
+ent-SignDirectionalEng = engineering sign
+    .desc = A direction sign, pointing out which way the Engineering department is.
 
-ent-SignDirectionalEvac = знак "эвакуация"
-    .desc = Указатель в сторону эвакуации.
+ent-SignDirectionalEvac = evac sign
+    .desc = A direction sign, pointing out which way evac is.
 
-ent-SignDirectionalExam = знак "смотровая"
-    .desc = Указатель в сторону смотровой или смотровых.
+ent-SignDirectionalExam = exam sign
+    .desc = A direction sign, pointing out which way the examination room(s) are.
 
-ent-SignDirectionalFood = знак "еда"
-    .desc = Указатель в сторону кухни.
+ent-SignDirectionalFood = food sign
+    .desc = A direction sign, pointing out which way the kitchen is.
 
-ent-SignDirectionalGravity = знак "гравитация"
-    .desc = Указатель в сторону генератора гравитации.
+ent-SignDirectionalGravity = gravity sign
+    .desc = A direction sign, pointing out which way the gravity generator is.
 
-ent-SignDirectionalHop = знак "ГП"
-    .desc = Указатель в сторону офиса Главы персонала.
+ent-SignDirectionalHop = hop sign
+    .desc = A direction sign, pointing out which way Head of Personnel's office is.
 
-ent-SignDirectionalHydro = знак "гидро"
-    .desc = Указатель в сторону отдела гидропоники.
+ent-SignDirectionalHydro = hydro sign
+    .desc = A direction sign, pointing out which way hydroponics is.
 
-ent-SignDirectionalIcu = знак "реанимация"
-    .desc = Указатель в сторону отделения реанимации.
+ent-SignDirectionalIcu = icu sign
+    .desc = A direction sign, pointing out which way the ICU is.
 
-ent-SignDirectionalJanitor = знак "уборщик"
-    .desc = Указатель в сторону чулана уборщика.
+ent-SignDirectionalJanitor = janitor sign
+    .desc = A direction sign, pointing out which way the janitor's closet is.
 
-ent-SignDirectionalLibrary = знак "библиотека"
-    .desc = Указатель в сторону библиотеки.
+ent-SignDirectionalLibrary = library sign
+    .desc = A direction sign, pointing out which way the library is.
 
-ent-SignDirectionalMed = знак "медицинский отдел"
-    .desc = Указатель в сторону медицинского отдела.
+ent-SignDirectionalMed = medical sign
+    .desc = A direction sign, pointing out which way the Medical department is.
 
-ent-SignDirectionalSalvage = знак "утилизация"
-    .desc = Указатель в сторону отдела утилизации обломков.
+ent-SignDirectionalSalvage = salvage sign
+    .desc = A direction sign, pointing out which way the Salvage department is.
 
-ent-SignDirectionalSci = знак "научный отдел"
-    .desc = Указатель в сторону научного отдела.
+ent-SignDirectionalSci = science sign
+    .desc = A direction sign, pointing out which way the Science department is.
 
-ent-SignDirectionalSec = знак "служба безопасности"
-    .desc = Указатель в сторону отдела службы безопасности.
+ent-SignDirectionalSec = sec sign
+    .desc = A direction sign, pointing out which way Security is.
 
-ent-SignDirectionalSolar = знак "солнечные панели"
-    .desc = Указатель в сторону солнечных панелей.
+ent-SignDirectionalSolar = solars sign
+    .desc = A direction sign, pointing out which way solars are.
 
-ent-SignDirectionalSupply = знак "отдел снабжения"
-    .desc = Указатель в сторону отдела снабжения.
+ent-SignDirectionalSupply = supply sign
+    .desc = A direction sign, pointing to some supplies.
 
-ent-SignDirectionalWash = знак "уборная"
-    .desc = Указатель в сторону уборной.
+ent-SignDirectionalWash = washroom sign
+    .desc = A direction sign, pointing to the way to a washroom.
 
-ent-SignDirectionalEscapePod = знак "спасательная капсула"
-    .desc = Указатель в сторону дока спасательной капсулы.
+ent-SignDirectionalEscapePod = escape pods sign
+    .desc = A direction sign, pointing out the way to an escape pod dock.
 
-ent-SignAi = знак "ИИ"
-    .desc = Знак, указывающий на присутствие ИИ.
+ent-SignAi = ai sign
+    .desc = A sign, indicating an AI is present.
 
-ent-SignAiUpload = знак "загрузка ИИ"
-    .desc = Знак, указывающий на присутствие ИИ.
+ent-SignAiUpload = ai upload sign
+    .desc = A sign, indicating an AI is present.
 
-ent-SignArcade = знак "аркада"
-    .desc = Указатель в сторону комнаты с аркадами.
+ent-SignArcade = arcade sign
+    .desc = A sign indicating the arcade.
 
-ent-SignArmory = знак "оружейная"
-    .desc = Знак, указывающий на оружейную.
+ent-SignArmory = armory sign
+    .desc = A sign indicating the armory.
 
-ent-SignArrivals = знак "прибытие"
-    .desc = Знак, указывающий место стыковки шаттла прибытия.
+ent-SignArrivals = arrivals sign
+    .desc = A sign indicating where the Arrivals shuttle will dock.
 
-ent-SignToolStorage = знак "склад инструментов"
-    .desc = Знак, указывающий на склад инструментов.
+ent-SignToolStorage = tool storage sign
+    .desc = A sign indicating the tool storage room.
 
-ent-SignAnomaly = знак "ксено-археология"
-    .desc = Знак, указывающий на ксено-археологическую лабораторию.
+ent-SignAnomaly = xenoarcheology lab sign
+    .desc = A sign indicating the xenoarchaeology lab.
 
-ent-SignAnomaly2 = знак "лаборатория аномалий"
-    .desc = Знак, указывающий на лабораторию аномалий.
+ent-SignAnomaly2 = anomaly lab sign
+    .desc = A sign indicating the anomalous research lab.
 
-ent-SignAtmos = знак "атмос"
-    .desc = Знак, указывающий на атмосферный отсек.
+ent-SignAtmos = atmos sign
+    .desc = A sign indicating the atmospherics area.
 
-ent-SignBar = знак "бар"
-    .desc = Знак, указывающий на бар.
+ent-SignBar = bar sign
+    .desc = A sign indicating the bar.
 
-ent-SignBath = знак "душевая"
-    .desc = Знак, указывающий на душевой отсек.
+ent-SignBath = bathroom sign
+    .desc = A sign indicating the bathroom.
 
-ent-SignKitchen = знак "кухня"
-    .desc = Сердце дома. И заболеваний.
+ent-SignKitchen = kitchen sign
+    .desc = The heart of the home. And disease.
 
-ent-SignTheater = знак "театр"
-    .desc = Какая бы это была космическая станция без драмы?
+ent-SignTheater = theater sign
+    .desc = Would it even be Space Station without drama?
 
-ent-SignBarbershop = знак "барбершоп"
-    .desc = Знак, указывающий барбершоп.
+ent-SignBarbershop = barbershop sign
+    .desc = A sign indicating the barbershop.
 
-ent-SignBio = знак "био лаб"
-    .desc = Знак, указывающий на биологическую лабораторию.
+ent-SignBio = bio sign
+    .desc = A sign indicating the biology lab.
 
-ent-SignBiohazard = знак "биологическая угроза"
-    .desc = Знак, предупреждающий о биологической опасности.
+ent-SignBiohazard = biohazard sign
+    .desc = A sign indicating a biohazard.
 
-ent-SignBridge = знак "мостик"
-    .desc = Знак, указывающий на мостик.
+ent-SignBridge = bridge sign
+    .desc = A sign indicating the bridge.
 
-ent-SignCanisters = знак "газовые баллоны"
-    .desc = Знак, предупреждающий о канистрах под давлением.
+ent-SignCanisters = canisters sign
+    .desc = A sign warning the viewer about pressurised canisters.
 
-ent-SignCargo = знак "снабжение"
-    .desc = Знак, указывающий на отдел снабжения.
+ent-SignCargo = cargo sign
+    .desc = A sign indicating the cargo area.
 
-ent-SignCargoDock = знак "карго док"
-    .desc = Знак, указывающий на док отдела снабжения.
+ent-SignCargoDock = cargo dock sign
+    .desc = A sign indicating a cargo dock.
 
-ent-SignChapel = знак "храм"
-    .desc = Знак, указывающий на храм.
+ent-SignChapel = chapel sign
+    .desc = A sign indicating the chapel.
 
-ent-SignChem = знак "хим лаб"
-    .desc = Знак, указывающий на химическую лабораторию.
+ent-SignChem = chemistry sign
+    .desc = A sign indicating the chemistry lab.
 
-ent-SignCloning = знак "клонирование"
-    .desc = Знак, указывающий на отсек клонирования.
+ent-SignCloning = cloning sign
+    .desc = A sign indicating the cloning lab.
 
-ent-SignConference = знак "конференц-зал"
-    .desc = Тут работают работу.
+ent-SignConference = conference room sign
+    .desc = Where work happens.
 
-ent-SignCryo = знак "криосон"
-    .desc = Вот так просто? Вы струсили и сбегаете?
+ent-SignCryo = cryosleep sign
+    .desc = Just like that? You're gonna chicken out?
 
-ent-SignDisposalSpace = знак "мусоросброс"
-    .desc = Знак, указывающий на зону утилизации.
+ent-SignDisposalSpace = disposal sign
+    .desc = A sign indicating a disposal area.
 
-ent-SignDoors = знак "двери"
-    .desc = Знак, указывающий на двери.
+ent-SignDoors = doors sign
+    .desc = A sign indicating doors.
 
-ent-SignRestroom = знак "уборная"
-    .desc = Знак, указывающий на место, где... А что вы собрались тут делать?
+ent-SignRestroom = restroom sign
+    .desc = A sign indicating where you go to... What do you do here again?
 
-ent-SignMaterials = знак "материалы"
-    .desc = Предзнаменование сочных залежей стали, стекла и пластика, которые ожидают вас впереди.
+ent-SignMaterials = materials sign
+    .desc = An omen to the juicy vault of steel, glass, and plastic that lays before you.
 
-ent-SignEngine = знак "энергия"
-    .desc = Тут вырабатывается электроэнергия.
+ent-SignEngine = power sign
+    .desc = Where the powa happens.
 
-ent-SignEngineering = знак "инженерия"
-    .desc = Знак, указывающий на инженерный отдел.
+ent-SignEngineering = engineering sign
+    .desc = A sign indicating the engineering area.
 
-ent-SignEscapePods = знак "капсулы"
-    .desc = Знак, указывающий на спасательные капсулы.
+ent-SignEscapePods = escape pods sign
+    .desc = A sign indicating the escape pods.
 
-ent-SignEVA = знак "EVA"
-    .desc = Знак, указывающий на хранилище скафандров.
+ent-SignEVA = EVA sign
+    .desc = A sign indicating an EVA area. EVA equipment may be required beyond this point.
 
-ent-SignElectrical = знак "высокое напряжение"
-    .desc = Знак, предупреждающий о высоком напряжении.
+ent-SignElectrical = electrical sign
+    .desc = A sign indicating an electrical hazard.
 
-ent-SignExamroom = знак "медосмотр"
-    .desc = Знак, указывающий на кабинет медицинского осмотра.
+ent-SignExamroom = examination room sign
+    .desc = A sign indicating a medical examination room.
 
-ent-SignFire = знак "пожар"
-    .desc = Знак, предупреждающий о пожарной опасности.
+ent-SignFire = fire sign
+    .desc = A sign indicating a fire hazard.
 
-ent-SignGravity = знак "гравитация"
-    .desc = Знак, указывающий на отсек генератора гравитации.
+ent-SignGravity = gravity sign
+    .desc = A sign indicating the gravity generator.
 
-ent-SignHead = знак "глава"
-    .desc = Официальный знак, указывающий на место обитания сертифицированного Nanotrasen руководителя отдела.
+ent-SignHead = head sign
+    .desc = An official sign indicating the dwellings of a Nanotrasen-certified head of department.
 
-ent-SignHydro1 = знак "гидропоника"
-    .desc = Знак, указывающий на гидропонику.
+ent-SignHydro1 = hydro sign
+    .desc = A sign indicating a hydroponics area.
 
-ent-SignInterrogation = знак "допросная"
-    .desc = Знак, указывающий на допросную.
+ent-SignInterrogation = interrogation sign
+    .desc = A sign indicating an interrogation room.
 
-ent-SignJanitor = знак "уборщик"
-    .desc = Знак, указывающий на каморку уборщика.
+ent-SignJanitor = janitor sign
+    .desc = A sign labelling an area where the janitor works.
 
-ent-SignLaundromat = знак "прачечная"
-    .desc = Знак, указывающий на прачечную.
+ent-SignLaundromat = laundromat sign
+    .desc = A sign indicating the laundromat.
 
-ent-SignLawyer = знак "закон"
-    .desc = Знак, указывающий на наличие (обычно отсутствующего) верховенства закона.
+ent-SignLawyer = law sign
+    .desc = A sign indicating the presence of the (typically absent) rule of law.
 
-ent-SignLibrary = знак "библиотека"
-    .desc = Знак, указывающий на библиотеку.
+ent-SignLibrary = library sign
+    .desc = A sign indicating the library.
 
-ent-SignMail = знак "почта"
-    .desc = Знак, указывающий на почту.
+ent-SignMail = mail sign
+    .desc = A sign indicating mail.
 
-ent-SignMedical = знак "мед отсек"
-    .desc = Знак, указывающий на медицинский отдел.
+ent-SignMedical = medbay sign
+    .desc = A sign indicating the medical bay.
 
-ent-SignMorgue = знак "морг"
-    .desc = Знак, указывающий на морг.
+ent-SignMorgue = morgue sign
+    .desc = A sign indicating the morgue.
 
-ent-SignNews = знак "новости"
-    .desc = Знак, указывающий на место работы репортёра.
+ent-SignNews = news sign
+    .desc = A sign indicating where the Reporter works.
 
-ent-SignNosmoking = знак "не курить"
-    .desc = Знак, предупреждающий о запрете курения в непосредственной близости.
+ent-SignNosmoking = no smoking sign
+    .desc = A sign indicating that smoking is not allowed in the vicinity.
 
-ent-SignGenpop = знак "общий блок"
-    .desc = Знак, указывающий на общую зону тюрьмы.
+ent-SignGenpop = genpop sign
+    .desc = A sign indicating the genpop prison.
 
-ent-SignPrison = знак "тюрьма"
-    .desc = Знак, указывающий на тюрьму.
+ent-SignPrison = prison sign
+    .desc = A sign indicating the prison.
 
-ent-SignPsychology = знак "психолог"
-    .desc = Знак, указывающий на офис психолога.
+ent-SignPsychology = psychology sign
+    .desc = A sign labelling an area where the Psychologist works.
 
-ent-SignReception = знак "ресепшен"
-    .desc = Знак, указывающий на ресепшен.
+ent-SignReception = reception sign
+    .desc = A sign indicating the reception.
 
-ent-SignRND = знак "НИО"
-    .desc = Знак, указывающий на отдел исследования и разработки.
+ent-SignRND = research and development sign
+    .desc = A sign indicating the research and development lab.
 
-ent-SignRobo = знак "робототехника"
-    .desc = Знак, указывающий на отдел робототехники.
+ent-SignRobo = robo sign
+    .desc = A sign indicating the robotics lab.
 
-ent-SignSalvage = знак "утилизация"
-    .desc = Знак, указывающий на зону утилизации.
+ent-SignSalvage = salvage sign
+    .desc = A sign indicating the salvage area.
 
-ent-SignScience = знак "наука"
-    .desc = Знак, указывающий на научный отсек.
+ent-SignScience = science sign
+    .desc = A sign indicating the science area.
 
-ent-SignServer = знак "серверная"
-    .desc = Слышали когда-нибудь о Биг Дате? Вот она, чувак. Самая большая.
+ent-SignServer = server sign
+    .desc = Ever heard of Big Data? This is it, chump. The biggest.
 
-ent-SignCans = знак "канистры"
-    .desc = Знак, указывающий на удачное присутствие канистр газов.
+ent-SignCans = canisters sign
+    .desc = A sign indicating the auspicious presence of gas canisters.
 
 ent-SignCansScience = { ent-SignCans }
-    .suffix = Научный
     .desc = { ent-SignCans.desc }
+    .suffix = science
 
-ent-SignShipDock = знак "эвакуация"
-    .desc = Знак, указывающий, куда (скорее всего) прибудет эвакуационный шаттл.
+ent-SignShipDock = evac sign
+    .desc = A sign indicating the where the evac shuttle will (likely) arrive.
 
-ent-SignSpace = знак "космос"
-    .desc = Знак, предупреждающий о том, что впереди — только холодное, пустое пространство.
+ent-SignSpace = space sign
+    .desc = A sign warning that the area ahead is nothing but cold, empty space.
 
-ent-SignSurgery = знак "операционная"
-    .desc = Знак, указывающий на операционную.
+ent-SignSurgery = surgery sign
+    .desc = A sign indicating the operating theater.
 
-ent-SignTelecomms = знак "телекоммуникация"
-    .desc = Знак, указывающий на отсек телекоммуникаций.
+ent-SignTelecomms = telecomms sign
+    .desc = A sign indicating the telecommunications room.
 
-ent-SignToxins = знак "токсины"
-    .desc = Знак, указывающий на лабораторию токсинов.
+ent-SignToxins = toxins sign
+    .desc = A sign indicating the toxin lab.
 
-ent-SignVault = знак "хранилище"
-    .desc = Знак, указывающий на хранилище. Кто знает, какие секреты оно хранит?
+ent-SignVault = vault sign
+    .desc = A sign indicating the vault. Who knows what secrets lie inside?
 
-ent-SignVirology = знак "вирусология"
-    .desc = Знак, указывающий на лабораторию вирусологии.
+ent-SignVirology = virology sign
+    .desc = A sign indicating the virology lab.
 
-ent-SignCorrosives = предупреждающий знак "едкие вещества"
-    .desc = Знак, предупреждающий об опасности едких веществ.
+ent-SignCorrosives = corrosives warning sign
+    .desc = A sign indicating a corrosive materials hazard.
 
-ent-SignCryogenics = предупреждающий знак "криогеника"
-    .desc = Знак, предупреждающий об опасности криогенных материалов. Захватите с собой куртку!
+ent-SignCryogenics = cryogenics warning sign
+    .desc = A sign indicating a cryogenic materials hazard. Bring a jacket!
 
-ent-SignDanger = предупреждающий знак "опасно"
-    .desc = Знак, предупреждающий о какой-то опасности.
+ent-SignDanger = danger warning sign
+    .desc = A sign warning against some danger.
 
-ent-SignExplosives = предупреждающий знак "взрывоопасно"
-    .desc = Знак, предупреждающий об опасности взрывоопасных материалов.
+ent-SignExplosives = explosives warning sign
+    .desc = A sign indicating an explosive materials hazard.
 
-ent-SignFlammable = предупреждающий знак "огнеопасно"
-    .desc = Знак, предупреждающий об опасности огнеопасных материалов.
+ent-SignFlammable = flammable warning sign
+    .desc = A sign indicating a flammable materials hazard.
 
-ent-SignLaser = предупреждающий знак "лазерное излучение"
-    .desc = Знак, предупреждающий об опасности лазерного излучения.
+ent-SignLaser = laser warning sign
+    .desc = A sign indicating a laser hazard.
 
-ent-SignMagnetics = предупреждающий знак "магнитное поле"
-    .desc = Знак, предупреждающий об опасности магнитных материалов.
+ent-SignMagnetics = magnetics warning sign
+    .desc = A sign indicating a magnetic materials hazard.
 
-ent-SignMemetic = предупреждающий знак "меметическая угроза"
-    .desc = Знак, предупреждающий о меметической угрозе.
+ent-SignMemetic = memetic warning sign
+    .desc = A sign indicating a memetic hazard.
 
-ent-SignSecure = знак "охрана"
-    .desc = Знак, предупреждающий, что территория впереди является охраняемой зоной.
+ent-SignSecure = secure sign
+    .desc = A sign indicating that the area ahead is a secure area.
 
-ent-SignSecurearea = знак "охраняемая территория"
-    .desc = Знак, предупреждающий, что территория впереди является охраняемой зоной.
+ent-SignSecurearea = secure area sign
+    .desc = A sign indicating that the area ahead is a secure area.
 
-ent-SignShock = знак "высокое напряжение"
-    .desc = Знак, предупреждающий об опасности поражения электрическим током.
+ent-SignShock = shock sign
+    .desc = A sign indicating an electrical hazard.
 
-ent-SignOptical = предупреждающий знак "оптическое излучение"
-    .desc = Знак, предупреждающий об опасности оптического излучения.
+ent-SignOptical = optical warning sign
+    .desc = A sign indicating an optical radiation hazard.
 
-ent-SignOxidants = предупреждающий знак "окислитель"
-    .desc = Знак, предупреждающий об опасности окисляющих веществ.
+ent-SignOxidants = oxidants warning sign
+    .desc = A sign indicating an oxidizing agent hazard.
 
-ent-SignRadiation = предупреждающий знак "радиоактивно"
-    .desc = Знак, предупреждающий об опасности радиоактивного излучения.
+ent-SignRadiation = radiation warning sign
+    .desc = A sign indicating an ionizing radiation hazard.
 
-ent-SignXenobio = знак "ксенобиология"
-    .desc = Знак, указывающий на лабораторию ксенобиологии.
+ent-SignXenobio = xenobio sign
+    .desc = A sign indicating the xenobiology lab.
 
-ent-SignZomlab = знак "зомби-лаборатория"
-    .desc = Последние остатки закрытого исследовательского проекта Nanotrasen, целью которого было использование силы Ромерола. Интересно, чем всё закончилось...
+ent-SignZomlab = zombie lab sign
+    .desc = The final remains of a shut-down Nanotrasen research project that aimed to harness the powers of Romerol. I wonder how that went...
 
-ent-SignSecureMedRed = красный знак "охрана"
-    .desc = Знак, предупреждающий, что территория впереди является охраняемой зоной.
+ent-SignSecureMedRed = red secure sign
+    .desc = A sign indicating that the area ahead is a secure area.
 
-ent-SignSecureSmall = маленький знак "охрана"
-    .desc = Знак, предупреждающий, что территория впереди является охраняемой зоной.
+ent-SignSecureSmall = small secure sign
+    .desc = A sign indicating that the area ahead is a secure area.
 
-ent-SignSecureSmallRed = маленький красный знак "охрана"
-    .desc = Знак, предупреждающий, что территория впереди является охраняемой зоной.
+ent-SignSecureSmallRed = small red secure sign
+    .desc = A sign indicating that the area ahead is a secure area.
 
-ent-SignBlankMed = пустой знак
-    .desc = Знак, пустой.
+ent-SignBlankMed = blank sign
+    .desc = A blank sign.
 
-ent-SignMagneticsMed = знак "магнитное поле"
-    .desc = Знак, указывающий на использование магнитов.
+ent-SignMagneticsMed = magnetics sign
+    .desc = A sign indicating the use of magnets.
 
-ent-SignDangerMed = знак "опасно"
-    .desc = Знак, предупреждающий о какой-то опасности.
+ent-SignDangerMed = danger sign
+    .desc = A sign warning against some form of danger.
 
-ent-ExplosivesSignMed = знак "взрывоопасно"
-    .desc = Знак, предупреждающий о взрывоопасных материалах.
+ent-ExplosivesSignMed = explosives sign
+    .desc = A sign indicating explosive materials.
 
-ent-SignCryogenicsMed = знак "криогеника"
-    .desc = Знак, предупреждающий о криогенных материалах.
+ent-SignCryogenicsMed = cryogenics sign
+    .desc = A sign indicating cryogenic materials.
 
-ent-SignElectricalMed = знак "высокое напряжение"
-    .desc = Знак, предупреждающий об опасности поражения электрическим током.
+ent-SignElectricalMed = electrical sign
+    .desc = A sign indicating an electrical hazard.
 
-ent-SignBiohazardMed = знак "биологическая угроза"
-    .desc = Знак, предупреждающий о биологической опасности.
+ent-SignBiohazardMed = biohazard sign
+    .desc = A sign indicating a biohazard.
 
-ent-SignRadiationMed = знак "радиоактивно"
-    .desc = Знак, предупреждающий об ионизирующем излучении.
+ent-SignRadiationMed = radiation sign
+    .desc = A sign indicating an ionizing radiation hazard.
 
-ent-SignFlammableMed = знак "огнеопасно"
-    .desc = Знак, предупреждающий о воспламеняющихся материалах.
+ent-SignFlammableMed = flammable sign
+    .desc = A sign indicating flammable materials.
 
-ent-SignLaserMed = знак "лазерное излучение"
-    .desc = Знак, предупреждающий о лазерном излучении.
+ent-SignLaserMed = laser sign
+    .desc = A sign indicating a laser hazard.
 
-ent-SignSecureMed = знак "опасно"
-    .desc = Знак, предупреждающий, что территория впереди является охраняемой зоной.
+ent-SignSecureMed = secure sign
+    .desc = A sign indicating that the area ahead is a secure area.
 
-ent-SignVox = знак "зона воксов"
-    .desc = Знак, указывающий, что зона впереди предназначена для членов экипажа-воксов и не имеет кислородной среды.
+ent-SignVox = vox area sign
+    .desc = A sign indicating that the area ahead is intended for Vox crew members and does not have an oxygen atmosphere.
 
-ent-WarningAir = знак "внимание: Воздух"
-    .desc = ВНИМАНИЕ! Труба для транспортировки воздуха. Перед работой убедитесь, что поток газа через неё отключён.
+ent-WarningAir = air warning sign
+    .desc = WARNING! Air flow tube. Ensure the flow is disengaged before working.
 
-ent-WarningCO2 = знак "внимание: CО2"
-    .desc = ВНИМАНИЕ! Труба для транспортировки CO2. Перед работой убедитесь, что поток газа через неё отключён.
+ent-WarningCO2 = CO2 warning sign
+    .desc = WARNING! CO2 flow tube. Ensure the flow is disengaged before working.
 
-ent-WarningN2 = знак "внимание: N2"
-    .desc = ВНИМАНИЕ! Труба для транспортировки азота. Перед работой убедитесь, что поток газа через неё отключён.
+ent-WarningN2 = N2 warning sign
+    .desc = WARNING! N2 flow tube. Ensure the flow is disengaged before working.
 
-ent-WarningN2O = знак "внимание: N2O"
-    .desc = ВНИМАНИЕ! Труба для транспортировки N2O. Перед работой убедитесь, что поток газа через неё отключён.
+ent-WarningN2O = N2O warning sign
+    .desc = WARNING! N2O flow tube. Ensure the flow is disengaged before working.
 
-ent-WarningO2 = знак "внимание: О2"
-    .desc = ВНИМАНИЕ! Труба для транспортировки кислорода. Перед работой убедитесь, что поток газа через неё отключён.
+ent-WarningO2 = O2 warning sign
+    .desc = WARNING! O2 flow tube. Ensure the flow is disengaged before working.
 
-ent-WarningPlasma = знак отходов плазмы
-    .desc = ВНИМАНИЕ! Труба для транспортировки плазмы. Перед работой убедитесь, что поток газа через неё отключён.
+ent-WarningPlasma = plasma waste sign
+    .desc = WARNING! Plasma flow tube. Ensure the flow is disengaged before working.
 
-ent-WarningTritium = знак отходов трития
-    .desc = ВНИМАНИЕ! Труба для транспортировки трития. Перед работой убедитесь, что поток газа через неё отключён.
+ent-WarningTritium = tritium waste sign
+    .desc = WARNING! Tritium flow tube. Ensure the flow is disengaged before working.
 
-ent-WarningWaste = знак отходов атмоса
-    .desc = ВНИМАНИЕ! Труба для транспортировки отходов. Перед работой убедитесь, что поток отходов через неё отключён.
+ent-WarningWaste = atmos waste sign
+    .desc = WARNING! Waste flow tube. Ensure the flow is disengaged before working.
 
-ent-SignSmoking = знак "не курить"
-    .desc = Предупреждающий знак с надписью "НЕ КУРИТЬ".
+ent-SignSmoking = no smoking sign
+    .desc = A warning sign which reads 'NO SMOKING'.
 
-ent-SignSomethingOld = старый плакат
-    .desc = Какая-то техническая информация, жаль, что плакат слишком изношен, чтобы можно было её прочитать.
+ent-SignSomethingOld = old sign
+    .desc = Technical information of some sort, shame it's too worn-out to read.
 
-ent-SignSomethingOld2 = старый плакат
-    .desc = Выглядит так, будто планета разламывается врезающейся в неё станцией. Страшновато.
+ent-SignSomethingOld2 = old sign
+    .desc = Looks like a planet crashing by some station above it. It's kinda scary.
 
-ent-SignSecurity = знак "служба безопасности"
-    .desc = Знак, изображающий эмблему службы безопасности.
+ent-SignSecurity = security sign
+    .desc = A sign depicting the security insignia.
 
-ent-SignDetective = знак "детектив"
-    .desc = Знак, изображающий эмблему офиса детектива.
+ent-SignDetective = detective sign
+    .desc = A sign depicting the detective's office.
 
-ent-SignPlaque = золотая табличка
-    .desc = Престижная золотая табличка.
+ent-SignPlaque = golden plaque
+    .desc = A prestigious golden plaque.
 
-ent-SignKiddiePlaque = простая табличка
-    .desc = Скромная мемориальная табличка.
+ent-SignKiddiePlaque = kiddie plaque
+    .desc = A modest plaque.
 
-ent-SignNanotrasen1 = лого nanotrasen 1
-    .desc = Часть 1.
+ent-SignNanotrasen1 = nanotrasen sign 1
+    .desc = Part 1.
 
-ent-SignNanotrasen2 = лого nanotrasen 2
-    .desc = Часть 2.
+ent-SignNanotrasen2 = nanotrasen sign 2
+    .desc = Part 2.
 
-ent-SignNanotrasen3 = лого nanotrasen 3
-    .desc = Часть 3.
+ent-SignNanotrasen3 = nanotrasen sign 3
+    .desc = Part 3.
 
-ent-SignNanotrasen4 = лого nanotrasen 4
-    .desc = Часть 4.
+ent-SignNanotrasen4 = nanotrasen sign 4
+    .desc = Part 4.
 
-ent-SignNanotrasen5 = лого nanotrasen 5
-    .desc = Часть 5.
+ent-SignNanotrasen5 = nanotrasen sign 5
+    .desc = Part 5.
 
-ent-SignRedOne = знак "один"
-    .desc = Знак с цифрой, на котором нарисована единица.
+ent-SignRedOne = one sign
+    .desc = A sign with a digit, one is written on it.
 
-ent-SignRedTwo = знак "два"
-    .desc = Знак с цифрой, на котором нарисована двойка.
+ent-SignRedTwo = two sign
+    .desc = A sign with a digit, two is written on it.
 
-ent-SignRedThree = знак "три"
-    .desc = Знак с цифрой, на котором нарисована тройка.
+ent-SignRedThree = three sign
+    .desc = A sign with a digit, three is written on it.
 
-ent-SignRedFour = знак "четыре"
-    .desc = Знак с цифрой, на котором нарисована четвёрка.
+ent-SignRedFour = four sign
+    .desc = A sign with a digit, four is written on it.
 
-ent-SignRedFive = знак "пять"
-    .desc = Знак с цифрой, на котором нарисована пятёрка.
+ent-SignRedFive = five sign
+    .desc = A sign with a digit, five is written on it.
 
-ent-SignRedSix = знак "шесть"
-    .desc = Знак с цифрой, на котором нарисована шестёрка.
+ent-SignRedSix = six sign
+    .desc = A sign with a digit, six is written on it.
 
-ent-SignRedSeven = знак "семь"
-    .desc = Знак с цифрой, на котором нарисована семёрка.
+ent-SignRedSeven = seven sign
+    .desc = A sign with a digit, seven is written on it.
 
-ent-SignRedEight = знак "восемь"
-    .desc = Знак с цифрой, на котором нарисована восьмёрка.
+ent-SignRedEight = eight sign
+    .desc = A sign with a digit, eight is written on it.
 
-ent-SignRedNine = знак "девять"
-    .desc = Знак с цифрой, на котором нарисована девятка.
+ent-SignRedNine = nine sign
+    .desc = A sign with a digit, nine is written on it.
 
-ent-SignRedZero = знак "ноль"
-    .desc = Знак с цифрой, на котором нарисован ноль.
+ent-SignRedZero = zero sign
+    .desc = A sign with a digit, zero is written on it.
 
-ent-SignSurvival = знак "Выживание"
-    .desc = Знак. На нём написано "Выживание".
+ent-SignSurvival = survival sign
+    .desc = A sign. "Survival" is written on it.
 
-ent-SignNTMine = знак "Шахта"
-    .desc = Знак. На нём написано "Шахта".
+ent-SignNTMine = mine sign
+    .desc = A sign. "Mine" is written on it.

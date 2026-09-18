@@ -9,8 +9,11 @@ guide-entry-tackle = Захват
 guide-entry-forging = Ковка
 guide-entry-fishing = Рыбалка
 guide-entry-circuits = Схемы
+guide-entry-chemicompiler = ChemiCompiler
 
 guide-entry-civilian = Гражданские должности
+
+guide-entry-ranching = Ranching
 
 guide-entry-bingle = Бингл
 guide-entry-changelings = Морфы и генокрады
@@ -23,6 +26,7 @@ guide-entry-morph = Морф
 guide-entry-shadow-demon = Демон тени
 guide-entry-slasher = Слэшер
 guide-entry-slaughter-demon = Демон Резни
+guide-entry-spies = Spies
 
 guide-entry-skills = Навыки
 

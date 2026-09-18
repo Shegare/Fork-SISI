@@ -10,14 +10,20 @@ uplink-caseless-pistol-tranq-desc = Магазин с 10 патронами тр
 uplink-caseless-pistol-poison-name = пистолетный магазин (.25 безгильзовый, токсин)
 uplink-caseless-pistol-poison-desc = Магазин с 10 патронами ядовитых боеприпасов, снаряжёнными лексорином. Убивает за четыре выстрела и небольшое время. Используется с «Коброй».
 
-uplink-magazine-bulldog-pellet-name-trauma = барабанный магазин (12 калибр)
+# AUTOGEN-Start
+# барабанный магазин (12 калибр)
+# AUTOGEN-End TODO(Update_Locale):
+uplink-magazine-bulldog-pellet-name-trauma = Drum Magazine (12 gauge shot)
 
-uplink-magazine-bulldog-slug-name-trauma = барабанный магазин (12 калибр)
+# AUTOGEN-Start
+# барабанный магазин (12 калибр)
+# AUTOGEN-End TODO(Update_Locale):
+uplink-magazine-bulldog-slug-name-trauma = Drum Magazine (12 gauge slug)
 
-uplink-mosin-ammo-name-trauma = коробка патронов (.30 винтовочный)
+# AUTOGEN-Start
+# магазин для ПП (.35 авто)
+# AUTOGEN-End TODO(Update_Locale):
+uplink-pistol-magazine-c20r-name-trauma = SMG Magazine (9mm)
 
-uplink-estoc-ammo-name-trauma = винтовочный магазин (.20 винтовочный)
-
-uplink-sniper-ammo-name-trauma = коробка патронов (.60 антиматериальный)
-
-uplink-pistol-magazine-c20r-name-trauma = магазин для ПП (.35 авто)
+uplink-speedloader-magnum-name = Speedloader (.45 magnum AP)
+uplink-speedloader-magnum-desc = Revolver speedloader with 6 armor-piercing cartridges, capable of ignoring armor entirely. Compatible with the Python.

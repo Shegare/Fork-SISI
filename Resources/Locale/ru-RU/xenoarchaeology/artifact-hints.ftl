@@ -67,7 +67,11 @@ xenoarch-trigger-tip-tritium = Тритий
 xenoarch-trigger-tip-ammonia = Аммиак
 xenoarch-trigger-tip-n2o = Оксид азота
 xenoarch-trigger-tip-frezon = Фрезон
-xenoarch-trigger-tip-radiation = Радиация
+# AUTOGEN-Start
+# Радиация
+# AUTOGEN-End TODO(Update_Locale):
+xenoarch-trigger-tip-radiation = Heavy-ion radiation
+xenoarch-trigger-tip-microwave = Microwave radiation
 xenoarch-trigger-tip-brute-damage = Физическое повреждение
 xenoarch-trigger-tip-interaction = Физическое взаимодействие
 xenoarch-trigger-tip-wrenching = Закручивание
@@ -82,6 +86,13 @@ xenoarch-trigger-tip-blood = Кровь
 xenoarch-trigger-tip-throw = Бросок
 xenoarch-trigger-tip-death = Смерть
 xenoarch-trigger-tip-magnet = Магнитные волны
+xenoarch-trigger-tip-money = Bribery
+xenoarch-trigger-tip-knowledge = Knowledge Intake
+xenoarch-trigger-tip-carbs = Carbohydrate Intake
+xenoarch-trigger-tip-meat = Protein Intake
+xenoarch-trigger-tip-produce = Healthy Produce Intake
+xenoarch-trigger-tip-stamp = Bureaucratic Approval
+xenoarch-trigger-tip-shock = Electrical Shock
 
 ### Description hints
 xenoarch-trigger-examine-wrenching = На поверхности что-то свободно вращается.

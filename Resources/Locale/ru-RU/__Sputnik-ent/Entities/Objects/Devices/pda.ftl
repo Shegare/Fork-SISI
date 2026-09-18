@@ -188,6 +188,9 @@ ent-CBURNPDA = КПК РХБЗЗ
 ent-PsychologistPDA = КПК психолога
     .desc = Выглядит безупречно чистым.
 
+ent-TramDriverPDA = tram driver PDA
+    .desc = A serious driver will always arrive on time.
+
 ent-ReporterPDA = КПК репортёра
     .desc = Пахнет свежей типографской краской.
 

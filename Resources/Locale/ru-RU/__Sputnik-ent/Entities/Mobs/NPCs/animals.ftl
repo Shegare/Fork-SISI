@@ -21,6 +21,9 @@ ent-FoodEggChickenFertilized = куриное яйцо
     .suffix = Оплодотворённый, Курица
     .desc = { ent-FoodEgg.desc }
 
+ent-BaseCockroach = { ent-SolutionFood }
+    .desc = { ent-SolutionFood.desc }
+
 ent-MobCockroach = таракан
     .desc = Эта станция просто кишит насекомыми.
 
@@ -174,8 +177,8 @@ ent-MobPenguin = пингвин
 ent-MobGrenadePenguin = пингвин гренадёр
     .desc = Маленький пингвин с гранатой на шее. Заготавливается Синдикатом на неблагоприятных ледяных планетах.
 
-ent-MobSpiderBase = { ent-SimpleMobBase }
-    .desc = { ent-SimpleMobBase.desc }
+ent-MobSpiderBase = { ent-BaseMobGiantSpider }
+    .desc = { ent-BaseMobGiantSpider.desc }
 
 ent-SolutionVenomSpider = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
@@ -183,8 +186,12 @@ ent-SolutionVenomSpider = { ent-SolutionWeapon }
 ent-MobSpiderAngryBase = { ent-MobSpiderBase }
     .desc = { ent-MobSpiderBase.desc }
 
-ent-MobGiantSpider = тарантул
-    .desc = Общепризнанно, что это буквально худшее существо на свете.
+# AUTOGEN-Start
+# тарантул
+# .desc = Общепризнанно, что это буквально худшее существо на свете.
+# AUTOGEN-End TODO(Update_Locale):
+ent-MobGiantSpider = giant spider
+    .desc = Widely recognized to be the literal worst thing in existence.
 
 ent-MobGiantSpiderAngry = { ent-MobGiantSpider }
     .desc = { ent-MobGiantSpider.desc }
@@ -264,6 +271,3 @@ ent-MobReindeerBuck = северный олень-самец
 
 ent-MobReindeerDoe = северный олень-самка
     .desc = Думаете, она может тянуть сани?
-
-ent-MobCorgiSmart = умный корги
-    .desc = Необычайно умная собака.

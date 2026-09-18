@@ -1,5 +1,5 @@
 ent-BaseWerewolfObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-EscapeWerewolfShuttleObjective = Улететь на ЦК живым и свободным.
-    .desc = Вернитесь к своей прошлой жизни.
+ent-EscapeWerewolfShuttleObjective = Escape to CentComm alive and unrestrained via the escape shuttle.
+    .desc = Return to your old life.

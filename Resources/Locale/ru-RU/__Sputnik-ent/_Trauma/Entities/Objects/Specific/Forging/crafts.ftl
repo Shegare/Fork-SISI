@@ -1,26 +1,35 @@
 ent-BaseForgedProduct = { ent-BaseMetallicProcGen }
     .desc = { ent-BaseMetallicProcGen.desc }
 
+ent-BaseForgedKnife = { ent-BaseForgedProduct }
+    .desc = { ent-BaseForgedProduct.desc }
+
 ent-BaseForgedProductCrossGuard = { ent-BaseForgedProduct }
     .desc = { ent-BaseForgedProduct.desc }
 
 ent-BaseForgedProductSeparateHead = { ent-BaseForgedProduct }
     .desc = { ent-BaseForgedProduct.desc }
 
-ent-ForgedKnife = нож
-    .desc = { ent-BaseForgedProduct.desc }
+# AUTOGEN-Start
+# нож
+# AUTOGEN-End TODO(Update_Locale):
+ent-ForgedKnife = knife
+    .desc = { ent-BaseForgedKnife.desc }
 
-ent-ForgedCleaver = тесак
-    .desc = { ent-BaseForgedProduct.desc }
+# AUTOGEN-Start
+# тесак
+# AUTOGEN-End TODO(Update_Locale):
+ent-ForgedCleaver = cleaver
+    .desc = { ent-BaseForgedKnife.desc }
 
-ent-ForgedCombatKnife = { ent-BaseForgedProduct }
-    .desc = { ent-BaseForgedProduct.desc }
+ent-ForgedCombatKnife = { ent-BaseForgedKnife }
+    .desc = { ent-BaseForgedKnife.desc }
 
-ent-ForgedKukriKnife = { ent-BaseForgedProduct }
-    .desc = { ent-BaseForgedProduct.desc }
+ent-ForgedKukriKnife = { ent-BaseForgedKnife }
+    .desc = { ent-BaseForgedKnife.desc }
 
-ent-ForgedSurvivalKnife = { ent-BaseForgedProduct }
-    .desc = { ent-BaseForgedProduct.desc }
+ent-ForgedSurvivalKnife = { ent-BaseForgedKnife }
+    .desc = { ent-BaseForgedKnife.desc }
 
 ent-ForgedHammer = { ent-BaseForgedProduct }
     .desc = { ent-BaseForgedProduct.desc }

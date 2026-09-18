@@ -95,3 +95,6 @@ ent-WeaponLaserGunXenoborg = лазерный пистолет ксенобор�
 
 ent-WeaponLaserCannonXenoborg = лазерная пушка ксеноборга
     .desc = { ent-WeaponLaserCannon.desc }
+
+ent-WeaponBurstFireLaserXenoborg = xenoborg burst fire laser
+    .desc = An alien weapon, channelling a burst-fire laser through a prism, causing targets to burst into fire.

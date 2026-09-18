@@ -1,20 +1,20 @@
-ent-ActionCorticalBorerChemMenu = Химикаты
-    .desc = Открыть меню химикатов.
+ent-ActionCorticalBorerChemMenu = Chemicals
+    .desc = Open the chemicals menu.
 
-ent-ActionCorticalBorerInfest = Заразить
-    .desc = Заразить целевого гуманоида. У цели-носителя должна быть кровеносная система.
+ent-ActionCorticalBorerInfest = Infest
+    .desc = Infest target Humanoid. Target host must have a bloodstream.
 
-ent-ActionCorticalBorerEject = Покинуть Носителя
-    .desc = Покинуть своего носителя.
+ent-ActionCorticalBorerEject = Eject Host
+    .desc = Eject yourself from your host.
 
-ent-ActionCheckBlood = Проверить Кровь
-    .desc = Осмотреть кровь носителя, чтобы узнать его состояние.
+ent-ActionCheckBlood = Check Blood
+    .desc = Inspect the blood of your host to see how they are doing.
 
-ent-ActionControlHost = Взять под Контроль
-    .desc = Полностью подчинить себе носителя. Действует 40 секунд, если носитель в сознании.
+ent-ActionControlHost = Take Control
+    .desc = Take full control of your host, lasts for 40 seconds on awake hosts.
 
-ent-ActionEndControlHost = Отпустить Контроль
-    .desc = Досрочно отказаться от контроля над телом носителя.
+ent-ActionEndControlHost = Relinquish Control
+    .desc = Give up hold of the host's body early.
 
-ent-ActionLayEggHost = Отложить Яйцо
-    .desc = Заставить носителя изрыгнуть яйцо. Стоит 200 химикатов.
+ent-ActionLayEggHost = Lay Egg
+    .desc = Force your host to vomit an egg. Costs 200 chemicals.

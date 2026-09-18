@@ -1,7 +1,17 @@
-ent-GasPipeSansLayers = газовая труба
-    .desc = Удерживает газ.
+ent-GasPipeSansLayersIndestructible = gas pipe
+    .desc = Holds gas.
+
+# AUTOGEN-Start
+# газовая труба
+# .desc = Удерживает газ.
+# AUTOGEN-End TODO(Update_Locale):
+ent-GasPipeSansLayers = { ent-GasPipeSansLayersIndestructible }
+    .desc = { ent-GasPipeSansLayersIndestructible.desc }
 
 ent-VentCrawlerHolder = держатель для лазания по вентиляции
+    .desc = { "" }
+
+ent-BaseGasPipeLayers = { "" }
     .desc = { "" }
 
 ent-GasPipeBase = труба

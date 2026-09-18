@@ -1,6 +1,10 @@
-ent-CrateHydroponicsSeedsExotic = ящик экзотических семян
-    .suffix = Защищённый
-    .desc = Мечта любого практикующего ботаника. Содержит много экзотических семян. Чтобы открыть, необходим уровень доступа Гидропоника.
+# AUTOGEN-Start
+# ящик экзотических семян
+# .suffix = Защищённый
+# .desc = Мечта любого практикующего ботаника. Содержит много экзотических семян. Чтобы открыть, необходим уровень доступа Гидропоника.
+# AUTOGEN-End TODO(Update_Locale):
+ent-CrateHydroponicsSeedsExotic = dangerous seeds crate
+    .desc = A crate containing dangerous and easily weaponized seeds, best left unpurchased. Requires Hydroponics access to open.
 
 ent-CrateHydroponicsSeedsMedicinal = ящик лекарственных семян
     .suffix = Защищённый

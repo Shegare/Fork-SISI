@@ -1,4 +1,5 @@
-ent-LockerBlueshieldOfficer = шкаф офицера "Синий Щит"
-    .desc = { ent-LockerBaseSecure.desc }
-ent-LockerNanorep = шкаф представителя NanoTrasen
-    .desc = { ent-LockerBaseSecure.desc }
+# AUTOGEN-Start
+# шкаф представителя NanoTrasen
+# AUTOGEN-End TODO(Update_Locale):
+ent-LockerNanorep = nanotrasen representative locker
+    .desc = { ent-LockerBase.desc }

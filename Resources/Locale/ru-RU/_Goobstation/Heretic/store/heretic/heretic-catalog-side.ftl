@@ -244,3 +244,11 @@ knowledge-path-side-t3-medal-desc =
 
     Превратите 2 руки, глаза и нож, чтобы создать Острую медаль.
     Острая медаль позволяет метать ваши клинки как бумеранги, а также действует как фокус.
+
+knowledge-path-side-t3-ash-spirit-name = Ashen Ritual
+knowledge-path-side-t3-ash-spirit-desc =
+    I combined my principle of hunger with my desire for destruction. The Marshal knew my name, and the Nightwatcher gazed on.
+
+    Allows you to transmute a Bonfire and a book to create an Ash Spirit.
+    Ash Spirits have a long range jaunt and the ability to melt the foes at range.
+    You can only create two at a time.

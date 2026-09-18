@@ -23,11 +23,16 @@ traitor-death-match-end-round-description-entry = КПК { $originalName }, с {
 ## TraitorRole
 
 # TraitorRole
+# AUTOGEN-Start
+# Вы - агент организации $corporation на задании [color = darkred]Синдиката.[/color].
+# Ваши цели и кодовые слова перечислены в меню персонажа.
+# Воспользуйтесь своим аплинком, чтобы приобрести всё необходимое для выполнения работы.
+# Смерть NanoTrasen!
+# AUTOGEN-End TODO(Update_Locale):
 traitor-role-greeting =
-    Вы - агент организации { $corporation } на задании [color = darkred]Синдиката.[/color].
-    Ваши цели и кодовые слова перечислены в меню персонажа.
-    Воспользуйтесь своим аплинком, чтобы приобрести всё необходимое для выполнения работы.
-    Смерть NanoTrasen!
+    You are an agent sent by [color = darkred]The Syndicate[/color] on behalf of {$corporation}.
+    Your objectives and codewords are listed in the character menu. Use your uplink to buy the tools you'll need for this mission.
+    Death to Nanotrasen!
 traitor-role-codewords =
     Кодовые слова следующие: [color = lightgray]
     { $codewords }.[/color]
@@ -44,13 +49,11 @@ traitor-role-uplink-implant =
 traitor-role-codewords-short =
     Кодовые слова:
     { $codewords }.
-traitor-role-uplink-code-short = Ваш код аплинка: { $code }. Установите его в качестве рингтона КПК для доступа к аплинку.
-traitor-role-uplink-implant-short = Ваш аплинк был имплантирован. Воспользуйтесь им из хотбара.
-
-traitor-role-moreinfo = Найдите больше информации о своей роли в меню персонажа.
-
-traitor-role-nouplink = У вас нет аплинка Синдиката. Действуйте обдуманно.
-
-traitor-role-allegiances = Ваша приверженность:
-
-traitor-role-notes = Заметки от вашего нанимателя:
+# AUTOGEN-Start
+# Ваш код аплинка: $code. Установите его в качестве рингтона КПК для доступа к аплинку.
+# AUTOGEN-End TODO(Update_Locale):
+traitor-role-uplink-code-short = Your uplink code is {$code}. Set it as your PDA ringtone to access your uplink.
+# AUTOGEN-Start
+# Ваш аплинк был имплантирован. Воспользуйтесь им из хотбара.
+# AUTOGEN-End TODO(Update_Locale):
+traitor-role-uplink-implant-short = Your uplink was implanted. Access it from the action menu.

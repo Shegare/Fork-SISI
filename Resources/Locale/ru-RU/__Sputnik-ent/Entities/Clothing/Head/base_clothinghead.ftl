@@ -10,11 +10,17 @@ ent-ClothingHeadLightBase = базовый шлем с фонарём
 ent-ClothingHeadEVAHelmetBase = базовый космический шлем
     .desc = { ent-ClothingHeadBase.desc }
 
-ent-ClothingHeadHardsuitBase = базовый шлем скафандра
-    .desc = { ent-ClothingHeadBase.desc }
+# AUTOGEN-Start
+# базовый шлем скафандра
+# AUTOGEN-End TODO(Update_Locale):
+ent-ClothingHeadHardsuitBase = base hardsuit helmet
+    .desc = { ent-TemperatureProtection.desc }
 
-ent-ClothingHeadHardsuitWithLightBase = базовый шлем скафандра с фонарём
-    .desc = { ent-ClothingHeadHardsuitBase.desc }
+ent-ClothingHeadHardsuitInsulatedBase = { ent-TemperatureProtection }
+    .desc = { ent-TemperatureProtection.desc }
+
+ent-ClothingHeadSuitWithLightBase = base hardsuit helmet with light
+    .desc = { "" }
 
 ent-ClothingHeadHatHoodWinterBase = базовый капюшон зимней куртки
     .desc = Капюшон, чтобы держать голову в тепле.

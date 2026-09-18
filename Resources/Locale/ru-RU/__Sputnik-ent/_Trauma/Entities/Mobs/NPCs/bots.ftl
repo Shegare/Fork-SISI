@@ -1,9 +1,3 @@
-ent-MobButtBot = попо-бот
-    .desc = Робот, который пукает
-
-ent-MobButtBotCyber = кибер-попо-бот
-    .desc = { ent-MobButtBot.desc }
-
 ent-MobDuckBot = утко-бот
     .desc = Забавная утка
 

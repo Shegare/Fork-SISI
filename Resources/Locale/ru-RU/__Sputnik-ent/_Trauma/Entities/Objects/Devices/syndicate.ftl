@@ -7,3 +7,7 @@ ent-DoorRemoteSyndicate = пульт для дверей синдиката
 
 ent-BorgRadioJammer = радиоглушитель
     .desc = { ent-BaseJammer.desc }
+
+ent-HandheldStationMapRecordsTablet = station map
+    .desc = Displays a readout of the current station.
+    .suffix = Records Tablet

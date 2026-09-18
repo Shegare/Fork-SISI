@@ -14,4 +14,9 @@ roles-antag-shadow-demon-objective = Тьме нужен Король, и вас
 roles-antag-mind-controlled-name = под контролем разума
 roles-antag-mind-controlled-objective = Помогите своему Хозяину
 
+roles-antag-spy-name = Spy
+roles-antag-spy-objective = Steal things and complete your mission.
+
+spy-round-end-agent-name = spy
+
 never-shown = !

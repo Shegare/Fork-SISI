@@ -31,8 +31,11 @@ ent-CrateScience = научный ящик
 ent-CrateSurgery = хирургический ящик
     .desc = { ent-CrateGenericSteel.desc }
 
-ent-CrateWeb = паутинный ящик
-    .desc = { ent-CrateGeneric.desc }
+# AUTOGEN-Start
+# паутинный ящик
+# AUTOGEN-End TODO(Update_Locale):
+ent-CrateWeb = web crate
+    .desc = { ent-BaseCrate.desc }
 
 ent-CrateSecgear = ящик оборудования службы безопасности
     .suffix = Защищённый
@@ -85,11 +88,17 @@ ent-CrateCommandSecure = ящик командования
 ent-CrateSyndicateSecure = защищённый ящик Синдиката
     .desc = Стальной ящик тёмного цвета с красными полосами и выдавленной на передней панели литерой S.
 
-ent-CrateLivestock = ящик для скота
-    .desc = { ent-CrateGeneric.desc }
+# AUTOGEN-Start
+# ящик для скота
+# AUTOGEN-End TODO(Update_Locale):
+ent-CrateLivestock = livestock crate
+    .desc = { ent-BaseCrate.desc }
 
-ent-CrateRodentCage = хомячья клетка
-    .desc = { ent-CrateGeneric.desc }
+# AUTOGEN-Start
+# хомячья клетка
+# AUTOGEN-End TODO(Update_Locale):
+ent-CrateRodentCage = hamster cage
+    .desc = { ent-BaseCrate.desc }
 
 ent-CrateBaseLockBox = ящик с замком
     .desc = Защищённый ящик с замком. Прибыль с его продажи будет начислена обратно отделу. Но помните: Карго всегда получает свою долю.
