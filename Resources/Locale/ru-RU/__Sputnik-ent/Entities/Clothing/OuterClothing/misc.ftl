@@ -56,8 +56,8 @@ ent-ClothingOuterWizard = мантия волшебника
 ent-ClothingOuterWizardRed = красная мантия волшебника
     .desc = Причудливая инкрустированная драгоценными камнями красная мантия, излучающая магическую энергию.
 
-ent-ClothingOuterWizardFake = fake wizard robes
-    .desc = Covered in glittery stars and mystery stains. Instantly boosts your arcane fashion sense.
+ent-ClothingOuterWizardFake = поддельная мантия волшебника
+    .desc = Покрыта блестящими звёздами и загадочными пятнами. Мгновенно улучшает ваше чувство магического стиля.
 
 ent-ClothingOuterSkub = костюм скаба
     .desc = На внешней стороне этого цилиндрического костюма грубо написано Скаб.

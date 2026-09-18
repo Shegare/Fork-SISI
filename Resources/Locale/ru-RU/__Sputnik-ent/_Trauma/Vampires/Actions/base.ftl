@@ -17,8 +17,8 @@ ent-ActionVampireGlare = Пронзающий взгляд
 # Выбрать специализацию
 # .desc = Выбрать специализацию
 # AUTOGEN-End TODO(Update_Locale):
-ent-ActionChooseSpecialization = Choose Specialization
-    .desc = Choose your vampire class!
+ent-ActionChooseSpecialization = Выбрать специализацию
+    .desc = Выберите свой вампирский класс!
 
 ent-ActionCreateLair = Создать логово
     .desc = Примените это действие к гробу, чтобы сделать его своим логовом. Внутри логова вы будете исцеляться и сможете телепортироваться туда после смерти. Вы можете создать только одно логово, так что будьте осторожны.

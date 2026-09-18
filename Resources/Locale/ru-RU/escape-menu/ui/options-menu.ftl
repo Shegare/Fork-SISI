@@ -39,10 +39,10 @@ ui-options-restart-sounds = Звуки перезапуска раунда
 ui-options-event-music = Музыка событий
 ui-options-admin-sounds = Музыка админов
 ui-options-bwoink-sound = Звук уведомления Ахелпа
-ui-options-mute-unfocused = Mute audio when unfocused
-ui-options-audio-device = Output device:
-ui-options-audio-device-default = System default
-ui-options-audio-hrtf = Enable HRTF Audio Processing (Requires Restart)
+ui-options-mute-unfocused = Отключать звук, когда окно не в фокусе
+ui-options-audio-device = Устройство вывода:
+ui-options-audio-device-default = Системное по умолчанию
+ui-options-audio-hrtf = Включить обработку звука HRTF (требуется перезапуск)
 ui-options-volume-label = Громкость
 
 ## Graphics menu
@@ -112,7 +112,7 @@ ui-options-ambient-occlusion = Отображать окружающее зат�
 ui-options-fps-counter = Показать счётчик FPS
 ui-options-vp-width = Ширина окна игры:
 ui-options-hud-layout = Тип HUD:
-ui-options-sharpness = Sharpness:
+ui-options-sharpness = Резкость:
 
 ## Controls menu
 
@@ -332,7 +332,7 @@ cmd-options-help = Использование: options [tab]
 
 ## Accessibility menu
 
-ui-options-accessibility-header-reduced-motion = Reduced Motion
+ui-options-accessibility-header-reduced-motion = Уменьшение движения
 ui-options-accessibility-header-visuals = Визуальные эффекты
 ui-options-accessibility-header-content = Содержимое
 
@@ -342,33 +342,33 @@ ui-options-colorblind-friendly = Режим для дальтоников
 # AUTOGEN-Start
 # Снижение интенсивности визуальных эффектов
 # AUTOGEN-End TODO(Update_Locale):
-ui-options-reduced-motion = Reduce general visual effects
-ui-options-reduced-motion-tooltip = Toggle on to show alternative sprites with reduced motion for some items.
+ui-options-reduced-motion = Уменьшать общие визуальные эффекты
+ui-options-reduced-motion-tooltip = Включите, чтобы для некоторых предметов отображались альтернативные спрайты с уменьшенной анимацией.
 
 # accessibility option tooltips taken from CVar summary blocks.
 
 # AUTOGEN-Start
 # Отключить эффект статики на оверлее камеры ИИ
 # AUTOGEN-End TODO(Update_Locale):
-ui-options-disable-ai-static = AI camera static
-ui-options-disable-ai-static-tooltip = Replaces the AI static camera effect with a plain gradient.
-ui-options-disable-blurry-vision = Blurry vision
-ui-options-disable-blurry-vision-tooltip = Replaces the movement in the blurry shader with a static effect.
-ui-options-disable-drunk-overlay = Drunk overlay
-ui-options-disable-drunk-overlay-tooltip = Replaces the movement in the drunk shader with a static offset.
-ui-options-disable-flash-effect = Flash
-ui-options-disable-flash-effect-tooltip = Replaces the 'flash' effect with a reduced movement equivalent.
-ui-options-disable-heat-distortion = Heat distortion
-ui-options-disable-heat-distortion-tooltip = Decreases motion on the heat distortion shader.
+ui-options-disable-ai-static = Статика камеры ИИ
+ui-options-disable-ai-static-tooltip = Заменяет эффект статики камеры ИИ обычным градиентом.
+ui-options-disable-blurry-vision = Размытое зрение
+ui-options-disable-blurry-vision-tooltip = Заменяет движение в шейдере размытия статичным эффектом.
+ui-options-disable-drunk-overlay = Эффект опьянения
+ui-options-disable-drunk-overlay-tooltip = Заменяет движение в шейдере опьянения статичным смещением.
+ui-options-disable-flash-effect = Вспышка
+ui-options-disable-flash-effect-tooltip = Заменяет эффект «вспышки» на эквивалент с уменьшенным движением.
+ui-options-disable-heat-distortion = Искажение от жары
+ui-options-disable-heat-distortion-tooltip = Уменьшает движение в шейдере искажения от жары.
 # AUTOGEN-Start
 # Отключить эффект шума на оверлее ночного видения
 # AUTOGEN-End TODO(Update_Locale):
-ui-options-disable-nv-noise = Night vision overlay
-ui-options-disable-nv-noise-tooltip = Disables the noise effect on the night vision overlay.
-ui-options-disable-rainbow-overlay = Rainbow overlay
-ui-options-disable-rainbow-overlay-tooltip = Replaces the movement in the rainbow overlay shader with a static offset.
-ui-options-disable-singulo-warp = Singularity
-ui-options-disable-singulo-warp-tooltip = Disables the screen warping effect on the singularity.
+ui-options-disable-nv-noise = Оверлей ночного видения
+ui-options-disable-nv-noise-tooltip = Отключает эффект шума на оверлее ночного видения.
+ui-options-disable-rainbow-overlay = Радужный оверлей
+ui-options-disable-rainbow-overlay-tooltip = Заменяет движение в шейдере радужного оверлея статичным смещением.
+ui-options-disable-singulo-warp = Сингулярность
+ui-options-disable-singulo-warp-tooltip = Отключает эффект искажения экрана сингулярностью.
 
 ui-options-screen-shake-intensity = Интенсивность дрожания экрана
 

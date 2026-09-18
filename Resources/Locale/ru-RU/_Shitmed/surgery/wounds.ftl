@@ -8,38 +8,38 @@ inspect-wound-Bleeding-minor = легкое кровотечение
 inspect-wound-Bleeding-moderate = кровотечение
 inspect-wound-Bleeding-severe = сильное кровотечение
 
-inspect-wound-Blunt-minor = bruised
-inspect-wound-Blunt-moderate = battered
-inspect-wound-Blunt-severe = heavily bruised
-inspect-wound-Slash-minor = cut
-inspect-wound-Slash-moderate = lacerated
-inspect-wound-Slash-severe = almost severed.
-inspect-wound-Pierce-minor = stabbed
-inspect-wound-Pierce-moderate = punctured
-inspect-wound-Pierce-severe = severely impaled
-inspect-wound-Ballistic-minor = shot
-inspect-wound-Ballistic-moderate = blasted
-inspect-wound-Ballistic-severe = littered with bullet holes
+inspect-wound-Blunt-minor = ушиблено
+inspect-wound-Blunt-moderate = побито
+inspect-wound-Blunt-severe = сильно ушиблено
+inspect-wound-Slash-minor = порезано
+inspect-wound-Slash-moderate = рассечено
+inspect-wound-Slash-severe = почти отсечено.
+inspect-wound-Pierce-minor = проколото
+inspect-wound-Pierce-moderate = пробито
+inspect-wound-Pierce-severe = сильно пронзено
+inspect-wound-Ballistic-minor = прострелено
+inspect-wound-Ballistic-moderate = разнесено выстрелом
+inspect-wound-Ballistic-severe = усеяно пулевыми отверстиями
 
 # AUTOGEN-Start
 # покраснение
 # AUTOGEN-End TODO(Update_Locale):
-inspect-wound-Burn-minor = burned
+inspect-wound-Burn-minor = обожжено
 inspect-wound-Burn-moderate = покрыто волдырями
 inspect-wound-Burn-severe = кожа отслаивается
-inspect-wound-Cold-minor = cold
-inspect-wound-Cold-moderate = frozen
-inspect-wound-Cold-severe = frostbitten
-inspect-wound-Shock-minor = arc burned
-inspect-wound-Shock-moderate = zapped
-inspect-wound-Shock-severe = covered in electrical burns
-inspect-wound-Caustic-minor = severely burned
-inspect-wound-Caustic-moderate = melted
-inspect-wound-Caustic-severe = necrotic
+inspect-wound-Cold-minor = охлаждено
+inspect-wound-Cold-moderate = заморожено
+inspect-wound-Cold-severe = обморожено
+inspect-wound-Shock-minor = обожжено дугой
+inspect-wound-Shock-moderate = поражено током
+inspect-wound-Shock-severe = покрыто электрическими ожогами
+inspect-wound-Caustic-minor = сильно обожжено
+inspect-wound-Caustic-moderate = расплавлено
+inspect-wound-Caustic-severe = омертвело
 
-inspect-wound-Holy-minor = glowing
-inspect-wound-Holy-moderate = melted
-inspect-wound-Holy-severe = completely covered in acid burns
+inspect-wound-Holy-minor = светится
+inspect-wound-Holy-moderate = расплавлено
+inspect-wound-Holy-severe = полностью покрыто кислотными ожогами
 
 inspect-wound-weeping-avulsion-minor = разорвано
 inspect-wound-weeping-avulsion-moderate = полностью разорвано

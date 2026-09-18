@@ -26,8 +26,8 @@ reagent-desc-buzzochloric-bees = Жидкие пчёлы. О боже, это Ж
 reagent-name-ground-bee = молотые пчёлы
 reagent-desc-ground-bee = Молотые пчёлы. Мерзость.
 
-reagent-name-brass = brass
-reagent-desc-brass = Smells like clockwork.
+reagent-name-brass = латунь
+reagent-desc-brass = Пахнет часовым механизмом.
 
 reagent-name-licoxide = ликоксид
 reagent-desc-licoxide = Синтетическая аккумуляторная кислота. Выглядит... электризующе.
@@ -47,8 +47,8 @@ reagent-desc-weh = Чистая сущность плюшевого унатха
 reagent-name-hew = сок, заставляющий говорить Хев
 reagent-desc-hew = Чистая сущность инвертированного плюшевого унатха. Заставляет вас говорить Хев!
 
-reagent-name-catessence = felinase
-reagent-desc-catessence = A type of carcinogenic enzyme known to break down proteins found within the vocal cords of most animals. Mixing is NOT recommended.
+reagent-name-catessence = фелиназа
+reagent-desc-catessence = Канцерогенный фермент, расщепляющий белки в голосовых связках большинства животных. Смешивание НЕ рекомендуется.
 
-reagent-name-canidessence = caninase
-reagent-desc-canidessence = A type of carcinogenic enzyme known to break down proteins found within the vocal cords of most animals. Mixing is NOT recommended.
+reagent-name-canidessence = киназа
+reagent-desc-canidessence = Канцерогенный фермент, расщепляющий белки в голосовых связках большинства животных. Смешивание НЕ рекомендуется.

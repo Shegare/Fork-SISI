@@ -70,8 +70,8 @@ xenoarch-trigger-tip-frezon = Фрезон
 # AUTOGEN-Start
 # Радиация
 # AUTOGEN-End TODO(Update_Locale):
-xenoarch-trigger-tip-radiation = Heavy-ion radiation
-xenoarch-trigger-tip-microwave = Microwave radiation
+xenoarch-trigger-tip-radiation = Ионизирующее излучение
+xenoarch-trigger-tip-microwave = Микроволновое излучение
 xenoarch-trigger-tip-brute-damage = Физическое повреждение
 xenoarch-trigger-tip-interaction = Физическое взаимодействие
 xenoarch-trigger-tip-wrenching = Закручивание
@@ -86,13 +86,13 @@ xenoarch-trigger-tip-blood = Кровь
 xenoarch-trigger-tip-throw = Бросок
 xenoarch-trigger-tip-death = Смерть
 xenoarch-trigger-tip-magnet = Магнитные волны
-xenoarch-trigger-tip-money = Bribery
-xenoarch-trigger-tip-knowledge = Knowledge Intake
-xenoarch-trigger-tip-carbs = Carbohydrate Intake
-xenoarch-trigger-tip-meat = Protein Intake
-xenoarch-trigger-tip-produce = Healthy Produce Intake
-xenoarch-trigger-tip-stamp = Bureaucratic Approval
-xenoarch-trigger-tip-shock = Electrical Shock
+xenoarch-trigger-tip-money = Взятка
+xenoarch-trigger-tip-knowledge = Поглощение знаний
+xenoarch-trigger-tip-carbs = Поглощение углеводов
+xenoarch-trigger-tip-meat = Поглощение белка
+xenoarch-trigger-tip-produce = Поглощение здоровой пищи
+xenoarch-trigger-tip-stamp = Бюрократическое одобрение
+xenoarch-trigger-tip-shock = Электрический разряд
 
 ### Description hints
 xenoarch-trigger-examine-wrenching = На поверхности что-то свободно вращается.

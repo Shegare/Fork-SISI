@@ -1,11 +1,11 @@
-ent-BaseBloomery = unlit bloomery
+ent-BaseBloomery = незажжённый сыродутный горн
     .desc = { ent-BaseStructure.desc }
 
-ent-BaseBloomeryLit = lit bloomery
+ent-BaseBloomeryLit = разожжённый сыродутный горн
     .desc = { ent-BaseBloomery.desc }
 
-ent-BaseBloomeryComplete = smoking bloomery
-    .desc = Looks ready, smash it open.
+ent-BaseBloomeryComplete = дымящийся сыродутный горн
+    .desc = Выглядит готовым, разбейте его.
 
 ent-BloomeryCold = потухший сыродутный горн
     .desc = Перед розжигом нужно загрузить углём и металлическим ломом.
@@ -15,40 +15,40 @@ ent-BloomeryCold = потухший сыродутный горн
 # .desc = Загружен латунью, осталось только разжечь.
 # AUTOGEN-End TODO(Update_Locale):
 ent-BloomeryColdBrass = { ent-BaseBloomery }
-    .desc = Loaded with brass, just needs firing.
-    .suffix = Brass
+    .desc = Загружен латунью, осталось только разжечь.
+    .suffix = Латунь
 
 # AUTOGEN-Start
 # потухший сыродутный горн
 # .desc = Загружен пласталью, осталось только разжечь.
 # AUTOGEN-End TODO(Update_Locale):
 ent-BloomeryColdPlasteel = { ent-BaseBloomery }
-    .desc = Loaded with plasteel, just needs firing.
-    .suffix = Plasteel
+    .desc = Загружен пласталью, осталось только разжечь.
+    .suffix = Пласталь
 
 # AUTOGEN-Start
 # потухший сыродутный горн
 # .desc = Загружен сталью, осталось только разжечь.
 # AUTOGEN-End TODO(Update_Locale):
 ent-BloomeryColdSteel = { ent-BaseBloomery }
-    .desc = Loaded with steel, just needs firing.
-    .suffix = Steel
+    .desc = Загружен сталью, осталось только разжечь.
+    .suffix = Сталь
 
 # AUTOGEN-Start
 # разожжённый сыродутный горн
 # .desc = Загружен латунью, дайте ему немного погореть, и он будет готов.
 # AUTOGEN-End TODO(Update_Locale):
 ent-BloomeryLitBrass = { ent-BaseBloomeryLit }
-    .desc = Loaded with brass, give it some time to burn and it will be ready.
-    .suffix = Brass
+    .desc = Загружен латунью, дайте ему немного погореть, и он будет готов.
+    .suffix = Латунь
 
 # AUTOGEN-Start
 # разожжённый сыродутный горн
 # .desc = Загружен сталью, дайте ему немного погореть, и он будет готов.
 # AUTOGEN-End TODO(Update_Locale):
 ent-BloomeryLitSteel = { ent-BaseBloomeryLit }
-    .desc = Loaded with steel, give it some time to burn and it will be ready.
-    .suffix = Steel
+    .desc = Загружен сталью, дайте ему немного погореть, и он будет готов.
+    .suffix = Сталь
 
 ent-BloomeryLitPlasteel = разожжённый сыродутный горн
     .desc = Загружен пласталью, дайте ему немного погореть, и он будет готов.
@@ -59,7 +59,7 @@ ent-BloomeryLitPlasteel = разожжённый сыродутный горн
 # AUTOGEN-End TODO(Update_Locale):
 ent-BloomeryCompletePlasteel = { ent-BaseBloomeryComplete }
     .desc = { ent-BaseBloomeryComplete.desc }
-    .suffix = Plasteel
+    .suffix = Пласталь
 
 # AUTOGEN-Start
 # дымящийся сыродутный горн
@@ -67,7 +67,7 @@ ent-BloomeryCompletePlasteel = { ent-BaseBloomeryComplete }
 # AUTOGEN-End TODO(Update_Locale):
 ent-BloomeryCompleteSteel = { ent-BaseBloomeryComplete }
     .desc = { ent-BaseBloomeryComplete.desc }
-    .suffix = Steel
+    .suffix = Сталь
 
 # AUTOGEN-Start
 # дымящийся сыродутный горн
@@ -75,4 +75,4 @@ ent-BloomeryCompleteSteel = { ent-BaseBloomeryComplete }
 # AUTOGEN-End TODO(Update_Locale):
 ent-BloomeryCompleteBrass = { ent-BaseBloomeryComplete }
     .desc = { ent-BaseBloomeryComplete.desc }
-    .suffix = Brass
+    .suffix = Латунь

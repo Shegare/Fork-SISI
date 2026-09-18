@@ -34,8 +34,8 @@ ent-DnaScramblerImplant = имплант "миксер ДНК"
 ent-ChameleonControllerImplant = имплант "контроллер хамелеона"
     .desc = Этот имплант позволяет пользователю мгновенно менять внешний вид всех надетых хамелеон-вещей.
 
-ent-VoiceMaskImplant = identity mask implant
-    .desc = This implant allows you to change your identity at will.
+ent-VoiceMaskImplant = имплант маскировки личности
+    .desc = Этот имплант позволяет по желанию менять личность.
 
 ent-MicroBombImplant = имплант "микробомба"
     .desc = Этот имплант взрывает пользователя при активации или после смерти.

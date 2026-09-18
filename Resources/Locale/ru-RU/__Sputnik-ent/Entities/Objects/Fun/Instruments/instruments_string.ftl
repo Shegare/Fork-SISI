@@ -10,8 +10,8 @@ ent-ElectricGuitarInstrument = электрогитара
 ent-BassGuitarInstrument = бас-гитара
     .desc = Вы чувствуете себя очень крутым, держа её в руках. Досадно, что вы одни так думаете.
 
-ent-FretlessBassGuitarInstrument = fretless bass guitar
-    .desc = You feel really cool holding this. Shame only fretted bass players think that.
+ent-FretlessBassGuitarInstrument = безладовая бас-гитара
+    .desc = Держа её, вы чувствуете себя очень круто. Жаль, так думают только бас-гитаристы с ладами.
 
 ent-RockGuitarInstrument = рок-гитара
     .desc = Вот это топор!

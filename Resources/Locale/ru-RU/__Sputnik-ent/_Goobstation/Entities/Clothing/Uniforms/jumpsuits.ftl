@@ -83,5 +83,5 @@ ent-ClothingUniformJumpsuitResearchDirectorAlt = водолазка научно
 ent-ClothingUniformJumpsuitVeteranSecurity = дышащий комбинезон СБ
     .desc = Дышащая версия стандартного комбинезона Службы Безопасности, обычно выдаётся в те смены, когда не хватает атмосов.
 
-ent-ClothingUniformJumpsuitGoldenLiaison = Golden Liaison CentCom Jumpsuit
-    .desc = A finely-tailored white-and-gold uniform worn by senior officials of Central Command.
+ent-ClothingUniformJumpsuitGoldenLiaison = золотой комбинезон представителя ЦК
+    .desc = Тщательно скроенная бело-золотая форма, которую носят высокопоставленные представители Центрального Командования.

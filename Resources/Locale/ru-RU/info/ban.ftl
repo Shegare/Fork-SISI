@@ -4,7 +4,7 @@ cmd-ban-desc = Банит кого-либо
 # AUTOGEN-Start
 # Использование: ban <name or user ID> <reason> [продолжительность в минутах, без указания или 0 для пермабана]
 # AUTOGEN-End TODO(Update_Locale):
-cmd-ban-help = Usage: ban <name or user ID> <reason> [duration in minutes, leave out or 0 for permanent ban] [severity] [webhook reason override]
+cmd-ban-help = Использование: ban <имя или ID пользователя> <причина> [продолжительность в минутах, не указывать или 0 для перманентного бана] [тяжесть] [переопределение причины вебхука]
 cmd-ban-player = Не удалось найти игрока с таким именем.
 cmd-ban-invalid-minutes = { $minutes } не является допустимым количеством минут!
 cmd-ban-invalid-severity = { $severity } не является допустимой тяжестью!
@@ -52,7 +52,7 @@ cmd-ban_exemption_get-help = Использование: ban_exemption_get <play
 cmd-ban_exemption_get-nargs = Ожидался ровно 1 аргумент
 cmd-ban_exemption_get-none = Пользователь не имеет исключений от банов.
 cmd-ban_exemption_get-show = Пользователь исключён из банов со следующими флагами: { $flags }.
-cmd-ban_exemption_get-arg-player = <player>
+cmd-ban_exemption_get-arg-player = <игрок>
 
 # Ban panel
 ban-panel-title = Панель банов
@@ -82,10 +82,10 @@ ban-panel-permanent = Навсегда
 ban-panel-ip-hwid-tooltip = Оставьте пустым и установите флажок ниже, чтобы использовать данные последнего подключения
 ban-panel-severity = Тяжесть:
 ban-panel-erase = Стереть сообщения в чате и игрока из раунда
-ban-panel-expiry-error = err
+ban-panel-expiry-error = ошибка
 
 # Ban string
-server-ban-string = {$admin} created a {$severity} severity server ban that expires {$expires} for [{$name}, {$ip}, {$hwid}], with reason: {$reason}
+server-ban-string = {$admin} создал серверный бан {$severity} тяжести, истекающий {$expires}, для [{$name}, {$ip}, {$hwid}], причина: {$reason}
 server-ban-string-no-pii = { $admin } установил серверный бан { $severity } тяжести, который истечёт { $expires } у { $name } с причиной: { $reason }
 server-ban-string-never = никогда
 

@@ -20,8 +20,8 @@ ent-NutrimentPumpImplant = имплант питательного насоса
 # имплант космо-защиты
 # .desc = Этот имплант позволяет выживать в космосе и без воздуха.
 # AUTOGEN-End TODO(Update_Locale):
-ent-SpaceProofImplant = space proofing implant
-    .desc = This implant allows the user to survive without air or warmth.
+ent-SpaceProofImplant = имплант космо-защиты
+    .desc = Этот имплант позволяет выживать без воздуха и тепла.
 
 ent-StypticStimulatorImplant = имплант стимулятора заживления
     .desc = Этот имплант резко ускоряет регенерацию носителя.

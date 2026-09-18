@@ -1,2 +1,2 @@
-ent-StatusEffectCorticalBorerProtection = cortical borer protection
+ent-StatusEffectCorticalBorerProtection = защита от кортикального бурильщика
     .desc = { ent-MobStatusEffectBase.desc }

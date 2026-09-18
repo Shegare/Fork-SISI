@@ -1,2 +1,2 @@
-ent-TelescopicMace = telescopic mace
-    .desc = A compact personal defense weapon. Perfect for fending off people who want to interrupt your rescue attempts or get in your way.
+ent-TelescopicMace = телескопическая булава
+    .desc = Компактное оружие самообороны. Идеально подходит для отпугивания тех, кто хочет помешать вашим попыткам спасения или встать у вас на пути.

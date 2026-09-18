@@ -13,17 +13,17 @@ uplink-caseless-pistol-poison-desc = Магазин с 10 патронами я�
 # AUTOGEN-Start
 # барабанный магазин (12 калибр)
 # AUTOGEN-End TODO(Update_Locale):
-uplink-magazine-bulldog-pellet-name-trauma = Drum Magazine (12 gauge shot)
+uplink-magazine-bulldog-pellet-name-trauma = барабанный магазин (12 калибр, дробь)
 
 # AUTOGEN-Start
 # барабанный магазин (12 калибр)
 # AUTOGEN-End TODO(Update_Locale):
-uplink-magazine-bulldog-slug-name-trauma = Drum Magazine (12 gauge slug)
+uplink-magazine-bulldog-slug-name-trauma = барабанный магазин (12 калибр, пуля)
 
 # AUTOGEN-Start
 # магазин для ПП (.35 авто)
 # AUTOGEN-End TODO(Update_Locale):
-uplink-pistol-magazine-c20r-name-trauma = SMG Magazine (9mm)
+uplink-pistol-magazine-c20r-name-trauma = магазин для ПП (9 мм)
 
-uplink-speedloader-magnum-name = Speedloader (.45 magnum AP)
-uplink-speedloader-magnum-desc = Revolver speedloader with 6 armor-piercing cartridges, capable of ignoring armor entirely. Compatible with the Python.
+uplink-speedloader-magnum-name = Спидлоадер (.45 магнум, бронебойные)
+uplink-speedloader-magnum-desc = Спидлоадер револьвера с 6 бронебойными патронами, способными полностью игнорировать броню. Совместим с «Питоном».

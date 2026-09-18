@@ -21,20 +21,20 @@ ent-d6Dice = d6
 
 ent-d6DiceTricked = { ent-d6Dice }
     .desc = { ent-d6Dice.desc }
-    .suffix = Tricked
+    .suffix = Обманка
 
 ent-d4Dice = d4
     .desc = Кость с 4 сторонами. Отдых для ботанов.
 
-ent-d2Dice = Heads or Tails Coin
-    .desc = Some sort of two-sided die. Designed to represent the struggle between Nanotrasen and the Syndicate.
+ent-d2Dice = монета орёл или решка
+    .desc = Какая-то двусторонняя кость. Создана, чтобы символизировать борьбу между NanoTrasen и Синдикатом.
 
 ent-d2DiceTricked = { ent-d2Dice }
     .desc = { ent-d2Dice.desc }
-    .suffix = Tricked
+    .suffix = Обманка
 
-ent-DiceBag = bag of dice
-    .desc = Contains all the luck you'll ever need.
+ent-DiceBag = мешок с костями
+    .desc = Содержит всю удачу, которая вам когда-либо понадобится.
 
-ent-MagicDiceBag = bag of dice
+ent-MagicDiceBag = мешок с костями
     .desc = { ent-DiceBag.desc }

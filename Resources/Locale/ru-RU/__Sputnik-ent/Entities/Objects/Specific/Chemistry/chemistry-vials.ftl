@@ -10,8 +10,8 @@ ent-ChemistryEmptyVial = флакон
 ent-ChemistryEmptyVialSmall = мини-флакон
     .desc = Флакон меньшего размера.
 
-ent-ChemistryEmptyAmpoule = ampoule
-    .desc = Break to open.
+ent-ChemistryEmptyAmpoule = ампула
+    .desc = Разбейте, чтобы открыть.
 
 ent-VestineChemistryVial = { ent-ChemistryEmptyVial }
     .desc = { ent-ChemistryEmptyVial.desc }
@@ -31,4 +31,4 @@ ent-PlasmaChemistryVial = { ent-ChemistryEmptyVialSmall }
 
 ent-XenoborgOilChemistryAmpoule = { ent-ChemistryEmptyAmpoule }
     .desc = { ent-ChemistryEmptyAmpoule.desc }
-    .suffix = xenoborg oil
+    .suffix = масло ксеноборга

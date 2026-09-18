@@ -1,36 +1,36 @@
 # Command
 highlights-captain = Капитан, "Кэп", "Мостик", "Командование"
-highlights-headofpersonnel = Head Of Personnel, "HoP", Service, "Bridge", "Command"
-highlights-chiefengineer = Chief Engineer, "CE", Engineering, Engineer, "Engi", "Bridge", "Command"
-highlights-chiefmedicalofficer = Chief Medical Officer, "CMO", Medbay, Medical, "Med", "Bridge", "Command"
-highlights-headofsecurity = Head of Security, "HoS", Armory, Security, "Sec", "Bridge", "Command"
+highlights-headofpersonnel = Глава персонала, "ГП", Сервис, "Мостик", "Командование"
+highlights-chiefengineer = Главный инженер, "ГИ", Инженерный, Инженер, "Инжи", "Мостик", "Командование"
+highlights-chiefmedicalofficer = Главный врач, "ГВ", Медбей, Медицинский, "Мед", "Мостик", "Командование"
+highlights-headofsecurity = Глава службы безопасности, "ГСБ", Арсенал, Безопасность, "Сек", "Мостик", "Командование"
 highlights-quartermaster = Квартирмейстер, "КМ", Карго, Снабжение, "Мостик", "Командование"
-highlights-researchdirector = Research Director, "RD", Science, "Sci", "RND", "R&D", "Bridge", "Command"
+highlights-researchdirector = Научный руководитель, "НР", Наука, "Науч", "НИР", "НИОКР", "Мостик", "Командование"
 
 # Security
 highlights-detective = Детектив, "Дек", Служба безопасности, Бриг, "СБ", "КЗ"
-highlights-securitycadet = Security Cadet, Secoff, Cadet, Armory, Security, "Sec"
-highlights-securityofficer = Security Officer, Secoff, Officer, Armory, Security, "Sec"
+highlights-securitycadet = Кадет службы безопасности, Офицер СБ, Кадет, Арсенал, Безопасность, "Сек"
+highlights-securityofficer = Офицер службы безопасности, Офицер СБ, Офицер, Арсенал, Безопасность, "Сек"
 highlights-warden = Смотритель, "Варден", Служба безопасности, Бриг, "СБ", "КЗ", "Перма", Пермабриг
 
 # Cargo
-highlights-cargotechnician = Cargo Technician, Cargo Tech, "Cargo", Supply
-highlights-salvagespecialist = Salvage Specialist, Salvager, Salvage, "Salv", Miner, "Cargo", Supply
+highlights-cargotechnician = Техник снабжения, Техник карго, "Карго", Снабжение
+highlights-salvagespecialist = Специалист по утилизации, Утилизатор, Утилизация, "Утил", Шахтёр, "Карго", Снабжение
 
 # Engineering
-highlights-atmospherictechnician = Atmospheric Technician, Atmos Tech, Atmospheric, Engineering, "Atmos", "Engi"
-highlights-stationengineer = Station Engineer, Engineering, Engineer, "Engi"
-highlights-technicalassistant = Technical Assistant, Tech Assistant, Engineering, Engineer, "Engi"
+highlights-atmospherictechnician = Атмосферный техник, Атмос-техник, Атмосфера, Инженерный, "Атмос", "Инжи"
+highlights-stationengineer = Станционный инженер, Инженерный, Инженер, "Инжи"
+highlights-technicalassistant = Технический ассистент, Техассистент, Инженерный, Инженер, "Инжи"
 
 # Medical
 highlights-chemist = Химик, Химическая, "Хим", Химка, Химическая лаборатория, Медбей, "Мед", Медицинский
-highlights-medicaldoctor = Medical Doctor, Doctor, "Doc", Medbay, Medical, "Med"
-highlights-medicalintern = Medical Intern, Intern, Medbay, Medical, "Med"
+highlights-medicaldoctor = Врач, Доктор, "Док", Медбей, Медицинский, "Мед"
+highlights-medicalintern = Медицинский интерн, Интерн, Медбей, Медицинский, "Мед"
 highlights-paramedic = Парамедик, "Парамед", Доктор, "Док", "Медик", Медбей, "Мед", Медицинский
 
 # Science
 highlights-scientist = Ученый, Наука, "НИО", Робототехника, Робототехник, "Робо"
-highlights-researchassistant = Research Assistant, Science, "Sci", "RND", "R&D"
+highlights-researchassistant = Научный ассистент, Наука, "Науч", "НИР", "НИОКР"
 
 # Civilian
 highlights-bartender = Бармен, "Бар"
@@ -44,12 +44,12 @@ highlights-librarian = Библиотекарь, Библиотека
 highlights-mime = Мим
 highlights-musician = Музыкант, "Музыка", Театр, Сервис, "Серв"
 highlights-passenger = Ассистент, Грейтайд
-highlights-serviceworker = Service Worker, Service, "Serv"
+highlights-serviceworker = Работник сервиса, Сервис, "Серв"
 
 # Station-specific
 highlights-reporter = Репортер, Журналист
 highlights-psychologist = Психолог, Психология
 
 # Silicon
-highlights-borg = Cyborg, Silicon, Borg, Robotics, "Robot"
-highlights-stationai = Station AI, Silicon, "AI", "sAI"
+highlights-borg = Киборг, Синтетик, Борг, Робототехника, "Робот"
+highlights-stationai = Станционный ИИ, Синтетик, "ИИ", "сИИ"

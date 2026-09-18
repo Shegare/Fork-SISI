@@ -1,89 +1,89 @@
-ent-SkillChipArmorsmithing = MRAM-Chip (Memories of an Armorsmith)
+ent-SkillChipArmorsmithing = MRAM-чип (воспоминания оружейника)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipArmorsmithing2 = MRAM-Chip (Memories of a Master Armorsmith)
+ent-SkillChipArmorsmithing2 = MRAM-чип (воспоминания мастера-оружейника)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipWeaponsmithing = MRAM-Chip (Memories of a Weaponsmith)
+ent-SkillChipWeaponsmithing = MRAM-чип (воспоминания оружейника)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipWeaponsmithing2 = MRAM-Chip (Memories of a Master Weaponsmith)
+ent-SkillChipWeaponsmithing2 = MRAM-чип (воспоминания мастера-оружейника)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipBlacksmith = MRAM-Chip (Memories of a Blacksmith)
+ent-SkillChipBlacksmith = MRAM-чип (воспоминания кузнеца)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipBlacksmith2 = MRAM-Chip (Memories of a Master Blacksmith)
+ent-SkillChipBlacksmith2 = MRAM-чип (воспоминания мастера-кузнеца)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipWoodworker = MRAM-Chip (Memories of a Woodworker)
+ent-SkillChipWoodworker = MRAM-чип (воспоминания плотника)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipWoodworker2 = MRAM-Chip (Memories of a Master Woodworker)
+ent-SkillChipWoodworker2 = MRAM-чип (воспоминания мастера-плотника)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipGunsmith = MRAM-Chip (Memories of a Gunsmith)
+ent-SkillChipGunsmith = MRAM-чип (воспоминания оружейного мастера)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipGunsmith2 = MRAM-Chip (Memories of a Master Gunsmith)
+ent-SkillChipGunsmith2 = MRAM-чип (воспоминания мастера-оружейника)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipMechanic = MRAM-Chip (Memories of a Mechanic)
+ent-SkillChipMechanic = MRAM-чип (воспоминания механика)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipMechanic2 = MRAM-Chip (Memories of a Master Mechanic)
+ent-SkillChipMechanic2 = MRAM-чип (воспоминания мастера-механика)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipElectronics = MRAM-Chip (Memories of an Electrician)
+ent-SkillChipElectronics = MRAM-чип (воспоминания электрика)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipElectronics2 = MRAM-Chip (Memories of a Master Electrician)
+ent-SkillChipElectronics2 = MRAM-чип (воспоминания мастера-электрика)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipTailor = MRAM-Chip (Memories of a Tailor)
+ent-SkillChipTailor = MRAM-чип (воспоминания портного)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipTailor2 = MRAM-Chip (Memories of a Master Tailor)
+ent-SkillChipTailor2 = MRAM-чип (воспоминания мастера-портного)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipStoner = MRAM-Chip (Memories of a Stoner)
+ent-SkillChipStoner = MRAM-чип (воспоминания любителя покурить)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipDatabase = MRAM-Chip (Crafting Database)
+ent-SkillChipDatabase = MRAM-чип (база данных крафта)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipEducation = MRAM-Chip (Standard Clone Education)
+ent-SkillChipEducation = MRAM-чип (стандартное обучение клона)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipCombatEducation = MRAM/HPYS-Chip (Combat Clone Education)
+ent-SkillChipCombatEducation = MRAM/HPYS-чип (боевое обучение клона)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipEchelonEducation = MRAM/HPYS-Chip (Echelon Clone Education)
+ent-SkillChipEchelonEducation = MRAM/HPYS-чип (обучение клона эшелона)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipMagLit = MRAM-Chip (Memories of a Cultist)
+ent-SkillChipMagLit = MRAM-чип (воспоминания культиста)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipJanitor = MRAM-Chip (Memories of a Janitor)
+ent-SkillChipJanitor = MRAM-чип (воспоминания уборщика)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipChef = MRAM-Chip (Memories of a Chef)
+ent-SkillChipChef = MRAM-чип (воспоминания повара)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipClown = MRAM-Chip (Memories of a Clown)
+ent-SkillChipClown = MRAM-чип (воспоминания клоуна)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipDoctor = MRAM/APTR-Chip (Memories of a Doctor)
+ent-SkillChipDoctor = MRAM/APTR-чип (воспоминания врача)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipChemist = MRAM/APTR-Chip (Memories of a Chemist)
+ent-SkillChipChemist = MRAM/APTR-чип (воспоминания химика)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipSurgeon = MRAM/APTR-Chip (Memories of a Surgeon)
+ent-SkillChipSurgeon = MRAM/APTR-чип (воспоминания хирурга)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipCMO = MRAM-Chip (Memories of a Surgeon General)
+ent-SkillChipCMO = MRAM-чип (воспоминания главного врача)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipLibrarian = MRAM-Chip (Memories of a Translator)
+ent-SkillChipLibrarian = MRAM-чип (воспоминания переводчика)
     .desc = { ent-BaseSkillChipMRAM.desc }

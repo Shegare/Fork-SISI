@@ -16,19 +16,19 @@ ent-KudzuFlowerAngry = { ent-KudzuFlowerFriendly }
     .suffix = Аномалия Флора, Злой
     .desc = { ent-KudzuFlowerFriendly.desc }
 
-ent-BaseFleshKudzu = tendons
-    .desc = A rapidly growing cluster of meaty tendons. WHY ARE YOU STOPPING TO LOOK AT IT?!
+ent-BaseFleshKudzu = сухожилия
+    .desc = Быстрорастущее скопление мясистых сухожилий. ЗАЧЕМ ВЫ ОСТАНОВИЛИСЬ ПОСМОТРЕТЬ НА НИХ?!
 
 # AUTOGEN-Start
 # сухожилия
 # .desc = Быстрорастущее скопление мясистых сухожилий. ЗАЧЕМ ВЫ ОСТАНОВИЛИСЬ ПОСМОТРЕТЬ НА НИХ?!
 # AUTOGEN-End TODO(Update_Locale):
-ent-FleshKudzu = { ent-BaseFleshKudzu }
-    .desc = { ent-BaseFleshKudzu.desc }
+ent-FleshKudzu = сухожилия
+    .desc = Быстрорастущее скопление мясистых сухожилий. ЗАЧЕМ ВЫ ОСТАНОВИЛИСЬ ПОСМОТРЕТЬ НА НИХ?!
 
 ent-FleshKudzuSpace = { ent-BaseFleshKudzu }
     .desc = { ent-BaseFleshKudzu.desc }
-    .suffix = Space
+    .suffix = Космос
 
 ent-ShadowKudzu = тёмная дымка
     .desc = { ent-BaseKudzu.desc }

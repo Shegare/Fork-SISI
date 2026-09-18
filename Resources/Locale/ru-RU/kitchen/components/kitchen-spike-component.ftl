@@ -28,7 +28,7 @@ comp-kitchen-spike-begin-butcher = { CAPITALIZE($user) } начинает раз
 comp-kitchen-spike-butcher-self = Вы разделали { $victim }!
 comp-kitchen-spike-butcher = { CAPITALIZE($user) } разделал { $victim }!
 
-comp-kitchen-spike-butcher-empty = { CAPITALIZE(THE($victim)) } has no meat left to butcher!
+comp-kitchen-spike-butcher-empty = У { CAPITALIZE($victim) } больше не осталось мяса для разделки!
 
 comp-kitchen-spike-need-tool-quality = Для разделки { $target } требуется инструмент с качеством «{ $quality }».
 

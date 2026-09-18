@@ -62,7 +62,7 @@ ent-ChameleonControllerImplanter = имплантер "контроллер ха
     .suffix = Контроллер хамелеона
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
 
-ent-VoiceMaskImplanter = identity mask implanter
+ent-VoiceMaskImplanter = имплантер маскировки личности
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
 
 ent-MicroBombImplanter = { ent-BaseImplantOnlyImplanterSyndi }

@@ -78,13 +78,13 @@ ent-Hypopen = { ent-Pen }
 ent-HypopenBox = коробка с гипоручкой
     .desc = Маленькая коробка, содержащая гипоручку. Упаковка растворяется при открытии, не оставляя улик.
 
-ent-WehMedipenTiny = weh auto-injector
-    .desc = A non-refillable medipen containing a dose of weh.
+ent-WehMedipenTiny = автоинъектор "вех"
+    .desc = Неперезаряжаемый медипен, содержащий дозу "вех".
 
 # AUTOGEN-Start
 # автоинъектор "вех"
 # .desc = Неперезаряжаемый медипен, содержащий несколько доз "вех".
 # AUTOGEN-End TODO(Update_Locale):
-ent-WehMedipen = weh auto-injector
-    .desc = A non-refillable medipen containing multiple doses of weh.
+ent-WehMedipen = автоинъектор "вех"
+    .desc = Неперезаряжаемый медипен, содержащий несколько доз "вех".
     .suffix = DO NOT MAP

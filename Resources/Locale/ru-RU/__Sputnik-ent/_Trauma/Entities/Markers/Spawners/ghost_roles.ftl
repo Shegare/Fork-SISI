@@ -10,16 +10,16 @@ ent-GhostRoleSpawnerShadowling = спавнер призрачной роли т
 ent-SpawnPointGhostRoleFugitive = спавнер беглеца
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostRoleHunterSyndicate = fugitive hunter spawn (syndicate)
+ent-SpawnPointGhostRoleHunterSyndicate = точка появления охотника за беглецами (Синдикат)
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostRoleHunterSpacepol = fugitive hunter spawn (spacepol)
+ent-SpawnPointGhostRoleHunterSpacepol = точка появления охотника за беглецами (СпейсПол)
     .desc = { ent-SpawnPointGhostRoleHunterSyndicate.desc }
 
-ent-SpawnPointGhostRoleHunterRussian = fugitive hunter spawn (russian)
+ent-SpawnPointGhostRoleHunterRussian = точка появления охотника за беглецами (русский)
     .desc = { ent-SpawnPointGhostRoleHunterSyndicate.desc }
 
-ent-SpawnPointGhostRoleHunterBounty = fugitive hunter spawn (bounty)
+ent-SpawnPointGhostRoleHunterBounty = точка появления охотника за беглецами (охотник за головами)
     .desc = { ent-SpawnPointGhostRoleHunterSyndicate.desc }
 
 ent-SpawnPointPirateCaptain = спавнер пирата

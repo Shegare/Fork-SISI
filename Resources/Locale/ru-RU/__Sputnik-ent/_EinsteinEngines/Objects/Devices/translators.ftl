@@ -33,7 +33,7 @@ ent-XenoTranslator = переводчик (Ксено)
     .desc = Переводит речь между Ксено и Межгалактический. Хотя вряд ли поможет тебе выжить при встрече.
 
 ent-BioweaponTranslator = Bioweapon translator
-    .desc = Translates speech between Miltech and Galactic Common, losing this means anyone can command bioweapons!
+    .desc = Переводит речь между милтехом и Галактическим Общим. Если его потерять, любой сможет управлять биооружием!
 
 ent-AnimalTranslator = переводчик (Животные)
     .desc = Переводит все милые звуки животных в более понятную речь между!

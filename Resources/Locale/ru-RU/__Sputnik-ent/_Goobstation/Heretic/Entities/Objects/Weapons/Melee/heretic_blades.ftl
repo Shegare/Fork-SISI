@@ -19,7 +19,7 @@ ent-HereticBladeBlade = раздробленный клинок
     .suffix = Клинок
 
 ent-HereticBladeFleshBase = { ent-HereticBladeBaseNoTeleport }
-    .desc = A crescent blade born from a fleshwarped creature. Keenly aware, it seeks to spread to others the suffering it has endured from its dreadful origins.
+    .desc = Клинок в форме полумесяца, рождённый из превращённого плотью существа. Обладая острым сознанием, он стремится передать другим страдания, которые вынес из своего ужасного происхождения.
 
 ent-HereticBladeFleshGhoul = клинок гуля
     .desc = Серповидный клинок, рожденный из искажённого плоти существа. Осторожно осознающий, он стремится распространить страдания, которые пережил из своих ужасных истоков.

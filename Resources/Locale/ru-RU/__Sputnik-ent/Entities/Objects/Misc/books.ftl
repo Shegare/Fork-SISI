@@ -44,8 +44,8 @@ ent-BookHowToSurvive = Как выжить
 ent-BookChemicalCompendium = Химпендиум
     .desc = Исчерпывающее руководство о химическом синтезе, написанное каким-то пожилым скелетом профессора.
 
-ent-BookAILawCompendium = My, Robot
-    .desc = A dictionary of all the ways silicons can go wrong. By Isaac Crewsimov.
+ent-BookAILawCompendium = Я, робот
+    .desc = Словарь всех способов, которыми синтетики могут пойти наперекосяк. Автор: Айзек Крусимов.
 
 ent-BookSpaceLaw = Корпоративный закон
     .desc = Набор правил NanoTrasen для поддержания закона и порядка на своих космических станциях.

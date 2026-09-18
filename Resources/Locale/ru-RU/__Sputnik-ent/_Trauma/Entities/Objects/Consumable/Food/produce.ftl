@@ -9,8 +9,8 @@ ent-FoodCoconut = кокос
 # половина кокоса
 # .desc = Идеальная защита... если вы осьминог.
 # AUTOGEN-End TODO(Update_Locale):
-ent-FoodCoconutHalf = coconut half
-    .desc = The perfect defense... if you're an octopus. A botanist would kill for one of these.
+ent-FoodCoconutHalf = половинка кокоса
+    .desc = Идеальная защита... если вы осьминог. Ботанист убил бы за такую.
 
 ent-TrashCoconutShell = кокосовая скорлупа
     .desc = Скорлупа кокоса, довольно бесполезная.
@@ -23,26 +23,26 @@ ent-MimanaPeelStealthy = кожура мимбанана
     .desc = { ent-TrashMimanaPeel.desc }
     .suffix = Скрытая
 
-ent-FoodDeliciousApple = delicious looking apple
-    .desc = It's a delicious piece of Eden.
+ent-FoodDeliciousApple = аппетитное яблоко
+    .desc = Это вкусный кусочек Эдема.
 
-ent-FoodMethApple = meth apple
-    .desc = It's a meth up'ed piece of Eden.
+ent-FoodMethApple = метамфетаминовое яблоко
+    .desc = Это изуродованный метамфетамином кусочек Эдема.
 
-ent-FoodClearCorn = clear corn
-    .desc = Corn, but clear!
+ent-FoodClearCorn = прозрачная кукуруза
+    .desc = Кукуруза, но прозрачная!
 
-ent-FoodPeanut = peanut
-    .desc = A pea, but with nut.
+ent-FoodPeanut = арахис
+    .desc = Горох, но с орехом.
 
-ent-FoodMagicMushroom = magic mushrooms
-    .desc = Mushrooms with just a little bit of magic.
+ent-FoodMagicMushroom = волшебные грибы
+    .desc = Грибы с капелькой волшебства.
 
-ent-FoodSynthMeat = synthmeat
-    .desc = Synthetic meat grown in hydroponics.
+ent-FoodSynthMeat = синтмясо
+    .desc = Синтетическое мясо, выращенное в гидропонике.
 
-ent-MelonBalloon = melon balloon
-    .desc = Who knew that melons could fly!
+ent-MelonBalloon = дыня-шар
+    .desc = Кто знал, что дыни умеют летать!
 
-ent-SteelWheatBushel = steel wheat bushel
-    .desc = Sigh... steel wheat... a-grain?
+ent-SteelWheatBushel = сноп стальной пшеницы
+    .desc = Эх... стальная пшеница... сталь-зерно?

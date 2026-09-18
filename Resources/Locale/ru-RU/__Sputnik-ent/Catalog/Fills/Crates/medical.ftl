@@ -5,8 +5,8 @@ ent-CrateMedicalSupplies = ящик медицинских припасов
 # ящик химического оборудования
 # .desc = Стандартное химическое оборудование.
 # AUTOGEN-End TODO(Update_Locale):
-ent-CrateChemistrySupplies = chemistry supplies crate
-    .desc = A crate containing assorted laboratory glassware, droppers, syringes, and pill canisters. Chemicals sold separately.
+ent-CrateChemistrySupplies = ящик химического оборудования
+    .desc = Стандартное химическое оборудование.
 
 ent-CrateMindShieldImplants = ящик имплантов Щит разума
     .desc = Ящик, содержащий 3 импланта Щит разума.

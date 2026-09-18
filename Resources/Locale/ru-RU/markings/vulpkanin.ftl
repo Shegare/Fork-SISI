@@ -233,10 +233,10 @@ marking-VulpHairBelle = Belle
 marking-VulpHairBelle-belle = Belle
 
 marking-VulpHairBraided = Braided Hair
-marking-VulpHairBraided-braided = Braided Hair
+marking-VulpHairBraided-braided = Заплетённые волосы
 
 marking-VulpHairBun = Bun
-marking-VulpHairBun-bun = Bun
+marking-VulpHairBun-bun = Пучок
 
 marking-VulpHairCleanCut = Clean Cut
 marking-VulpHairCleanCut-clean_cut = Clean Cut
@@ -266,7 +266,7 @@ marking-VulpHairMizar = Mizar
 marking-VulpHairMizar-mizar = Mizar
 
 marking-VulpHairPunkBraided = Punk Braided
-marking-VulpHairPunkBraided-punkbraided = Punk Braided
+marking-VulpHairPunkBraided-punkbraided = Панк-косы
 
 marking-VulpHairRaine = Raine
 marking-VulpHairRaine-raine = Raine
@@ -275,10 +275,10 @@ marking-VulpHairRough = Rough
 marking-VulpHairRough-rough = Rough
 
 marking-VulpHairShort = Short Hair
-marking-VulpHairShort-short = Short Hair
+marking-VulpHairShort-short = Короткие волосы
 
 marking-VulpHairShort2 = Short Hair 2
-marking-VulpHairShort2-short2 = Short Hair 2
+marking-VulpHairShort2-short2 = Короткие волосы 2
 
 marking-VulpHairSpike = Spike
 marking-VulpHairSpike-spike = Spike
@@ -299,4 +299,4 @@ marking-VulpFacialHairKita = Kita
 marking-VulpFacialHairKita-kita = Kita
 
 marking-VulpFacialHairGoatee = Beard (Snout Goatee)
-marking-VulpFacialHairGoatee-goatee = Beard (Snout Goatee)
+marking-VulpFacialHairGoatee-goatee = Борода (Эспаньолка на морде)

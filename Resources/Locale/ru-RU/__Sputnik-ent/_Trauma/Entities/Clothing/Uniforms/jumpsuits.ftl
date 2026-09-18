@@ -19,5 +19,5 @@ ent-ClothingUniformSergeantUniform = униформа сержанта
 ent-ClothingUniformSergeantSkirt = юбочная униформа сержанта
     .desc = Юбочная униформа высококвалифицированного сотрудника службы безопасности. Они — путеводный маяк безопасности этой станции.
 
-ent-ClothingUniformJumpsuitRancher = ranchers overalls
-    .desc = The standard uniform that any rancher worth their chickens wears.
+ent-ClothingUniformJumpsuitRancher = комбинезон животновода
+    .desc = Стандартная форма, которую носит любой животновод, достойный своих кур.

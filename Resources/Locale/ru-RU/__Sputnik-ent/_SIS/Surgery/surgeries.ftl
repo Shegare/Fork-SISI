@@ -1,2 +1,2 @@
 ent-SurgeryCorticalBorerRemoval = Remove Cortical Borer
-    .desc = Removal the Cortical Borer infestation from the body.
+    .desc = Удаление кортикального бурильщика из тела.

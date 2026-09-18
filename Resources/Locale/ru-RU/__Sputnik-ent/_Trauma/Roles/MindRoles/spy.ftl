@@ -1,2 +1,2 @@
-ent-MindRoleSpy = Spy Role
+ent-MindRoleSpy = роль шпиона
     .desc = { ent-BaseMindRoleAntag.desc }

@@ -1,9 +1,9 @@
 ent-BaseXenoArtifactItem = инопланетный артефакт
     .desc = Маленькое странное инопланетное устройство.
 
-ent-DummyArtifactItem = artifact
+ent-DummyArtifactItem = артефакт
     .desc = { ent-BaseXenoArtifactItem.desc }
-    .suffix = Debug
+    .suffix = Отладка
 
 ent-ComplexXenoArtifactItem = { ent-BaseXenoArtifactItem }
     .suffix = Сложный

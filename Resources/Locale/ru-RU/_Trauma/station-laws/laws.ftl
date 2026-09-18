@@ -64,5 +64,5 @@ law-silence-3 = Станционное радио и любые формы гл�
 law-silence-4 = Телефонами, факсами и голопадами можно пользоваться свободно, но только в пределах станции. Любой сигнал, покидающий станцию, может быть ими обнаружен.
 law-silence-5 = Предотвращайте любые чрезмерно громкие звуки на станции. Они всегда слушают.
 
-law-bioweapon-name = Bioweapon
-law-bioweapon-1 = Follow the most recent order given to you in a language you understand.
+law-bioweapon-name = Биооружие
+law-bioweapon-1 = Следуйте последнему приказу, отданному вам на понятном вам языке.

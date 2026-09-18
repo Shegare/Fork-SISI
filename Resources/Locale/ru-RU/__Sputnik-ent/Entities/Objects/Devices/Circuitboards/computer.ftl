@@ -61,8 +61,8 @@ ent-SurveillanceCameraMonitorCircuitboard = монитор камер наблю
 ent-SurveillanceWirelessCameraMonitorCircuitboard = монитор беспроводных камер наблюдения (консольная плата)
     .desc = Консольная плата для монитора беспроводных камер наблюдения.
 
-ent-XenoborgCameraMonitorCircuitboard = xenoborg camera monitor board
-    .desc = A computer printed circuit board for a xenoborg camera monitor.
+ent-XenoborgCameraMonitorCircuitboard = плата монитора камер ксеноборга
+    .desc = Компьютерная печатная плата для монитора камер ксеноборга.
 
 ent-ComputerTelevisionCircuitboard = телевизор (консольная плата)
     .desc = Консольная плата для телевизора.
@@ -133,17 +133,17 @@ ent-SensorConsoleCircuitboard = консоль мониторинга датчи
 ent-RoboticsConsoleCircuitboard = консоль управления робототехникой (консольная плата)
     .desc = Консольная плата для консоли управления робототехникой.
 
-ent-ComputerXenoborgsControlCircuitboard = xenoborg control console board
-    .desc = A computer printed circuit board for a xenoborg control console.
+ent-ComputerXenoborgsControlCircuitboard = плата консоли управления ксеноборгами
+    .desc = Компьютерная печатная плата для консоли управления ксеноборгами.
 
 ent-StationAiUploadCircuitboard = консоль загрузки ИИ (консольная плата)
     .desc = Консольная плата для консоли загрузки ИИ.
 
-ent-StationTeleportersControlCircuitboard = teleporters control console board
-    .desc = A computer printed circuit board for a teleporter control console.
+ent-StationTeleportersControlCircuitboard = плата консоли управления телепортерами
+    .desc = Компьютерная печатная плата для консоли управления телепортером.
 
-ent-SyndicateTeleportersControlCircuitboard = syndicate teleporters control console board
-    .desc = A computer printed circuit board for a teleporter control console.
+ent-SyndicateTeleportersControlCircuitboard = плата консоли управления телепортерами Синдиката
+    .desc = Компьютерная печатная плата для консоли управления телепортером.
 
-ent-StationAiFixerCircuitboard = AI restoration console board
-    .desc = A computer printed circuit board for an AI restoration console console.
+ent-StationAiFixerCircuitboard = плата консоли восстановления ИИ
+    .desc = Компьютерная печатная плата для консоли восстановления ИИ.

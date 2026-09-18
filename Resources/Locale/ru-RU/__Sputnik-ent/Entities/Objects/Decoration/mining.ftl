@@ -13,7 +13,7 @@ ent-WoodenSupport = деревянная опора
 # AUTOGEN-Start
 # деревянная опорная балка
 # AUTOGEN-End TODO(Update_Locale):
-ent-WoodenSupportBeam = wooden support beam
+ent-WoodenSupportBeam = деревянная опорная балка
     .desc = { ent-BaseWoodenSupport.desc }
 
 ent-WoodenSupportWall = деревянная опорная стена

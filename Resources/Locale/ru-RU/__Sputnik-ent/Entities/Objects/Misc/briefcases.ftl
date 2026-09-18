@@ -8,10 +8,10 @@ ent-BriefcaseSyndie = { ent-BriefcaseBrown }
     .suffix = Синдикат, Пустой
     .desc = { ent-BriefcaseBrown.desc }
 
-ent-BriefcaseWeapon = secure weapon case
-    .desc = Useful for aspiring mercenaries, whether you're fighting for a company, a nation or anyone else. Or just making a really big omelette.
-    .suffix = Gun, Empty
+ent-BriefcaseWeapon = защищённый оружейный кейс
+    .desc = Полезен для начинающих наёмников, сражаетесь ли вы за компанию, государство или кого-то ещё. Или просто готовите очень большой омлет.
+    .suffix = Оружие, пустой
 
 ent-BriefcaseWeaponSmall = { ent-BriefcaseWeapon }
     .desc = { ent-BriefcaseWeapon.desc }
-    .suffix = Gun, Small, Empty
+    .suffix = Оружие, маленький, пустой

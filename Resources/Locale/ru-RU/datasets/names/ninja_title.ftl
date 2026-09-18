@@ -31,7 +31,7 @@ names-ninja-title-dataset-30 = Багрянец
 # AUTOGEN-Start
 # Хвататель
 # AUTOGEN-End TODO(Update_Locale):
-names-ninja-title-dataset-31 = Ultimate
+names-ninja-title-dataset-31 = Хвататель
 names-ninja-title-dataset-32 = Ультимативный
 names-ninja-title-dataset-33 = Безжалостный
 names-ninja-title-dataset-34 = Глубокий

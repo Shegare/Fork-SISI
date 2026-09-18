@@ -1,2 +1,2 @@
 ent-ChemiCompiler = ChemiCompiler M7
-    .desc = A programmable chemical workbench with ten reservoir slots. Does exactly what your program says, which is rarely what you meant.
+    .desc = Программируемый химический верстак с десятью слотами резервуаров. Делает именно то, что говорит ваша программа, что редко совпадает с вашими намерениями.

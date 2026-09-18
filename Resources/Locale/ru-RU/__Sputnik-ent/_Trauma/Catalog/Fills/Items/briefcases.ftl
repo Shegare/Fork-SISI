@@ -1,68 +1,68 @@
-ent-BriefcaseWeaponEDaggerFilled = secure energy dagger case
+ent-BriefcaseWeaponEDaggerFilled = защищённый кейс с энергетическим кинжалом
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponViperFilled = secure viper case
+ent-BriefcaseWeaponViperFilled = защищённый кейс с «Гадюкой»
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponCobraFilled = secure cobra case
+ent-BriefcaseWeaponCobraFilled = защищённый кейс с «Коброй»
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponCutlassFilled = secure cutlass case
+ent-BriefcaseWeaponCutlassFilled = защищённый кейс с абордажной саблей
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponPythonFilled = secure python case
+ent-BriefcaseWeaponPythonFilled = защищённый кейс с «Питоном»
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponBoxingGlovesFilled = secure rigged boxing gloves case
+ent-BriefcaseWeaponBoxingGlovesFilled = защищённый кейс с усиленными боксёрскими перчатками
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponBetrayalKnifeFilled = secure betrayal knife case
+ent-BriefcaseWeaponBetrayalKnifeFilled = защищённый кейс с ножом предательства
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponEnergyCrossbowFilled = secure energy crossbow case
+ent-BriefcaseWeaponEnergyCrossbowFilled = защищённый кейс с энергетическим арбалетом
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponEnergyShieldFilled = secure energy shield case
+ent-BriefcaseWeaponEnergyShieldFilled = защищённый кейс с энергетическим щитом
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponNorthStarFilled = secure gloves of the north star case
+ent-BriefcaseWeaponNorthStarFilled = защищённый кейс с перчатками Полярной звезды
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponEnergyPickaxeFilled = secure energy pickaxe case
+ent-BriefcaseWeaponEnergyPickaxeFilled = защищённый кейс с энергетической киркой
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponContractorBatonFilled = secure contractor baton case
+ent-BriefcaseWeaponContractorBatonFilled = защищённый кейс с дубинкой подрядчика
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponEnergySwordFilled = secure energy sword case
+ent-BriefcaseWeaponEnergySwordFilled = защищённый кейс с энергетическим мечом
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponAnacondaFilled = secure anaconda case
+ent-BriefcaseWeaponAnacondaFilled = защищённый кейс с «Анакондой»
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponSaiveFilled = secure saive automatique case
+ent-BriefcaseWeaponSaiveFilled = защищённый кейс с «Сэвом Автоматиком»
     .desc = { ent-BriefcaseWeapon.desc }
 
-ent-BriefcaseWeaponM90Filled = secure M-90 case
+ent-BriefcaseWeaponM90Filled = защищённый кейс с M-90
     .desc = { ent-BriefcaseWeapon.desc }
 
-ent-BriefcaseWeaponEstocFilled = secure Esctoc DMR case
+ent-BriefcaseWeaponEstocFilled = защищённый кейс с DMR «Эсток»
     .desc = { ent-BriefcaseWeapon.desc }
 
-ent-BriefcaseWeaponHardlightBowFilled = secure Hardlight Bow case
+ent-BriefcaseWeaponHardlightBowFilled = защищённый кейс со световым луком
     .desc = { ent-BriefcaseWeapon.desc }
 
-ent-BriefcaseWeaponFireaxeFilled = secure Fireaxe case
+ent-BriefcaseWeaponFireaxeFilled = защищённый кейс с пожарным топором
     .desc = { ent-BriefcaseWeapon.desc }
 
-ent-BriefcaseWeaponL6Filled = secure L6 Saw case
+ent-BriefcaseWeaponL6Filled = защищённый кейс с пилой L6
     .desc = { ent-BriefcaseWeapon.desc }
 
-ent-BriefcaseWeaponBurnerFilled = secure burner case
+ent-BriefcaseWeaponBurnerFilled = защищённый кейс с «Жаркой»
     .desc = { ent-BriefcaseWeapon.desc }
 
-ent-BriefcaseWeaponSmartGunFilled = secure abielle case
+ent-BriefcaseWeaponSmartGunFilled = защищённый кейс с «Абиэлью»
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponEnergySwordDoubleFilled = secure double-bladed energy sword case
+ent-BriefcaseWeaponEnergySwordDoubleFilled = защищённый кейс с двулезвийным энергетическим мечом
     .desc = { ent-BriefcaseWeaponSmall.desc }

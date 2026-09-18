@@ -85,5 +85,5 @@ ent-MobCrabAtmos = Тропико
 # Полли
 # .desc = Эксперт в теории квантового крэкера.
 # AUTOGEN-End TODO(Update_Locale):
-ent-MobPollyParrot = Polly the parrot
-    .desc = An expert in quantum cracker theory.
+ent-MobPollyParrot = Полли
+    .desc = Эксперт в теории квантового крэкера.

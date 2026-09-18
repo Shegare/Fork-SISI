@@ -22,5 +22,5 @@ reagent-desc-oleoresin-capsaicin = Маслянистая смола, получ
 reagent-name-heroin = героин
 reagent-desc-heroin = Нелегально созданный в подпольных условиях наркотик, что когда-то использовался в медицине, но был заменён травмадолом.
 
-reagent-name-nitrosyl-plasmide = nitrosyl plasmide
-reagent-desc-nitrosyl-plasmide = A powerful stimulant that can prevent drowsiness, stuns and knock downs.
+reagent-name-nitrosyl-plasmide = нитрозилплазмид
+reagent-desc-nitrosyl-plasmide = Мощный стимулятор, предотвращающий сонливость, оглушение и сбивание с ног.

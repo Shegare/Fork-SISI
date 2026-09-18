@@ -1,15 +1,15 @@
 ent-DefaultStationBeaconCentComm = { ent-DefaultStationBeacon }
     .desc = { ent-DefaultStationBeacon.desc }
-    .suffix = Not teleport point, CentComm
+    .suffix = Не точка телепорта, ЦК
 
 ent-DefaultStationBeaconCentCommAfterhours = { ent-DefaultStationBeaconCentComm }
     .desc = { ent-DefaultStationBeaconCentComm.desc }
-    .suffix = Not teleport point, CentComm Afterhours
+    .suffix = Не точка телепорта, ЦК после смены
 
 ent-DefaultStationBeaconCentCommThunderdome = { ent-DefaultStationBeaconCentComm }
     .desc = { ent-DefaultStationBeaconCentComm.desc }
-    .suffix = Not teleport point, CentComm Thunder Dome
+    .suffix = Не точка телепорта, ЦК Громовой Купол
 
 ent-DefaultStationBeaconCentCommERT = { ent-DefaultStationBeaconCentComm }
     .desc = { ent-DefaultStationBeaconCentComm.desc }
-    .suffix = Not teleport point, CentComm ERT
+    .suffix = Не точка телепорта, ЦК ОБР

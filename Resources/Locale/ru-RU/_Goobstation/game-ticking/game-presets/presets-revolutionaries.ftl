@@ -6,18 +6,18 @@ revolutionaries-lose-announcement = По нашим данным, вражеск
 # Viva la revolution!
 # AUTOGEN-End TODO(Update_Locale):
 revolutionaries-win-announcement-shuttle-call =
-    According to the leader's reports, the corporate command has been overthrown and we have seized control of the station.
+    Согласно отчётам Главы, командование корпорации было свергнуто, и мы захватили контроль над станцией.
 
-    Viva la revolución!
+    Да здравствует революция!
 
 # AUTOGEN-Start
 # Согласно отчетам Глав Революции, командование корпорации было свергнуто, и мы захватили контроль над станцией.
 # Viva la revolution!
 # AUTOGEN-End TODO(Update_Locale):
 revolutionaries-win-announcement =
-    According to the leader's reports, the corporate command has been overthrown and we have seized control of the station.
+    Согласно отчётам Главы, командование корпорации было свергнуто, и мы захватили контроль над станцией.
 
-    Viva la revolución!
+    Да здравствует революция!
 
 revolutionaries-win-sender = Связь Cybersun
 revolutionaries-sender-cc = Отдел лояльности NanoTrasen

@@ -7,5 +7,5 @@ ent-ClothingNeckTieDet = галстук детектива
 ent-ClothingNeckTieSci = галстук учёного
     .desc = Почему мы все должны носить эти нелепые галстуки?
 
-ent-ClothingNeckTieSerious = serious tie
-    .desc = A perfectly tied tie to get you through the working day.
+ent-ClothingNeckTieSerious = строгий галстук
+    .desc = Идеально завязанный галстук, который поможет вам пережить рабочий день.

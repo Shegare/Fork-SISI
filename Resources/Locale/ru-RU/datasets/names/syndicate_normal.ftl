@@ -25,5 +25,5 @@ names-syndicate-normal-dataset-24 = Икс-Рей
 # AUTOGEN-Start
 # Зулу
 # AUTOGEN-End TODO(Update_Locale):
-names-syndicate-normal-dataset-25 = Yankee
-names-syndicate-normal-dataset-26 = Zulu
+names-syndicate-normal-dataset-25 = Янки
+names-syndicate-normal-dataset-26 = Зулу

@@ -24,8 +24,8 @@ loadout-group-species-restriction = Этот предмет недоступен
 
 # Miscellaneous
 loadout-group-trinkets = Безделушки
-loadout-group-jobtrinkets = Job trinkets
-loadout-group-assistive-items = Assistive items
+loadout-group-jobtrinkets = Рабочие безделушки
+loadout-group-assistive-items = Вспомогательные предметы
 loadout-group-glasses = Очки
 loadout-group-backpack = Рюкзак
 loadout-group-instruments = Инструменты
@@ -35,7 +35,7 @@ loadout-group-survival-clown = Клоунский аварийный запас
 loadout-group-survival-medical = Медицинский аварийный запас
 loadout-group-survival-security = Аварийный запас охраны
 loadout-group-survival-syndicate = Github заставил меня перевести текст, который игрок вообще никогда не сможет увидеть, спасите
-loadout-group-survival-military = See line 14, no one will ever see this so :3
+loadout-group-survival-military = См. строку 14, это всё равно никто никогда не увидит :3
 loadout-group-breath-tool = Расозависимое дыхательное снаряжение
 loadout-group-tank-harness = Расозависимое снаряжение для выживания
 loadout-group-EVA-tank = Расозависимый газовый баллон
@@ -67,7 +67,7 @@ loadout-group-passenger-neck = Ассистент, шея
 loadout-group-bartender-head = Бармен, голова
 loadout-group-bartender-jumpsuit = Бармен, комбинезон
 loadout-group-bartender-outerclothing = Бармен, верхняя одежда
-loadout-group-bartender-shaker = Bartender shaker
+loadout-group-bartender-shaker = Шейкер бармена
 
 loadout-group-chef-head = Шеф-повар, голова
 loadout-group-chef-mask = Шеф-повар, маска
@@ -124,7 +124,7 @@ loadout-group-cargo-technician-jumpsuit = Грузчик, комбинезон
 loadout-group-cargo-technician-backpack = Грузчик, рюкзак
 loadout-group-cargo-technician-outerclothing = Грузчик, верхняя одежда
 loadout-group-cargo-technician-shoes = Грузчик, обувь
-loadout-group-cargo-technician-id = Cargo Technician ID
+loadout-group-cargo-technician-id = ID грузчика
 
 loadout-group-salvage-specialist-backpack = Утилизатор, рюкзак
 loadout-group-salvage-specialist-outerclothing = Утилизатор, верхняя одежда
@@ -225,12 +225,12 @@ loadout-group-paramedic-shoes = Парамедик, обувь
 
 # Wildcards
 loadout-group-reporter-jumpsuit = Репортёр, комбинезон
-loadout-group-reporter-head = Reporter hat
-loadout-group-reporter-outerclothing = Reporter vest
+loadout-group-reporter-head = Головной убор репортёра
+loadout-group-reporter-outerclothing = Жилет репортёра
 
 loadout-group-psychologist-jumpsuit = Психолог, комбинезон
 
-loadout-group-tramdriver-jumpsuit = Tram driver jumpsuit
-loadout-group-tramdriver-outerclothing = Tram driver suit
-loadout-group-tramdriver-hat = Tram driver hat
-loadout-group-tramdriver-gloves = Tram driver gloves
+loadout-group-tramdriver-jumpsuit = Комбинезон водителя трамвая
+loadout-group-tramdriver-outerclothing = Костюм водителя трамвая
+loadout-group-tramdriver-hat = Головной убор водителя трамвая
+loadout-group-tramdriver-gloves = Перчатки водителя трамвая

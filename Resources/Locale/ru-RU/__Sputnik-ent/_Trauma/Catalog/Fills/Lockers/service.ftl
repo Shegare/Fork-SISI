@@ -1,3 +1,3 @@
-ent-LockerRancherFilled = rancher's locker
+ent-LockerRancherFilled = шкафчик животновода
     .desc = { ent-LockerBotanist.desc }
-    .suffix = Filled
+    .suffix = Заполнено

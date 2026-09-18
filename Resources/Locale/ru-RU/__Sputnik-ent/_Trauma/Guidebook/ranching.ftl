@@ -1,2 +1,2 @@
-ent-GuidebookRanchingGuide = ranching field manual
-    .desc = The texture rect for document files, Jeremy, where's the texture rect? NO TEXTURE RECT? You fucking idiot, Jeremy! You total fucking idiot! That was YOUR job, you fucking moron! You DUMBASS! YOU'RE A FUCKHEAD! THAT'S WHAT YOU ARE! A FUCKING SHITHEAD!
+ent-GuidebookRanchingGuide = полевой справочник по животноводству
+    .desc = Прямоугольник текстуры для файлов документов, Джереми, где прямоугольник текстуры? НЕТ ПРЯМОУГОЛЬНИКА ТЕКСТУРЫ? Ты грёбаный идиот, Джереми! Полный грёбаный идиот! Это была ТВОЯ работа, ты грёбаный придурок! ТЫ ТУПОЙ ОЛУХ! ТЫ МУДАК! ВОТ КТО ТЫ! ГРЁБАНЫЙ КОЗЁЛ!

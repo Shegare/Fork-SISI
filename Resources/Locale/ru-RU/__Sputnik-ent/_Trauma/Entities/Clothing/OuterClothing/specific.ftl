@@ -1,3 +1,3 @@
-ent-ClothingOuterChameleonArmor = vest
-    .desc = A thick vest with a rubbery, water-resistant shell.
-    .suffix = Chameleon, Armor
+ent-ClothingOuterChameleonArmor = жилет
+    .desc = Толстый жилет с резиноподобной водостойкой оболочкой.
+    .suffix = Хамелеон, броня

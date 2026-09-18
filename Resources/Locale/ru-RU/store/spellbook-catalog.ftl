@@ -38,24 +38,24 @@ spellbook-ethereal-jaunt-description = Перейдите в Эфирную пл
 spellbook-mind-swap-name = Обмен разумом
 spellbook-mind-swap-description = Обменяйтесь телами с другим человеком!
 
-spellbook-animate-name = Animate
-spellbook-animate-description = Bring an inanimate object to life!
+spellbook-animate-name = Оживление
+spellbook-animate-description = Оживите неодушевлённый предмет!
 
-spellbook-smite-name = Smite
+spellbook-smite-name = Кара
 # Goob - rewritten
 #spellbook-smite-desc = Don't like them? EXPLODE them into giblets! Requires Wizard Robe & Hat.
 
-spellbook-cluwne-name = Cluwne's Curse
-spellbook-cluwne-desc = For when you really hate someone and Smite isn't enough. Requires Wizard Robe & Hat.
+spellbook-cluwne-name = Проклятие клувеня
+spellbook-cluwne-desc = Если вы кого-то действительно ненавидите, а кары недостаточно. Требует мантию и шляпу волшебника.
 
-spellbook-slip-name = Slippery Slope
-spellbook-slip-desc = Learn the ancient ways of the Janitor and curse your target to be slippery.
+spellbook-slip-name = Скользкий склон
+spellbook-slip-desc = Изучите древние методы уборщиков и прокляните цель, сделав её скользкой.
 
-spellbook-item-recall-name = Item Recall
-spellbook-item-recall-description = Mark a held item and summon it back at any time with just a snap of your fingers!
+spellbook-item-recall-name = Возврат предмета
+spellbook-item-recall-description = Отметьте удерживаемый предмет и в любой момент призовите его обратно щелчком пальцев!
 
-spellbook-guardian-deck-name = Tarot Deck
-spellbook-guardian-deck-description = A bizarre deck of card that grants you a spectral guardian when used.
+spellbook-guardian-deck-name = Колода Таро
+spellbook-guardian-deck-description = Странная колода карт, дарующая вам призрачного стража при использовании.
 
 # Equipment
 

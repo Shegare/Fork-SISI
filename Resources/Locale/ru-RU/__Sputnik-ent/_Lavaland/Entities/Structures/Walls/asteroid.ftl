@@ -1,7 +1,7 @@
-ent-WallRockGibtonite = rock
+ent-WallRockGibtonite = порода
     .desc = { ent-BaseRockGibtonite.desc }
 
-ent-WallRockBasaltGibtonite = basalt
+ent-WallRockBasaltGibtonite = базальт
     .desc = { ent-BaseRockGibtonite.desc }
 
 ent-WallRockSnowGibtonite = snowdrift

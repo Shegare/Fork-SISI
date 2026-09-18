@@ -18,7 +18,7 @@ guardian-deck-invalid-creation = Колода может предоставит�
 # AUTOGEN-Start
 # [color=#ba1919]Печать колоды нарушена.[/color]
 # AUTOGEN-End TODO(Update_Locale):
-guardian-deck-used-examine = [color=#ba1919]The deck's magic has been used up.[/color]
+guardian-deck-used-examine = [color=#ba1919]Магия колоды исчерпана.[/color]
 
 ## Guardian entity specific
 

@@ -5,4 +5,4 @@
 # AUTOGEN-End TODO(Update_Locale):
 ent-DefibrillatorSyndicateUnpowered = { ent-DefibrillatorSyndicate }
     .desc = { ent-DefibrillatorSyndicate.desc }
-    .suffix = Always Powered
+    .suffix = Всегда с питанием

@@ -1,131 +1,131 @@
 # AUTOGEN-Start
 # Ужасный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-1 = Jr.
+names-dragon-title-dataset-1 = Младший
 # AUTOGEN-Start
 # Обжигатор
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-2 = of the Beyond
+names-dragon-title-dataset-2 = из-за предела
 # AUTOGEN-Start
 # Разводчик Карпов
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-3 = of the East
+names-dragon-title-dataset-3 = с Востока
 # AUTOGEN-Start
 # Непобедимый
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-4 = of the North
+names-dragon-title-dataset-4 = с Севера
 # AUTOGEN-Start
 # Разрушитель
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-5 = of the South
+names-dragon-title-dataset-5 = с Юга
 # AUTOGEN-Start
 # Мимолётный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-6 = of the Stars
+names-dragon-title-dataset-6 = Звёздный
 # AUTOGEN-Start
 # Жгучий
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-7 = of the West
+names-dragon-title-dataset-7 = с Запада
 # AUTOGEN-Start
 # Ужасный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-8 = Smith
+names-dragon-title-dataset-8 = Кузнец
 # AUTOGEN-Start
 # Неудержимый
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-9 = the Awakened
+names-dragon-title-dataset-9 = Пробуждённый
 # AUTOGEN-Start
 # Беззубый
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-10 = the Carpmonger
+names-dragon-title-dataset-10 = Разводчик карпов
 # AUTOGEN-Start
 # Неугасимый
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-11 = the Conspicuous
+names-dragon-title-dataset-11 = Заметный
 # AUTOGEN-Start
 # Злой
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-12 = the Undefeated
+names-dragon-title-dataset-12 = Непобеждённый
 # AUTOGEN-Start
 # с Запада
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-13 = the Destroyer
+names-dragon-title-dataset-13 = Разрушитель
 # AUTOGEN-Start
 # с Востока
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-14 = the Dread
+names-dragon-title-dataset-14 = Ужасный
 # AUTOGEN-Start
 # Звёздный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-15 = the Enraged
+names-dragon-title-dataset-15 = Разъярённый
 # AUTOGEN-Start
 # Незаметный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-16 = the Eternal
+names-dragon-title-dataset-16 = Вечный
 # AUTOGEN-Start
 # Непобеждённый
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-17 = the Evanescent
+names-dragon-title-dataset-17 = Мимолётный
 # AUTOGEN-Start
 # Разъярённый
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-18 = the Ever-Hungry
+names-dragon-title-dataset-18 = Вечноголодный
 # AUTOGEN-Start
 # Бешеный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-19 = the Fell
+names-dragon-title-dataset-19 = Зловещий
 # AUTOGEN-Start
 # Зловонный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-20 = the Incinerator
+names-dragon-title-dataset-20 = Испепелитель
 # AUTOGEN-Start
 # Вечный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-21 = the Inevitable
+names-dragon-title-dataset-21 = Неизбежный
 # AUTOGEN-Start
 # Падший
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-22 = the Indestructible
+names-dragon-title-dataset-22 = Несокрушимый
 # AUTOGEN-Start
 # Временный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-23 = the Infuriated
+names-dragon-title-dataset-23 = Взбешённый
 # AUTOGEN-Start
 # Несокрушимый
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-24 = the Invincible
+names-dragon-title-dataset-24 = Непобедимый
 # AUTOGEN-Start
 # Неприятный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-25 = the Leviathan
+names-dragon-title-dataset-25 = Левиафан
 # AUTOGEN-Start
 # Безрассудный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-26 = the Mean
+names-dragon-title-dataset-26 = Злой
 # AUTOGEN-Start
 # Вечноголодный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-27 = the Odoriferous
+names-dragon-title-dataset-27 = Зловонный
 # AUTOGEN-Start
 # Заметный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-28 = the Pestiferous
+names-dragon-title-dataset-28 = Заразный
 # AUTOGEN-Start
 # Заразный
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-29 = the Really Scary
+names-dragon-title-dataset-29 = По-настоящему страшный
 # AUTOGEN-Start
 # Испепелитель
 # AUTOGEN-End TODO(Update_Locale):
-names-dragon-title-dataset-30 = the Scorchinator
-names-dragon-title-dataset-31 = the Spicy
-names-dragon-title-dataset-32 = the Temporary
-names-dragon-title-dataset-33 = the Terrible
-names-dragon-title-dataset-34 = the Uncouth
-names-dragon-title-dataset-35 = the Undying
-names-dragon-title-dataset-36 = the Unpleasant
-names-dragon-title-dataset-37 = the Unquenchable
-names-dragon-title-dataset-38 = the Unreasonable
-names-dragon-title-dataset-39 = the Unremarkable
-names-dragon-title-dataset-40 = the Unstoppable
-names-dragon-title-dataset-41 = the Vengeful
+names-dragon-title-dataset-30 = Обжигатор
+names-dragon-title-dataset-31 = Жгучий
+names-dragon-title-dataset-32 = Временный
+names-dragon-title-dataset-33 = Ужасный
+names-dragon-title-dataset-34 = Невоспитанный
+names-dragon-title-dataset-35 = Неумирающий
+names-dragon-title-dataset-36 = Неприятный
+names-dragon-title-dataset-37 = Неугасимый
+names-dragon-title-dataset-38 = Безрассудный
+names-dragon-title-dataset-39 = Незаметный
+names-dragon-title-dataset-40 = Неудержимый
+names-dragon-title-dataset-41 = Мстительный

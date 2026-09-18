@@ -18,4 +18,4 @@ entity-effect-popup-vampire-light-1 = Солнечный свет обжигае
 entity-effect-popup-vampire-light-2 = Вам стоит держаться подальше от космоса...
 entity-effect-popup-vampire-light-3 = Вы выглядите бледным!
 
-entity-effect-popup-strawberry-ice-addiction = You feel a need for fizzy pink flavor
+entity-effect-popup-strawberry-ice-addiction = Вы чувствуете потребность во вкусной розовой газировке

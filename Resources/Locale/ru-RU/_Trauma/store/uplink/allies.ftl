@@ -25,5 +25,5 @@ uplink-reinforcement-radio-ancestor-name-trauma = Телепорт генети�
 
 uplink-syndicate-pai-name-trauma = Персональное ИИ-устройство Синдиката
 
-uplink-necronomicon-name = Necronomicon
-uplink-necronomicon-desc = An unholy book capable of summoning a demonic familiar.
+uplink-necronomicon-name = Некрономикон
+uplink-necronomicon-desc = Нечестивая книга, способная призвать демонического фамильяра.

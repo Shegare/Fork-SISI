@@ -1,2 +1,2 @@
 ent-MachineMasterMaterialSilo = master material silo
-    .desc = Master silo which distributes inserted materials to all silos on the station.
+    .desc = Главный силос, распределяющий загруженные материалы по всем силосам станции.

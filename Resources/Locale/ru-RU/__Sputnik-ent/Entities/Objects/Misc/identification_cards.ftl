@@ -40,7 +40,7 @@ ent-ParamedicIDCard = ID-карта парамедика
 ent-ChemistIDCard = ID-карта химика
     .desc = { ent-IDCardStandard.desc }
 
-ent-TramDriverIDCard = tram driver ID card
+ent-TramDriverIDCard = ID-карта водителя трамвая
     .desc = { ent-IDCardStandard.desc }
 
 ent-CargoIDCard = ID-карта грузчика
@@ -147,18 +147,18 @@ ent-AtmosIDCard = ID-карта атмосферного техника
 ent-SyndicateIDCard = ID-карта Синдиката
     .desc = { ent-IDCardStandard.desc }
 
-ent-SyndiOperativeIDCard = syndicate operative ID card
+ent-SyndiOperativeIDCard = ID-карта оперативника Синдиката
     .desc = { ent-SyndicateIDCard.desc }
 
-ent-SyndiCorpsmanIDCard = syndicate corpsman ID card
+ent-SyndiCorpsmanIDCard = ID-карта санитара Синдиката
     .desc = { ent-SyndiOperativeIDCard.desc }
 
-ent-SyndiCommanderIDCard = syndicate commander ID card
+ent-SyndiCommanderIDCard = ID-карта командира Синдиката
     .desc = { ent-SyndiOperativeIDCard.desc }
 
-ent-NinjaIDCard = ninja ID card
+ent-NinjaIDCard = ID-карта ниндзя
     .desc = { ent-IDCardStandard.desc }
-    .suffix = Ninja
+    .suffix = Ниндзя
 
 ent-PirateIDCard = ID-карта пирата
     .desc = { ent-IDCardStandard.desc }
@@ -166,7 +166,7 @@ ent-PirateIDCard = ID-карта пирата
 ent-PsychologistIDCard = ID-карта психолога
     .desc = { ent-IDCardStandard.desc }
 
-ent-XenoborgIDCard = xenoborg ID card
+ent-XenoborgIDCard = ID-карта ксеноборга
     .desc = { ent-IDCardStandard.desc }
 
 ent-ReporterIDCard = ID-карта репортёра

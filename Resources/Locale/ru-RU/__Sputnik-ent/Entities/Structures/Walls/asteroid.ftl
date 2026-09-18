@@ -11,7 +11,7 @@ ent-AsteroidRock = астероидный камень
 # AUTOGEN-End TODO(Update_Locale):
 ent-BaseRockGibtonite = { ent-BaseWall }
     .desc = { ent-BaseWall.desc }
-    .suffix = Gibtonite
+    .suffix = Гибтонит
 
 ent-AsteroidRockCoal = { ent-AsteroidRock }
     .desc = Рудная жила, богатая углём.
@@ -85,7 +85,7 @@ ent-AsteroidRockArtifactFragment = { ent-AsteroidRock }
     .desc = Каменная стена. Что это торчит из неё?
     .suffix = Фрагмент артефакта
 
-ent-AsteroidRockGibtonite = asteroid rock
+ent-AsteroidRockGibtonite = астероидный камень
     .desc = { ent-BaseRockGibtonite.desc }
 
 ent-AsteroidRockMining = астероидный камень
@@ -140,7 +140,7 @@ ent-IronRockArtifactFragment = { ent-IronRock }
     .desc = Каменная стена. Что это торчит из неё?
     .suffix = Фрагмент артефакта
 
-ent-IronRockGibtonite = ironrock
+ent-IronRockGibtonite = железный камень
     .desc = { ent-BaseRockGibtonite.desc }
 
 ent-IronRockDiamond = { ent-IronRock }

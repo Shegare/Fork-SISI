@@ -1,12 +1,12 @@
-ent-BaseWindowStructure = window
-    .desc = Don't smudge up the glass down there.
+ent-BaseWindowStructure = окно
+    .desc = Не заляпайте стекло внизу.
 
 # AUTOGEN-Start
 # окно
 # .desc = Смотри не заляпай.
 # AUTOGEN-End TODO(Update_Locale):
-ent-Window = { ent-BaseWindowStructure }
-    .desc = { ent-BaseWindowStructure.desc }
+ent-Window = окно
+    .desc = Смотри не заляпай.
 
 ent-TintedWindow = матовое окно
     .desc = { ent-Window.desc }
@@ -22,15 +22,15 @@ ent-WindowRCDResistant = { ent-Window }
     .suffix = РСУ защита
     .desc = { ent-Window.desc }
 
-ent-BaseWindowStructureDirectional = directional window
-    .desc = Don't smudge up the glass down there.
+ent-BaseWindowStructureDirectional = направленное окно
+    .desc = Не заляпайте стекло внизу.
 
 # AUTOGEN-Start
 # направленное окно
 # .desc = Смотри не заляпай.
 # AUTOGEN-End TODO(Update_Locale):
-ent-WindowDirectional = { ent-BaseWindowStructureDirectional }
-    .desc = { ent-BaseWindowStructureDirectional.desc }
+ent-WindowDirectional = направленное окно
+    .desc = Смотри не заляпай.
 
 ent-WindowDirectionalRCDResistant = { ent-WindowDirectional }
     .desc = { ent-WindowDirectional.desc }

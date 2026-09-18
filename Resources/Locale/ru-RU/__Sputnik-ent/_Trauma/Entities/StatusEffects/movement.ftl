@@ -10,7 +10,7 @@ ent-OrganSlowdownStatusEffect = замедление от повреждённо
 ent-InLavaStatusEffect = в лаве
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-InXenoResinEffect = in xeno resin
+ent-InXenoResinEffect = в ксеносмоле
     .desc = { ent-StatusEffectSlowdown.desc }
 
 ent-TentacleHookStatusEffect = замедление от щупальца-крюка

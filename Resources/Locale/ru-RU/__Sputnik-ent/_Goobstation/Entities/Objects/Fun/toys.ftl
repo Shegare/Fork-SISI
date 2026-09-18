@@ -37,26 +37,26 @@ ent-GrenadeToy = игрушечная граната
 ent-BulletGrenadeToy = игрушечный выстрел
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-WeaponLauncherTaiwanPond = Taiwan Pond
+ent-WeaponLauncherTaiwanPond = Тайваньский пруд
     .desc = ПЛЮХ.
 
 ent-PlushieSamantha = плюшевая Джейн ("Синий Щит")
     .desc = Милый плюшевый ветеран "Синий Щит". Навевает непреодолимую тягу к леденцам.
 
-ent-PlushieJvne = jvne plushie
-    .desc = It's been a rough day...
+ent-PlushieJvne = плюшевый Джвн
+    .desc = День выдался тяжёлым...
 
-ent-PlushieFern = mystical lizard plushie
-    .desc = You feel as if something else is watching you... just out of sight, in the shadows.
+ent-PlushieFern = плюшевая мистическая ящерица
+    .desc = Вам кажется, будто кто-то ещё наблюдает за вами... прямо вне поля зрения, в тени.
 
-ent-PlushieNigel = handsome plushie
-    .desc = Smells like greatness, and a distinct smell of adalamin brand perfume?
+ent-PlushieNigel = красивый плюшевый зверь
+    .desc = Пахнет величием и отчётливым ароматом духов марки Adalamin?
 
-ent-PlushieBoggle = Boggle plushie
-    .desc = You can feel money inside.
+ent-PlushieBoggle = плюшевый Боггл
+    .desc = Вы чувствуете внутри деньги.
 
-ent-PlushieLehmin = Lehmin plushie
-    .desc = Smells like chemicals, you feel uneasy holding it.
+ent-PlushieLehmin = плюшевый Лемин
+    .desc = Пахнет химикатами, и держать его неприятно.
 
 ent-DiscoBeachBall = пляжный диско-мяч
     .desc = Пляжный диско-мяч превратит любую вечеринку в Студия 54.
@@ -97,8 +97,8 @@ ent-ToyCodexCicatrix = кодекс Cicatrix
     .desc = Этот лёгкий том полон криптических каракулей и запутанных диаграмм. По легенде, его можно расшифровать, чтобы раскрыть секреты завесы между мирами.
     .suffix = Игрушка
 
-ent-PlushiePasha = tired vox plushie
-    .desc = A not so cute stuffed toy that resembles an overworked Vox. Smells strongly of nicotine.
+ent-PlushiePasha = плюшевый уставший воксианин
+    .desc = Не очень милая игрушка, похожая на замученного воксианина. Сильно пахнет никотином.
 
-ent-PlushieLeguia = one singular eel
-    .desc = Dubious creature.
+ent-PlushieLeguia = единственный угорь
+    .desc = Сомнительное создание.

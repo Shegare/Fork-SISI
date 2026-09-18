@@ -28,7 +28,7 @@ ent-GyroscopeUnanchored = { ent-Gyroscope }
 # AUTOGEN-Start
 # .suffix = DEBUG
 # AUTOGEN-End TODO(Update_Locale):
-ent-DebugGyroscope = gyroscope
+ent-DebugGyroscope = гироскоп
     .desc = { ent-BaseThruster.desc }
     .suffix = DEBUG
 

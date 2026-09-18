@@ -5,8 +5,8 @@ ent-ClothingHeadHelmetEVA = шлем EVA
 # шлем EVA
 # .desc = Старый, но проверенный шлем, разработанный для внекорабельной деятельности.
 # AUTOGEN-End TODO(Update_Locale):
-ent-ClothingHeadHelmetEVALarge = emergency helmet
-    .desc = Hard to believe this cheap-looking thing is airtight, but it is.
+ent-ClothingHeadHelmetEVALarge = шлем EVA
+    .desc = Старый, но проверенный шлем, разработанный для внекорабельной деятельности.
 
 ent-ClothingHeadHelmetSyndicate = шлем EVA синдиката
     .desc = Простой, стильный шлем EVA. Разработан для максимальной скромной космической крутости.

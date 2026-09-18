@@ -41,7 +41,7 @@ ent-ClothingHeadHatCatEarsValid = { ent-ClothingHeadHatCatEars }
     .suffix = Valid, НЕ МАППИТЬ!
     .desc = { ent-ClothingHeadHatCatEars.desc }
 
-ent-ActionBecomeValid = Become Valid
+ent-ActionBecomeValid = Стать валидом
     .desc = *замечает ваш знак смерти* owo whats this
 
 ent-ClothingHeadHatDogEars = собачьи ушки

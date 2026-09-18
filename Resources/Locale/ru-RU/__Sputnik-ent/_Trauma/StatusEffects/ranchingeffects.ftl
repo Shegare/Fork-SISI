@@ -1,41 +1,41 @@
-ent-StatusEffectShink = shrunk
+ent-StatusEffectShink = уменьшен
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectDamageMod = damage mod changed
+ent-StatusEffectDamageMod = модификатор урона изменён
     .desc = { ent-MobStatusEffectDebuff.desc }
 
 ent-StatusEffectDamageModKnightEgg = { ent-StatusEffectDamageMod }
     .desc = { ent-StatusEffectDamageMod.desc }
 
-ent-StatusEffectDreamEgg = dream egg effect
+ent-StatusEffectDreamEgg = эффект сонного яйца
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectCockatricePower = cockatrice egg effect
+ent-StatusEffectCockatricePower = эффект яйца василиска
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectMedusa = Turned into stone
+ent-StatusEffectMedusa = Превращён в камень
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-SnowEggEffect = Snow trail!
+ent-SnowEggEffect = Снежный след!
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-DreamsicleEggEffect = Orange Dreamsicle High
+ent-DreamsicleEggEffect = Апельсиновый приход
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectZappyPower = zappy egg effect
+ent-StatusEffectZappyPower = эффект яйца Зэппи
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-SnowEggEffectNoDamage = Snow trail!
+ent-SnowEggEffectNoDamage = Снежный след!
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectPhoenixHeal = phoenix heal
+ent-StatusEffectPhoenixHeal = исцеление феникса
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectPhoenixPower = phoenix egg effect
+ent-StatusEffectPhoenixPower = эффект яйца феникса
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectDragonPower = dragon's power
+ent-StatusEffectDragonPower = сила дракона
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-SugarRushEffect = sugar rush!
+ent-SugarRushEffect = сахарный прилив!
     .desc = { ent-MobStatusEffectBase.desc }

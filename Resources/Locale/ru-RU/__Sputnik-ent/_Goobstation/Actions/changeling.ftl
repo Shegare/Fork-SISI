@@ -16,11 +16,11 @@ ent-ActionChangelingTransformCycle = Переключить ДНК
 ent-ActionChangelingTransform = Превращение
     .desc = Превращает в другого гуманоида. Без одежды. Стоимость: 5 химикатов.
 
-ent-ActionEnterStasis = Enter regenerative stasis
-    .desc = Fake your death and start regenerating. Cost free.
+ent-ActionEnterStasis = Войти в регенеративный стазис
+    .desc = Симулируйте смерть и начните регенерировать. Бесплатно.
 
-ent-ActionExitStasis = Exit stasis
-    .desc = Rise from the dead with full health. Costs 30 chemicals.
+ent-ActionExitStasis = Выйти из стазиса
+    .desc = Восстаньте из мёртвых с полным здоровьем. Стоимость: 30 химикатов.
 
 ent-ActionToggleArmblade = Рука-клинок
     .desc = Превращает руку в костяной клинок. Повторное использование — убрать. Стоимость: 15 химикатов.
@@ -85,8 +85,8 @@ ent-ActionBiodegrade = Биораспад
 ent-ActionChameleonSkin = Кожа-хамелеон
     .desc = Делает вас малозаметным. Стоимость: 20 химикатов.
 
-ent-ActionVoidAdapt = Toggle Void Adaption
-    .desc = Adapt to the harsh environment of space, removing the need for oxygen or a suit. Cost free.
+ent-ActionVoidAdapt = Переключить адаптацию Пустоты
+    .desc = Адаптируйтесь к суровой среде космоса, избавившись от потребности в кислороде или скафандре. Бесплатно.
 
 ent-ActionAdrenalineReserves = Резервы адреналина
     .desc = Впрыскивает мощную дозу адреналина. Стоимость: 25 химикатов.

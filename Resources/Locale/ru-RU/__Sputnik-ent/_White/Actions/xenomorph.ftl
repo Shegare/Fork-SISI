@@ -34,8 +34,8 @@ ent-ActionSpawnResinNest = Построить смоляное гнездо (50)
 ent-ActionTailLash = Ударить хвостом
     .desc = Ударьте противника хвостом.
 
-ent-ActionAcid = Corrosive acid (100)
-    .desc = Drench an object in acid, destroying it over time.
+ent-ActionAcid = Едкая кислота (100)
+    .desc = Облейте предмет кислотой, постепенно уничтожая его.
 
 ent-ActionJumpXenomorph = Прыгнуть
     .desc = Оглушите врагов быстрым прыжком.
@@ -46,11 +46,11 @@ ent-ActionTransferPlasma = Передать плазму (50)
 ent-ActionXenomorphPromotion = Повысить до Преторианца (500)
     .desc = Повышает выбранного ксеноморфа до Преторианца.
 
-ent-ActionAcidSpit = Acid spit (20)
-    .desc = Toggle the ability to spit neurotoxin. When enabled, use (M2) to shoot.
+ent-ActionAcidSpit = Кислотный плевок (20)
+    .desc = Включает способность плеваться нейротоксином. После включения используйте (M2) для выстрела.
 
-ent-ActionFaceHuggerLeap = Leap
-    .desc = Leap onto a target's face to attach yourself.
+ent-ActionFaceHuggerLeap = Прыжок
+    .desc = Прыгните на лицо цели, чтобы прикрепиться к ней.
 
-ent-ActionQueenroar = Roar
-    .desc = Roar loudly to stun all enemies around you.
+ent-ActionQueenroar = Рёв
+    .desc = Громко зарычите, чтобы оглушить всех врагов вокруг.

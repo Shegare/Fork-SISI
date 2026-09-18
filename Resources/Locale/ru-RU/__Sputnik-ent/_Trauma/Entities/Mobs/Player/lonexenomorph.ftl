@@ -1,2 +1,2 @@
-ent-MobLoneXenomorph = Lone Xenomorph
-    .desc = The Perfect Organism
+ent-MobLoneXenomorph = одинокий ксеноморф
+    .desc = Идеальный организм

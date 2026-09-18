@@ -7,13 +7,13 @@ ent-OrganBaseOrganic = орган
 # AUTOGEN-Start
 # торс
 # AUTOGEN-End TODO(Update_Locale):
-ent-OrganBaseTorso = torso
+ent-OrganBaseTorso = торс
     .desc = { ent-OrganBase.desc }
 
 # AUTOGEN-Start
 # голова
 # AUTOGEN-End TODO(Update_Locale):
-ent-OrganBaseHead = head
+ent-OrganBaseHead = голова
     .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseArmLeft = левая рука
@@ -43,37 +43,37 @@ ent-OrganBaseFootRight = правая стопа
 # AUTOGEN-Start
 # мозг
 # AUTOGEN-End TODO(Update_Locale):
-ent-OrganBaseBrain = brain
+ent-OrganBaseBrain = мозг
     .desc = { ent-BaseKnowledgeContainer.desc }
 
 # AUTOGEN-Start
 # глаза
 # AUTOGEN-End TODO(Update_Locale):
-ent-OrganBaseEyes = eyes
+ent-OrganBaseEyes = глаза
     .desc = { ent-OrganBase.desc }
 
 # AUTOGEN-Start
 # язык
 # AUTOGEN-End TODO(Update_Locale):
-ent-OrganBaseTongue = tongue
+ent-OrganBaseTongue = язык
     .desc = { ent-OrganBase.desc }
 
 # AUTOGEN-Start
 # аппендикс
 # AUTOGEN-End TODO(Update_Locale):
-ent-OrganBaseAppendix = appendix
+ent-OrganBaseAppendix = аппендикс
     .desc = { ent-OrganBase.desc }
 
 # AUTOGEN-Start
 # уши
 # AUTOGEN-End TODO(Update_Locale):
-ent-OrganBaseEars = ears
+ent-OrganBaseEars = уши
     .desc = { ent-OrganBase.desc }
 
 # AUTOGEN-Start
 # лёгкие
 # AUTOGEN-End TODO(Update_Locale):
-ent-OrganBaseLungs = lungs
+ent-OrganBaseLungs = лёгкие
     .desc = { ent-OrganBase.desc }
 
 ent-SolutionLungGas = { ent-Solution }
@@ -82,13 +82,13 @@ ent-SolutionLungGas = { ent-Solution }
 # AUTOGEN-Start
 # сердце
 # AUTOGEN-End TODO(Update_Locale):
-ent-OrganBaseHeart = heart
+ent-OrganBaseHeart = сердце
     .desc = { ent-OrganBase.desc }
 
 # AUTOGEN-Start
 # желудок
 # AUTOGEN-End TODO(Update_Locale):
-ent-OrganBaseStomach = stomach
+ent-OrganBaseStomach = желудок
     .desc = { ent-OrganBase.desc }
 
 ent-SolutionStomach = { ent-Solution }
@@ -97,13 +97,13 @@ ent-SolutionStomach = { ent-Solution }
 # AUTOGEN-Start
 # печень
 # AUTOGEN-End TODO(Update_Locale):
-ent-OrganBaseLiver = liver
+ent-OrganBaseLiver = печень
     .desc = { ent-OrganBase.desc }
 
 # AUTOGEN-Start
 # почки
 # AUTOGEN-End TODO(Update_Locale):
-ent-OrganBaseKidneys = kidneys
+ent-OrganBaseKidneys = почки
     .desc = { ent-OrganBase.desc }
 
 ent-OrganSpriteHumanInternal = { "" }

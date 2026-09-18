@@ -1,19 +1,19 @@
-ghost-role-information-syndicate-reinforcement-grenadier-name = Syndicate Grenadier
-ghost-role-information-syndicate-reinforcement-grenadier-description = Someone needs reinforcements. Your expertise is in explosions, use it well.
+ghost-role-information-syndicate-reinforcement-grenadier-name = Гренадёр Синдиката
+ghost-role-information-syndicate-reinforcement-grenadier-description = Кому-то нужно подкрепление. Ваша специализация - взрывы, используйте её с умом.
 
-ghost-role-information-syndicate-reinforcement-hitman-name = Syndicate Hitman
-ghost-role-information-syndicate-reinforcement-hitman-description = Someone needs reinforcements. Your objective is to dispatch of someone that your agent needs gone.
+ghost-role-information-syndicate-reinforcement-hitman-name = Наёмный убийца Синдиката
+ghost-role-information-syndicate-reinforcement-hitman-description = Кому-то нужно подкрепление. Ваша цель - устранить того, кто мешает вашему агенту.
 
-ghost-role-information-syndicate-behonker-name = Syndicate Behonker
-ghost-role-information-syndicate-behonker-desc = A disciple of the Honkmother needs you. Aid them in their time of need.
+ghost-role-information-syndicate-behonker-name = Бехонкер Синдиката
+ghost-role-information-syndicate-behonker-desc = Ученику Хонкматери нужна ваша помощь. Помогите ему в трудный час.
 
-ghost-role-information-nukie-carp-name = Nuclear Operative Carp
-ghost-role-information-nukie-carp-description = A Nuclear Operative Carp reinforcement for the Syndicate.
+ghost-role-information-nukie-carp-name = Карп-ядерный оперативник
+ghost-role-information-nukie-carp-description = Карп-подкрепление ядерных оперативников Синдиката.
 
-ghost-role-information-nukie-mouse-name = Nuclear Operative Mouse
-ghost-role-information-nukie-mouse-description = A Nuclear Operative Mouse reinforcement for the Syndicate.
+ghost-role-information-nukie-mouse-name = Мышь-ядерный оперативник
+ghost-role-information-nukie-mouse-description = Мышь-подкрепление ядерных оперативников Синдиката.
 
-ghost-role-information-nukie-spider-name = Nuclear Operative Spider
-ghost-role-information-nukie-spider-description = A Nuclear Operative Spider reinforcement for the Syndicate.
+ghost-role-information-nukie-spider-name = Паук-ядерный оперативник
+ghost-role-information-nukie-spider-description = Паук-подкрепление ядерных оперативников Синдиката.
 
-ghost-role-information-syndicate-cyborg-medical-name = Syndicate Medical Cyborg
+ghost-role-information-syndicate-cyborg-medical-name = Медицинский киборг Синдиката

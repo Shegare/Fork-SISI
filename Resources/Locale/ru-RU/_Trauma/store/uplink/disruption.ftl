@@ -15,8 +15,8 @@ uplink-shuttle-iff-desc = Позволяет управлять IFF и хара�
 
 uplink-cameraBug-name-trauma = жучок-камера
 
-uplink-super-surplus-bundle-name = Super Surplus Crate
-uplink-super-surplus-bundle-desc = Contains 625 telecrystals worth of completely random Syndicate items.
+uplink-super-surplus-bundle-name = Ящик суперизлишков
+uplink-super-surplus-bundle-desc = Содержит случайные предметы Синдиката общей стоимостью 625 телекристаллов.
 
-uplink-syndicate-segway-crate-name = Syndicate Segway
-uplink-syndicate-segway-crate-desc = Be an enemy of the corporation, in style!
+uplink-syndicate-segway-crate-name = Сегвей Синдиката
+uplink-syndicate-segway-crate-desc = Будьте стильным врагом корпорации!

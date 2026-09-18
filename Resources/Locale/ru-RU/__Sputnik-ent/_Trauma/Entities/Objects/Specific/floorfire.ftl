@@ -1,2 +1,2 @@
-ent-MolotovHellFire = hellfire
+ent-MolotovHellFire = адское пламя
     .desc = { ent-MolotovFire.desc }

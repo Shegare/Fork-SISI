@@ -1,5 +1,5 @@
-ent-SpiderMultiply = Multiply
-    .desc = Uses hunger to multiply.
+ent-SpiderMultiply = Размножение
+    .desc = Использует голод для размножения.
 
-ent-ActionSpiderCall = Spidercall
-    .desc = Call nearby spiders to your location.
+ent-ActionSpiderCall = Призыв пауков
+    .desc = Призывает ближайших пауков к вашему местоположению.

@@ -16,15 +16,15 @@ ent-TreasureCPUSupercharged = супермощный процессор
 ent-TreasureSampleTube = пробирка для образцов
     .desc = Стеклянная трубка с какой-то жижей внутри. Похоже, может разбиться.
 
-ent-BaseCoin = coin
-    .desc = A flat bit of metal. If it was still in circulation, inflation would've made it worthless. Since it isn't, it's worth enough to keep in a book.
+ent-BaseCoin = монета
+    .desc = Плоский кусочек металла. Если бы он всё ещё находился в обращении, инфляция сделала бы его бесполезным. Но поскольку это не так, он достаточно ценен, чтобы хранить его в книге.
 
 # AUTOGEN-Start
 # монета
 # .desc = Плоский кусочек металла. Если бы он всё ещё находился в обращении, инфляция сделала бы его бесполезным. Но поскольку это не так, она достаточно ценна, чтобы хранить её в книге.
 # AUTOGEN-End TODO(Update_Locale):
-ent-TreasureCoinIron = { ent-BaseCoin }
-    .desc = { ent-BaseCoin.desc }
+ent-TreasureCoinIron = монета
+    .desc = Плоский кусочек металла. Если бы он всё ещё находился в обращении, инфляция сделала бы его бесполезным. Но поскольку это не так, она достаточно ценна, чтобы хранить её в книге.
 
 ent-TreasureCoinSilver = { ent-BaseCoin }
     .desc = { ent-BaseCoin.desc }

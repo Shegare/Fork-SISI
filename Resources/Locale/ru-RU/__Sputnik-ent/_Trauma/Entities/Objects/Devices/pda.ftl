@@ -19,5 +19,5 @@ ent-AltCaptainPDA = КПК капитана
 ent-SyndiMedicPDA = КПК медика синдиката
     .desc = Так, время быть продуктивным членом об- о, круто, я плохой парень, пора убивать людей!
 
-ent-RancherPDA = rancher PDA
-    .desc = The second best friend of a rancher!
+ent-RancherPDA = КПК животновода
+    .desc = Второй лучший друг животновода!

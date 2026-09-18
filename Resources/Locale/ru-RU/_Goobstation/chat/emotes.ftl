@@ -12,6 +12,6 @@ emote-fart-inhale-notice = ...
 emote-fart-inhale-disarm-notice = ...
 
 chat-emote-name-boop = Буп
-chat-emote-msg-boop = boops.
+chat-emote-msg-boop = бупает.
 chat-emote-name-whirr = Жужжать
-chat-emote-msg-whirr = whirrs.
+chat-emote-msg-whirr = жужжит.

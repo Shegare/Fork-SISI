@@ -1,4 +1,4 @@
-ent-BaseWeaponTurretIndestructible = turret
+ent-BaseWeaponTurretIndestructible = турель
     .desc = { ent-BaseStructure.desc }
 
 ent-BaseTurretDestructible = { "" }
@@ -7,25 +7,25 @@ ent-BaseTurretDestructible = { "" }
 # AUTOGEN-Start
 # турель
 # AUTOGEN-End TODO(Update_Locale):
-ent-BaseWeaponTurret = { ent-BaseWeaponTurretIndestructible }
+ent-BaseWeaponTurret = турель
     .desc = { ent-BaseWeaponTurretIndestructible.desc }
 
-ent-BaseWeaponBallisticTurretIndestructible = ballistic turret
-    .desc = A ballistic machine gun auto-turret.
+ent-BaseWeaponBallisticTurretIndestructible = баллистическая турель
+    .desc = Автоматическая турель с баллистическим пулемётом.
 
 # AUTOGEN-Start
 # баллистическая турель
 # .desc = Автоматическая турель с баллистическим пулемётом.
 # AUTOGEN-End TODO(Update_Locale):
-ent-BaseWeaponBallisticTurret = { ent-BaseWeaponBallisticTurretIndestructible }
-    .desc = { ent-BaseWeaponBallisticTurretIndestructible.desc }
+ent-BaseWeaponBallisticTurret = баллистическая турель
+    .desc = Автоматическая турель с баллистическим пулемётом.
 
-ent-BaseWeaponEnergyTurretIndestructible = laser turret
-    .desc = An auto-turret armed with a heavy laser. Its weapon will recharge while connected to an active power grid.
+ent-BaseWeaponEnergyTurretIndestructible = лазерная турель
+    .desc = Автоматическая турель, вооружённая тяжёлым лазером. Её оружие перезаряжается при подключении к активной энергосети.
 
 # AUTOGEN-Start
 # лазерная турель
 # .desc = Автоматическая турель, вооружённая тяжёлым лазером. Её оружие перезаряжается при подключении к активной энергосети.
 # AUTOGEN-End TODO(Update_Locale):
-ent-BaseWeaponEnergyTurret = { ent-BaseWeaponEnergyTurretIndestructible }
-    .desc = { ent-BaseWeaponEnergyTurretIndestructible.desc }
+ent-BaseWeaponEnergyTurret = лазерная турель
+    .desc = Автоматическая турель, вооружённая тяжёлым лазером. Её оружие перезаряжается при подключении к активной энергосети.

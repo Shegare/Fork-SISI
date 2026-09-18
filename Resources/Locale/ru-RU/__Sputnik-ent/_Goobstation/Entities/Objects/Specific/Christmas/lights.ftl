@@ -7,14 +7,14 @@ ent-SpawnerChristmasLightsRed = спавнер красные рождестве
 ent-SpawnerChristmasLightsBlue = спавнер синие рождественские гирлянды
     .desc = { ent-MarkerBase.desc }
 
-ent-BaseChristmasLights = christmas lights
-    .desc = Some white Christmas lights.
+ent-BaseChristmasLights = рождественские гирлянды
+    .desc = Несколько белых рождественских гирлянд.
 
 ent-BaseChristmasLightsRed = { ent-BaseChristmasLights }
-    .desc = Some red Christmas lights.
+    .desc = Несколько красных рождественских гирлянд.
 
 ent-BaseChristmasLightsBlue = { ent-BaseChristmasLights }
-    .desc = Some blue Christmas lights.
+    .desc = Несколько синих рождественских гирлянд.
 
 # AUTOGEN-Start
 # белые рождественские гирлянды

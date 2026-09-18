@@ -1,5 +1,5 @@
 # AUTOGEN-Start
 # раздвижное заводное окно
 # AUTOGEN-End TODO(Update_Locale):
-ent-BaseClockworkWindoor = clockwork windoor
+ent-BaseClockworkWindoor = раздвижное заводное окно
     .desc = { ent-BaseWindoorGeneric.desc }

@@ -47,7 +47,7 @@ ent-MobGhoulFireSharkLock = усиленная пылающая акула
     .desc = { ent-BaseMobGhoulLock.desc }
 
 ent-MobGhoulAshSpiritBase = ash spirit
-    .desc = A manifestation of ash, trailing a perpetual cloud of short-lived cinders.
+    .desc = Проявление пепла, оставляющее за собой вечное облако недолговечных угольков.
 
 ent-MobGhoulAshSpirit = { ent-BaseMobHereticGhoul }
     .desc = { ent-BaseMobHereticGhoul.desc }

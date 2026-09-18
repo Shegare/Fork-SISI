@@ -1,2 +1,2 @@
-ent-ActionManageWaypointers = Manage Waypointers
-    .desc = Manage the visibility of your waypointers.
+ent-ActionManageWaypointers = Управление путевыми точками
+    .desc = Управляйте видимостью своих путевых точек.

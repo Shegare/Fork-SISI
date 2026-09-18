@@ -1,9 +1,9 @@
 knowledge-path-flesh-passive-desc-1 =
-    You are now able to consume raw flesh. Eating meat, organs and body parts will heal you.
-    You also become immune to damage from poisons as well as diseases.
+    Теперь вы можете есть сырую плоть. Употребление мяса, органов и частей тела лечит вас.
+    Вы также получаете иммунитет к урону от ядов и болезней.
 
-knowledge-path-flesh-passive-desc-2 = You can create two more ghouls and one more Voiceless Dead.
-knowledge-path-flesh-passive-desc-3 = Grants you medical hud.
+knowledge-path-flesh-passive-desc-2 = Вы можете создать ещё двух гулей и одного Безмолвного мертвеца.
+knowledge-path-flesh-passive-desc-3 = Даёт вам медицинский визор.
 
 knowledge-path-flesh-s1-name = Принцип голода
 knowledge-path-flesh-s1-desc =
@@ -44,16 +44,16 @@ knowledge-path-flesh-s5-desc =
     Процесс занимает больше времени, если цель жива.
     Также позволяет лечить ваших прислужников и призванных существ, или восстанавливать повреждённые органы до приемлемого состояния.
 
-knowledge-path-flesh-armor-name = Writhing Embrace
+knowledge-path-flesh-armor-name = Извивающиеся объятия
 knowledge-path-flesh-armor-desc =
-    I tugged these wretched, slothing things about me, like one might a warm blanket.
-    With eyes-not-mine, they will witness. With teeth-not-mine, they will clench. With limbs-not-mine, they will break.
+    Я обернул вокруг себя эти жалкие, лениво извивающиеся создания, словно тёплое одеяло.
+    Чужими глазами они будут наблюдать. Чужими зубами они будут сжиматься. Чужими конечностями они будут ломать.
 
-    Allows you to transmute a table (or a suit), a mask and a pool of blood to create a writhing embrace.
-    It grants you the ability to detect the health condition of other living (and non-living).
-    Additionally, upon taking damage, it has a chance to spawn a loyal flesh mimic of yourself.
-    Acts as a focus while hooded.
-    Unlocks tier 2 passive ability upgrade when transmuted.
+    Позволяет преобразовать стол (или костюм), маску и лужу крови в извивающиеся объятия.
+    Даёт вам возможность определять состояние здоровья других живых (и неживых) существ.
+    Кроме того, при получении урона появляется шанс создать верного имитатора плоти.
+    Действует как фокус, когда надет капюшон.
+    При трансмутации открывает улучшение пассивной способности 2-го уровня.
 
 knowledge-path-flesh-s6-name = Грубый ритуал
 # AUTOGEN-Start

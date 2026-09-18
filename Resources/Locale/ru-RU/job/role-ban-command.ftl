@@ -5,7 +5,7 @@ cmd-roleban-desc = Запрещает пользователю играть на
 # AUTOGEN-Start
 # Использование: roleban <name or user ID> <job> <reason> [продолжительность в минутах, не указывать или 0 для навсегда]
 # AUTOGEN-End TODO(Update_Locale):
-cmd-roleban-help = Usage: roleban <name or user ID> <job> <reason> [duration in minutes, leave out or 0 for permanent ban] [severity] [webhook reason override]
+cmd-roleban-help = Использование: roleban <имя или ID пользователя> <должность> <причина> [продолжительность в минутах, не указывать или 0 для перманентного бана] [тяжесть] [переопределение причины вебхука]
 
 ## Completion result hints
 cmd-roleban-hint-1 = <name or user ID>
@@ -60,4 +60,4 @@ cmd-departmentban-desc = Запрещает пользователю играт�
 # AUTOGEN-Start
 # Использование: departmentban <name or user ID> <department> <reason> [продолжительность в минутах, не указывать или 0 для навсегда]
 # AUTOGEN-End TODO(Update_Locale):
-cmd-departmentban-help = Usage: departmentban <name or user ID> <department> <reason> [duration in minutes, leave out or 0 for permanent ban] [severity] [webhook reason override]
+cmd-departmentban-help = Использование: departmentban <имя или ID пользователя> <отдел> <причина> [продолжительность в минутах, не указывать или 0 для перманентного бана] [тяжесть] [переопределение причины вебхука]

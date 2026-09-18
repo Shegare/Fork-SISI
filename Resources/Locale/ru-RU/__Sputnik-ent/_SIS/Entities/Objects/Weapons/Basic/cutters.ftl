@@ -1,14 +1,14 @@
-ent-WeaponAdvancedPlasmaCutter = advanced plasma cutter
-    .desc = An advanced plasma cutter — it’s stronger, smarter, and better.
+ent-WeaponAdvancedPlasmaCutter = продвинутый фороновый резак
+    .desc = Продвинутый фороновый резак - он сильнее, умнее и лучше.
 
-ent-BulletAdvancedPlasmaCutter = cutter bolt
-    .desc = Not too bad, but you still don't want to get hit by it.
+ent-BulletAdvancedPlasmaCutter = заряд резака
+    .desc = Не так уж плохо, но всё же не стоит попадать под его удар.
 
-ent-WeaponFanshapedPlasmaCutter = fanshaped plasma cutter
-    .desc = The fan‑shaped plasma cutter, which fires “shot,” is perfect for excavating large areas.
+ent-WeaponFanshapedPlasmaCutter = веерообразный фороновый резак
+    .desc = Веерообразный фороновый резак, стреляющий «дробью», идеально подходит для раскопок больших площадей.
 
-ent-BulletPlasmaCutterSpread = wide cutter bolt barrage
+ent-BulletPlasmaCutterSpread = широкий залп зарядов резака
     .desc = { ent-BulletFanshapedPlasmaCutter.desc }
 
-ent-BulletFanshapedPlasmaCutter = cutter bolt
-    .desc = Not too bad, but you still don't want to get hit by it.
+ent-BulletFanshapedPlasmaCutter = заряд резака
+    .desc = Не так уж плохо, но всё же не стоит попадать под его удар.

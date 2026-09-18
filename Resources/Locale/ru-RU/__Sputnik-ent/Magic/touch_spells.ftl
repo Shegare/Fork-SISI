@@ -4,8 +4,8 @@ ent-BaseEntitySpellAction = { ent-BaseAction }
 ent-BaseSmiteAction = { ent-BaseEntitySpellAction }
     .desc = { ent-BaseEntitySpellAction.desc }
 
-ent-ActionSmite = Smite
-    .desc = Instantly gibs a target.
+ent-ActionSmite = Кара
+    .desc = Мгновенно расчленяет цель.
 
 ent-ActionSmiteNoReq = { ent-ActionSmite }
     .desc = { ent-ActionSmite.desc }

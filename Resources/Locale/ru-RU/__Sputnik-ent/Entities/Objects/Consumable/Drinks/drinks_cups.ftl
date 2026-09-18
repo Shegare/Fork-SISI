@@ -7,11 +7,11 @@ ent-DrinkBaseMug = обычная кружка
 ent-DrinkGoldenCup = золотая чаша
     .desc = Золотая чаша, золотая.
 
-ent-DrinkTeacupEmpty = teacup
-    .desc = A plain white porcelain teacup.
+ent-DrinkTeacupEmpty = чайная чашка
+    .desc = Простая белая фарфоровая чашка.
 
-ent-DrinkGlassCoupeShaped = coupe glass
-    .desc = A classic thin neck coupe glass, the icon of fragile labels on crates around the galaxy.
+ent-DrinkGlassCoupeShaped = бокал-купе
+    .desc = Классический бокал-купе с тонкой ножкой, символ хрупких наклеек на ящиках по всей галактике.
 
 ent-DrinkWaterCup = стаканчик воды
     .desc = Бумажный стаканчик воды.

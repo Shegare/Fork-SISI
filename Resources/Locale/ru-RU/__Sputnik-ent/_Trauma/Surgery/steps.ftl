@@ -13,5 +13,5 @@ ent-SurgeryStepCreateJoint = Создать сустав
 ent-SurgeryStepStitchJoint = Зашить кровеносные сосуды сустава
     .desc = { ent-SurgeryStepCloseBloodOutputs.desc }
 
-ent-SurgeryStepRemoveOrganHand = Remove organ
+ent-SurgeryStepRemoveOrganHand = Удалить орган
     .desc = { ent-SurgeryStepBase.desc }

@@ -190,8 +190,8 @@ ent-MobSpiderAngryBase = { ent-MobSpiderBase }
 # тарантул
 # .desc = Общепризнанно, что это буквально худшее существо на свете.
 # AUTOGEN-End TODO(Update_Locale):
-ent-MobGiantSpider = giant spider
-    .desc = Widely recognized to be the literal worst thing in existence.
+ent-MobGiantSpider = тарантул
+    .desc = Общепризнанно, что это буквально худшее существо на свете.
 
 ent-MobGiantSpiderAngry = { ent-MobGiantSpider }
     .desc = { ent-MobGiantSpider.desc }

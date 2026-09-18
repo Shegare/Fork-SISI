@@ -13,17 +13,17 @@ agent-id-new =
        *[other] дала { $number } новых доступов
     }.
 
-agent-id-open-ui-verb = Change settings
+agent-id-open-ui-verb = Изменить настройки
 
-agent-id-ui-menu-title = Agent ID Card
-agent-id-ui-tab-settings = Settings
-agent-id-ui-tab-job-icons = Job Icons
+agent-id-ui-menu-title = ID-карта агента
+agent-id-ui-tab-settings = Настройки
+agent-id-ui-tab-job-icons = Значки должностей
 
-agent-id-ui-input-name = Name:
-agent-id-ui-input-job = Job:
+agent-id-ui-input-name = Имя:
+agent-id-ui-input-job = Должность:
 
 agent-id-ui-os = Nuke#OS ™
-agent-id-ui-os-flavor = When in doubt, nobody questions a mime
+agent-id-ui-os-flavor = Если сомневаешься, мима никто не станет допрашивать
 # Get your mind out of the gutter.
-agent-id-ui-footer-flavor-left = Just a regular ID nothing to see here
+agent-id-ui-footer-flavor-left = Обычная ID-карта, здесь нечего смотреть
 agent-id-ui-footer-flavor-right = v2.0

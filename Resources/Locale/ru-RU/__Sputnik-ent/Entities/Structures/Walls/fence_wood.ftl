@@ -12,28 +12,28 @@ ent-BaseFenceWoodSmall = небольшой деревянный забор
 # AUTOGEN-End TODO(Update_Locale):
 ent-FenceWoodHighStraight = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
-    .suffix = Straight
+    .suffix = Прямой
 
 # AUTOGEN-Start
 # .suffix = Конец
 # AUTOGEN-End TODO(Update_Locale):
 ent-FenceWoodHighEnd = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
-    .suffix = End
+    .suffix = Конец
 
 # AUTOGEN-Start
 # .suffix = Угол
 # AUTOGEN-End TODO(Update_Locale):
 ent-FenceWoodHighCorner = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
-    .suffix = Corner
+    .suffix = Угол
 
 # AUTOGEN-Start
 # .suffix = Т-образный
 # AUTOGEN-End TODO(Update_Locale):
 ent-FenceWoodHighTJunction = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
-    .suffix = T-Junction
+    .suffix = Т-образный
 
 ent-FenceWoodHighGate = ворота деревянного забора
     .desc = Имеешь ли ты представление, что ждёт тебя за этими воротами? Это может быть как туалет, так и роскошный особняк. А ты продолжай любить своих эмобоев.

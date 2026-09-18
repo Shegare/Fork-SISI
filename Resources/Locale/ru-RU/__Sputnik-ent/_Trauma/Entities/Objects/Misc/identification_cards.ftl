@@ -11,5 +11,5 @@ ent-SpacePolIDCardChameleon = ID карта СпейсПола
     .desc = { ent-AgentIDCard.desc }
     .suffix = Агент
 
-ent-RancherIDCard = rancher ID card
+ent-RancherIDCard = ID-карта животновода
     .desc = { ent-IDCardStandard.desc }

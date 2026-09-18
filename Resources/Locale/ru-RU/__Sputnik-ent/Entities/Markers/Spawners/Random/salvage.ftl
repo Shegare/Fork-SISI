@@ -32,6 +32,6 @@ ent-SalvageFleshSpawner = спавнер обломок плоть
     .suffix = 100
     .desc = { ent-SalvageMobSpawner.desc }
 
-ent-SalvageLivingLightSpawner = Salvage Living Light Spawner
+ent-SalvageLivingLightSpawner = спавнер живого светильника
     .desc = { ent-MarkerBase.desc }
     .suffix = 100

@@ -4,15 +4,15 @@ blocking-examinable-verb-message = Изучить показатели защи�
 # AUTOGEN-Start
 # Блокируется [color=lightblue]$value%[/color] входящего урона и:
 # AUTOGEN-End TODO(Update_Locale):
-blocking-fraction = It blocks up to [color=lightblue]{$value}%[/color] of incoming damage and:
+blocking-fraction = Блокирует до [color=lightblue]{$value}%[/color] входящего урона и:
 # AUTOGEN-Start
 # - Получает [color=lightblue]$value%[/color] [color=yellow]$type[/color] урона.
 # AUTOGEN-End TODO(Update_Locale):
-blocking-coefficient-value = - It blocks up to [color=lightblue]{$value}%[/color] [color=yellow]{$type}[/color] damage.
+blocking-coefficient-value = - Блокирует до [color=lightblue]{$value}%[/color] урона типа [color=yellow]{$type}[/color].
 # AUTOGEN-Start
 # - Получает на [color=lightblue]$value[/color] меньше [color=yellow]$type[/color] урона.
 # AUTOGEN-End TODO(Update_Locale):
-blocking-reduction-value = - It blocks up to [color=lightblue]{$value}[/color] [color=yellow]{$type}[/color] damage.
+blocking-reduction-value = - Блокирует до [color=lightblue]{$value}[/color] урона типа [color=yellow]{$type}[/color].
 
 # Shown when examining the shield. Each entry represents the shield's health condition
 comp-shield-damaged-1 = It looks fully intact.

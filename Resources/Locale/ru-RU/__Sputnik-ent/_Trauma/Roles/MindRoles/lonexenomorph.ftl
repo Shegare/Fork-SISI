@@ -1,2 +1,2 @@
-ent-MindRoleLoneXenomorph = lone xenomorph role
+ent-MindRoleLoneXenomorph = роль одинокого ксеноморфа
     .desc = { ent-BaseMindRoleAntag.desc }

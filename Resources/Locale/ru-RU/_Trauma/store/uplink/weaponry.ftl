@@ -12,17 +12,17 @@ uplink-foam-cutlass-desc = Клинок, замаскированный под �
 
 uplink-bulk-mosin-name-trauma = Крупный ящик винтовок Синдиката
 
-uplink-fire-axe-flaming-name = Fire Axe
-uplink-fire-axe-flaming-desc = A classic-style weapon infused with advanced atmos technology to allow it to set targets on fire. Now with rugged rubberized handle!
+uplink-fire-axe-flaming-name = Огненный пожарный топор
+uplink-fire-axe-flaming-desc = Оружие в классическом стиле, оснащённое передовой атмосферной технологией, позволяющей поджигать цели. Теперь с прочной прорезиненной рукояткой!
 
-uplink-revolver-python-name = Python
-uplink-revolver-python-desc = A brutally simple, effective, and loud Syndicate revolver. Comes loaded with armor-piercing rounds. Uses .45 magnum.
+uplink-revolver-python-name = «Питон»
+uplink-revolver-python-desc = Бескомпромиссно простой, эффективный и громкий револьвер Синдиката. Поставляется заряженным бронебойными патронами. Использует .45 магнум.
 
-uplink-double-esword-name = Double-Bladed Energy Sword
-uplink-double-esword-desc = An extremely dangerous double energy sword. Forces you to flip when hitting your target via light attack, dealing extra damage, speeding you up and making you dodge projectiles briefly.
+uplink-double-esword-name = Двухлезвийный энергетический меч
+uplink-double-esword-desc = Чрезвычайно опасный двулезвийный энергетический меч. При ударе по цели лёгкой атакой заставляет вас перевернуться, нанося дополнительный урон, ускоряя вас и ненадолго позволяя уклоняться от снарядов.
 
-uplink-weapon-smartgun-name = Abielle Smart-SMG
-uplink-weapon-smartgun-desc = An experimental weapon that homes shot projectiles towards the target that you aimed at when shooting if wielded.
+uplink-weapon-smartgun-name = Умный ПП «Абиэль»
+uplink-weapon-smartgun-desc = Экспериментальное оружие, при использовании направляющее выпущенные снаряды к цели, на которую вы целились во время выстрела.
 
-uplink-spy-fedora-name = Spy Fedora
-uplink-spy-fedora-desc = A stylish boomerang type weapon-clothing that can slash through your victims both in melee and at range.
+uplink-spy-fedora-name = Федора шпиона
+uplink-spy-fedora-desc = Стильное оружие-одежда типа бумеранга, способное разрезать ваших жертв как в ближнем бою, так и на расстоянии.

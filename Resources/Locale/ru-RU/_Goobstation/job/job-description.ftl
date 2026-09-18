@@ -1,6 +1,6 @@
 # Generic Nanotrasen
 
-job-description-ntr = Represent NT, Send reports back to them on the station's situation, Inform the heads of anything CentCom orders them to do.
+job-description-ntr = Представляйте NT, отправляйте им отчёты о ситуации на станции и сообщайте руководителям обо всём, что Центральное Командование приказывает им сделать.
 
 # Syndicate
 
@@ -22,6 +22,6 @@ job-description-radiohost = Ведите местную радиостанцию
 job-description-virologist = Изучайте вирусы, создавайте лекарства для больных членов экипажа, экспериментируйте с созданием полезных вирусов.
 
 # Event restricted
-job-description-command-maid = Clean the bridge, command rooms, and everything else that command tells you to.
-job-description-security-clown = Do security's job, but don't forget to do it with your clown spice.
-job-description-party-maker = Throw the biggest party ever at this station!
+job-description-command-maid = Убирайте мостик, командные комнаты и всё остальное, что прикажет командование.
+job-description-security-clown = Выполняйте работу службы безопасности, но не забывайте добавлять к ней клоунскую изюминку.
+job-description-party-maker = Устройте на этой станции самую большую вечеринку!

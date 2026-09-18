@@ -1,8 +1,8 @@
-ent-RanchIncubator = incubator
-    .desc = Put an egg in here to make a chicken!
+ent-RanchIncubator = инкубатор
+    .desc = Положите сюда яйцо, чтобы получить курицу!
 
-ent-ChickenCarrier = chicken carrier
-    .desc = Allows chickens to be carried comfortably. It smells vaguely of toilet water and explosives.
+ent-ChickenCarrier = переноска для кур
+    .desc = Позволяет удобно переносить кур. Пахнет туалетной водой и взрывчаткой.
 
-ent-RanchBox = nesting box
-    .desc = Was a nice place for a hen to lay her eggs. Due to advancements in bluespace chickens science, they no longer have to.
+ent-RanchBox = гнездовой ящик
+    .desc = Раньше это было удобное место для кладки яиц. Благодаря достижениям блюспейс-науки о курах им больше не нужно гнездо.

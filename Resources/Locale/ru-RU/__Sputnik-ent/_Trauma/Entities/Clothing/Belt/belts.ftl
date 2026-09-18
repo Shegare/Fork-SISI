@@ -37,5 +37,5 @@ ent-ClothingBeltSheathSnakesfangFilled = { ent-ClothingBeltSheathSnakesfang }
     .desc = { ent-ClothingBeltSheathSnakesfang.desc }
     .suffix = Заполненный
 
-ent-ClothingBeltRancher = ranchers belt
-    .desc = Ideal for storing everything chicken related, and then some.
+ent-ClothingBeltRancher = пояс животновода
+    .desc = Идеален для хранения всего, что связано с курами, и не только.

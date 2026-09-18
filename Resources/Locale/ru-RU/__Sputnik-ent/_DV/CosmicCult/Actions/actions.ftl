@@ -1,59 +1,59 @@
 ent-BaseCosmicAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
 
-ent-ActionCosmicShop = Attune Influence
-    .desc = Spend gathered entropy to unlock new powers, or view the Cult's progress.
+ent-ActionCosmicShop = Настроить влияние
+    .desc = Тратьте накопленную энтропию, чтобы открывать новые силы или просматривать прогресс Культа.
 
-ent-ActionCosmicSiphon = Siphon Entropy
-    .desc = Silently siphon entropy from your target.
+ent-ActionCosmicSiphon = Откачать энтропию
+    .desc = Бесшумно откачивает энтропию из цели.
 
-ent-ActionCosmicBlank = Shunt Subjectivity
-    .desc = Shunt your target's mind out of their body and unto the cosmic dark, temporarily rendering their body mindless.
+ent-ActionCosmicBlank = Вытеснить субъективность
+    .desc = Вытесните разум цели из тела в космическую тьму, временно оставив тело без разума.
 
-ent-ActionCosmicPlaceMonument = Beckon The Monument
-    .desc = Mark the spot where The Monument must be. The majority of the cult must choose the same spot. Use again to remove the mark.
+ent-ActionCosmicPlaceMonument = Призвать Монумент
+    .desc = Отметьте место, где должен находиться Монумент. Большинство Культа должно выбрать то же место. Используйте снова, чтобы убрать отметку.
 
-ent-ActionCosmicReturn = Return
-    .desc = Dissipate your astral projection and return to your body.
+ent-ActionCosmicReturn = Вернуться
+    .desc = Рассейте астральную проекцию и вернитесь в своё тело.
 
-ent-ActionCosmicLapse = Abberant Lapse
-    .desc = Lapse your target's corporeal form, temporarily rendering it immutable, imperceptible, and frozen in place.
+ent-ActionCosmicLapse = Искажение аберрации
+    .desc = Искажает материальную форму цели, временно делая её неизменяемой, неосязаемой и неподвижной.
 
-ent-ActionCosmicGlare = Null Glare
-    .desc = Emit a horrific pulse of cosmic light, slowing and disorienting everyone around you.
+ent-ActionCosmicGlare = Нулевой взгляд
+    .desc = Выпустите ужасный импульс космического света, замедляющий и дезориентирующий всех вокруг.
 
-ent-ActionCosmicIngress = Force Ingress
-    .desc = Use a concentrated blast of power to force a secure doorway open.
+ent-ActionCosmicIngress = Принудительное проникновение
+    .desc = Используйте концентрированный выброс силы, чтобы открыть защищённую дверь.
 
-ent-ActionCosmicImposition = Vacuous Imposition
-    .desc = You negate any incoming damage for a short time.
+ent-ActionCosmicImposition = Пустое навязывание
+    .desc = На короткое время нейтрализует любой получаемый урон.
 
-ent-ActionCosmicNova = Astral Nova
-    .desc = Hurl a large and disruptive blast of astral energy.
+ent-ActionCosmicNova = Астральная новая
+    .desc = Метните мощный разрушительный выброс астральной энергии.
 
-ent-ActionCosmicFragmentation = Null Fragmentation
-    .desc = Transfer your malign empowerment into a digital system, such as an AI Upload Console or Cyborg, corrupting it in the process.
+ent-ActionCosmicFragmentation = Нулевое дробление
+    .desc = Передайте зловещую силу цифровой системе, например консоли загрузки ИИ или киборгу, попутно испортив её.
 
-ent-ActionCosmicConversion = Shatter Cognition
-    .desc = Share the knowledge you bear with someone else, forcing them to join your side.
+ent-ActionCosmicConversion = Разрушить сознание
+    .desc = Поделитесь своими знаниями с кем-либо, заставив его перейти на вашу сторону.
 
-ent-ActionCosmicDamageTransfer = Forfeit Vitality
-    .desc = Take the wounds of a fellow cultist as your own, bringing them back to life at the cost of your own.
+ent-ActionCosmicDamageTransfer = Пожертвовать жизненной силой
+    .desc = Примите раны другого культиста на себя, вернув его к жизни ценой собственной.
 
-ent-ActionCosmicTransmutation = Corrupt Matter
-    .desc = Imbue held item with malign power, transforming it into something else.
+ent-ActionCosmicTransmutation = Осквернить материю
+    .desc = Наполните удерживаемый предмет зловещей силой, превратив его во что-то иное.
 
-ent-ActionCosmicStride = Astral Stride
-    .desc = Call upon astral power to move at incredible speed.
+ent-ActionCosmicStride = Астральный шаг
+    .desc = Призовите астральную силу, чтобы двигаться с невероятной скоростью.
 
-ent-ActionCosmicColossusSunder = Entropic Sunder
-    .desc = Warp to the target location and unleash a shockwave of malign energy.
+ent-ActionCosmicColossusSunder = Энтропийный раскол
+    .desc = Телепортируйтесь к цели и выпустите ударную волну зловещей энергии.
 
-ent-ActionCosmicColossusIngress = Colossal Ingress
-    .desc = Use your colossal strength to force open a doorway.
+ent-ActionCosmicColossusIngress = Колоссальное проникновение
+    .desc = Используйте колоссальную силу, чтобы открыть дверь.
 
-ent-ActionCosmicColossusHibernate = Slumber Shell
-    .desc = Slumber your body for a period of time to regenerate integrity. Must be done on stable ground.
+ent-ActionCosmicColossusHibernate = Сонная оболочка
+    .desc = Усыпите тело на некоторое время, чтобы восстановить целостность. Выполняется только на устойчивой поверхности.
 
-ent-ActionCosmicColossusEffigy = Beckon an Effigy
-    .desc = Draw out an Effigy of Entropy into realspace.
+ent-ActionCosmicColossusEffigy = Призвать изваяние
+    .desc = Вытяните Изваяние Энтропии в реальное пространство.

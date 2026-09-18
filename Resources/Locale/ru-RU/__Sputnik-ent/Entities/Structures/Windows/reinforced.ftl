@@ -5,8 +5,8 @@ ent-ReinforcedWindow = бронеокно
 # направленное бронеокно
 # .desc = Смотри не заляпай.
 # AUTOGEN-End TODO(Update_Locale):
-ent-WindowReinforcedDirectional = directional reinforced window
-    .desc = { ent-BaseDeltaPressureReinforcedGlassQuarter.desc }
+ent-WindowReinforcedDirectional = направленное бронеокно
+    .desc = Смотри не заляпай.
 
 ent-ReinforcedWindowDiagonal = { ent-ReinforcedWindow }
     .suffix = Диагональ

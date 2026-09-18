@@ -1,10 +1,10 @@
 ent-MobMonkeyGhostrole = { ent-MobMonkey }
     .desc = { ent-MobMonkey.desc }
-    .suffix = Ghostrole
+    .suffix = Призрачная роль
 
 ent-MobKoboldGhostrole = { ent-MobKobold }
     .desc = { ent-MobKobold.desc }
-    .suffix = Ghostrole
+    .suffix = Призрачная роль
 
 ent-MobBunnySea = морской кролик
     .desc = Милый, пушистый морской кролик.
@@ -84,5 +84,5 @@ ent-SolutionMouseBites = { ent-SolutionWeapon }
 ent-SolutionClownSpider = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
-ent-MobBabySpider = baby spider
-    .desc = A growing spider, better deal with it before it gets big.
+ent-MobBabySpider = детёныш паука
+    .desc = Растущий паук, лучше разобраться с ним, пока он не вырос.

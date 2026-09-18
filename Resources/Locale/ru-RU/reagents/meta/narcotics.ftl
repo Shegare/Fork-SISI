@@ -40,8 +40,8 @@ reagent-desc-tear-gas = Химическое вещество, вызывающ�
 reagent-name-happiness = счастье
 reagent-desc-happiness = Доводит до экстатического оцепенения и вызывает лёгкие повреждения мозга. Легко вызывает привыкание. Передозировка вызывает резкие перепады настроения.
 
-reagent-name-Hydroxysomnolene = Hydroxysomnolene
-reagent-desc-Hydroxysomnolene = Byproduct of Methylenedioxystraquinone (aka Strawberry Ice) when metabolized. It binds to the newly vacant neuroreceptors in the brain after Methylenedioxystraquinone is flushed out of the system, causing slowness and drowsiness. The only ways to reduce its effects is to either wait it out, or take another hit of that strawberry goodness...
+reagent-name-Hydroxysomnolene = гидроксисомнолен
+reagent-desc-Hydroxysomnolene = Побочный продукт метаболизма метилендиоксистраваквинона (он же Клубничный лёд). Связывается с освободившимися нейрорецепторами мозга после выведения метилендиоксистраваквинона, вызывая медлительность и сонливость. Чтобы ослабить его действие, остаётся только переждать его или принять ещё немного этой клубничной прелести...
 
-reagent-name-StrawberryIce = Methylenedioxystraquinone
-reagent-desc-StrawberryIce = A special drug designed to be even stronger than Desoxyephedrine. Known as "Strawberry Ice" or "Girl Ice" given its color and flavor, it is incredibly addictive and comes with strong withdrawal symptoms. While the highs are higher and users report flying in rainbows through space while under its influence, near-eternal horrors await those who cease consuming it.
+reagent-name-StrawberryIce = метилендиоксистраваквинон
+reagent-desc-StrawberryIce = Особый препарат, созданный для превосходства дезоксиэфедрина. Из-за цвета и вкуса известен как «Клубничный лёд» или «Девичий лёд», вызывает сильнейшее привыкание и сопровождается тяжёлым синдромом отмены. Пока под его воздействием высота полёта выше и пользователи рассказывают о радугах в космосе, прекративших употребление ждут почти вечные ужасы.

@@ -11,26 +11,26 @@ ent-CherryBombSeeds = пакет семян вишни
     .desc = Вот только на самом деле это бомбы, потому что вы злодей.
     .suffix = бомба
 
-ent-deliciousAppleSeeds = packet of delicious apple seeds
+ent-deliciousAppleSeeds = пакет семян аппетитного яблока
     .desc = { ent-AppleSeeds.desc }
 
-ent-MethAppleSeeds = packet of meth apple seeds
+ent-MethAppleSeeds = пакет семян метамфетаминового яблока
     .desc = { ent-AppleSeeds.desc }
 
-ent-ClearCornSeeds = packet of clear corn seeds
+ent-ClearCornSeeds = пакет семян прозрачной кукурузы
     .desc = { ent-SeedBase.desc }
 
-ent-PeanutSeeds = packet of peanut seeds
+ent-PeanutSeeds = пакет семян арахиса
     .desc = { ent-SeedBase.desc }
 
-ent-MagicMushroomSeeds = packet of magic mushroom seeds
+ent-MagicMushroomSeeds = пакет семян волшебных грибов
     .desc = { ent-SeedBase.desc }
 
-ent-SynthMeatSeeds = packet of synth meat seeds
+ent-SynthMeatSeeds = пакет семян синтмяса
     .desc = { ent-SeedBase.desc }
 
-ent-BalloonMelonSeeds = packet of balloon melon seeds
+ent-BalloonMelonSeeds = пакет семян дыни-шара
     .desc = { ent-WatermelonSeeds.desc }
 
-ent-SteelWheatSeeds = packet of steel wheat seeds
+ent-SteelWheatSeeds = пакет семян стальной пшеницы
     .desc = { ent-SeedBase.desc }

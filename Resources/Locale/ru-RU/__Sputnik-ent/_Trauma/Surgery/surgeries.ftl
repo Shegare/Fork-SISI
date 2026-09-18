@@ -4,13 +4,13 @@ ent-SurgeryOpenTailSlot = Создать сустав хвоста
 # AUTOGEN-Start
 # Удалить язык
 # AUTOGEN-End TODO(Update_Locale):
-ent-SurgeryRemoveTongue = Remove Tongue
+ent-SurgeryRemoveTongue = Удалить язык
     .desc = { ent-SurgeryBase.desc }
 
 # AUTOGEN-Start
 # Вставить язык
 # AUTOGEN-End TODO(Update_Locale):
-ent-SurgeryInsertTongue = Insert Tongue
+ent-SurgeryInsertTongue = Вставить язык
     .desc = { ent-SurgeryBase.desc }
 
 ent-SurgeryRemoveKidneys = Удалить почки

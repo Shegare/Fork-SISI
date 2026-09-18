@@ -8,7 +8,7 @@ job-name-captain = капитан
 job-name-cargotech = грузчик
 job-name-cburn = агент карантинной службы ЦК
 job-name-ce = старший инженер
-job-name-centcommoff = CentComm Official
+job-name-centcommoff = Представитель ЦК
 job-name-chef = шеф-повар
 job-name-chaplain = священник
 job-name-chemist = химик
@@ -47,7 +47,7 @@ job-name-security = офицер СБ
 job-name-serviceworker = сервисный работник
 job-name-station-ai = станционный ИИ
 job-name-technical-assistant = технический ассистент
-job-name-tram-driver = Tram Driver
+job-name-tram-driver = Водитель трамвая
 job-name-visitor = посетитель
 job-name-warden = смотритель
 
@@ -60,18 +60,18 @@ job-name-no-id = нет ID
 job-name-prisoner = заключённый
 job-name-roboticist = робототехник
 job-name-unknown = неизвестно
-job-name-sus = Sus
+job-name-sus = Подозрительный
 job-name-virologist = вирусолог
 job-name-zookeeper = зоотехник
 
 # antagonist jobs
-job-name-ninja = Ninja
+job-name-ninja = Ниндзя
 job-name-syndicate = синдикат
-job-name-syndicate-commander = Syndicate Commander
-job-name-syndicate-corpsman = Syndicate Corpsman
-job-name-syndicate-operative = Syndicate Operative
-job-name-pirate = Pirate
-job-name-wizard = Wizard
+job-name-syndicate-commander = Командир Синдиката
+job-name-syndicate-corpsman = Санитар Синдиката
+job-name-syndicate-operative = Оперативник Синдиката
+job-name-pirate = Пират
+job-name-wizard = Волшебник
 job-name-zombie = зомби
 
 # Job titles

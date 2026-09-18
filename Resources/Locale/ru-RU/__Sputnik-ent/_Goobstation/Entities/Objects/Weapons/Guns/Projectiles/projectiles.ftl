@@ -22,7 +22,7 @@ ent-LightPulse = light pulse beam
 ent-LaserSniper = laser sniper
     .desc = { ent-BasicHitscan.desc }
 
-ent-RedMediumSplitLaser = red medium split laser
+ent-RedMediumSplitLaser = средний красный расщепляющий лазер
     .desc = { ent-BasicHitscan.desc }
 
 ent-BulletLaserHeavy = тяжёлый лазерный болт

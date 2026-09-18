@@ -13,13 +13,13 @@ ent-BaseForgedProductSeparateHead = { ent-BaseForgedProduct }
 # AUTOGEN-Start
 # нож
 # AUTOGEN-End TODO(Update_Locale):
-ent-ForgedKnife = knife
+ent-ForgedKnife = нож
     .desc = { ent-BaseForgedKnife.desc }
 
 # AUTOGEN-Start
 # тесак
 # AUTOGEN-End TODO(Update_Locale):
-ent-ForgedCleaver = cleaver
+ent-ForgedCleaver = тесак
     .desc = { ent-BaseForgedKnife.desc }
 
 ent-ForgedCombatKnife = { ent-BaseForgedKnife }

@@ -22,8 +22,8 @@ ent-ClothingOuterCoatRDPurpleOpened = экспериментальный лаб�
 ent-ClothingOuterCoatHoPLong = длинное пальто главы персонала
     .desc = Стильное длинное пальто Главы Персонала.
 
-ent-ClothingOuterArmoredJacketCentralCommand = central command jacket
-    .desc = A formal green coat-like jacket accented with gilded shoulder armor and a high collar.
+ent-ClothingOuterArmoredJacketCentralCommand = куртка Центрального Командования
+    .desc = Формальная зелёная куртка, напоминающая пальто, с позолоченными наплечниками и высоким воротником.
 
-ent-ClothingOuterJacketCentralCommandIke = central command ike jacket
-    .desc = A utilitarian green-and-black jacket featuring a sharp, military-inspired design, worn within Central Command.
+ent-ClothingOuterJacketCentralCommandIke = куртка-икэ Центрального Командования
+    .desc = Практичная зелёно-чёрная куртка с чётким дизайном в военном стиле, которую носят в Центральном Командовании.

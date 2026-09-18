@@ -10,7 +10,7 @@ ent-DrinkCartonNormalBase = { ent-SolutionNormal }
 
 ent-DrinkCartonNormalBaseFull = { ent-DrinkCartonNormalBase }
     .desc = { ent-DrinkCartonNormalBase.desc }
-    .suffix = Full
+    .suffix = Полный
 
 ent-DrinkCartonBaseLarge = { ent-SolutionLarge }
     .desc = { ent-SolutionLarge.desc }
@@ -18,20 +18,20 @@ ent-DrinkCartonBaseLarge = { ent-SolutionLarge }
 ent-DrinkCartonBaseLargeFull = { ent-DrinkCartonBaseFull }
     .desc = { ent-DrinkCartonBaseFull.desc }
 
-ent-DrinkCartonLime = lime juice
-    .desc = Sweet-sour goodness.
+ent-DrinkCartonLime = лаймовый сок
+    .desc = Кисло-сладкое удовольствие.
 
 ent-DrinkJuiceLimeCarton = лаймовый сок
     .desc = Кисло-сладкое удовольствие.
 
-ent-DrinkCartonOrange = orange juice
-    .desc = Full of vitamins and deliciousness!
+ent-DrinkCartonOrange = апельсиновый сок
+    .desc = Полное витаминов удовольствие!
 
 ent-DrinkJuiceOrangeCarton = апельсиновый сок
     .desc = Полное витаминов удовольствие!
 
-ent-DrinkCartonTomato = tomato juice
-    .desc = Well, at least it LOOKS like tomato juice. You can't tell with all that redness.
+ent-DrinkCartonTomato = томатный сок
+    .desc = Ну, по крайней мере, это ВЫГЛЯДИТ как томатный сок. По этой красноте ничего не скажешь.
 
 ent-DrinkJuiceTomatoCarton = томатный сок
     .desc = Ну, по крайней мере, это ВЫГЛЯДИТ как томатный сок. По этой красноте ничего не скажешь.
@@ -39,8 +39,8 @@ ent-DrinkJuiceTomatoCarton = томатный сок
 ent-DrinkCoconutWaterCarton = кокосовая вода
     .desc = Главное — это внутренняя часть кокоса.
 
-ent-DrinkCartonCream = milk cream
-    .desc = It's cream. Made from milk. What else did you think you'd find in there?
+ent-DrinkCartonCream = молочные сливки
+    .desc = Это сливки. Сделанные из молока. Что ещё вы ожидали здесь найти?
 
 ent-DrinkCreamCarton = молочные сливки
     .desc = Это сливки. Сделанные из молока. Что ещё вы ожидали здесь найти?
@@ -51,29 +51,29 @@ ent-DrinkJuiceLemonCarton = лимонный сок
 ent-DrinkJuicePineappleCarton = ананасовый сок
     .desc = На вкус как отпуск в тропиках далеко от космоса.
 
-ent-DrinkCartonMilk = milk
-    .desc = An opaque white liquid produced by the mammary glands of mammals.
+ent-DrinkCartonMilk = молоко
+    .desc = Непрозрачная белая жидкость, вырабатываемая молочными железами млекопитающих.
 
 ent-DrinkMilkCarton = молоко
     .desc = Непрозрачная белая жидкость, вырабатываемая молочными железами млекопитающих.
 
-ent-DrinkCartonSoyMilk = soy milk
-    .desc = White and nutritious soy goodness!
+ent-DrinkCartonSoyMilk = соевое молоко
+    .desc = Белое и питательное соевое удовольствие!
 
 ent-DrinkSoyMilkCarton = соевое молоко
     .desc = Белое и питательное соевое удовольствие!
 
-ent-DrinkCartonOatMilk = oat milk
-    .desc = It's oat milk. Tan and nutritious goodness!
+ent-DrinkCartonOatMilk = овсяное молоко
+    .desc = Бежевое и питательное удовольствие!
 
 ent-DrinkOatMilkCarton = овсяное молоко
     .desc = Бежевое и питательное удовольствие!
 
-ent-DrinkJuiceLimeCartonXL = lime juice XL
-    .desc = Sweet-sour goodness.
+ent-DrinkJuiceLimeCartonXL = лаймовый сок XL
+    .desc = Кисло-сладкое удовольствие.
 
-ent-DrinkJuiceOrangeCartonXL = orange juice XL
-    .desc = Full of vitamins and deliciousness!
+ent-DrinkJuiceOrangeCartonXL = апельсиновый сок XL
+    .desc = Полное витаминов удовольствие!
 
-ent-DrinkCreamCartonXL = milk cream XL
-    .desc = It's cream. Made from milk. What else did you think you'd find in there?
+ent-DrinkCreamCartonXL = молочные сливки XL
+    .desc = Это сливки. Сделанные из молока. Что ещё вы ожидали здесь найти?

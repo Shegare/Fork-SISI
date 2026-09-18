@@ -5,13 +5,13 @@ ent-DrinkBottlePlasticBase = { ent-DrinkBaseMaterialPlastic }
 ent-CustomDrinkJug = кувшин для напитков
     .desc = Кувшин для хранения напитков собственного приготовления.
 
-ent-CustomDrinkJugFilled = beverage jug
+ent-CustomDrinkJugFilled = кувшин для напитков
     .desc = { ent-CustomDrinkJug.desc }
-    .suffix = Full
+    .suffix = Полный
 
 ent-DrinkBottlePlasticSmallBaseFull = { ent-SolutionSmall }
     .desc = { ent-SolutionSmall.desc }
-    .suffix = Full
+    .suffix = Полный
 
 ent-DrinkWaterBottleFull = бутылка воды
     .desc = Простая чистая вода неизвестного происхождения. Возможно, вы не хотите знать, откуда она.
@@ -21,7 +21,7 @@ ent-DrinkWaterBottleFull = бутылка воды
 # AUTOGEN-End TODO(Update_Locale):
 ent-DrinkBottlePlasticBaseFull = { ent-DrinkBottlePlasticBase }
     .desc = { ent-DrinkBottlePlasticBase.desc }
-    .suffix = Full
+    .suffix = Полная
 
 ent-DrinkColaBottleFull = бутылка «Спейс Колы»
     .desc = Кола. В коооосмосе!

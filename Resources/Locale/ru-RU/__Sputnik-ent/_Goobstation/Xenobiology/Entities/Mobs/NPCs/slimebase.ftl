@@ -12,7 +12,7 @@ ent-MobSlimeXenobioBaby = слайм
 # AUTOGEN-End TODO(Update_Locale):
 ent-MobSlimeXenobioAdult = { ent-MobSlimeXenobioBaby }
     .desc = { ent-MobSlimeXenobioBaby.desc }
-    .suffix = Adult
+    .suffix = Взрослый
 
 ent-MobSlimeXenobioBabyPending = неопределённый слайм
     .desc = { ent-MarkerBase.desc }

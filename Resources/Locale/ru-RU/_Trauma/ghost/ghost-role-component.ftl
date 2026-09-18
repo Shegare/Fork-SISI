@@ -7,9 +7,9 @@ ghost-role-information-wailing-horse-desc = Больно... Почему так 
 ghost-role-information-ratma-name = Ратма
 ghost-role-information-ratma-desc = Охотьтесь и убивайте.
 
-ghost-role-information-bioweapon-name = Bioweapon
-ghost-role-information-bioweapon-desc = You are a bioweapon bought by the security department. Follow your orders.
-ghost-role-information-bioweapon-rules = Follow the most recent SPOKEN order you understand. Even if it conflicts with previous orders.
+ghost-role-information-bioweapon-name = Биооружие
+ghost-role-information-bioweapon-desc = Вы биооружие, купленное службой безопасности. Следуйте приказам.
+ghost-role-information-bioweapon-rules = Следуйте последнему ПРОИЗНЕСЁННОМУ приказу, который вы понимаете, даже если он противоречит предыдущим приказам.
 
 ghost-role-information-breadling-name = хлебец
 ghost-role-information-breadling-desc = Оживлённый заботливым пекарем, наслаждайтесь непостоянным временем, что вам осталось. Вы не знаете о своей грядущей смерти, если вам не сказали об этом.

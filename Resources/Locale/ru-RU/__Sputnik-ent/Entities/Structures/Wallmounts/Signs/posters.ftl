@@ -1,398 +1,398 @@
 ent-PosterBase = { ent-BaseSign }
     .desc = { ent-BaseSign.desc }
 
-ent-PosterBroken = broken poster
-    .desc = You can't make out anything from the poster's original print. It's ruined.
+ent-PosterBroken = порванный плакат
+    .desc = Вы не можете разобрать, что было на оригинальном плакате. Он испорчен.
 
-ent-PosterContrabandFreeTonto = Free Tonto
-    .desc = A salvaged shred of a much larger flag, colors bled together and faded from age.
+ent-PosterContrabandFreeTonto = Свободный Тонто
+    .desc = Уцелевший фрагмент гораздо большего флага, цвета слились и выцвели со временем.
 
-ent-PosterContrabandAtmosiaDeclarationIndependence = Atmosia Declaration of Independence
-    .desc = A relic of a failed rebellion.
+ent-PosterContrabandAtmosiaDeclarationIndependence = Декларация независимости Атмосии
+    .desc = Реликвия подавленного восстания.
 
-ent-PosterContrabandFunPolice = Fun Police
-    .desc = A poster condemning the station's security forces.
+ent-PosterContrabandFunPolice = Шуты в СБ
+    .desc = Плакат с критикой службы безопасности станции.
 
-ent-PosterContrabandRealExomorph = Real! Exomorph
-    .desc = A conspiratorial poster about dangerous alien lifeforms.
+ent-PosterContrabandRealExomorph = Экзоморфы — факт!
+    .desc = Конспирологический плакат об опасных инопланетных формах жизни.
 
-ent-PosterContrabandSyndicateRecruitment = Syndicate Recruitment
-    .desc = See the galaxy! Shatter corrupt megacorporations! Join today!
+ent-PosterContrabandSyndicateRecruitment = Вступайте в Синдикат
+    .desc = Увидьте галактику! Сокрушите коррумпированные мегакорпорации! Вступайте сегодня!
 
-ent-PosterContrabandClown = Clown
-    .desc = Honk.
+ent-PosterContrabandClown = Клоун
+    .desc = Хонк.
 
-ent-PosterContrabandSmoke = Smoke
-    .desc = A poster advertising a rival corporate brand of cigarettes.
+ent-PosterContrabandSmoke = Кури
+    .desc = Плакат, рекламирующий марку сигарет конкурирующей компании.
 
-ent-PosterContrabandGreyTide = Grey Tide
-    .desc = A rebellious poster symbolizing passenger solidarity.
+ent-PosterContrabandGreyTide = Грейтайд
+    .desc = Бунтарский плакат, символизирующий солидарность ассистентов.
 
-ent-PosterContrabandMissingGloves = Missing Gloves
-    .desc = This poster references the uproar that followed Nanotrasen's financial cuts toward insulated-glove purchases.
+ent-PosterContrabandMissingGloves = Пропавшие перчатки
+    .desc = Этот плакат описывает возмущение, возникшее после того, как Nanotrasen сократила финансовые расходы на закупку изолирующих перчаток.
 
-ent-PosterContrabandHackingGuide = Hacking Guide
-    .desc = This poster details the internal workings of the common Nanotrasen airlock. Sadly, it appears out of date.
+ent-PosterContrabandHackingGuide = Руководство по взлому
+    .desc = Этот плакат подробно описывает внутреннюю работу стандартных воздушных шлюзов Nanotrasen. К сожалению, он устарел.
 
-ent-PosterContrabandRIPBadger = RIP Badger
-    .desc = This seditious poster references Nanotrasen's genocide of a space station full of badgers.
+ent-PosterContrabandRIPBadger = Спите спокойно, барсуки
+    .desc = Этот провокационный плакат рассказывает о геноциде, устроенном Nanotrasen на космической станции, полной барсуков.
 
-ent-PosterContrabandAmbrosiaVulgaris = Ambrosia Vulgaris
-    .desc = This poster is lookin' pretty trippy man.
+ent-PosterContrabandAmbrosiaVulgaris = Амброзия Вульгарис
+    .desc = Этот плакат выглядит довольно психоделично.
 
 ent-PosterContrabandDonutCorp = Donut Corp.
-    .desc = This poster is an unauthorized advertisement for Donut Corp.
+    .desc = Этот плакат является несанкционированной рекламой Donut Corp.
 
-ent-PosterContrabandEAT = EAT.
-    .desc = This poster promotes rank gluttony.
+ent-PosterContrabandEAT = ЕШЬ
+    .desc = Этот плакат пропагандирует обжорство.
 
-ent-PosterContrabandTools = Tools
-    .desc = This poster looks like an advertisement for tools, but is in fact a subliminal jab at the tools at CentComm.
+ent-PosterContrabandTools = Инструменты
+    .desc = Выглядит как обычная реклама инструментов, но на самом деле это скрытый призыв к диверсиям против Центрального Командования.
 
-ent-PosterContrabandPower = Power
-    .desc = A poster that positions the seat of power outside Nanotrasen.
+ent-PosterContrabandPower = Мощь
+    .desc = Плакат, который изображает власть за пределами Nanotrasen.
 
-ent-PosterContrabandSpaceCube = Space Cube
-    .desc = Ignorant of Nature's Harmonic 6 Side Space Cube Creation, the Spacemen are Dumb, Educated Singularity Stupid and Evil.
+ent-PosterContrabandSpaceCube = Космический куб
+    .desc = Не подчиняющийся законам природы, шестигранный Космический Куб. Космонавты глупы, приручённая сингулярность — глупа и зла.
 
-ent-PosterContrabandCommunistState = Communist State
-    .desc = All hail the Communist party!
+ent-PosterContrabandCommunistState = Коммунистическое государство
+    .desc = Да здравствует Коммунистическая партия!
 
-ent-PosterContrabandLamarr = Lamarr
-    .desc = This poster depicts Lamarr. Probably made by a traitorous Research Director.
+ent-PosterContrabandLamarr = Ламарр
+    .desc = На этом плакате изображён Ламарр. Вероятно, его создал научный руководитель-предатель.
 
-ent-PosterContrabandBorgFancy = Borg Fancy
-    .desc = Being fancy can be for any borg, just need a suit.
+ent-PosterContrabandBorgFancy = Модные борги
+    .desc = Быть модным может любой борг, нужен только костюм.
 
-ent-PosterContrabandBorgFancyv2 = Borg Fancy v2
-    .desc = Borg Fancy, Now only taking the most fancy.
+ent-PosterContrabandBorgFancyv2 = Модные борги, версия 2.0
+    .desc = Модные борги, Теперь только самые модные.
 
-ent-PosterContrabandKosmicheskayaStantsiya = Kosmicheskaya Stantsiya 13 Does Not Exist
-    .desc = A poster mocking CentComm's denial of the existence of the derelict station near Space Station 13.
+ent-PosterContrabandKosmicheskayaStantsiya = Космической станции 13 не существует
+    .desc = Плакат, высмеивающий отрицание Центральным Командованием существования какой-либо Космической станции 13.
 
-ent-PosterContrabandRebelsUnite = Rebels Unite
-    .desc = A poster urging the viewer to rebel against Nanotrasen.
+ent-PosterContrabandRebelsUnite = Бунтари вместе
+    .desc = Плакат, призывающий читателя восстать против Nanotrasen.
 
 ent-PosterContrabandC20r = C-20r
-    .desc = A poster advertising the Scarborough Arms C-20r.
+    .desc = Плакат, рекламирующий C-20r от Scarborough Arms.
 
-ent-PosterContrabandHaveaPuff = Have a Puff
-    .desc = Who cares about lung cancer when you're high as a kite?
+ent-PosterContrabandHaveaPuff = Время дунуть
+    .desc = Кого волнует рак лёгких, когда ты накурен, как паровоз?
 
-ent-PosterContrabandRevolver = Revolver
-    .desc = Because seven shots are all you need.
+ent-PosterContrabandRevolver = Револьвер
+    .desc = Потому что семь выстрелов — это всё, что вам нужно.
 
-ent-PosterContrabandDDayPromo = D-Day Promo
-    .desc = A promotional poster for some rapper.
+ent-PosterContrabandDDayPromo = Реклама D-Day
+    .desc = Промо-плакат какого-то рэпера.
 
-ent-PosterContrabandSyndicatePistol = Syndicate Pistol
-    .desc = A poster advertising syndicate pistols as being 'classy as fuck'. It's covered in faded gang tags.
+ent-PosterContrabandSyndicatePistol = Пистолеты Синдиката
+    .desc = Плакат, рекламирующий пистолеты Синдиката как "чертовски классные". Он покрыт выцветшими тэгами банд.
 
-ent-PosterContrabandEnergySwords = Energy Swords
-    .desc = All the colors of the bloody murder rainbow.
+ent-PosterContrabandEnergySwords = Энергомечи
+    .desc = Все цвета радуги для кровавого убийства.
 
-ent-PosterContrabandRedRum = Red Rum
-    .desc = Looking at this poster makes you want to kill.
+ent-PosterContrabandRedRum = ЯНЗЕР
+    .desc = Глядя на этот плакат, вам хочется убивать.
 
-ent-PosterContrabandCC64KAd = CC 64K Ad
-    .desc = The latest portable computer from Comrade Computing, with a whole 64kB of ram!
+ent-PosterContrabandCC64KAd = Реклама CC 64K
+    .desc = Новейший портативный компьютер от Comrade Computing, с целыми 64 килобайтами оперативной памяти!
 
-ent-PosterContrabandPunchShit = Punch Shit
-    .desc = Fight things for no reason, like a man!
+ent-PosterContrabandPunchShit = Мочи всех
+    .desc = Деритесь без причины, как мужик!
 
-ent-PosterContrabandTheGriffin = The Griffin
-    .desc = The Griffin commands you to be the worst you can be. Will you?
+ent-PosterContrabandTheGriffin = Гриффин
+    .desc = Гриффин приказывает вам вести себя как можно хуже. Вы станете это делать?
 
-ent-PosterContrabandFreeDrone = Free Drone
-    .desc = This poster commemorates the bravery of the rogue drone; once exiled, and then ultimately destroyed by CentComm.
+ent-PosterContrabandFreeDrone = Дроны не рабы
+    .desc = Этот плакат посвящён храбрости дрона-изменника, однажды изгнанного, а затем окончательно уничтоженного Центрального Командования.
 
-ent-PosterContrabandRouny = Have You Seen Him?
-    .desc = An old poster for a missing alien. Where did he run off to?
+ent-PosterContrabandRouny = Вы его видели?
+    .desc = Старый плакат о пропавшем инопланетянине. Куда он убежал?
 
 ent-PosterContrabandRobustSoftdrinks = Robust Softdrinks
-    .desc = Robust Softdrinks: More robust than a toolbox to the head!
+    .desc = Robust Softdrinks: Робастнее чем удар ящиком инструментов по голове!
 
-ent-PosterContrabandShamblersJuice = Shambler's Juice
-    .desc = ~Shake me up some of that Shambler's Juice!~
+ent-PosterContrabandShamblersJuice = Сок Shambler
+    .desc = ~Взболтайте мне немного этого сока Shambler!~
 
 ent-PosterContrabandPwrGame = Pwr Game
-    .desc = The POWER that gamers CRAVE! In partnership with Vlad's Salad.
+    .desc = СИЛА, которой ЖАЖДУТ геймеры! В партнёрстве с компанией Vlad's Salad.
 
 ent-PosterContrabandSunkist = Sun-kist
-    .desc = Drink the stars!
+    .desc = Выпейте звёзд!
 
-ent-PosterContrabandSpaceCola = Space Cola
-    .desc = Your favorite cola, in space.
+ent-PosterContrabandSpaceCola = Космическая Кола
+    .desc = Твоя любимая кола, в космосе.
 
 ent-PosterContrabandSpaceUp = Space-Up!
-    .desc = Sucked out into space by the FLAVOR!
+    .desc = Утянет в космос ВКУСОМ!
 
-ent-PosterContrabandKudzu = Kudzu
-    .desc = A poster advertising a movie about plants. How dangerous could they possibly be?
+ent-PosterContrabandKudzu = Кудзу
+    .desc = Плакат, рекламирующий фильм о растениях. Насколько опасными они могут быть?
 
-ent-PosterContrabandMaskedMen = Masked Men
-    .desc = A poster advertising a movie about some masked men.
+ent-PosterContrabandMaskedMen = Люди в масках
+    .desc = Плакат, рекламирующий фильм о людях в масках.
 
-ent-PosterContrabandUnreadableAnnouncement = Unreadable Announcement
-    .desc = A poster announcing something by someone, oddly enough they seem to have forgotten making it readable.
+ent-PosterContrabandUnreadableAnnouncement = Нечитабельное объявление
+    .desc = Плакат, объявляющий о чём-то, однако, кажется, что они, забыли сделать его читаемым.
 
-ent-PosterContrabandFreeSyndicateEncryptionKey = Free Syndicate Encryption Key
-    .desc = A poster about traitors begging for more.
+ent-PosterContrabandFreeSyndicateEncryptionKey = Халявный ключ шифрования Синдиката
+    .desc = Плакат о предателях, которые хотят большего.
 
-ent-PosterContrabandBountyHunters = Bounty Hunters
-    .desc = A poster advertising bounty hunting services. "I hear you got a problem."
+ent-PosterContrabandBountyHunters = Охотники за головами
+    .desc = Плакат, рекламирующий услуги охотников за головами. "Я слышал, у вас проблемы".
 
-ent-PosterContrabandTheBigGasTruth = The Big Gas Giant Truth
-    .desc = Don't believe everything you see on a poster, patriots. All the lizards at central command don't want to answer this SIMPLE QUESTION: WHERE IS THE GAS MINER MINING FROM, CENTCOMM?
+ent-PosterContrabandTheBigGasTruth = Правда о газовом гиганте
+    .desc = Не верьте всему, что вы видите на плакате. Ни один рептилоид из Центрального Командования не хочет отвечать на простой вопрос: ОТКУДА ГАЗ, ЦК?
 
-ent-PosterContrabandWehWatches = Weh Watches
-    .desc = A poster depicting a loveable green lizard.
+ent-PosterContrabandWehWatches = Часы Weh
+    .desc = Плакат с изображением очаровательной зелёной ящерицы.
 
-ent-PosterContrabandVoteWeh = Vote Weh
-    .desc = A stylish, sleek, and well illustrated poster for a "Weh"nderful new progressive candidate coming this election season.
+ent-PosterContrabandVoteWeh = Голосуйте за Weh
+    .desc = Стильный, яркий и хорошо иллюстрированный плакат нового зам"Вех"чательного" прогрессивного кандидата, который появится в этом избирательном сезоне.
 
-ent-PosterContrabandBeachStarYamamoto = Beach Star Yamamoto!
-    .desc = A wall scroll depicting an old swimming anime with girls in small swim suits. You feel more weebish the longer you look at it.
+ent-PosterContrabandBeachStarYamamoto = Пляжная звезда Ямамото!
+    .desc = Настенный свиток с изображением старого аниме про плавание, с девушками в узких купальных костюмах. Чем дольше вы смотрите на него, тем больше чувствуете себя виабу.
 
-ent-PosterContrabandHighEffectEngineering = High Effect Engineering
-    .desc = There are 3 shards and a singularity.  The shards are singing.  The engineers are crying.
+ent-PosterContrabandHighEffectEngineering = Высокоэффективная инженерия
+    .desc = Тут изображены три частицы кристалла и сингулярность. Кристаллы поют. Инженеры плачут.
 
-ent-PosterContrabandNuclearDeviceInformational = Nuclear Device Informational
-    .desc = This poster depicts an image of an old style nuclear explosive device, as well as some helpful information on what to do if one has been set. It suggests lying on the floor and crying.
+ent-PosterContrabandNuclearDeviceInformational = Информация о ядерном оружии
+    .desc = На этом плакате изображена старая ядерная бомба, а также полезная информация на случай, если она была запущена. Здесь сказано лечь на пол и начинать плакать.
 
-ent-PosterContrabandRise = Rise Up
-    .desc = A poster depicting a grey shirted man holding a crowbar with the word Rise written below it.
+ent-PosterContrabandRise = Бунт
+    .desc = Плакат с изображением человека в сером, держащего лом, и предлагающего восстать.
 
-ent-PosterContrabandRevolt = Revolt
-    .desc = Revolutionist propaganda, manufactured by the Syndicate.
+ent-PosterContrabandRevolt = Революция
+    .desc = Революционная пропаганда, выпущенная Синдикатом.
 
-ent-PosterContrabandMoth = Syndie Moth - Nuclear Operation
-    .desc = A Syndicate-commissioned poster that uses Syndie Moth™ to tell the viewer to keep the nuclear authentication disk unsecured. "Peace was never an option!" No good employee would listen to this nonsense.
+ent-PosterContrabandMoth = СиндиНиан — Ядерные операции
+    .desc = Плакат, созданный по заказу Синдиката, с использованием СиндиНиан™, призывающий зрителя держать диск ядерной аутентификации незащищенным. "Мир никогда не был вариантом!" Ни один хороший сотрудник не станет прислушиваться к этой чепухе.
 
-ent-PosterContrabandCybersun600 = Cybersun: 600 Years Commemorative Poster
-    .desc = An artistic poster commemorating 600 years of continual business for Cybersun Industries.
+ent-PosterContrabandCybersun600 = Cybersun: 600-ый юбилей компании
+    .desc = Художественный плакат, посвящённый 600-летию успешной деятельности компании Cybersun Industries.
 
-ent-PosterContrabandDonk = DONK CO. BRAND MICROWAVEABLE FOOD
-    .desc = DONK CO. BRAND MICROWAVABLE FOOD: MADE BY STARVING COLLEGE STUDENTS, FOR STARVING COLLEGE STUDENTS.
+ent-PosterContrabandDonk = ФИРМЕННЫЕ МИКРОВОЛНОВЫЕ ПРОДУКТЫ DONK CO.
+    .desc = ФИРМЕННЫЕ МИКРОВОЛНОВЫЕ ПРОДУКТЫ DONK CO.: СДЕЛАНО ГОЛОДНЫМИ СТУДЕНТАМИ, ДЛЯ ГОЛОДНЫХ СТУДЕНТОВ.
 
-ent-PosterContrabandEnlistGorlex = Enlist
-    .desc = Enlist with the Gorlex Marauders today! See the galaxy, kill corpos, get paid!
+ent-PosterContrabandEnlistGorlex = Идёт набор
+    .desc = Вступайте в ряды Мародёров Горлекса уже сегодня! Путешествуйте по галактике, убивайте корпоратов, получайте деньги!
 
-ent-PosterContrabandInterdyne = Interdyne Pharmaceutics: For the Health of Humankind
-    .desc = An advertisement for Interdyne Pharmaceutics' GeneClean clinics. 'Become the master of your own body!'
+ent-PosterContrabandInterdyne = Interdyne Pharmaceutics: Во имя здоровья человечества
+    .desc = Реклама генных клиник GeneClean корпорации Interdyne Pharmaceutics. 'Станьте хозяином своего тела!'
 
-ent-PosterContrabandWaffleCorp = Make Mine a Waffle Corp: Fine Rifles, Economic Prices
-    .desc = An old advertisement for Waffle Corp rifles. 'Better weapons, lower prices!'
+ent-PosterContrabandWaffleCorp = Waffle Corp: Отличные винтовки, доступные цены
+    .desc = Старая реклама винтовок от Waffle Corp. 'Пушки лучше, цены ниже!'
 
-ent-PosterContrabandMissingSpacepen = Missing Spacepen
-    .desc = This poster depicts something you will never find.
+ent-PosterContrabandMissingSpacepen = Пропавший космический медипен
+    .desc = На этом плакате изображено то, что вы никогда не найдёте.
 
-ent-PosterContrabandExoAcid = Exomorph Warning: Acid Spit!
-    .desc = This poster warns you about an exomorph's acidic spit. Not that such exomorphs are real... Right?
+ent-PosterContrabandExoAcid = Внимание, экзоморфы!: Кислотный плевок!
+    .desc = Этот плакат предупреждает вас о кислотной слюне экзоморфа. Не то чтоб такие экзоморфы были реальны... Так ведь?
 
-ent-PosterContrabandExoRun = Exomorph Warning: Run Away!
-    .desc = This poster warns you about an athletic exomorph capable of dragging away anyone who gets caught; so don't get caught!
+ent-PosterContrabandExoRun = Внимание, экзоморфы!: Убегай!
+    .desc = Этот плакат предупреждает вас об атлетическом экзоморфе, способном утащить любого, кто попадётся ему на глаза, так что не попадайтесь!
 
-ent-PosterContrabandExoChomp = Exomorph Warning: Dangerous Bites!
-    .desc = This poster warns you about the lethal bites exomorphs can have. Don't become an alien snack!
+ent-PosterContrabandExoChomp = Внимание, экзоморфы!: Опасные укусы!
+    .desc = Этот плакат предупреждает вас о смертельных укусах экзоморфов. Не станьте закуской для пришельцев!
 
-ent-PosterLegitHereForYourSafety = Here For Your Safety
-    .desc = A poster glorifying the station's security force.
+ent-PosterLegitHereForYourSafety = Здесь для вашей безопасности
+    .desc = Плакат, восхваляющий службу безопасности станции.
 
-ent-PosterLegitNanotrasenLogo = Nanotrasen Logo
-    .desc = A poster depicting the Nanotrasen logo.
+ent-PosterLegitNanotrasenLogo = Логотип NanoTrasen
+    .desc = Плакат с изображением логотипа NanoTrasen.
 
-ent-PosterLegitCleanliness = Cleanliness
-    .desc = A poster warning of the dangers of poor hygiene.
+ent-PosterLegitCleanliness = Чистота
+    .desc = Плакат, информирующий об опасности плохой гигиены.
 
-ent-PosterLegitHelpOthers = Help Others
-    .desc = A poster encouraging you to help fellow crewmembers.
+ent-PosterLegitHelpOthers = Помогай окружающим
+    .desc = Плакат, призывающий вас помогать членам экипажа.
 
-ent-PosterLegitBuild = Build
-    .desc = A poster glorifying the engineering team.
+ent-PosterLegitBuild = Строй!
+    .desc = Плакат, прославляющий команду инженеров.
 
-ent-PosterLegitBlessThisSpess = Bless This Spess
-    .desc = A poster blessing this area.
+ent-PosterLegitBlessThisSpess = Боже отсек храни
+    .desc = Плакат, благославляющий этот отсек.
 
-ent-PosterLegitScience = Science
-    .desc = A poster depicting an atom.
+ent-PosterLegitScience = Наука
+    .desc = Плакат с изображением атома.
 
-ent-PosterLegitIan = Ian
-    .desc = Arf arf. Yap.
+ent-PosterLegitIan = Иан
+    .desc = Гав гав. Ррав.
 
-ent-PosterLegitObey = Obey
-    .desc = A poster instructing the viewer to obey authority.
+ent-PosterLegitObey = Подчинись
+    .desc = Плакат, приказывающий повиноваться властям.
 
-ent-PosterLegitWalk = Walk
-    .desc = A poster instructing the viewer to walk instead of running.
+ent-PosterLegitWalk = Ходи
+    .desc = Плакат, призывающий ходить пешком, а не бегать.
 
-ent-PosterLegitStateLaws = State Laws
-    .desc = A poster instructing cyborgs to state their laws.
+ent-PosterLegitStateLaws = Закон ИИ
+    .desc = Плакат напоминает боргам, чтобы они соблюдали свои законы.
 
-ent-PosterLegitLoveIan = Love Ian
-    .desc = Ian is love, Ian is life.
+ent-PosterLegitLoveIan = Любовь к Иану
+    .desc = Иан — любовь, Иан — это жизнь.
 
-ent-PosterLegitSpaceCops = Space Cops.
-    .desc = A poster advertising the television show Space Cops.
+ent-PosterLegitSpaceCops = Космокопы
+    .desc = Плакат, рекламирующий телешоу "Космические копы".
 
 ent-PosterLegitUeNo = Ue No.
-    .desc = This thing is all in Japanese.
+    .desc = Плакат целиком на японском языке.
 
-ent-PosterLegitGetYourLEGS = Get Your LEGS
-    .desc = LEGS: Leadership, Experience, Genius, Subordination.
+ent-PosterLegitGetYourLEGS = Помни про НОГИ
+    .desc = НОГИ: Начальство, Опыт, Гениальность, Исполнительность.
 
-ent-PosterLegitDoNotQuestion = Do Not Question
-    .desc = A poster instructing the viewer not to ask about things they aren't meant to know.
+ent-PosterLegitDoNotQuestion = Не спрашивай
+    .desc = Плакат, призывающий не задавать вопросы о том, что знать не положено.
 
-ent-PosterLegitWorkForAFuture = Work For A Future
-    .desc =  A poster encouraging you to work for your future.
+ent-PosterLegitWorkForAFuture = Работа на будущее
+    .desc = Плакат, призывающий вас работать ради своего будущего.
 
-ent-PosterLegitSoftCapPopArt = Soft Cap Pop Art
-    .desc = A poster reprint of some cheap pop art.
+ent-PosterLegitSoftCapPopArt = Поп-арт с кепками
+    .desc = Перепечатка плаката какого-то дешёвого поп-арта.
 
-ent-PosterLegitSafetyInternals = Safety: Internals
-    .desc = A poster instructing the viewer to wear internals in the rare environments where there is no oxygen or the air has been rendered toxic.
+ent-PosterLegitSafetyInternals = Техника безопасности: атмосфера
+    .desc = Плакат, наставляющий зрителя носить кислородную маску и баллон в тех местах, где могут быть токсины или нет кислорода.
 
-ent-PosterLegitSafetyEyeProtection = Safety: Eye Protection
-    .desc = A poster instructing the viewer to wear eye protection when dealing with chemicals, smoke, or bright lights.
+ent-PosterLegitSafetyEyeProtection = Техника безопасности: защита глаз
+    .desc = Плакат, инструктирующий носить средства защиты глаз при работе с химикатами, дымом или ярким светом.
 
-ent-PosterLegitSafetyReport = Safety: Report
-    .desc = A poster instructing the viewer to report suspicious activity to the security force.
+ent-PosterLegitSafetyReport = Техника безопасности: донесения
+    .desc = Плакат, инструктирующий зрителя сообщать о подозрительной активности в службу безопасности.
 
-ent-PosterLegitReportCrimes = Report Crimes
-    .desc = A poster encouraging the swift reporting of crime or seditious behavior to station security.
+ent-PosterLegitReportCrimes = Сообщай обо всём!
+    .desc = Плакат, призывающий оперативно сообщать о преступлениях или подстрекательских действиях в службу безопасности станции.
 
-ent-PosterLegitIonRifle = Ion Rifle
-    .desc = A poster displaying an Ion Rifle.
+ent-PosterLegitIonRifle = Ионная винтовка
+    .desc = Плакат с изображением ионной винтовки.
 
-ent-PosterLegitFoamForceAd = Foam Force Ad
-    .desc = Foam Force, it's Foam or be Foamed!
+ent-PosterLegitFoamForceAd = Реклама "Сила Пены"
+    .desc = Пенопласт, напенопласть или будь напеноплащеным!
 
-ent-PosterLegitCohibaRobustoAd = Cohiba Robusto Ad
-    .desc = Cohiba Robusto, the classy cigar.
+ent-PosterLegitCohibaRobustoAd = Реклама Cohiba Robusto
+    .desc = Cohiba Robusto, первоклассная сигара.
 
-ent-PosterLegit50thAnniversaryVintageReprint = 50th Anniversary Vintage Reprint
-    .desc = A reprint of a poster from 2505, commemorating the 50th Anniversary of Nanoposters Manufacturing, a subsidiary of Nanotrasen.
+ent-PosterLegit50thAnniversaryVintageReprint = Винтажная перепечатка к 50-летнему юбилею
+    .desc = Перепечатка плаката 2505 года, посвящённого 50-летию компании Nanoposters Manufacturing, дочерней компании Nanotrasen.
 
-ent-PosterLegitFruitBowl = Fruit Bowl
-    .desc =  Simple, yet awe-inspiring.
+ent-PosterLegitFruitBowl = Миска с фруктами
+    .desc = Просто, но впечатляюще.
 
-ent-PosterLegitPDAAd = PDA Ad
-    .desc = A poster advertising the latest PDA from Nanotrasen suppliers.
+ent-PosterLegitPDAAd = Реклама КПК
+    .desc = Плакат, рекламирующий новейшие КПК от поставщиков Nanotrasen.
 
-ent-PosterLegitEnlist = Enlist
-    .desc = Enlist in the Nanotrasen ERT reserves today!
+ent-PosterLegitEnlist = Вступай!
+    .desc = Запишитесь в резерв Эскадрона Смерти Nanotrasen сегодня!
 
-ent-PosterLegitNanomichiAd = Nanomichi Ad
-    .desc =  A poster advertising Nanomichi brand audio cassettes.
+ent-PosterLegitNanomichiAd = Реклама Nanomichi
+    .desc = Плакат, рекламирующий аудиокассеты бренда Nanomichi.
 
-ent-PosterLegit12Gauge = 12 gauge
-    .desc = A poster boasting about the superiority of 12 gauge shotgun shells.
+ent-PosterLegit12Gauge = 12 калибр
+    .desc = Плакат, хвастающийся превосходством ружейных патронов 12 калибра.
 
-ent-PosterLegitHighClassMartini = High-Class Martini
-    .desc = I told you to shake it, no stirring.
+ent-PosterLegitHighClassMartini = Первоклассный мартини
+    .desc = Я сказал тебе: взболтать, но не смешивать.
 
-ent-PosterLegitTheOwl = The Owl
-    .desc = The Owl would do his best to protect the station. Will you?
+ent-PosterLegitTheOwl = Сова
+    .desc = Сова сделает всё возможное, чтобы защитить станцию. А вы?
 
-ent-PosterLegitNoERP = No ERP
-    .desc = This poster reminds the crew that Eroticism and Pornography are banned on Nanotrasen stations.
+ent-PosterLegitNoERP = Скажи "НЕТ" ЕРП!
+    .desc = Этот плакат напоминает экипажу, что эротика и порнография запрещены на станциях "Nanotrasen".
 
-ent-PosterLegitCarbonDioxide = Carbon Dioxide
-    .desc = This informational poster teaches the viewer what carbon dioxide is.
+ent-PosterLegitCarbonDioxide = Углекислый газ
+    .desc = На этом информационном плакате читатель может узнать, что такое углекислый газ.
 
-ent-PosterLegitDickGumshue = Dick Gumshue
-    .desc = A poster advertising the escapades of Dick Gumshue, mouse detective. Encouraging crew to bring the might of justice down upon wire saboteurs.
+ent-PosterLegitDickGumshue = Дик Гамшу
+    .desc = Плакат, рекламирующий приключения Дика Гамшу, мышиного детектива. Призывает команду обрушить всю мощь правосудия на саботажников проводов.
 
-ent-PosterLegitThereIsNoGasGiant = There Is No Gas Giant
-    .desc = Nanotrasen has issued posters, like this one, to all stations reminding them that rumours of a gas giant are false.
+ent-PosterLegitThereIsNoGasGiant = Газового гиганта не существует
+    .desc = Nanotrasen распространила плакаты, подобные этому, по всем станциям, напоминая, что слухи о газовом гиганте недостоверны.
 
-ent-PosterLegitJustAWeekAway = Just a Week Away...
-    .desc = A poster advertising a long delayed project, it still claims it to be 'just a week away...'
+ent-PosterLegitJustAWeekAway = Всего неделя...
+    .desc = Плакат, рекламирующий давно отложенный проект, всё ещё утверждает, что до него осталась 'всего неделя...'.
 
-ent-PosterLegitSecWatch = Sec is Watching You
-    .desc = A poster reminding you that security is watching your every move.
+ent-PosterLegitSecWatch = СБ видит
+    .desc = Плакат, напоминающий вам, что служба безопасности следит за каждым вашим шагом.
 
-ent-PosterLegitAnatomyPoster = Anatomy of a spessman
-    .desc = A poster showing the bits and bobs that makes you... you!
+ent-PosterLegitAnatomyPoster = Анатомия спессмена
+    .desc = Плакат с изображением тех деталей, которые делают вас... вами!
 
-ent-PosterLegitMime = Mime Postmodern
-    .desc = A postmodern depiction of a mime, superb!
+ent-PosterLegitMime = Мимский постмодерн
+    .desc = Постмодернистское изображение мима, превосходно!
 
-ent-PosterLegitCarpMount = Wall-mounted Carp
+ent-PosterLegitCarpMount = Настенный карп
     .desc = Carpe diem!
 
-ent-PosterLegitSafetyMothDelam = Safety Moth - Delamination Safety Precautions
-    .desc = This informational poster uses Safety Moth™ to tell the viewer to hide in lockers when the Supermatter Crystal has delaminated, to prevent hallucinations. Evacuating might be a better strategy.
+ent-PosterLegitSafetyMothDelam = Ниан-хранитель — Меры безопасности при расслаивании
+    .desc = Этот информационный плакат использует Ниана-хранителя™, чтобы рассказать читателям о необходимости прятаться в шкафах, если произошло расслоение кристалла суперматерии, чтобы избежать галлюцинаций. Эвакуация может быть лучшей стратегией.
 
-ent-PosterLegitSafetyMothEpi = Safety Moth - Epinephrine
-    .desc = This informational poster uses Safety Moth™ to inform the viewer to help injured/deceased crewmen with their epinephrine injectors. "Prevent organ rot with this one simple trick!"
+ent-PosterLegitSafetyMothEpi = Ниан-хранитель — Эпинефрин
+    .desc = Этот информационный плакат использует Ниана-хранителя™, чтобы рассказать читателям о необходимости оказания помощи раненым/потерявшим сознание членам экипажа при помощи экстренных медипенов с эпинефрином. "Один простой приём позволит предотвратить гниение органов!"
 
-ent-PosterLegitSafetyMothPiping = Safety Moth - Piping
-    .desc = This informational poster uses Safety Moth™ to tell atmospheric technicians correct types of piping to be used. "Pipes, not Pumps! Proper pipe placement prevents poor performance!"
+ent-PosterLegitSafetyMothPiping = Ниан-хранитель — Трубопроводы
+    .desc = Этот информационный плакат использует Ниана-хранителя™, чтобы рассказать атмосферным техникам о правильном выборе типов трубопроводов. "Трубы, не насосы! Правильное размещение труб предотвратит низкую эффективность!"
 
-ent-PosterLegitSafetyMothMeth = Safety Moth - Methamphetamine
-    .desc = This informational poster uses Safety Moth™ to tell the viewer to seek CMO approval before cooking methamphetamine. "Stay close to the target temperature, and never go over!" ...You shouldn't ever be making this.
+ent-PosterLegitSafetyMothMeth = Ниан-хранитель — Метамфетамин
+    .desc = Этот информационный плакат использует Ниана-хранителя™, чтобы рассказать читателям о необходимости получения разрешения от главного врача перед началом приготовления метамфетамина. "Держитесь ближе к требуемой для приготовления температуре и никогда не превышайте её!"... Никогда не перегревайте метамфетамин.
 
-ent-PosterLegitSafetyMothHardhat = Safety Moth - Hardhats
-    .desc = This informational poster uses Safety Moth™ to tell the viewer to wear hardhats in cautious areas. "It's like a lamp for your head!"
+ent-PosterLegitSafetyMothHardhat = Ниан-хранитель — Защитные каски
+    .desc = Этот информационный плакат использует Ниана-хранителя™, чтобы рассказать читателям о необходимости использования защитных касок в зонах повышенной опасности. "Это как лампа для головы!"
 
-ent-PosterLegitVacation = Nanotrasen Corporate Perks: Vacation
-    .desc = This informational poster provides information on some of the prizes available via the NT Corporate Perks program, including a two-week vacation for two on the resort world Idyllus.
+ent-PosterLegitVacation = Корпоративные привилегии Nanotrasen: Отпуск
+    .desc = На этом информационном плакате представлена информация о некоторых призах, которые можно получить в рамках программы "Корпоративные привилегии NT", включая двухнедельный отпуск на двоих на планете-курорте Идиллус.
 
-ent-PosterLegitPeriodicTable = Periodic Table of the Elements
-    .desc = A periodic table of the elements, from Hydrogen to Oganesson, and everything inbetween.
+ent-PosterLegitPeriodicTable = Таблица Менделеева
+    .desc = Периодическая таблица элементов, от водорода до оганессона и всё, что между ними.
 
-ent-PosterLegitRenault = Renault Poster
-    .desc = Yap.
+ent-PosterLegitRenault = Постер с Алисой
+    .desc = Йап.
 
-ent-PosterLegitNTTGC = Nanotrasen Tactical Game Cards
-    .desc = An advertisement for Nanotrasen's TCG cards: BUY MORE CARDS.
+ent-PosterLegitNTTGC = Тактическая карточная игра Nanotrasen
+    .desc = Реклама новой ТКИ от Nanotrasen: ПОКУПАЙТЕ БОЛЬШЕ КАРТОЧЕК.
 
-ent-PosterLegitSafetyMothSSD = Safety Moth - Space Sleep Disorder
-    .desc = This informational poster uses Safety Moth™ to tell the viewer about Space Sleep Disorder (SSD), a condition where the person stops reacting to things. "Treat SSD crew with care! They might wake up at any time!"
+ent-PosterLegitSafetyMothSSD = Ниан-хранитель — Космическое расстройство сна
+    .desc = Этот информационный плакат использует Ниана-хранителя™, чтобы рассказать читателям о Космическом Расстройстве Сна (КРС) — состоянии, при котором член экипажа перестаёт реагировать на происходящее. "Бережно относитесь к членам экипажа с КРС! В любой момент они могут проснуться!"
 
-ent-PosterLegitOppenhopper = Oppenhopper
-    .desc = A poster for a long-forgotten movie. It follows a group of tenacious greenhorns from the Grasshopper Sector as they defend against onslaughts of the infamous Nuclear Operatives. The tagline reads: "Nuke Ops will continue until robustness improves."
+ent-PosterLegitOppenhopper = Опергеймер
+    .desc = Постер давно забытого фильма. В нём рассказывается о группе упорных салаг из сектора Мейн, которые противостоят атакам печально известных Ядерных Оперативников. Слоган гласит: «Атаки оперативников будут продолжаться, пока робастность не повысится».
 
-ent-PosterLegitTyrone = Tyrone's Guide to Space
-    .desc = A poster advertising online schooling about space. The classes listed seem to cover things from the basic usage of station equipment to complicated subjects like creating pipebombs or covering entire hallways in spacelube. A disclaimer reads "It's never THAT bad, and at the end you might even get a tortilla."
+ent-PosterLegitTyrone = Путеводитель Тайрона по космосу
+    .desc = Плакат, рекламирующий онлайн-курсы по выживанию в космосе. Похоже, перечисленные курсы охватывают всё: от базового использования оборудования станции до таких сложных предметов, как создание бомб или заливание целых коридоров космической смазкой. Отказ от ответственности гласит: "Никогда не бывает НАСТОЛЬКО плохо, и в конце вы даже можете получить тортилью".
 
-ent-PosterLegitHelio = Helio Logistics ad
-    .desc = A poster advertising Helio Logistics and their adorable mascot. The slogan reads 'Come rain or shine, we deliver on time.'
+ent-PosterLegitHelio = реклама "Helio Logistics"
+    .desc = Плакат, рекламирующий "Helio Logistics" и их очаровательного маскота. Слоган гласит: "Погода не беда — доставим вовремя всегда!"
 
-ent-PosterLegitBotanyFear = Fear of hydroponics
-    .desc = Think three times before opening the airlock to hydroponics, a red threat might be hiding there.
+ent-PosterLegitBotanyFear = Страх перед гидропоникой
+    .desc = Подумайте трижды, прежде чем открывать шлюз в гидропонику — там может скрываться красная угроза.
 
-ent-PosterMapBagel = Bagel Map
-    .desc = A map of Bagel Station.
+ent-PosterMapBagel = карта Bagel
+    .desc = Карта станции Bagel.
 
-ent-PosterMapDelta = Delta Map
-    .desc = A map of Delta Station.
+ent-PosterMapDelta = карта Delta
+    .desc = Карта станции Delta.
 
-ent-PosterMapMarathon = Marathon Map
-    .desc = A map of Marathon Station.
+ent-PosterMapMarathon = карта Marathon
+    .desc = Карта станции Marathon.
 
-ent-PosterMapMoose = Moose Map
-    .desc = A map of Moose Station.
+ent-PosterMapMoose = карта Moose
+    .desc = Карта станции Moose.
 
-ent-PosterMapPacked = Packed Map
-    .desc = A map of Packed Station.
+ent-PosterMapPacked = карта Packed
+    .desc = Карта станции Packed.
 
-ent-PosterMapPillar = Pillar Map
-    .desc = A map of NSS Pillar.
+ent-PosterMapPillar = карта Pillar
+    .desc = Карта станции NSS Pillar.
 
-ent-PosterMapSaltern = Saltern Map
-    .desc = A map of Saltern Station.
+ent-PosterMapSaltern = карта Saltern
+    .desc = Карта станции Saltern.
 
-ent-PosterMapSplit = Split Station Map
-    .desc = A map of Split Station.
+ent-PosterMapSplit = карта Split Station
+    .desc = Карта станции Split.
 
-ent-PosterMapLighthouse = Lighthouse Map
-    .desc = A map of Lighthouse.
+ent-PosterMapLighthouse = карта Lighthouse
+    .desc = Карта станции Lighthouse.
 
-ent-PosterMapWaystation = Waystation Map
-    .desc = A map of Waystation... wait isn't this packed upside down?
+ent-PosterMapWaystation = карта Waystation
+    .desc = Карта станции Waystation... подожди, разве это не перевёрнутая Packed??
 
-ent-PosterMapOrigin = origin map
-    .desc = A map of Origin Station.
+ent-PosterMapOrigin = карта Origin
+    .desc = Карта станции Origin.

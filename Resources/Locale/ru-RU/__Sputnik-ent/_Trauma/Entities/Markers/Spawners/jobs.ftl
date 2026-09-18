@@ -4,5 +4,5 @@ ent-DropPodPlayer = десантная капсула экипажа
 ent-SpawnPointGeneticist = точка спавна генетика
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointRancher = rancher spawn point
+ent-SpawnPointRancher = точка появления животновода
     .desc = { ent-SpawnPointJobBase.desc }

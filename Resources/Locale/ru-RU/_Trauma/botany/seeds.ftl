@@ -10,26 +10,26 @@ seeds-coconut-display-name = кокосовые деревья
 seeds-cherrybomb-name = вишнёвая бомба
 seeds-cherrybomb-display-name = деревья вишнёвой бомбы
 
-seeds-appledelicious-name = delicious looking apple
-seeds-appledelicious-display-name = delicious looking apple tree
+seeds-appledelicious-name = аппетитное яблоко
+seeds-appledelicious-display-name = дерево аппетитных яблок
 
-seeds-applemeth-name = meth apple
-seeds-applemeth-display-name = meth apple tree
+seeds-applemeth-name = метамфетаминовое яблоко
+seeds-applemeth-display-name = дерево метамфетаминовых яблок
 
-seeds-clearcorn-name = clear corn
-seeds-clearcorn-display-name = ears of clear corn
+seeds-clearcorn-name = прозрачная кукуруза
+seeds-clearcorn-display-name = початки прозрачной кукурузы
 
-seeds-peanut-name = peanut
-seeds-peanut-display-name = peanut plant
+seeds-peanut-name = арахис
+seeds-peanut-display-name = растение арахиса
 
-seeds-magicmush-name = magic mushrooms
-seeds-magicmush-display-name = magic mushrooms
+seeds-magicmush-name = волшебные грибы
+seeds-magicmush-display-name = волшебные грибы
 
-seeds-synthmeat-name = synthmeat
-seeds-synthmeat-display-name = synthmeat plant
+seeds-synthmeat-name = синтмясо
+seeds-synthmeat-display-name = растение синтмяса
 
-seeds-balloonmelon-name = melon balloon
-seeds-balloonmelon-display-name = melon balloon plant
+seeds-balloonmelon-name = дыня-шар
+seeds-balloonmelon-display-name = растение дыни-шара
 
-seeds-steelwheat-name = steel wheat
-seeds-steelwheat-display-name = steel wheat stalks
+seeds-steelwheat-name = стальная пшеница
+seeds-steelwheat-display-name = стебли стальной пшеницы

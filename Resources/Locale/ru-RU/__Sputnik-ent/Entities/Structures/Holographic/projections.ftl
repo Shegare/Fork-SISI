@@ -13,8 +13,8 @@ ent-HoloPeel = голошкурка
 ent-HolosignSecurity = голографический барьер
     .desc = Барьер из твёрдого света, блокирует движение, но довольно хрупкий.
 
-ent-XenoborgDeflectorField = deflector field
-    .desc = An energy matrix, comprised of interlocking fields that deflect projectiles. Powerful, but short-lived.
+ent-XenoborgDeflectorField = отражающее поле
+    .desc = Энергетическая матрица из взаимосвязанных полей, отклоняющих снаряды. Мощная, но недолговечная.
 
 ent-HolosignForcefield = голографическое силовое поле
     .desc = Мощное поле временного сдерживания, которое не пропустит ничего, даже Теслу или сингулярность.

@@ -31,8 +31,8 @@ ent-ActionAnimateObject = Оживление объекта
 ent-ActionPossessObject = Овладеть объектом
     .desc = Возьмите под контроль неодушевлённый предмет. Высокий уровень испуга.
 
-ent-ActionWraithEvolve = Evolve
-    .desc = Choose a form to evolve into once you have absorbed at least 3 souls.
+ent-ActionWraithEvolve = Эволюционировать
+    .desc = Выберите форму для эволюции после поглощения как минимум 3 душ.
 
 ent-ActionRaiseSkeleton = Воскрешение скелета
     .desc = Воскресите скелет из трупа или призовите его в шкаф.

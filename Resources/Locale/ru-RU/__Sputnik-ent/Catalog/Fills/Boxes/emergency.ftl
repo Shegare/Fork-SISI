@@ -3,8 +3,8 @@
 # .desc = Коробка с базовым набором для выживания.
 # .suffix = Стандартный
 # AUTOGEN-End TODO(Update_Locale):
-ent-BoxSurvival = O2 survival box
-    .desc = A small box containing a breath mask, an emergency oxygen tank, and an emergency medipen. Standard-issue for most oxygen-breathing crew.
+ent-BoxSurvival = аварийный запас
+    .desc = Коробка с базовым набором для выживания.
 
 # AUTOGEN-Start
 # .suffix = Стандартный Азот N2
@@ -17,8 +17,8 @@ ent-BoxSurvivalNitrogen = N2 survival box
 # .desc = Коробка с базовым набором для выживания. Согласно этикетке, содержит более ёмкий баллон.
 # .suffix = Инженерный
 # AUTOGEN-End TODO(Update_Locale):
-ent-BoxSurvivalEngineering = extended-capacity O2 survival box
-    .desc = A small box containing a breath mask, an extended-capacity emergency oxygen tank, and an emergency medipen. Issued to oxygen-breathing crew whose job responsibilities often take them to places with no atmosphere.
+ent-BoxSurvivalEngineering = расширенный аварийный запас
+    .desc = Коробка с базовым набором для выживания. Согласно этикетке, содержит более ёмкий баллон.
 
 # AUTOGEN-Start
 # .suffix = Расширенный Азот N2
@@ -31,8 +31,8 @@ ent-BoxSurvivalEngineeringNitrogen = extended-capacity N2 survival box
 # .desc = Коробка с базовым набором для выживания.
 # .suffix = СБ
 # AUTOGEN-End TODO(Update_Locale):
-ent-BoxSurvivalSecurity = security O2 survival box
-    .desc = A small box containing a gas mask, an emergency oxygen tank, and an emergency medipen. Issued to oxygen-breathing members of the security staff.
+ent-BoxSurvivalSecurity = аварийный запас
+    .desc = Коробка с базовым набором для выживания.
 
 # AUTOGEN-Start
 # .suffix = Охранный Азот N2
@@ -45,8 +45,8 @@ ent-BoxSurvivalSecurityNitrogen = security N2 survival box
 # .desc = Коробка с базовым набором для выживания.
 # .suffix = Медицинский
 # AUTOGEN-End TODO(Update_Locale):
-ent-BoxSurvivalMedical = medical O2 survival box
-    .desc = A small box containing a medical mask, an emergency oxygen tank, and an emergency medipen. Issued to oxygen-breathing members of the medical staff.
+ent-BoxSurvivalMedical = аварийный запас
+    .desc = Коробка с базовым набором для выживания.
 
 # AUTOGEN-Start
 # .suffix = Медицинский Азот N2
@@ -73,8 +73,8 @@ ent-BoxSurvivalDeluxeExtendedNitrogen = deluxe extended-capacity N2 survival box
 # .desc = Коробка с базовым набором для выживания. Согласно этикетке, содержит более ёмкий баллон.
 # .suffix = Синдикат
 # AUTOGEN-End TODO(Update_Locale):
-ent-BoxSurvivalSyndicate = syndicate O2 survival box
-    .desc = A Syndicate-designed survival box containing a syndicate gas mask, an extended-capacity emergency oxygen tank, an emergency medipen, an emergency flare, and a bit of food.
+ent-BoxSurvivalSyndicate = расширенный аварийный запас
+    .desc = Коробка с базовым набором для выживания. Согласно этикетке, содержит более ёмкий баллон.
 
 # AUTOGEN-Start
 # .suffix = Синдикат Азот N2

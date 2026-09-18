@@ -31,5 +31,5 @@ ent-AreaBotany = гидропоника
 ent-AreaServiceHall = холл сферы обслуживания
     .desc = { ent-BaseAreaService.desc }
 
-ent-AreaRanch = ranch
+ent-AreaRanch = ранчо
     .desc = { ent-BaseAreaService.desc }

@@ -46,7 +46,7 @@ ent-WatcherBolt = заряд наблюдателя
 ent-WatcherBoltMagmawing = заряд наблюдателя-магмакрыла
     .desc = { ent-BaseBullet.desc }
 
-ent-WatcherBoltIcewing = icewing watcher bolt
+ent-WatcherBoltIcewing = заряд ледокрылого наблюдателя
     .desc = { ent-BaseBullet.desc }
 
 ent-BasiliskRay = луч василиска
@@ -124,7 +124,7 @@ ent-BulletCannonBall = пушечное ядро
 ent-GrapplingHook = якорь
     .desc = { "" }
 
-ent-StickyHandPalm = sticky hand palm
+ent-StickyHandPalm = липкая ладонь
     .desc = { ent-GrapplingHook.desc }
 
 ent-BulletDisablerSmg = заряд дизейблера-пулемёта
@@ -154,11 +154,11 @@ ent-BulletLaserSpreadNarrow = узкий лазерный залп
 ent-BulletDisablerSmgSpread = оглушающий лазерный залп
     .desc = { ent-BulletDisablerSmg.desc }
 
-ent-BulletLaserMagnum = magnum laser bolt
+ent-BulletLaserMagnum = лазерный заряд «Магнум»
     .desc = { ent-BulletLaser.desc }
 
-ent-BulletLaserWindowPiercingMagnum = magnum window-piercing bolt
+ent-BulletLaserWindowPiercingMagnum = пробивающий окна лазерный заряд «Магнум»
     .desc = { ent-BulletLaser.desc }
 
-ent-EnergyCrossbowBolt = energy bolt
-    .desc = This'll hurt.
+ent-EnergyCrossbowBolt = энергетический заряд
+    .desc = Будет больно.

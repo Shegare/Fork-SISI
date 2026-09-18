@@ -5,10 +5,10 @@ ent-BaseOneTimeXenoArtifactEffect = одноразовый эффект
     .desc = Неизвестный
 
 ent-XenoArtifactBecomeLamp = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Emits strange light
+    .desc = Излучает странный свет
 
 ent-XenoArtifactBecomeRainbowLamp = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Emits shifting light
+    .desc = Излучает меняющийся свет
 
 ent-XenoArtifactEffectUniversalIntercom = { ent-BaseOneTimeXenoArtifactEffect }
     .desc = Получает способности устройства дальней связи

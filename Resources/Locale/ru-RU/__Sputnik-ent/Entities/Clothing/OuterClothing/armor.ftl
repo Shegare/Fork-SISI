@@ -14,8 +14,8 @@ ent-ClothingOuterArmorBulletproof = пуленепробиваемый жиле�
 ent-ClothingOuterArmorReflective = отражающий бронежилет
     .desc = Бронежилет с усовершенствованной защитой от энергетического оружия.
 
-ent-ClothingOuterVestDetective = detective's vest
-    .desc = A hard-boiled private investigator's armored vest.
+ent-ClothingOuterVestDetective = жилет детектива
+    .desc = Бронированный жилет прожжённого частного детектива.
 
 ent-ClothingOuterArmorCaptainCarapace = панцирь капитана
     .desc = Бронированный нагрудник, обеспечивающий защиту и при этом обладающий мобильностью и гибкостью. Выдаётся только лучшим представителям станции.
@@ -23,14 +23,14 @@ ent-ClothingOuterArmorCaptainCarapace = панцирь капитана
 ent-ClothingOuterArmorCentcommCarapace = панцирь ЦК
     .desc = Бронированный нагрудник, обеспечивающий защиту и при этом обладающий мобильностью и гибкостью. Выдаётся только агентам и офицерам Центрального Командования.
 
-ent-ClothingOuterVestWeb = web vest
-    .desc = A synthetic armor vest. This one has added webbing and ballistic plates.
+ent-ClothingOuterVestWeb = жилет с паутиной
+    .desc = Синтетический бронежилет. Этот оснащён дополнительными ремнями и баллистическими пластинами.
 
-ent-ClothingOuterVestWebElite = elite web vest
-    .desc = A synthetic armor vest. This one has added webbing and heat resistant fibers.
+ent-ClothingOuterVestWebElite = элитный жилет с паутиной
+    .desc = Синтетический бронежилет. Этот оснащён дополнительными ремнями и термостойкими волокнами.
 
-ent-ClothingOuterVestWebMerc = mercenary web vest
-    .desc = A high-quality armored vest made from a hard synthetic material. It's surprisingly flexible and light, despite formidable armor plating.
+ent-ClothingOuterVestWebMerc = жилет наёмника с паутиной
+    .desc = Высококачественный бронежилет из твёрдого синтетического материала. Несмотря на внушительные бронепластины, он на удивление гибкий и лёгкий.
 
 ent-ClothingOuterArmorRaid = рейдерский костюм Синдиката
     .desc = Довольно гибкий и хорошо защищённый костюм с мощным наплечным фонарём, выполненный в легендарной кроваво-красной цветовой гамме Мародёров Горлекса, не обеспечивающий защиту владельца от космического пространства.

@@ -1,5 +1,5 @@
-reagent-name-cement = cement
-reagent-desc-cement = A chemical used for making bricks.
+reagent-name-cement = цемент
+reagent-desc-cement = Химическое вещество, используемое для изготовления кирпичей.
 
 reagent-name-potassium-sulfate = сульфат калия
 reagent-desc-potassium-sulfate = Калий в водорастворимой форме, обеспечивающий одновременно и калий и серу. Используется преимущественно как удобрение для растений.
@@ -37,41 +37,41 @@ reagent-desc-ammonium-nitrate-fuel-oil = Грязно-белое кристал�
 reagent-name-octogen = октоген
 reagent-desc-octogen = Белый непрозрачный порошок со скоростью детонации, сопоставимой со скоростью входа в атмосферу. Также известен как HMX. Взрывается при 553 K.
 
-reagent-name-nanomachines = nanomachines
-reagent-desc-nanomachines = A black, dark fluid that seems to move on it's own. Converts people into cyborgs.
+reagent-name-nanomachines = наномашины
+reagent-desc-nanomachines = Чёрная тёмная жидкость, которая, кажется, движется сама по себе. Превращает людей в киборгов.
 
-reagent-name-nanoprocessor = nanoprocessor
-reagent-desc-nanoprocessor = A white fluid that is responsible for computing at the nanoscopic level.
+reagent-name-nanoprocessor = нанопроцессор
+reagent-desc-nanoprocessor = Белая жидкость, отвечающая за вычисления на наноскопическом уровне.
 
-reagent-name-calcium-carbonate = calcium carbonate
-reagent-desc-calcium-carbonate = Also known as lime, typically found in limestone and egg shells.
+reagent-name-calcium-carbonate = карбонат кальция
+reagent-desc-calcium-carbonate = Также известен как известь, обычно встречается в известняке и яичной скорлупе.
 
-reagent-name-calcium-oxide = calcium oxide
-reagent-desc-calcium-oxide = Also known as quicklime, used in cement, reacts with water to produce heat and calcium hydroxide
+reagent-name-calcium-oxide = оксид кальция
+reagent-desc-calcium-oxide = Также известен как негашёная известь, используется в цементе, реагирует с водой с выделением тепла и образованием гидроксида кальция.
 
-reagent-name-calcium-hydroxide = calcium hydroxide
-reagent-desc-calcium-hydroxide = The result of calcium oxide reacting with water.
+reagent-name-calcium-hydroxide = гидроксид кальция
+reagent-desc-calcium-hydroxide = Результат реакции оксида кальция с водой.
 
-reagent-name-unstable-compound = unstable compound
-reagent-desc-unstable-compound = An incredibly volatile variant of unstable mutagen, much more effective at mutating viruses and plants compared to normal mutagen.
+reagent-name-unstable-compound = нестабильное соединение
+reagent-desc-unstable-compound = Чрезвычайно летучая разновидность нестабильного мутагена, гораздо эффективнее обычного мутагена мутирующая вирусы и растения.
 
-reagent-name-reaper-delight = reaper's delight
-reagent-desc-reaper-delight = A very potent fertilizer with no limit to its potency-boosting effects on plants. Use it in limited quantities however, as excessive usage can easily kill almost any plant.
+reagent-name-reaper-delight = восторг жнеца
+reagent-desc-reaper-delight = Очень сильное удобрение, эффект которого усиливает растения без ограничений. Однако используйте его в небольших количествах, поскольку чрезмерное применение легко может убить почти любое растение.
 
-reagent-name-stellarium = stellarium
-reagent-desc-stellarium = An artifically synthesized anti-toxin that is incredibly effective against poisons, Also works very well as a fertilizer to keep your plants alive.
+reagent-name-stellarium = стеллариум
+reagent-desc-stellarium = Искусственно синтезированный антидот, чрезвычайно эффективный против ядов. Также хорошо работает как удобрение, поддерживающее жизнь растений.
 
-reagent-name-hephaestium = hephaestium
-reagent-desc-hephaestium = hephaestium, named after the greek god of stone Hephaestus, known to turn anything injected with it into stone.
+reagent-name-hephaestium = гефестиум
+reagent-desc-hephaestium = Гефестиум, названный в честь греческого бога камня Гефеста, превращает всё введённое с ним в камень.
 
-reagent-name-ageium = ageium
-reagent-desc-ageium = ageium, causes subjects injected with it to not age!
+reagent-name-ageium = эйджиум
+reagent-desc-ageium = Эйджиум не даёт введённым субъектам стареть!
 
-reagent-name-holy-chlorine-trifluoride = Holy Chlorine Trifluoride
-reagent-desc-holy-chlorine-trifluoride = whose idea was this?
+reagent-name-holy-chlorine-trifluoride = святой трифторид хлора
+reagent-desc-holy-chlorine-trifluoride = Кому пришла в голову эта идея?
 
-reagent-name-burnite = burnite
-reagent-desc-burnite = A highly volatile flaming chemical that's typically only made by accidentally opening a portal to hell. Luckily, this isn't an easy feat to do.
+reagent-name-burnite = горнит
+reagent-desc-burnite = Чрезвычайно летучее горящее вещество, обычно получаемое случайным открытием портала в ад. К счастью, это не так-то просто сделать.
 
-reagent-name-unknown-reagent = reagent-name-unknown-reagent
-reagent-desc-unknown-reagent = reagent-desc-unknown-reagent
+reagent-name-unknown-reagent = неизвестный реагент
+reagent-desc-unknown-reagent = неизвестный реагент

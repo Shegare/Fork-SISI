@@ -71,8 +71,8 @@ ent-ClothingBackpackDuffelSyndicateMedicalBundle = { ent-ClothingBackpackDuffelS
 # бездонный вещмешок
 # .desc = вещмешок, открывающийся в локализованный карман блюспейса.
 # AUTOGEN-End TODO(Update_Locale):
-ent-ClothingBackpackDuffelHolding = duffel bag of holding
-    .desc = A duffel bag that opens into a localized pocket of bluespace.
+ent-ClothingBackpackDuffelHolding = бездонный вещмешок
+    .desc = вещмешок, открывающийся в локализованный карман блюспейса.
 
 ent-ClothingBackpackDuffelCBURN = вещмешок РХБЗЗ
     .desc = вещмешок, содержащий различное оборудование для биологической изоляции.

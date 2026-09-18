@@ -7,5 +7,5 @@ ent-ActionSendYourself = Отправить себя
 ent-ActionReturnToShip = Вернуться
     .desc = Вернуться на шаттл.
 
-ent-ActionSendPad = Send from pad
-    .desc = Teleport whoever is attached to the alien pad to the target location.
+ent-ActionSendPad = Отправить с платформы
+    .desc = Телепортировать прикреплённого к инопланетной платформе в указанное место.

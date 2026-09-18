@@ -1,8 +1,8 @@
 ent-BaseSpiderStructure = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
 
-ent-SpiderEggs = egg sac
-    .desc = A bundle of spider eggs, you see them squirming within.
+ent-SpiderEggs = яйцевой мешок
+    .desc = Клубок паучьих яиц, внутри которого что-то шевелится.
 
-ent-SpiderEggsHuman = infested crewmate
-    .desc = A once living crewmate, turned into a home for spiders.
+ent-SpiderEggsHuman = заражённый член экипажа
+    .desc = Некогда живой член экипажа, превращённый в дом для пауков.

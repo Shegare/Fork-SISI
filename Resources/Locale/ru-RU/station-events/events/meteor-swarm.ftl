@@ -15,4 +15,4 @@ station-event-meteor-cow-start-announcement = Станция столкнула�
 station-event-meteor-clown-start-announcement = Станция столкнулась с неопознанным роем обломков. ХОНК! Немедленно спрячьте баллоны веселящего газа.
 station-event-meteor-potato-start-announcement = Станция столкнулась с неопознанным роем обломков. Обнаружено высокое содержание крахмала.
 station-event-fun-swarm-start-announcement = Станция столкнулась с неопознанным роем обломков. Пожалуйста, паникуйте в соответствующем порядке.
-station-event-bio-swarm-start-announcement = Meteors have been detected on collision course with the station. Biological activity detected.
+station-event-bio-swarm-start-announcement = На курсе столкновения со станцией обнаружены метеориты. Обнаружена биологическая активность.

@@ -15,7 +15,7 @@ ent-SalvageSpawnerScrapValuable75 = { ent-SalvageSpawnerScrapValuable }
     .desc = { ent-SalvageSpawnerScrapValuable.desc }
 
 ent-SalvageSpawnerTreasure = спавнер обломок сокровище
-    .suffix = Common, 75%
+    .suffix = Обычный, 75%
     .desc = { ent-MarkerBase.desc }
 
 ent-SalvageSpawnerTreasureValuable = спавнер обломок сокровище
@@ -23,7 +23,7 @@ ent-SalvageSpawnerTreasureValuable = спавнер обломок сокров�
     .desc = { ent-MarkerBase.desc }
 
 ent-SalvageSpawnerEquipment = спавнер обломок экипировка
-    .suffix = Common, 75%
+    .suffix = Обычный, 75%
     .desc = { ent-MarkerBase.desc }
 
 ent-SalvageSpawnerEquipmentValuable = спавнер обломок экипировка

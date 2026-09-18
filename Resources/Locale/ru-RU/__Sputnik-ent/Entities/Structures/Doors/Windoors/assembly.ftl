@@ -1,12 +1,12 @@
-ent-BaseWindoorAssembly = windoor assembly
-    .desc = It opens, it closes, and you can see through it!
+ent-BaseWindoorAssembly = каркас раздвижного окна
+    .desc = Оно открывается, оно закрывается, и вы можете смотреть сквозь него!
 
 # AUTOGEN-Start
 # каркас раздвижного окна
 # .desc = Оно открывается, оно закрывается, и вы можете смотреть сквозь него!
 # AUTOGEN-End TODO(Update_Locale):
-ent-WindoorAssembly = { ent-BaseWindoorAssembly }
-    .desc = { ent-BaseWindoorAssembly.desc }
+ent-WindoorAssembly = каркас раздвижного окна
+    .desc = Оно открывается, оно закрывается, и вы можете смотреть сквозь него!
 
 ent-WindoorAssemblySecure = каркас раздвижного бронеокна
     .desc = Оно открывается, оно закрывается, и вы можете смотреть сквозь него! Оно выглядит крепким.

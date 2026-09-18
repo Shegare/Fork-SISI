@@ -1,2 +1,2 @@
-ent-MobKoboldPerson = Urisst' Mzkobold
+ent-MobKoboldPerson = Уррист' Мзкобольд
     .desc = { ent-AppearanceKobold.desc }

@@ -49,8 +49,8 @@ ent-ClothingBackpackSatchelCargo = сумка грузчика
 ent-ClothingBackpackSatchelSalvage = сумка утилизатора
     .desc = Прочная сумка для хранения добычи.
 
-ent-ClothingBackpackSatchelNinja = spider clan satchel
-    .desc = A robust satchel for stashing your loot.
+ent-ClothingBackpackSatchelNinja = сумка клана паука
+    .desc = Прочная сумка для хранения добычи.
 
 ent-ClothingBackpackSatchelHolding = бездонная сумка
     .desc = Сумка, открывающаяся в локальный карман блюспейса.

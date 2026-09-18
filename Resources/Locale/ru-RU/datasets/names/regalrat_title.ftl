@@ -11,7 +11,7 @@ names-regal-rat-title-dataset-10 = Царь
 # AUTOGEN-Start
 # Фанат #vs
 # AUTOGEN-End TODO(Update_Locale):
-names-regal-rat-title-dataset-11 = Fan
+names-regal-rat-title-dataset-11 = Фанат
 names-regal-rat-title-dataset-12 = Ценитель
 names-regal-rat-title-dataset-13 = Президент
 names-regal-rat-title-dataset-14 = Мэр

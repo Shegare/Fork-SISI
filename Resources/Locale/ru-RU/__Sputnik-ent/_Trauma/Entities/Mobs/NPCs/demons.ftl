@@ -1,113 +1,113 @@
 ent-BaseDemon = демон
     .desc = Он явился из ада.
 
-ent-DemonAcid = demonic acid spit
+ent-DemonAcid = демонический кислотный плевок
     .desc = { ent-BaseBullet.desc }
 
 # AUTOGEN-Start
 # странный человек
 # AUTOGEN-End TODO(Update_Locale):
-ent-MinorDemonGuy = twisted clown
-    .desc = What happens when a clown pies one too many chaplains. Actions have consequences.
+ent-MinorDemonGuy = искажённый клоун
+    .desc = Что происходит, когда клоун осыпает пирогами слишком много священников. За поступки приходится отвечать.
 
 # AUTOGEN-Start
 # воплощённая зависть
 # AUTOGEN-End TODO(Update_Locale):
-ent-MinorDemonIncel = jealousy incarnate
-    .desc = A hellish creature that dwells in the second layer of hell, tiringly talkative.
+ent-MinorDemonIncel = воплощённая зависть
+    .desc = Адское создание, обитающее на втором слое ада и утомительно разговорчивое.
 
 # AUTOGEN-Start
 # Урист МакРуки
 # AUTOGEN-End TODO(Update_Locale):
-ent-MinorDemonUrist = sinner
-    .desc = A wicked human sent to suffer in hell forever.
+ent-MinorDemonUrist = грешник
+    .desc = Злой человек, отправленный вечно страдать в аду.
 
 # AUTOGEN-Start
 # Гончая из плоти
 # AUTOGEN-End TODO(Update_Locale):
-ent-MinorDemonIan = flesh hound
-    .desc = After enough time in hell, souls begin to assume a more… primal form.
+ent-MinorDemonIan = гончая из плоти
+    .desc = Проведя достаточно времени в аду, души начинают принимать более... первобытную форму.
 
 # AUTOGEN-Start
 # изгой
 # AUTOGEN-End TODO(Update_Locale):
-ent-MinorDemonVox = outcast
-    .desc = Hated by even the most repulsive demons, it wanders the planes of Hell alone.
+ent-MinorDemonVox = изгой
+    .desc = Ненавистное даже самым отвратительным демонам существо в одиночестве странствует по планам ада.
 
 # AUTOGEN-Start
 # яростный зверь
 # AUTOGEN-End TODO(Update_Locale):
-ent-MinorDemonVulp = wrathful beast
-    .desc = The dominant species of a bygone era, now tortured in Hell for their hubris.
+ent-MinorDemonVulp = яростный зверь
+    .desc = Доминирующий вид давно минувшей эпохи, ныне мучимый в аду за свою гордыню.
 
-ent-MinorDemonCentifiend = lesser centifiend
-    .desc = A juvenile demon, it progresses the potent diseases of its greater brethren.
+ent-MinorDemonCentifiend = младший центифенд
+    .desc = Юный демон, распространяющий сильные болезни своих старших собратьев.
 
-ent-MinorDemonFlesh = miserable flesh thing
-    .desc = A disgusting living mass of fat, muscle tissue, mucus and blood. The ritual must have failed somehow, and this wretched thing is the result.
+ent-MinorDemonFlesh = жалкое плотяное существо
+    .desc = Отвратительная живая масса из жира, мышечной ткани, слизи и крови. Ритуал, должно быть, каким-то образом провалился, и это несчастное существо - его результат.
 
 # AUTOGEN-Start
 # Сотнехищник
 # AUTOGEN-End TODO(Update_Locale):
-ent-MediumDemonCentifiend = centifiend
-    .desc = One of the most common demons in Hell, this oversized arthropod spreads pestilence with its bite.
+ent-MediumDemonCentifiend = центифенд
+    .desc = Один из самых распространённых демонов ада, этот огромный членистоногий распространяет заразу своим укусом.
 
 # AUTOGEN-Start
 # гордый демон
 # AUTOGEN-End TODO(Update_Locale):
-ent-MediumDemonChad = prideful demon
-    .desc = It takes great pride in its mustache. It used to take pride in its skin…
+ent-MediumDemonChad = гордый демон
+    .desc = Он очень гордится своими усами. Раньше он гордился своей кожей...
 
 # AUTOGEN-Start
 # хеллмет
 # AUTOGEN-End TODO(Update_Locale):
-ent-MediumDemonHamlet = hellmet
-    .desc = Bred as livestock in hell, rumors say Hellmets taste like chicken.
+ent-MediumDemonHamlet = хеллмет
+    .desc = Выведенные в аду как домашний скот, хеллметы, согласно слухам, на вкус как курица.
 
-ent-MediumDemonMindflayer = mindflayer
-    .desc = A primordial beast, it's kin have existed since the dawn of Hell. Barely intelligent, it uses inate psychic abilities to feed on the intellect of its prey.
+ent-MediumDemonMindflayer = пожиратель разума
+    .desc = Первобытный зверь, чьи сородичи существуют с начала ада. Едва разумный, он использует врождённые психические способности, чтобы питаться интеллектом добычи.
 
-ent-MediumDemonAbomination = abomination
-    .desc = A grotesque amalgamation of sickly flesh, muscle quivers underneath it's rotting skin and it constantly drools a corrosive mucus.
+ent-MediumDemonAbomination = мерзость
+    .desc = Гротескное скопление болезненной плоти: мышцы дрожат под гниющей кожей, а изо рта постоянно течёт едкая слизь.
 
-ent-MediumDemonImp = imp
-    .desc = Miserable, weak and disfigured beings, they often find themselves the lackeys of more powerful demons. Lords of Hell often use imps as cannon fodder for their armies.
+ent-MediumDemonImp = бес
+    .desc = Жалкие, слабые и уродливые существа, часто становящиеся прислужниками более могущественных демонов. Владыки ада нередко используют бесов как пушечное мясо своих армий.
 
-ent-MediumDemonDark = darkling
-    .desc = Strange shadowy beings, darklings hide in the deepest recesses of Hell, only emerging to drag down the odd sinner into the darkness.
+ent-MediumDemonDark = темняк
+    .desc = Странные теневые существа, скрывающиеся в глубочайших уголках ада и выходящие лишь затем, чтобы утащить очередного грешника во тьму.
 
-ent-MajorAngelHuman = Aspect of Greed
-    .desc = After consuming a great number of Hellish souls, it's possible a lowly Sinner may become an Aspect. Humans embody the aspect of Greed.
+ent-MajorAngelHuman = Аспект жадности
+    .desc = Поглотив множество адских душ, ничтожный грешник может стать Аспектом. Люди воплощают аспект Жадности.
 
-ent-MajorAngelLizard = Aspect of Predation
-    .desc = After consuming a great number of Hellish souls, it's possible a lowly Sinner may become an aspect. Lizards embody the aspect of Predation.
+ent-MajorAngelLizard = Аспект хищничества
+    .desc = Поглотив множество адских душ, ничтожный грешник может стать Аспектом. Ящеры воплощают аспект Хищничества.
 
-ent-MajorAngelMoth = Aspect of Madness
-    .desc = After consuming a great number of Hellish souls, it's possible a lowly Sinner may become an aspect. Moths embody the aspect of Madness.
+ent-MajorAngelMoth = Аспект безумия
+    .desc = Поглотив множество адских душ, ничтожный грешник может стать Аспектом. Моли воплощают аспект Безумия.
 
 # AUTOGEN-Start
 # бош
 # AUTOGEN-End TODO(Update_Locale):
-ent-MajorDemonBosche = bosche
-    .desc = Born from the dreams of a mad painter, all it knows is to consume.
+ent-MajorDemonBosche = боше
+    .desc = Рождённый из снов безумного художника, он умеет только поглощать.
 
 # AUTOGEN-Start
 # лихорадочная птица
 # AUTOGEN-End TODO(Update_Locale):
-ent-MajorDemonFeverbird = feverbird
-    .desc = Your head hurts. Something is wrong. Onion layer one. Onion layer two. Onion layer three…
+ent-MajorDemonFeverbird = лихорадочная птица
+    .desc = У вас болит голова. Что-то не так. Слой лука один. Слой лука два. Слой лука три...
 
 # AUTOGEN-Start
 # повешенный
 # AUTOGEN-End TODO(Update_Locale):
-ent-MajorDemonHanged = hanged
-    .desc = After being sent to the gallows, the souls of criminals enter the flora of Hell, they are back to exact revenge.
+ent-MajorDemonHanged = повешенный
+    .desc = После отправки на виселицу души преступников входят во флору ада, чтобы вернуться и отомстить.
 
 # AUTOGEN-Start
 # роевик
 # AUTOGEN-End TODO(Update_Locale):
-ent-MajorDemonHiver = hiver
-    .desc = Weaker demons that formed a symbiotic relationship with infernal bees. yes Hell has bees, lots of them.
+ent-MajorDemonHiver = хайвер
+    .desc = Слабые демоны, установившие симбиотические отношения с адскими пчёлами. Да, в аду есть пчёлы, и их много.
 
 ent-BeeLaughterDemon = пчела-демон
     .desc = { ent-BeeLaughter.desc }
@@ -115,14 +115,14 @@ ent-BeeLaughterDemon = пчела-демон
 # AUTOGEN-Start
 # паровик
 # AUTOGEN-End TODO(Update_Locale):
-ent-MajorDemonSteamer = steamer
-    .desc = Steamers are demons that were born from the souls of those who died to welderbombing. Their anger manifests as blazing oil within their gut.
+ent-MajorDemonSteamer = паровик
+    .desc = Паровики - демоны, рождённые из душ погибших от сварочных бомб. Их гнев проявляется как пылающее масло внутри живота.
 
-ent-MajorDemonButcher = butcher
-    .desc = The butchers march through hell, like a plague of locusts, flaying and consuming all in their path.
+ent-MajorDemonButcher = мясник
+    .desc = Мясники маршируют по аду подобно саранче, сдирая кожу и пожирая всё на своём пути.
 
-ent-MajorDemonGhost = Spectre
-    .desc = Torn from their bodies, they seek to warm their hands on the warm flesh of the living.
+ent-MajorDemonGhost = спектр
+    .desc = Вырванные из тел, они стремятся согреть руки на тёплой плоти живых.
 
-ent-MajorDemonSaturn = saturnite
-    .desc = Many demonologists perform rituals to give themselves stronger physical forms, saturnites form when said rituals go terribly wrong.
+ent-MajorDemonSaturn = сатурнит
+    .desc = Многие демонологи проводят ритуалы, чтобы обрести более сильную физическую форму. Сатурниты появляются, когда эти ритуалы ужасно проваливаются.

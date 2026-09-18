@@ -4,8 +4,8 @@ lobby-state-background-the-changeling = Чейнджлинг
 lobby-state-background-the-mansus = Мансус
 lobby-state-background-the-revolution = Революция
 lobby-state-background-the-syndicate = Синдикат
-lobby-state-background-the-mugshot = The Mugshot
+lobby-state-background-the-mugshot = Снимок
 
 # Artists
 asardonicsailor = asardonicsailor
-Hexanova = Hexanova
+Hexanova = Хексанова

@@ -1,56 +1,56 @@
-ent-SkillChipHeavy = APTR-Chip (Heavy Weapon Training)
+ent-SkillChipHeavy = APTR-чип (обучение тяжёлому оружию)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipLaser = APTR-Chip (Laser Weapon Training)
+ent-SkillChipLaser = APTR-чип (обучение лазерному оружию)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipMarksmanship = APTR-Chip (Marksmanship)
+ent-SkillChipMarksmanship = APTR-чип (меткая стрельба)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipMining = APTR-Chip (Mining Tool Training)
+ent-SkillChipMining = APTR-чип (обучение шахтёрским инструментам)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipTool = APTR-Chip (Combat Tool Training)
+ent-SkillChipTool = APTR-чип (обучение боевым инструментам)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipPistol = APTR-Chip (Pistol Training)
+ent-SkillChipPistol = APTR-чип (обучение пистолетам)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipRifle = APTR-Chip (Longarms Training)
+ent-SkillChipRifle = APTR-чип (обучение длинноствольному оружию)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipSMG = APTR-Chip (SMG Training)
+ent-SkillChipSMG = APTR-чип (обучение ПП)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipShotgun = APTR-Chip (Shotgun Training)
+ent-SkillChipShotgun = APTR-чип (обучение дробовикам)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipSniper = APTR-Chip (Sniper Training)
+ent-SkillChipSniper = APTR-чип (обучение снайперской стрельбе)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipBludgeon = APTR-Chip (Bludgeon Training)
+ent-SkillChipBludgeon = APTR-чип (обучение дробящему оружию)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipShortBlade = APTR-Chip (Short Blade Training)
+ent-SkillChipShortBlade = APTR-чип (обучение коротким клинкам)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipLongBlade = APTR-Chip (Long Blade Training)
+ent-SkillChipLongBlade = APTR-чип (обучение длинным клинкам)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipNonLethal = APTR-Chip (Non-Lethal Training)
+ent-SkillChipNonLethal = APTR-чип (обучение нелетальному оружию)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipPolearm = APTR-Chip (Polearm Training)
+ent-SkillChipPolearm = APTR-чип (обучение древковому оружию)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipUnarmed = APTR-Chip (Unarmed Training)
+ent-SkillChipUnarmed = APTR-чип (обучение безоружному бою)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipEnergy = APTR/HYPS-Chip (Energy Weapon Training)
+ent-SkillChipEnergy = APTR/HYPS-чип (обучение энергетическому оружию)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipShield = APTR-Chip (Shield Training)
+ent-SkillChipShield = APTR-чип (обучение щитам)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipCombatHOS = MRAM-Chip (Extended Combat Training)
+ent-SkillChipCombatHOS = MRAM-чип (расширенное боевое обучение)
     .desc = { ent-BaseSkillChipMRAM.desc }

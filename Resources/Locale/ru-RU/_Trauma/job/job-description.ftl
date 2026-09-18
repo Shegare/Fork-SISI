@@ -1,8 +1,8 @@
-job-description-brigmedic = Fight in the rear of the security service, for the lives of your comrades! You are the first and last hope of your squad. Hippocrates bless you.
+job-description-brigmedic = Сражайтесь в тылу службы безопасности за жизнь своих товарищей! Вы первая и последняя надежда своего отряда. Да благословит вас Гиппократ.
 job-description-geneticist = Изменяйте гены живых организмов, включая ваших коллег по экипажу!
 
 # upstream never made these lol
 job-description-cburn = Уничтожайте биологические угрозы на борту станции.
 job-description-deathsquad = Рвите и терзайте, пока не будет покончено.
 
-job-description-rancher = Raise and breed chickens for recreation/novelty, food, utility, etc., nurture them and look out for their needs.
+job-description-rancher = Разводите и выращивайте кур для развлечения, новизны, еды, пользы и прочего, заботьтесь о них и следите за их потребностями.

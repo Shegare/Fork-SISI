@@ -1,5 +1,5 @@
-ent-CrateSyndicateCombatSkillChips = combat skill chips crate
-    .desc = A sinister looking crate filled with the finest skill chips taken from a landfill.
+ent-CrateSyndicateCombatSkillChips = ящик боевых скиллчипов
+    .desc = Зловеще выглядящий ящик, наполненный лучшими скиллчипами со свалки.
 
 ent-CrateSyndicateShuttleBundle = ящик комплекта для шаттла
     .desc = Самое необходимое для шаттла.

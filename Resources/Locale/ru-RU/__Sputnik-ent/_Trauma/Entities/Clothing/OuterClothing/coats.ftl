@@ -1,2 +1,2 @@
-ent-ClothingOuterArmorMonarchCoat = monarch coat
-    .desc = Straight from the wardrobe of Gorlex Entertainment's star performer, this replica of their most iconic outfit utilizes reflective technology to shrug off energy blasts, while remaining flimsy against real damage.
+ent-ClothingOuterArmorMonarchCoat = пальто «Монарх»
+    .desc = Прямиком из гардероба звезды Gorlex Entertainment, эта копия их самого известного наряда использует отражающую технологию для отклонения энергетических зарядов, оставаясь хлипкой против настоящего урона.

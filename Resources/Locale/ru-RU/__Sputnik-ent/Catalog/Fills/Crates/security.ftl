@@ -3,8 +3,8 @@
 # .suffix = Защищённый
 # .desc = Содержит три пуленепробиваемых жилета. Чтобы открыть, необходим уровень доступа Служба безопасности.
 # AUTOGEN-End TODO(Update_Locale):
-ent-CrateSecurityArmor = armor crate
-    .desc = Contains three standard-issue helmets and three bulletproof vests. Requires Security access to open.
+ent-CrateSecurityArmor = ящик с бронёй
+    .desc = Содержит три пуленепробиваемых жилета. Чтобы открыть, необходим уровень доступа Служба безопасности.
 
 ent-CrateSecurityNonlethal = ящик нелетального снаряжения
     .suffix = Защищённый

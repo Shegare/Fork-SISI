@@ -23,8 +23,8 @@ ent-HolofanProjectorEmpty = { ent-HolofanProjector }
 ent-HolofanProjectorBorg = встроенный атмос голопроектор
     .desc = Не позволяет идиотам причинить ещё больше вреда экипажу во время чрезвычайных ситуаций. Установлен напрямую в инженерного борга. Перезаряжается со временем.
 
-ent-HoloprojectorXenoField = Xenoborg deflector field projector
-    .desc = An alien device, projecting fields that deflect projectiles.
+ent-HoloprojectorXenoField = проектор дефлекторного поля ксеноборга
+    .desc = Инопланетное устройство, проецирующее поля, отклоняющие снаряды.
 
 ent-HoloprojectorField = проектор силового поля
     .desc = Создаёт непроходимое силовое поле, через которое ничего не проходит. Нахождение в непосредственной близости может вызвать рак, а может и не вызвать.

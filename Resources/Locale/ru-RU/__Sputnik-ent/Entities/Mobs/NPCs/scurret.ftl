@@ -7,7 +7,7 @@ ent-MobScurret = скюррет
 # AUTOGEN-Start
 # скюррет эмоциональной поддержи
 # AUTOGEN-End TODO(Update_Locale):
-ent-MobBaseEmotionalSupportScurret = Emotional Support Scurret
+ent-MobBaseEmotionalSupportScurret = скюррет эмоциональной поддержи
     .desc = { "" }
 
 ent-MobEmotionalSupportScurret = скюррет эмоциональной поддержи

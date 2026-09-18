@@ -149,7 +149,7 @@ accent-medieval-words-34 = ботаники
 accent-medieval-words-replace-34 = фермеры
 
 accent-medieval-words-35 = does
-accent-medieval-words-replace-35 = doth
+accent-medieval-words-replace-35 = творит
 
 accent-medieval-words-36 = кэп
 accent-medieval-words-replace-36 = Король
@@ -182,7 +182,7 @@ accent-medieval-words-45 = идите
 accent-medieval-words-replace-45 = следуйте
 
 accent-medieval-words-46 = the
-accent-medieval-words-replace-46 = yon
+accent-medieval-words-replace-46 = вон тот
 
 accent-medieval-words-47 = шутишь
 accent-medieval-words-replace-47 = смехотворишь
@@ -386,13 +386,13 @@ accent-medieval-words-113 = нюкеры
 accent-medieval-words-replace-113 = предвестники разрушений
 
 accent-medieval-words-114 = admeme
-accent-medieval-words-replace-114 = deus ex machina
+accent-medieval-words-replace-114 = бог из машины
 
 accent-medieval-words-115 = adminbus
-accent-medieval-words-replace-115 = deus ex machina
+accent-medieval-words-replace-115 = бог из машины
 
 accent-medieval-words-116 = sci
-accent-medieval-words-replace-116 = alchemists
+accent-medieval-words-replace-116 = алхимики
 
 accent-medieval-words-117 = нр
 accent-medieval-words-replace-117 = Главный Алхимик
@@ -461,7 +461,7 @@ accent-medieval-words-139 = генокрад
 accent-medieval-words-replace-139 = мерзость
 
 accent-medieval-words-140 = cling
-accent-medieval-words-replace-140 = abomination
+accent-medieval-words-replace-140 = мерзость
 
 accent-medieval-words-141 = шаттл
 accent-medieval-words-replace-141 = карета
@@ -473,7 +473,7 @@ accent-medieval-words-143 = эвак
 accent-medieval-words-replace-143 = спасительная карета
 
 accent-medieval-words-144 = in the
-accent-medieval-words-replace-144 = i' the
+accent-medieval-words-replace-144 = и' там
 
 accent-medieval-words-145 = клоуны
 accent-medieval-words-replace-145 = шуты
@@ -614,7 +614,7 @@ accent-medieval-words-190 = тесле
 accent-medieval-words-replace-190 = светоточащему шару архимагов
 
 accent-medieval-words-191 = ball
-accent-medieval-words-replace-191 = boll
+accent-medieval-words-replace-191 = шар
 
 accent-medieval-words-192 = теслалуз
 accent-medieval-words-replace-192 = сбежавшый светоточащий шар архимагов

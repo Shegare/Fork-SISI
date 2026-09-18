@@ -1,5 +1,5 @@
-ent-MobCorticalBorer = Cortical Borer
-    .desc = A worm that burrows into brains and lays its eggs
+ent-MobCorticalBorer = кортикальный бурильщик
+    .desc = Червь, прогрызающий путь в мозг и откладывающий яйца.
 
-ent-CorticalBorerEgg = cortical borer egg
-    .desc = This egg is so nice and wet and soft...
+ent-CorticalBorerEgg = яйцо кортикального бурильщика
+    .desc = Это яйцо такое приятное, влажное и мягкое...

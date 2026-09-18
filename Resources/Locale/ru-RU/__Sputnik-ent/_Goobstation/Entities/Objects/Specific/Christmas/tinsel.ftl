@@ -7,14 +7,14 @@ ent-SpawnerChristmasTinselRed = спавнер красная рожденств
 ent-SpawnerChristmasTinselBlue = спавнер синяя рожденственская мишура
     .desc = { ent-MarkerBase.desc }
 
-ent-BaseChristmasTinsel = tinsel
-    .desc = Some white tinsel. It's a bit sparkly.
+ent-BaseChristmasTinsel = мишура
+    .desc = Немного белой мишуры. Она слегка блестит.
 
 ent-BaseChristmasTinselRed = { ent-BaseChristmasTinsel }
-    .desc = Some red tinsel. It's a bit sparkly.
+    .desc = Немного красной мишуры. Она слегка блестит.
 
 ent-BaseChristmasTinselBlue = { ent-BaseChristmasTinsel }
-    .desc = Some blue tinsel. It's a bit sparkly.
+    .desc = Немного синей мишуры. Она слегка блестит.
 
 # AUTOGEN-Start
 # белая рожденственская мишура

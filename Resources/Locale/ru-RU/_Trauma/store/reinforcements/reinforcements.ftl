@@ -120,8 +120,8 @@ reinforcement-service-worker-desc = Наймите работника сферы
 reinforcement-assistant-name = Нанять ассистента
 reinforcement-assistant-desc = Наймите ассистента, фент не прилагается. Минимальное время прибытия — три минуты.
 
-bioweapon-manual-name = Purchase a bioweapon instruction manual
-bioweapon-manual-desc = Purchase a bioweapon manual that teaches the codes needed to command bioweapons.
+bioweapon-manual-name = Купить руководство по биооружию
+bioweapon-manual-desc = Купите руководство по биооружию, обучающее кодам, необходимым для управления биооружием.
 
-bioweapon-name = Purchase a bioweapon
-bioweapon-desc = Purchase a bioweapon mutant to carry out the orders of security.
+bioweapon-name = Купить биооружие
+bioweapon-desc = Купите мутировавшее биооружие для выполнения приказов службы безопасности.

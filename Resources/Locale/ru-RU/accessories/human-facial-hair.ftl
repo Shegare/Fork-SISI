@@ -6,37 +6,37 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 marking-HumanFacialHairAbe = Борода (Авраам Линкольн)
-marking-HumanFacialHairAbe-abe = Beard (Abraham Lincoln)
+marking-HumanFacialHairAbe-abe = Борода (Авраам Линкольн)
 
 marking-HumanFacialHairBrokenman = Борода (Сломанный человек)
-marking-HumanFacialHairBrokenman-brokenman = Beard (Broken Man)
+marking-HumanFacialHairBrokenman-brokenman = Борода (Сломанный человек)
 
 marking-HumanFacialHairChin = Борода (Шкиперская бородка)
-marking-HumanFacialHairChin-chin = Beard (Chinstrap)
+marking-HumanFacialHairChin-chin = Борода (Шкиперская бородка)
 
 marking-HumanFacialHairDwarf = Борода (Дворф)
-marking-HumanFacialHairDwarf-dwarf = Beard (Dwarf)
+marking-HumanFacialHairDwarf-dwarf = Борода (Дворф)
 
 marking-HumanFacialHairFullbeard = Борода (Полная)
-marking-HumanFacialHairFullbeard-fullbeard = Beard (Full)
+marking-HumanFacialHairFullbeard-fullbeard = Борода (Полная)
 
 marking-HumanFacialHairCroppedfullbeard = Борода (Обрезанная полная борода)
 marking-HumanFacialHairCroppedfullbeard-croppedfullbeard = Beard (Cropped Fullbeard)
 
 marking-HumanFacialHairGt = Борода (Козлиная бородка)
-marking-HumanFacialHairGt-gt = Beard (Goatee)
+marking-HumanFacialHairGt-gt = Борода (Козлиная бородка)
 
 marking-HumanFacialHairHip = Борода (Хипстер)
-marking-HumanFacialHairHip-hip = Beard (Hipster)
+marking-HumanFacialHairHip-hip = Борода (Хипстер)
 
 marking-HumanFacialHairJensen = Борода (Дженсен)
-marking-HumanFacialHairJensen-jensen = Beard (Jensen)
+marking-HumanFacialHairJensen-jensen = Борода (Дженсен)
 
 marking-HumanFacialHairNeckbeard = Борода (Шейная борода)
-marking-HumanFacialHairNeckbeard-neckbeard = Beard (Neckbeard)
+marking-HumanFacialHairNeckbeard-neckbeard = Борода (Шейная борода)
 
 marking-HumanFacialHairWise = Борода (Очень длинная)
-marking-HumanFacialHairWise-wise = Beard (Very Long)
+marking-HumanFacialHairWise-wise = Борода (Очень длинная)
 
 marking-HumanFacialHairMuttonmus = Борода (Баранья)
 marking-HumanFacialHairMuttonmus-muttonmus = Beard (Muttonmus)
@@ -72,7 +72,7 @@ marking-HumanFacialHair7oclockmoustache = Борода (Усы "семь час�
 marking-HumanFacialHair7oclockmoustache-7oclockmoustache = Beard (Seven o Clock Moustache)
 
 marking-HumanFacialHairMoustache = Усы
-marking-HumanFacialHairMoustache-moustache = Moustache
+marking-HumanFacialHairMoustache-moustache = Усы
 
 marking-HumanFacialHairPencilstache = Усы (Карандаш)
 marking-HumanFacialHairPencilstache-pencilstache = Moustache (Pencilstache)
@@ -81,13 +81,13 @@ marking-HumanFacialHairSmallstache = Усы (Малюсенькие)
 marking-HumanFacialHairSmallstache-smallstache = Moustache (Smallstache)
 
 marking-HumanFacialHairWalrus = Усы (Моржовые)
-marking-HumanFacialHairWalrus-walrus = Moustache (Walrus)
+marking-HumanFacialHairWalrus-walrus = Усы (Моржовые)
 
 marking-HumanFacialHairFumanchu = Усы (Фу Манчу)
-marking-HumanFacialHairFumanchu-fumanchu = Moustache (Fu Manchu)
+marking-HumanFacialHairFumanchu-fumanchu = Усы (Фу Манчу)
 
 marking-HumanFacialHairHogan = Усы (Халк Хоган)
-marking-HumanFacialHairHogan-hogan = Moustache (Hulk Hogan)
+marking-HumanFacialHairHogan-hogan = Усы (Халк Хоган)
 
 marking-HumanFacialHairSelleck = Усы (Селлек)
 marking-HumanFacialHairSelleck-selleck = Moustache (Selleck)
@@ -96,7 +96,7 @@ marking-HumanFacialHairChaplin = Усы (Квадрат)
 marking-HumanFacialHairChaplin-chaplin = Moustache (Square)
 
 marking-HumanFacialHairVandyke = Усы (Ван Дайк)
-marking-HumanFacialHairVandyke-vandyke = Moustache (Van Dyke)
+marking-HumanFacialHairVandyke-vandyke = Усы (Ван Дайк)
 
 marking-HumanFacialHairWatson = Усы (Ватсон)
 marking-HumanFacialHairWatson-watson = Moustache (Watson)
@@ -108,4 +108,4 @@ marking-HumanFacialHairMutton = Бакенбарды (Бараньи отбив�
 marking-HumanFacialHairMutton-mutton = Sideburns (Mutton Chops)
 
 marking-HumanFacialHairSideburn = Бакенбарды
-marking-HumanFacialHairSideburn-sideburn = Sideburns
+marking-HumanFacialHairSideburn-sideburn = Бакенбарды

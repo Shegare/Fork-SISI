@@ -8,7 +8,7 @@ ent-SpawnPointObserver = спавнер наблюдатели
 ent-SpawnPointLatejoin = спавн позднее присоединение
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointAnyJob = any job spawn point
+ent-SpawnPointAnyJob = спавнер любой должности
     .desc = { ent-SpawnPointJobBase.desc }
 
 ent-SpawnPointQuartermaster = квартирмейстер
@@ -143,5 +143,5 @@ ent-SpawnPointReporter = репортёр
 ent-SpawnPointPsychologist = психолог
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointTramDriver = tramdriver
+ent-SpawnPointTramDriver = водитель трамвая
     .desc = { ent-SpawnPointJobBase.desc }

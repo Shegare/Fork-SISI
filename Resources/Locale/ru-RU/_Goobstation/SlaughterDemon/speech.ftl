@@ -46,31 +46,31 @@ accent-demonic-words-replace-15 = заклинающий червяк
 # AUTOGEN-Start
 # ТЫ БЫЛ РОЖДЁН ЧТОБЫ ИСТЕЧЬ КРОВЬЮ.
 # AUTOGEN-End TODO(Update_Locale):
-accent-demonic-suffix-1 = {" "}YOU WERE BORN TO BLEED.
+accent-demonic-suffix-1 = {" "}ТЫ БЫЛ РОЖДЁН, ЧТОБЫ ИСТЕЧЬ КРОВЬЮ.
 # AUTOGEN-Start
 # ПЛОТЬ СЛАБА.
 # AUTOGEN-End TODO(Update_Locale):
-accent-demonic-suffix-2 = {" "}FLESH IS WEAK.
+accent-demonic-suffix-2 = {" "}ПЛОТЬ СЛАБА.
 # AUTOGEN-Start
 # РВИ И ТЕРЗАЙ.
 # AUTOGEN-End TODO(Update_Locale):
-accent-demonic-suffix-3 = {" "}RIP AND TEAR.
+accent-demonic-suffix-3 = {" "}РВИ И ТЕРЗАЙ.
 # AUTOGEN-Start
 # УМРИ В МУКАХ.
 # AUTOGEN-End TODO(Update_Locale):
-accent-demonic-suffix-4 = {" "}DIE SCREAMING.
+accent-demonic-suffix-4 = {" "}УМРИ С КРИКОМ.
 # AUTOGEN-Start
 # Я СЛЫШУ ТВОЁ СЕРДЦЕБИЕНИЕ.
 # AUTOGEN-End TODO(Update_Locale):
-accent-demonic-suffix-5 = {" "}I HEAR YOUR HEART.
+accent-demonic-suffix-5 = {" "}Я СЛЫШУ ТВОЁ СЕРДЦЕ.
 # AUTOGEN-Start
 # РАСПОТРОШУ.
 # AUTOGEN-End TODO(Update_Locale):
-accent-demonic-suffix-6 = {" "}OFFER YOUR BONES.
+accent-demonic-suffix-6 = {" "}ПРЕПОДНЕСИ СВОИ КОСТИ.
 # AUTOGEN-Start
 # ТЫ ЗАХЛЕБНЕШЬСЯ В КРОВИ.
 # AUTOGEN-End TODO(Update_Locale):
-accent-demonic-suffix-7 = {" "}BLOOD WILL DROWN YOU.
+accent-demonic-suffix-7 = {" "}КРОВЬ ТЕБЯ УТОПИТ.
 
 # speech verbs
 chat-speech-verb-name-demon = демон резни

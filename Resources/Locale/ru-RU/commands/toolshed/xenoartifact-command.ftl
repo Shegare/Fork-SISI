@@ -10,20 +10,20 @@ command-description-xenoartifact-unlockallnodes =
     Unlocks all nodes of artifact.
 
 command-description-xenoartifact-createnode =
-    Create node in artifact (new on depth 0 or attach next to existing one).
+    Создаёт узел в артефакте (новый на глубине 0 или присоединённый рядом с существующим).
 command-description-xenoartifact-createnodeatdepth =
-    Add a new node to the given artifact.
+    Добавляет новый узел к указанному артефакту.
 command-description-xenoartifact-spawnartwithnode =
-    Spawns a new xeno artifact with single node with the given trigger and effect.
+    Создаёт новый ксеноартефакт с одним узлом, указанными триггером и эффектом.
 command-description-xenoartifact-unlocknode =
-    Marks a node as unlocked.
+    Помечает узел как открытый.
 command-description-xenoartifact-removenode =
-    Removes a node from a xeno artifact.
+    Удаляет узел из ксеноартефакта.
 command-description-xenoartifact-addedge =
-    Adds an edge between two nodes of a xeno artifact.
+    Добавляет связь между двумя узлами ксеноартефакта.
 
-command-spawnartifactwithnode-spawn-artifact-item-hint = use hand-held artifact
-command-spawnartifactwithnode-spawn-artifact-structure-hint = use structure-like stationary artifact
-command-spawnartifactwithnode-spawn-artifact-type-hint = <artifact entity proto id>
+command-spawnartifactwithnode-spawn-artifact-item-hint = используйте переносной артефакт
+command-spawnartifactwithnode-spawn-artifact-structure-hint = используйте стационарный артефакт-структуру
+command-spawnartifactwithnode-spawn-artifact-type-hint = <идентификатор прототипа сущности артефакта>
 
-command-xenoartifact-common-node-hint = depth {$depth} node {$nodeId} trigger {$nodeDetail}
+command-xenoartifact-common-node-hint = глубина {$depth}, узел {$nodeId}, триггер {$nodeDetail}

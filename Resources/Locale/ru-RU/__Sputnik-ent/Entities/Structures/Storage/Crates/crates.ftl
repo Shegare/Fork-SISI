@@ -34,7 +34,7 @@ ent-CrateSurgery = хирургический ящик
 # AUTOGEN-Start
 # паутинный ящик
 # AUTOGEN-End TODO(Update_Locale):
-ent-CrateWeb = web crate
+ent-CrateWeb = паутинный ящик
     .desc = { ent-BaseCrate.desc }
 
 ent-CrateSecgear = ящик оборудования службы безопасности
@@ -91,13 +91,13 @@ ent-CrateSyndicateSecure = защищённый ящик Синдиката
 # AUTOGEN-Start
 # ящик для скота
 # AUTOGEN-End TODO(Update_Locale):
-ent-CrateLivestock = livestock crate
+ent-CrateLivestock = ящик для скота
     .desc = { ent-BaseCrate.desc }
 
 # AUTOGEN-Start
 # хомячья клетка
 # AUTOGEN-End TODO(Update_Locale):
-ent-CrateRodentCage = hamster cage
+ent-CrateRodentCage = хомячья клетка
     .desc = { ent-BaseCrate.desc }
 
 ent-CrateBaseLockBox = ящик с замком

@@ -41,14 +41,14 @@ ent-ComputerStationRecords = консоль станционного учёта
 ent-ComputerCrewMonitoring = консоль мониторинга экипажа
     .desc = Используется для отслеживания активных датчиков здоровья, встроенных в униформу большинства членов экипажа.
 
-ent-ComputerStationTeleportersControl = station teleporters control console
-    .desc = Used to monitor station teleport system operations.
+ent-ComputerStationTeleportersControl = консоль управления станционными телепортерами
+    .desc = Используется для мониторинга работы станционной системы телепортации.
 
 ent-ComputerStationTeleportersControlFilled = { ent-ComputerStationTeleportersControl }
     .desc = { ent-ComputerStationTeleportersControl.desc }
-    .suffix = Autofilled, Nanotrasen Network
+    .suffix = Заполненная, сеть Nanotrasen
 
-ent-ComputerSyndicateTeleportersControl = syndicate teleporters control console
+ent-ComputerSyndicateTeleportersControl = консоль управления телепортерами Синдиката
     .desc = { ent-ComputerStationTeleportersControl.desc }
 
 ent-ComputerResearchAndDevelopment = консоль исследований

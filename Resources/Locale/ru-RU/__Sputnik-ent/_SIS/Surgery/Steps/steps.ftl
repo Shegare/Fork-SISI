@@ -1,2 +1,2 @@
-ent-SurgeryStepRemoveCorticalBorer = Remove the Cortical Borer
+ent-SurgeryStepRemoveCorticalBorer = Удалить кортикального бурильщика
     .desc = { ent-SurgeryStepBase.desc }

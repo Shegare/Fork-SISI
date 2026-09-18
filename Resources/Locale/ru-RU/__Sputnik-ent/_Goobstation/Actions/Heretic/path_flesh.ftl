@@ -1,8 +1,8 @@
 ent-ActionHereticFleshSurgery = Хирургия плоти
     .desc = Удалите случайный орган у цели или исцелите своих союзников.
 
-ent-ActionHereticFleshTransform = Shed Form
-    .desc = Shed your fragile form, become one with the arms, become one with the emperor. Instills intense fear in nearby mortals.
+ent-ActionHereticFleshTransform = Сбросить форму
+    .desc = Отбросьте хрупкую форму, станьте едины с руками, станьте едины с императором. Наводит сильный страх на ближайших смертных.
 
-ent-ActionHereticFleshContract = Force Contract
-    .desc = Forces your body to contract onto a single tile.
+ent-ActionHereticFleshContract = Принудительное сжатие
+    .desc = Заставляет ваше тело сжаться до одной клетки.

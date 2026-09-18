@@ -34,13 +34,13 @@ ent-BrutepackAdvanced1 = { ent-MedicatedSuture }
     .suffix = Один
 
 ent-Bloodpack = пакет крови
-    .desc = Содержит новый инновационный универсальный кровезаменитель, разработанный передовыми учёными компании Nanotrasen.
+    .desc = { ent-Bloodpack.desc }
     .suffix = Полный
     .desc = { ent-Bloodpack.desc }
 
 ent-Bloodpack1 = { ent-Bloodpack }
     .desc = { ent-Bloodpack.desc }
-    .suffix = Single
+    .suffix = Один
 
 ent-Tourniquet = жгут-турникет
     .desc = Остановит кровотечение! Надеемся.

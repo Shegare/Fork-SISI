@@ -17,144 +17,144 @@ ent-WallClock = заводная стена
 # AUTOGEN-Start
 # бананиумовая стена
 # AUTOGEN-End TODO(Update_Locale):
-ent-WallClown = bananium wall
+ent-WallClown = бананиумовая стена
     .desc = { ent-BaseWall.desc }
 
-ent-WallMeat = meat wall
-    .desc = Sticky.
+ent-WallMeat = мясная стена
+    .desc = Липко.
 
-ent-WallCult = cult wall
+ent-WallCult = стена культа
     .desc = { ent-BaseWall.desc }
 
 ent-WallDebug = debug wall
     .desc = { ent-BaseWall.desc }
     .suffix = DEBUG
 
-ent-WallDiamond = diamond wall
+ent-WallDiamond = бриллиантовая стена
     .desc = { ent-BaseWall.desc }
 
-ent-WallGold = gold wall
+ent-WallGold = золотая стена
     .desc = { ent-BaseWall.desc }
 
-ent-WallIce = ice wall
+ent-WallIce = ледяная стена
     .desc = { ent-BaseStructureWall.desc }
 
-ent-WallPlasma = plasma wall
+ent-WallPlasma = плазменная стена
     .desc = { ent-BaseWall.desc }
 
-ent-WallPlastic = plastic wall
+ent-WallPlastic = пластиковая стена
     .desc = { ent-BaseWall.desc }
 
-ent-WallPlastitaniumIndestructible = plastitanium wall
+ent-WallPlastitaniumIndestructible = пластитановая стена
     .desc = { ent-BaseWall.desc }
-    .suffix = indestructible
+    .suffix = Неразрушимый
 
-ent-WallPlastitanium = plastitanium wall
+ent-WallPlastitanium = пластитановая стена
     .desc = { ent-WallPlastitaniumIndestructible.desc }
 
-ent-WallPlastitaniumDiagonalIndestructible = plastitanium wall
+ent-WallPlastitaniumDiagonalIndestructible = пластитановая стена
     .desc = { ent-WallDiagonalBase.desc }
-    .suffix = diagonal, indestructible
+    .suffix = Диагональ, Неразрушимое
 
-ent-WallPlastitaniumDiagonal = plastitanium wall
+ent-WallPlastitaniumDiagonal = пластитановая стена
     .desc = { ent-WallPlastitaniumDiagonalIndestructible.desc }
-    .suffix = diagonal
+    .suffix = Диагональ
 
-ent-WallReinforced = reinforced wall
+ent-WallReinforced = укреплённая стена
     .desc = { ent-BaseWall.desc }
 
 ent-WallReinforcedRust = { ent-WallReinforced }
     .desc = { ent-WallReinforced.desc }
-    .suffix = rusted
+    .suffix = Ржавый
 
-ent-WallReinforcedDiagonal = reinforced wall
+ent-WallReinforcedDiagonal = укреплённая стена
     .desc = { ent-WallDiagonalBase.desc }
 
-ent-WallRiveted = riveted wall
+ent-WallRiveted = клёпаная стена
     .desc = { ent-BaseWall.desc }
 
-ent-WallSandstone = sandstone wall
+ent-WallSandstone = песчаниковая стена
     .desc = { ent-BaseWall.desc }
 
-ent-WallSilver = silver wall
+ent-WallSilver = серебряная стена
     .desc = { ent-BaseWall.desc }
 
-ent-WallShuttleDiagonal = shuttle wall
-    .desc = { ent-WallDiagonalBase.desc }
+ent-WallShuttleDiagonal = стена шаттла
+    .desc = Удерживает воздух внутри, а ассистентов снаружи.
 
-ent-WallShuttle = shuttle wall
+ent-WallShuttle = стена шаттла
     .desc = { ent-BaseWall.desc }
 
-ent-WallSolid = solid wall
+ent-WallSolid = обычная стена
     .desc = { ent-BaseWall.desc }
 
-ent-WallSolidDiagonal = solid wall
+ent-WallSolidDiagonal = обычная стена
     .desc = { ent-WallDiagonalBase.desc }
 
 ent-WallSolidRust = { ent-WallSolid }
     .desc = { ent-WallSolid.desc }
-    .suffix = rusted
+    .suffix = Ржавый
 
-ent-WallXenoborg = xenoborg wall
+ent-WallXenoborg = ксеноборговая стена
     .desc = { ent-WallPlastitanium.desc }
 
-ent-WallXenoborgDiagonal = xenoborg wall
+ent-WallXenoborgDiagonal = ксеноборговая стена
     .desc = { ent-WallPlastitaniumDiagonal.desc }
-    .suffix = diagonal
+    .suffix = Диагональ
 
-ent-WallUranium = uranium wall
+ent-WallUranium = урановая стена
     .desc = { ent-BaseWall.desc }
 
-ent-WallWood = wood wall
-    .desc = The traditional greytide defense.
+ent-WallWood = деревянная стена
+    .desc = Традиционная защита от грейтайдеров.
 
-ent-WallWeb = web wall
-    .desc = Keeps the spiders in and the greytide out.
+ent-WallWeb = паутинная стена
+    .desc = Удерживает паучат внутри, а ассистентов снаружи.
 
-ent-WallNecropolis = stone wall
+ent-WallNecropolis = каменная стена
     .desc = { ent-BaseWall.desc }
 
-ent-WallMining = mining wall
+ent-WallMining = шахтёрская стена
     .desc = { ent-BaseWall.desc }
 
-ent-WallMiningDiagonal = mining wall
+ent-WallMiningDiagonal = шахтёрская стена
     .desc = { ent-WallDiagonalBase.desc }
 
-ent-WallVaultAlien = alien vault wall
-    .desc = A mysterious ornate looking wall. There may be ancient dangers inside.
+ent-WallVaultAlien = инопланетная стена хранилища
+    .desc = Таинственная стена с витиеватыми узорами. Внутри могут подстерегать древние опасности.
 
-ent-WallVaultRock = rock vault wall
+ent-WallVaultRock = каменная стена хранилища
     .desc = { ent-WallVaultAlien.desc }
 
-ent-WallVaultSandstone = sandstone vault wall
+ent-WallVaultSandstone = песчаниковая каменная стена
     .desc = { ent-WallVaultAlien.desc }
 
-ent-WallInvisible = invisible wall
+ent-WallInvisible = невидимая стена
     .desc = { "" }
 
-ent-WallForce = force wall
+ent-WallForce = силовой барьер
     .desc = { "" }
 
-ent-WallCobblebrick = cobblestone brick wall
-    .desc = Stone by stone, perfectly fitted together to form a wall.
+ent-WallCobblebrick = булыжниковая стена
+    .desc = Идеально подогнанные друг к другу кирпичик за кирпичиком образовали стену.
 
-ent-WallBasaltCobblebrick = basalt brick wall
+ent-WallBasaltCobblebrick = базальтовая стена
     .desc = { ent-WallCobblebrick.desc }
 
-ent-WallSnowCobblebrick = snow brick wall
-    .desc = A cold, not-so-impenetrable wall.
+ent-WallSnowCobblebrick = снежная стена
+    .desc = Холодная, не такая уж непроходимая стена.
 
-ent-WallAsteroidCobblebrick = asteroid stone brick wall
+ent-WallAsteroidCobblebrick = астероидная булыжниковая стена
     .desc = { ent-WallCobblebrick.desc }
 
-ent-WallSandCobblebrick = sandstone brick wall
+ent-WallSandCobblebrick = песчаниковая булыжниковая стена
     .desc = { ent-WallCobblebrick.desc }
 
-ent-WallChromiteCobblebrick = chromite brick wall
+ent-WallChromiteCobblebrick = хромитовая булыжниковая стена
     .desc = { ent-WallCobblebrick.desc }
 
-ent-WallAndesiteCobblebrick = andesite brick wall
+ent-WallAndesiteCobblebrick = андезитовая булыжниковая стена
     .desc = { ent-WallCobblebrick.desc }
 
-ent-Cardwall = cardboard wall
-    .desc = Budget cuts are hitting hard.
+ent-Cardwall = картонная стена
+    .desc = Бюджет урезали. Терпим.

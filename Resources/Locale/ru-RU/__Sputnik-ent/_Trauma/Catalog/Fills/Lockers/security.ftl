@@ -29,7 +29,7 @@ ent-GunSafeMelee = сейф для холодного оружия
 # AUTOGEN-Start
 # сейф для дзюдо
 # AUTOGEN-End TODO(Update_Locale):
-ent-GunSafeJudo = judo safe
+ent-GunSafeJudo = сейф с дзюдо
     .desc = { ent-GunSafeBaseSecure.desc }
 
 ent-GunSafeRiotLauncher = сейф для противоштурмовых пусковых установок

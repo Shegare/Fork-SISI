@@ -137,7 +137,7 @@ marking-MothWingsUnderwing-underwing_secondary = Вторичный
 # AUTOGEN-Start
 # Крылья (Подкрылье)
 # AUTOGEN-End TODO(Update_Locale):
-marking-MothWingsUnderwing = Wings (Underwing, No open wing visuals)
+marking-MothWingsUnderwing = Крылья (Подкрылье, без открытых крыльев)
 
 
 
