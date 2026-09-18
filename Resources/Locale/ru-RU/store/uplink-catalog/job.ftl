@@ -1,45 +1,45 @@
 # Job
 
-uplink-gatfruit-seeds-name = Packet Of Gatfruit Seeds
-uplink-gatfruit-seeds-desc = And who says guns don't grow on trees?
+uplink-gatfruit-seeds-name = Пакет семян гатфрукта
+uplink-gatfruit-seeds-desc = И кто сказал, что оружие не растёт на деревьях?
 
-uplink-holy-hand-grenade-name = Holy Hand Grenade
-uplink-holy-hand-grenade-desc = O Lord, bless this thy hand grenade, that with it thou mayst blow thine enemies to tiny bits, in thy mercy.
+uplink-holy-hand-grenade-name = Святая ручная граната
+uplink-holy-hand-grenade-desc = О Господь, благослови эту ручную гранату, чтобы милосердно разнести ею врагов на мелкие кусочки.
 
-uplink-revolver-cap-gun-fake-name = Fake Cap Gun
-uplink-revolver-cap-gun-fake-desc = Fool your enemy! It can use both cap and magnum bullets. Comes loaded with magnum bullets.
+uplink-revolver-cap-gun-fake-name = Поддельный пистолет с пистонами
+uplink-revolver-cap-gun-fake-desc = Обманите врага! Использует как пистонные, так и магнум-патроны. Поставляется заряженным магнум-патронами.
 
-uplink-cluster-banana-peel-name = Cluster Banana
-uplink-cluster-banana-peel-desc = Splits into 6 explosive banana peels after being thrown, the peels detonate automatically after 20 seconds if nobody slips on them.
+uplink-cluster-banana-peel-name = Связка бананов
+uplink-cluster-banana-peel-desc = После броска распадается на 6 взрывоопасных банановых кожурок, которые автоматически взрываются через 20 секунд, если на них никто не поскользнулся.
 
-uplink-holoclown-kit-name = Holoclown Kit
-uplink-holoclown-kit-desc = A joint venture between Cybersun and Honk.co. Contains an injector that hosts a sentient metaphysical clown made of hard light which resides in the user's body when not active.
-    The holoclown has pockets to store things, a hardlight hand it can manipulate the environment with and is immune to hazardous environments while being resistant to direct trauma, but shares any damage it takes with the user.
+uplink-holoclown-kit-name = Набор голоклоуна
+uplink-holoclown-kit-desc = Совместное предприятие Cybersun и Honk.co. Содержит инъектор с разумным метафизическим клоуном из твёрдого света, который находится в теле пользователя, когда не активен.
+    У голоклоуна есть карманы для хранения вещей и рука из твёрдого света для взаимодействия с окружением; он невосприимчив к опасной среде и устойчив к прямым ранениям, но разделяет с пользователем весь получаемый урон.
 
-uplink-hot-potato-name = Hot Potato
-uplink-hot-potato-desc = Once activated, this time bomb can't be dropped - only passed to someone else!
+uplink-hot-potato-name = Горячая картошка
+uplink-hot-potato-desc = После активации эту бомбу с таймером нельзя бросить - только передать кому-нибудь ещё!
 
-uplink-chimp-upgrade-kit-name = C.H.I.M.P. Handcannon Upgrade Chip
-uplink-chimp-upgrade-kit-desc = Insert this chip into a standard C.H.I.M.P. handcannon to allow it to fire omega particles. Omega particles inflict severe burns and cause anomalies to go supercritical.
+uplink-chimp-upgrade-kit-name = Чип улучшения ручной пушки C.H.I.M.P.
+uplink-chimp-upgrade-kit-desc = Вставьте этот чип в стандартную ручную пушку C.H.I.M.P., чтобы она могла стрелять омега-частицами. Омега-частицы наносят тяжёлые ожоги и переводят аномалии в сверхкритическое состояние.
 
-uplink-proximity-mine-name = Proximity Mine
-uplink-proximity-mine-desc = A throwable mine disguised as a wet floor sign. Detonates on contact with almost anything, safety always off.
+uplink-proximity-mine-name = Мина направленного действия
+uplink-proximity-mine-desc = Бросаемая мина, замаскированная под знак мокрого пола. Взрывается при контакте почти с чем угодно, предохранитель всегда снят.
 
-uplink-syndicate-sponge-box-name = Syndicate Sponge Box
-uplink-syndicate-sponge-box-desc = A box containing 6 syndicate sponges disguised as monkey cubes, these cubes turn into a variety of angry wildlife after coming into contact with water.
+uplink-syndicate-sponge-box-name = Коробка губок Синдиката
+uplink-syndicate-sponge-box-desc = Коробка с 6 губками Синдиката, замаскированными под кубики обезьян. При контакте с водой кубики превращаются в разнообразных злых животных.
 
-uplink-cane-blade-name = Cane Blade
+uplink-cane-blade-name = Трость-клинок
 # Trauma - rewritten for fire aspect
-uplink-cane-blade-desc = A cane that has a hidden, strange blade that can be unsheathed. Stolen from a curator's personal museum. Lights people on fire via an ancient enchantment.
+uplink-cane-blade-desc = Трость со скрытым странным клинком, который можно обнажить. Украдена из личного музея куратора. Поджигает людей древним заклинанием.
 
-uplink-combat-bakery-name = Combat Bakery Kit
-uplink-combat-bakery-desc = A kit of clandestine baked weapons. Contains a baguette sword, a pair of throwing croissants, and a syndicate microwave board for making more. Once the job is done, eat the evidence.
+uplink-combat-bakery-name = Набор боевой пекарни
+uplink-combat-bakery-desc = Набор тайно изготовленного съедобного оружия. Содержит меч-багет, пару метательных круассанов и плату микроволновки Синдиката для изготовления новых. После выполнения задания съешьте улики.
 
-uplink-acolyte-armor-name = Acolyte Armor
-uplink-acolyte-armor-desc = The must have of any self respecting cult leader. An evil looking piece of armor, made of bones, and surprisingly resistant to damage.
+uplink-acolyte-armor-name = Броня аколита
+uplink-acolyte-armor-desc = Обязательная вещь для любого уважающего себя лидера культа. Зловеще выглядящая броня из костей, удивительно устойчивая к урону.
 
-uplink-saw-advanced-name = Advanced Circular Saw
-uplink-saw-advanced-desc = A bleeding-edge surgical implement designed to cut through flesh and bone alike.
+uplink-saw-advanced-name = Продвинутая циркулярная пила
+uplink-saw-advanced-desc = Передовой хирургический инструмент, предназначенный для разрезания плоти и костей.
 
-uplink-briefcase-gun-name = Briefcase Gun
-uplink-briefcase-gun-desc = An indistinct briefcase with a highly compact C-20K mounted inside it. Careful not the grip the handle too tight!
+uplink-briefcase-gun-name = Пистолет в портфеле
+uplink-briefcase-gun-desc = Невзрачный портфель с установленным внутри компактным C-20K. Осторожно, не сжимайте рукоять слишком сильно!

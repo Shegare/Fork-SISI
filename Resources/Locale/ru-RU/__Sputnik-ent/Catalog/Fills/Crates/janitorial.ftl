@@ -1,20 +1,20 @@
-ent-CrateJanitorialSupplies = janitorial supplies crate
-    .desc = Fight back against dirt and grime with Nanotrasen's Janitorial Essentials(tm)! Contains three buckets, caution signs, and cleaner grenades. Also has a single mop, broom, spray cleaner, wire brush, rag, and trash bag.
+ent-CrateJanitorialSupplies = ящик с принадлежностями для уборки
+    .desc = Дайте отпор грязи и копоти с помощью средств для уборки от Nanotrasen(tm)! Содержит три ведра, предупреждающие знаки и гранаты-очистители. Также внутри есть швабра, метла, чистящий спрей, проволочная щётка, тряпка и мусорный мешок.
 
-ent-CrateJanitorialCleanerGrenades = bulk cleanades crate
-    .desc = Contains two boxes of cleaner grenades, for those deeply-entrenched stains.
+ent-CrateJanitorialCleanerGrenades = ящик с гранатами-очистителями
+    .desc = Содержит две коробки гранат-очистителей для въевшихся пятен.
 
-ent-CrateJanitorialReplacementLights = replacement lights crate
-    .desc = May the light of Aether shine upon this station! Or at least, the light of twelve fluorescent light tubes and twelve incandescent light bulbs.
+ent-CrateJanitorialReplacementLights = ящик с запасными лампами
+    .desc = Да воссияет над этой станцией свет Эфира! Или хотя бы свет двенадцати люминесцентных трубок и двенадцати ламп накаливания.
 
-ent-CrateJanitorialColorfulLights = colorful lights crate
-    .desc = It's not a party until it's hard to see, a little disorienting, and your ears hurt. Contains twelve light tubes and twelve light bulbs in a variety of colors.
+ent-CrateJanitorialColorfulLights = ящик с разноцветными лампами
+    .desc = Это не вечеринка, пока не становится трудно видеть, немного кружится голова и не болят уши. Содержит двенадцать трубок и двенадцать ламп разных цветов.
 
-ent-CrateJanitorialHolidayLights = holiday lights crate
-    .desc = Deck the halls with these festive holiday lights! Contains twelve red light tubes and twelve green light tubes.
+ent-CrateJanitorialHolidayLights = ящик с праздничными лампами
+    .desc = Украсьте залы этими праздничными огнями! Содержит двенадцать красных и двенадцать зелёных световых трубок.
 
-ent-CrateJanitorialMousetraps = mousetraps crate
-    .desc = Mousetraps, for when all of service is being haunted by an entire horde of rats. Use sparingly... or not.
+ent-CrateJanitorialMousetraps = ящик с мышеловками
+    .desc = Мышеловки на случай, если весь сервис терроризирует целая орда крыс. Используйте умеренно... или нет.
 
-ent-CrateJanitorBiosuit = janitor bio suit crate
-    .desc = Contains 2 biohazard suits to ensure that no disease will distract you from cleaning.
+ent-CrateJanitorBiosuit = ящик с защитными костюмами уборщика
+    .desc = Содержит 2 защитных костюма, чтобы никакая болезнь не отвлекала вас от уборки.

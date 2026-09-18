@@ -1,58 +1,58 @@
 # Disruption
 
 # Trauma - ungimped it, back to supermatter
-uplink-singularity-grenade-name = Supermatter Grenade
-uplink-singularity-grenade-desc = Grenade that simulates delamination of the supermatter engine, generates a powerful gravity well. Explosion comparable to a minibomb
+uplink-singularity-grenade-name = Граната сверхматерии
+uplink-singularity-grenade-desc = Граната, имитирующая расслоение двигателя на сверхматерии и создающая мощную гравитационную яму. Взрыв сравним с минибомбой
 
-uplink-access-breaker-name = Access Breaker
-uplink-access-breaker-desc = A hacked access configurator and a good friend of the emag. This device is able to force airlocks open as well as erase access requirements from station equipment. Recharges automatically.
+uplink-access-breaker-name = Взломщик доступа
+uplink-access-breaker-desc = Взломанный конфигуратор доступа и хороший друг эмика. Это устройство может принудительно открывать шлюзы, а также стирать требования доступа с оборудования станции. Перезаряжается автоматически.
 
-uplink-emag-name = Emag
-uplink-emag-desc = The business card of the syndicate, this sequencer is able to tamper with a variety of station devices. Recharges automatically.
+uplink-emag-name = Емаг
+uplink-emag-desc = Визитная карточка Синдиката: этот секвенсер способен вмешиваться в работу различных устройств станции. Перезаряжается автоматически.
 
-uplink-radio-jammer-name = Radio Jammer
-uplink-radio-jammer-desc = This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated.
+uplink-radio-jammer-name = Радиоглушилка
+uplink-radio-jammer-desc = При активации это устройство нарушает любую исходящую радиосвязь поблизости, а также работу датчиков костюмов.
 
-uplink-syndicate-weapon-module-name = Weapon Cyborg Module
-uplink-syndicate-weapon-module-desc = Upgrades a cyborg with both an energy dagger and an echis pistol.
+uplink-syndicate-weapon-module-name = Оружейный модуль киборга
+uplink-syndicate-weapon-module-desc = Улучшает киборга, снабжая его энергетическим кинжалом и пистолетом «Эхис».
 
-uplink-disposable-turret-name = Disposable Ballistic Turret
-uplink-disposable-turret-desc = Looks and functions like a normal electrical toolbox. Upon hitting the toolbox it will transform into a ballistic turret, theoretically shooting at anyone except members of the syndicate. Can be turned back into a toolbox using a screwdriver and repaired using a wrench.
+uplink-disposable-turret-name = Одноразовая баллистическая турель
+uplink-disposable-turret-desc = Выглядит и работает как обычный электрический ящик для инструментов. При ударе по ящику превращается в баллистическую турель, которая теоретически стреляет во всех, кроме членов Синдиката. Можно превратить обратно в ящик для инструментов с помощью отвёртки и починить гаечным ключом.
 
-uplink-syndicate-martyr-module-name = Martyr Cyborg Module
-uplink-syndicate-martyr-module-desc = Turn your emagged borg friend into a walking bomb with just this module. Make sure they're loyal to your cause, results may vary.
+uplink-syndicate-martyr-module-name = Модуль киборга-мученика
+uplink-syndicate-martyr-module-desc = Превратите своего взломанного друга-борга в ходячую бомбу с помощью этого модуля. Убедитесь, что он предан вашему делу: результаты могут отличаться.
 
-uplink-soap-name = Soap
-uplink-soap-desc = An untrustworthy bar of soap. Smells of fear.
+uplink-soap-name = Мыло
+uplink-soap-desc = Ненадёжный кусок мыла. Пахнет страхом.
 
-uplink-slipocalypse-clustersoap-name = Slipocalypse Clustersoap
-uplink-slipocalypse-clustersoap-desc = Scatters arounds small pieces of syndicate-brand soap after being thrown, these pieces of soap evaporate after 60 seconds.
+uplink-slipocalypse-clustersoap-name = Кластерное мыло скользкопокалипсиса
+uplink-slipocalypse-clustersoap-desc = После броска разбрасывает небольшие кусочки мыла с символикой Синдиката, которые испаряются через 60 секунд.
 
-uplink-toolbox-name = Toolbox
-uplink-toolbox-desc = A full compliment of tools for the mechanically inclined traitor. Includes a pair of insulated combat gloves and a syndicate gas mask as well.
+uplink-toolbox-name = Ящик для инструментов
+uplink-toolbox-desc = Полный набор инструментов для предателя, разбирающегося в механике. Также включает пару изолированных боевых перчаток и противогаз Синдиката.
 
-uplink-syndicate-jaws-of-life-name = Jaws Of Death
-uplink-syndicate-jaws-of-life-desc = A combined prying and cutting tool. Useful for entering the station or its departments. Can even open bolted doors!
+uplink-syndicate-jaws-of-life-name = Челюсти смерти
+uplink-syndicate-jaws-of-life-desc = Комбинированный инструмент для поддевания и резки. Полезен для проникновения на станцию или в её отделы. Может даже открывать заблокированные двери!
 
-uplink-duffel-surgery-name = Surgical Duffel Bag
-uplink-duffel-surgery-desc = A large duffel bag containing a full suite of surgical tools.
+uplink-duffel-surgery-name = Хирургическая вещмешок
+uplink-duffel-surgery-desc = Большой баул с полным набором хирургических инструментов.
 
-uplink-syndimov-law-name = Syndi Law Circuit Kit
-uplink-syndimov-law-desc = A subversive Lawset to use when you want to turn the A.I. to your side, use as much as possible. Comes with a Syndicate ID.
+uplink-syndimov-law-name = Набор платы закона Синди
+uplink-syndimov-law-desc = Подрывной набор законов, который можно использовать, чтобы переманить ИИ на свою сторону. Используйте как можно чаще. В комплекте карта Синдиката.
 
-uplink-antimov-law-name = Antimov Law Circuit
-uplink-antimov-law-desc = A very dangerous Lawset to use when you want to cause the A.I. to go haywire, use with caution.
+uplink-antimov-law-name = Плата закона Антимова
+uplink-antimov-law-desc = Очень опасный набор законов, предназначенный для того, чтобы свести ИИ с ума. Используйте с осторожностью.
 
-uplink-surplus-bundle-name = Surplus Crate
+uplink-surplus-bundle-name = Ящик излишков
 # Trauma - 50 -> 250
-uplink-surplus-bundle-desc = Contains 250 telecrystals worth of completely random Syndicate items. It can be useless junk or really good.
+uplink-surplus-bundle-desc = Содержит случайные предметы Синдиката общей стоимостью 250 телекристаллов. Это может быть бесполезный хлам или что-то действительно хорошее.
 
-uplink-starter-kit-name = Basic Operative Bundle
+uplink-starter-kit-name = Набор базового оперативника
 # Trauma - rewrote to not specify tc count
-uplink-starter-kit-desc = Contains everything an operative needs to get started. For those who just don't know what they should buy.
+uplink-starter-kit-desc = Содержит всё необходимое оперативнику для начала работы. Для тех, кто просто не знает, что купить.
 
-uplink-singularity-beacon-name = Singularity Beacon
-uplink-singularity-beacon-desc = A device that attracts singularities. Has to be anchored and powered. Causes singularities to grow when consumed.
+uplink-singularity-beacon-name = Маяк сингулярности
+uplink-singularity-beacon-desc = Устройство, привлекающее сингулярности. Должно быть закреплено и подключено к питанию. Заставляет сингулярности расти при поглощении.
 
-uplink-cameraBug-name = Camera bug
-uplink-cameraBug-desc = A portable device that allows you to view the station's cameras.
+uplink-cameraBug-name = Жучок-камера
+uplink-cameraBug-desc = Переносное устройство, позволяющее просматривать камеры станции.

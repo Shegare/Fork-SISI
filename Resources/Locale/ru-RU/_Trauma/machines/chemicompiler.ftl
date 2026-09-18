@@ -1,27 +1,27 @@
-chemicompiler-slot-reservoir = Reservoir
+chemicompiler-slot-reservoir = Резервуар
 
 chemicompiler-window-title = ChemiCompiler M7
-chemicompiler-window-code = Code
-chemicompiler-window-save = Save
-chemicompiler-window-load = Load
-chemicompiler-window-reservoirs = Reservoirs
-chemicompiler-window-materials = Materials
-chemicompiler-window-registers = Registers
+chemicompiler-window-code = Код
+chemicompiler-window-save = Сохранить
+chemicompiler-window-load = Загрузить
+chemicompiler-window-reservoirs = Резервуары
+chemicompiler-window-materials = Материалы
+chemicompiler-window-registers = Регистры
 chemicompiler-window-registers-values = sx { $source }   tx { $target }   ax { $amount }
-chemicompiler-window-halt = Halt
+chemicompiler-window-halt = Остановить
 
-chemicompiler-window-mode-run = Press a slot to run it.
-chemicompiler-window-mode-save = Press a slot to save the code above into it.
-chemicompiler-window-mode-load = Press a slot to load its code into the editor.
+chemicompiler-window-mode-run = Нажмите на слот, чтобы запустить его.
+chemicompiler-window-mode-save = Нажмите на слот, чтобы сохранить в него код выше.
+chemicompiler-window-mode-load = Нажмите на слот, чтобы загрузить его код в редактор.
 
-chemicompiler-window-status-idle = Idle.
-chemicompiler-window-status-running = Running...
+chemicompiler-window-status-idle = Бездействует.
+chemicompiler-window-status-running = Выполняется...
 
-chemicompiler-error-too-long = That program is too long, the limit is { $max } characters.
-chemicompiler-error-unmatched-start = That program has a [ that is never closed.
-chemicompiler-error-unmatched-end = That program has a ] with no [ before it.
+chemicompiler-error-too-long = Эта программа слишком длинная, ограничение - { $max } символов.
+chemicompiler-error-unmatched-start = В этой программе есть незакрытая [.
+chemicompiler-error-unmatched-end = В этой программе есть ], перед которой нет [.
 
-chemicompiler-halted-power = The ChemiCompiler goes dark mid-program.
-chemicompiler-halted-limit = The ChemiCompiler gives up on a program that will not end.
-chemicompiler-halted-timeout = The ChemiCompiler abandons a program that has run far too long.
-chemicompiler-halted-manual = The ChemiCompiler stops what it was doing.
+chemicompiler-halted-power = ChemiCompiler гаснет посреди выполнения программы.
+chemicompiler-halted-limit = ChemiCompiler сдаётся, столкнувшись с незавершающейся программой.
+chemicompiler-halted-timeout = ChemiCompiler прерывает программу, выполняющуюся слишком долго.
+chemicompiler-halted-manual = ChemiCompiler прекращает текущую работу.

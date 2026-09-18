@@ -1,48 +1,48 @@
 # Wearables
 
-uplink-black-jetpack-name = Black Jetpack
-uplink-black-jetpack-desc = A black jetpack. It allows you to fly around in space. Refills not included, use your fuel wisely.
+uplink-black-jetpack-name = Чёрный джетпак
+uplink-black-jetpack-desc = Чёрный джетпак. Позволяет летать в космосе. Заправка не включена, расходуйте топливо с умом.
 
-uplink-chest-rig-name = Chest Rig
-uplink-chest-rig-desc = Explosion-resistant tactical webbing used for holding traitor goods.
+uplink-chest-rig-name = Нагрудная разгрузка
+uplink-chest-rig-desc = Устойчивая к взрывам тактическая система ремней для хранения снаряжения предателя.
 
-uplink-chameleon-name = Chameleon Kit
-uplink-chameleon-desc = A backpack full of items that contain chameleon technology allowing you to disguise as pretty much anyone on the station, and more! Comes with a free Agent ID card!
+uplink-chameleon-name = Набор хамелеона
+uplink-chameleon-desc = Рюкзак, полный предметов с технологией хамелеона, позволяющей замаскироваться почти под любого на станции и не только! В комплекте бесплатная карта агента!
 
-uplink-clothing-no-slips-shoes-name = No-slip Shoes
-uplink-clothing-no-slips-shoes-desc = Chameleon shoes that protect you from slips.
+uplink-clothing-no-slips-shoes-name = Нескользящие ботинки
+uplink-clothing-no-slips-shoes-desc = Обувь хамелеона, защищающая от скольжения.
 
-uplink-clothing-outer-vest-web-name = Web Vest
-uplink-clothing-outer-vest-web-desc = A synthetic armor vest. This one has added webbing and ballistic plates.
+uplink-clothing-outer-vest-web-name = Бронежилет с разгрузкой
+uplink-clothing-outer-vest-web-desc = Синтетический бронежилет. Этот дополнен ремнями и баллистическими пластинами.
 
-uplink-clothing-outer-vest-web-elite-name = Elite Web Vest
-uplink-clothing-outer-vest-web-elite-desc = A synthetic armor vest. This one has added webbing and heat resistant fibers.
+uplink-clothing-outer-vest-web-elite-name = Элитный бронежилет с разгрузкой
+uplink-clothing-outer-vest-web-elite-desc = Синтетический бронежилет. Этот дополнен ремнями и термостойкими волокнами.
 
-uplink-clothing-shoes-boots-mag-syndie-name = Blood-red Magboots
-uplink-clothing-shoes-boots-mag-syndie-desc = A pair of boots that prevent slipping and, in zero gravity, allow you to move normally, at the cost of a slight slowdown. Additionally, they have jetpack functionality and come fueled, but don't last for long.
+uplink-clothing-shoes-boots-mag-syndie-name = Кроваво-красные магнитные ботинки
+uplink-clothing-shoes-boots-mag-syndie-desc = Пара ботинок, предотвращающих скольжение и позволяющих нормально двигаться в невесомости ценой небольшого замедления. Также у них есть функция джетпака, и они поставляются заправленными, но топлива ненадолго.
 
-uplink-eva-syndie-name = Syndicate EVA Bundle
+uplink-eva-syndie-name = Набор EVA Синдиката
 # Trauma - rewritten
-uplink-eva-syndie-desc = A durathread EVA suit with some protection, and anti-rad installed. Very nimble, with zero slowdown.
+uplink-eva-syndie-desc = Скафандр EVA из дюраткани с некоторой защитой и установленной радиационной защитой. Очень манёвренный, без замедления.
 
-uplink-hardsuit-carp-name = Carp Hardsuit
-uplink-hardsuit-carp-desc = Looks like an ordinary carp suit, except fully spaceproof and tricks space carp into thinking you are one of them.
+uplink-hardsuit-carp-name = Скафандр карпа
+uplink-hardsuit-carp-desc = Выглядит как обычный костюм карпа, но полностью защищён от космоса и заставляет космических карпов считать вас одним из них.
 
-uplink-hardsuit-syndie-name = Syndicate Hardsuit
-uplink-hardsuit-syndie-desc = The Syndicate's well known armored blood red hardsuit, capable of space walks and bullet resistant.
+uplink-hardsuit-syndie-name = Скафандр Синдиката
+uplink-hardsuit-syndie-desc = Хорошо известный бронированный кроваво-красный скафандр Синдиката, пригодный для выхода в космос и устойчивый к пулям.
 
-uplink-syndie-raid-name = Syndicate Raid Suit
-uplink-syndie-raid-desc = A very durable and reasonably flexible suit of blood-red armor, reinforced against all common forms of damage but not capable of space walks. Comes with a sick helmet.
+uplink-syndie-raid-name = Рейдовый костюм Синдиката
+uplink-syndie-raid-desc = Очень прочный и достаточно гибкий костюм кроваво-красной брони, усиленный против всех распространённых видов урона, но непригодный для выхода в космос. В комплекте крутой шлем.
 
-uplink-hardsuit-syndieelite-name = Syndicate Elite Hardsuit
+uplink-hardsuit-syndieelite-name = Элитный скафандр Синдиката
 # Trauma - rewritten
-uplink-hardsuit-syndieelite-desc = An elite version of the blood-red hardsuit, with improved mobility, fireproofing and heat-resistant armor. Property of Gorlex Marauders.
+uplink-hardsuit-syndieelite-desc = Элитная версия кроваво-красного скафандра с улучшенной мобильностью, огнестойкостью и термостойкой бронёй. Собственность Мародёров Горлекса.
 
-uplink-clothing-outer-hardsuit-juggernaut-name = Cybersun Juggernaut Suit
-uplink-clothing-outer-hardsuit-juggernaut-desc = Hyper resilient armor made of materials tested in the Tau chromosphere facility. The only thing that's going to be slowing you down is this suit... and tasers.
+uplink-clothing-outer-hardsuit-juggernaut-name = Скафандр «Джаггернаут» Cybersun
+uplink-clothing-outer-hardsuit-juggernaut-desc = Чрезвычайно прочная броня из материалов, испытанных на объекте в хромосфере Тау. Единственное, что будет вас замедлять, - это этот костюм... и тазеры.
 
-uplink-clothing-eyes-hud-syndicate-name = Syndicate Visor
-uplink-clothing-eyes-hud-syndicate-desc = The syndicate's professional head-up display, designed for better detection of humanoids and their subsequent elimination.
+uplink-clothing-eyes-hud-syndicate-name = Визор Синдиката
+uplink-clothing-eyes-hud-syndicate-desc = Профессиональный дисплей Синдиката, предназначенный для лучшего обнаружения гуманоидов и их последующего устранения.
 
-uplink-backpack-syndicate-name = Syndicate backpack
-uplink-backpack-syndicate-desc = A lightweight explosion-proof backpack for holding various traitor goods.
+uplink-backpack-syndicate-name = Рюкзак Синдиката
+uplink-backpack-syndicate-desc = Лёгкий взрывоустойчивый рюкзак для хранения различного снаряжения предателя.

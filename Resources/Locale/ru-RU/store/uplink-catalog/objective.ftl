@@ -1,4 +1,4 @@
 # Objective
 
-uplink-hijack-beacon-name = Hijack Beacon
-uplink-hijack-beacon-desc = A syndicate-brand hijack beacon designed to get around the firewalls of Nanotrasen-brand Automated Trade Stations. They take 200 seconds to work and Trade Stations will announce they are being hacked, so prepare accordingly.
+uplink-hijack-beacon-name = Маяк захвата
+uplink-hijack-beacon-desc = Маяк захвата марки Синдиката, предназначенный для обхода брандмауэров автоматических торговых станций марки Nanotrasen. Для работы ему требуется 200 секунд, а торговые станции объявят о взломе, так что подготовьтесь соответственно.

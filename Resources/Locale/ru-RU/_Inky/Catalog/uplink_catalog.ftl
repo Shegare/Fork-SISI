@@ -1,2 +1,2 @@
-uplink-flip-name = How to flip off
-uplink-flip-desc = I'm not gonna sugarcoat it. A handy manual, made for flipping anything off, including bullets and lasers. Allows you to dodge any projectile by flipping. Be aware that it is really exhausting to do.
+uplink-flip-name = Как отмахиваться
+uplink-flip-desc = Не буду приукрашивать. Удобное руководство о том, как отмахиваться от чего угодно, включая пули и лазеры. Позволяет уклоняться от любых снарядов с помощью отмахивания. Учтите, это очень утомительно.

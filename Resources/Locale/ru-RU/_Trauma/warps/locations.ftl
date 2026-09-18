@@ -1,8 +1,8 @@
-location-blob-core = blob core
-location-lord-of-the-night = lord of the night
-location-nuclear-reactor = Nuclear Reactor
-location-space-leviathan = space leviathan
-location-star-gazer = star gazer
-location-supermatter = supermatter
-location-the-monument = The Monument
-location-the-unknown = The Unknown
+location-blob-core = ядро Блоба
+location-lord-of-the-night = повелитель ночи
+location-nuclear-reactor = Ядерный реактор
+location-space-leviathan = космический левиафан
+location-star-gazer = звездочёт
+location-supermatter = суперматерия
+location-the-monument = Монумент
+location-the-unknown = Неизвестность

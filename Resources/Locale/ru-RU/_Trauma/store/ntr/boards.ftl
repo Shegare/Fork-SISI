@@ -1,2 +1,2 @@
-ntr-executive-task-console-name = Task Console Flatpack
-ntr-executive-task-console-desc = A normal flatpack containing a spare task console.
+ntr-executive-task-console-name = Упаковка консоли задач
+ntr-executive-task-console-desc = Обычная упаковка с запасной консолью задач.

@@ -1,14 +1,14 @@
-ntr-executive-water-cooler-gold-name = premium water (?) cooler
-ntr-executive-water-cooler-gold-desc = Made from the finest 24-karat hardened whiskey in the sector. Its shiny and golden, just like its insides. Comes with 500u of whiskey. Every fine executive has one of these in their room.
+ntr-executive-water-cooler-gold-name = премиум-кулер для воды (?)
+ntr-executive-water-cooler-gold-desc = Изготовлен из лучшего в секторе выдержанного виски 24-каратной крепости. Блестит и золотится, как его содержимое. Содержит 500u виски. У каждого достойного руководителя такой есть в комнате.
 
-ntr-executive-intern-coin-name = Single Intern Coin
-ntr-executive-intern-coin-desc = Summons one basic intern. Interns are on your full command, order them to complete tasks instead of you doing it by yourself, or play cards with them.
+ntr-executive-intern-coin-name = Монета одного стажёра
+ntr-executive-intern-coin-desc = Призывает одного обычного стажёра. Стажёры полностью подчиняются вам: поручайте им задания вместо того, чтобы делать всё самостоятельно, или играйте с ними в карты.
 
-ntr-executive-cigs-vendor-name = Executive Cig Vendor
-ntr-executive-cigs-vendor-desc = For those who know that lung cancer is non-existent, Nanotrasen made this: a vendor full of cigarettes and expensive flippos for you to smoke.
+ntr-executive-cigs-vendor-name = Сигаретный торговый автомат руководителя
+ntr-executive-cigs-vendor-desc = Для тех, кто знает, что рака лёгких не существует, Nanotrasen создала это: торговый автомат, полный сигарет и дорогих зажигалок.
 
-ntr-executive-soap-name = CentComm Soap
-ntr-executive-soap-desc = An expensive soap made with our finest... who am i kidding its just a soap covered in lube with a print.
+ntr-executive-soap-name = Мыло ЦК
+ntr-executive-soap-desc = Дорогое мыло, изготовленное из лучших... кого я обманываю, это просто покрытое смазкой мыло с принтом.
 
 ntr-executive-marlen-name = Marlen
-ntr-executive-marlen-desc = A stylish Centcomm umbrella, made by "NanoFashion" for the rich people of central command. Surprisingly durable.
+ntr-executive-marlen-desc = Стильный зонтик ЦК, изготовленный "NanoFashion" для богачей Центрального Командования. Удивительно прочный.

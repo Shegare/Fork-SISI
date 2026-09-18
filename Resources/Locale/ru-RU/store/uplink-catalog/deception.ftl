@@ -1,41 +1,41 @@
 # Deception
 
-uplink-syndicate-id-card-name = Syndicate ID Card
-uplink-syndicate-id-card-desc = A Syndicate ID card, with Syndicate access. Unlikely to be useful on its own, but goes great with reconfigured doors. Does not come with access-copying functionality.
+uplink-syndicate-id-card-name = ID-карта Синдиката
+uplink-syndicate-id-card-desc = ID-карта Синдиката с доступом Синдиката. Вряд ли полезна сама по себе, но отлично сочетается с перенастроенными дверями. Не умеет копировать доступ.
 
-uplink-agent-id-card-name = Agent ID Card
-uplink-agent-id-card-desc = A modified ID card that can copy accesses from other cards and change its name and job title at-will.
+uplink-agent-id-card-name = ID-карта агента
+uplink-agent-id-card-desc = Модифицированная ID-карта, способная копировать доступ с других карт и менять имя и должность по желанию.
 
-uplink-stealth-box-name = Stealth Box
-uplink-stealth-box-desc = A box outfitted with stealth technology. Sneak around unnoticed, but don't move too fast or you'll be revealed!
+uplink-stealth-box-name = Скрытный короб
+uplink-stealth-box-desc = Короб, оснащённый технологией скрытности. Передвигайтесь незаметно, но не слишком быстро, иначе вас обнаружат!
 
-uplink-chameleon-projector-name = Chameleon Projector
-uplink-chameleon-projector-desc = Disappear in plain sight by creating a hologram of an item around you. Do not use this to play the game "Object Search".
+uplink-chameleon-projector-name = Проектор-хамелеон
+uplink-chameleon-projector-desc = Исчезайте на виду, создавая вокруг себя голограмму предмета. Не используйте его для игры «Поиск предмета».
 
 # Trauma - just 1 key
-uplink-encryption-key-name = Syndicate Encryption Key
-uplink-encryption-key-desc = An encryption key for access to the secret frequency of our special agents. Just make sure it doesn't fall into enemy hands.
+uplink-encryption-key-name = Ключ шифрования Синдиката
+uplink-encryption-key-desc = Ключ шифрования для доступа к секретной частоте наших особых агентов. Только убедитесь, что он не попадёт в руки врага.
 
-uplink-binary-translator-key-name = Binary Translator Key
-uplink-binary-translator-key-desc = Lets you tap into the silicons' binary channel. Don't talk on it though, at least not without a voice mask.
+uplink-binary-translator-key-name = Ключ бинарного переводчика
+uplink-binary-translator-key-desc = Позволяет подключиться к бинарному каналу синтетиков. Но не разговаривайте в нём, по крайней мере без маскировки голоса.
 
-uplink-cyberpen-name = Cybersun Pen
-uplink-cyberpen-desc = Cybersun's legal department pen, invaluable for forging documents and escaping prisons. Smells vaguely of hard-light and war profiteering.
+uplink-cyberpen-name = Ручка Cybersun
+uplink-cyberpen-desc = Ручка юридического отдела Cybersun, незаменимая для подделки документов и побега из тюрьмы. Слегка пахнет твёрдым светом и наживой на войне.
 
-uplink-decoy-disk-name = Decoy Nuclear Disk
-uplink-decoy-disk-desc = A piece of plastic with a lenticular printing, made to look like a nuclear authentication disk.
+uplink-decoy-disk-name = Ядерный диск-приманка
+uplink-decoy-disk-desc = Кусок пластика с растровой печатью, выглядящий как диск ядерной аутентификации.
 
-uplink-bribe-name = Lobbying Bundle
-uplink-bribe-desc = A heartfelt gift that can help you sway someone's opinion. Real or counterfeit? Yes.
+uplink-bribe-name = Набор для подкупа
+uplink-bribe-desc = Искренний подарок, который поможет склонить кого-нибудь на вашу сторону. Настоящий или поддельный? Да.
 
-uplink-exploding-syndicate-bomb-fake-name = Decoy Syndicate Bomb
-uplink-exploding-syndicate-bomb-fake-desc = A training bomb carefully made to look just like the real thing. In all ways similar to a syndicate bomb, but only creates a tiny explosion.
+uplink-exploding-syndicate-bomb-fake-name = Бомба Синдиката-приманка
+uplink-exploding-syndicate-bomb-fake-desc = Учебная бомба, тщательно сделанная похожей на настоящую. Во всём подобна бомбе Синдиката, но создаёт лишь крошечный взрыв.
 
-uplink-travel-camera-name = Travel Camera
-uplink-travel-camera-desc = Stun people with your photography skills and the conveniently legal camera flash. Makes you look like a tourist.
+uplink-travel-camera-name = Туристическая камера
+uplink-travel-camera-desc = Оглушайте людей своими навыками фотографа и удобно легальной вспышкой камеры. Выглядите как турист.
 
-uplink-smuggler-satchel-name = Smuggler's Satchel
-uplink-smuggler-satchel-desc = A handy, suspicious looking satchel. Just flat enough to fit underneath floor tiles.
+uplink-smuggler-satchel-name = Сумка контрабандиста
+uplink-smuggler-satchel-desc = Удобная сумка подозрительного вида. Достаточно плоская, чтобы поместиться под напольной плиткой.
 
-uplink-weighted-coin-name = Weighted Coin
-uplink-weighted-coin-desc = A special coin that always lands on tails, designed to look like the heads and tails coins found in nanotrasen stations.
+uplink-weighted-coin-name = Грузная монета
+uplink-weighted-coin-desc = Особая монета, всегда падающая решкой вверх, сделанная похожей на монеты для орлянки на станциях Nanotrasen.

@@ -21,7 +21,7 @@ ghost-role-information-reinforcement-sci-name = Подкрепление ста�
 ghost-role-information-reinforcement-roboticist-name = Подкрепление станции (робототехник)
 ghost-role-information-reinforcement-geneticist-name = Подкрепление станции (генетик)
 ghost-role-information-reinforcement-research-assistant-name = Подкрепление станции (научный ассистент)
-ghost-role-information-reinforcement-DClass-name = Персонал класса D
+ghost-role-information-reinforcement-DClass-name = Персонал D-Class
 
 ghost-role-information-reinforcement-cargo-name = Подкрепление станции (карго)
 ghost-role-information-reinforcement-salv-name = Подкрепление станции (утилизатор)

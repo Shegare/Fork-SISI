@@ -5,4 +5,4 @@ ghost-role-information-bunny-name = Кролик
 ghost-role-information-bunny-description = Любимый кролик: милый, пушистый и очаровательный.
 
 ghost-role-information-evil-bunny-name = Злой кролик
-ghost-role-information-evil-bunny-description = УБИВАЙ, КАЛЕЧЬ, ИСТРЕБЛЯЙ!!!
+ghost-role-information-evil-bunny-description = УБИВАЙТЕ, КАЛЕЧЬТЕ, ИСТРЕБЛЯЙТЕ!!!

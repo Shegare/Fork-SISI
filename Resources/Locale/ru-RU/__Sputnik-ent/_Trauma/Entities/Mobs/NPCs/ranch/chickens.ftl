@@ -163,13 +163,13 @@ ent-MobClownHen = хенк
 ent-MobClownRooster = хенкстер
     .desc = { ent-BaseChickenClown.desc }
 
-ent-MobChickCluwne = huOnkHoNkHoeNKs
+ent-MobChickCluwne = клувень-цыплёнок
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobCluwneHen = huOnkHoNkHoeNKs
+ent-MobCluwneHen = клувень-курица
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobCluwneRooster = huOnkHoNkHoeNKs
+ent-MobCluwneRooster = клувень-петух
     .desc = { ent-BaseMobRoosterRanch.desc }
 
 ent-GlassChickenBase = { "" }
