@@ -19,7 +19,7 @@ public sealed class PureBloodTest
 
             var offenders = protoMan
                 .EnumeratePrototypes<SpeciesPrototype>()
-                .Where(s => s.ID.Contains("Vulpkanin", System.StringComparison.OrdinalIgnoreCase))
+                .Where(s => s.ID.Contains("Pheenty", System.StringComparison.OrdinalIgnoreCase))
                 .Where(s => s.RoundStart)
                 .Select(s => s.ID)
                 .ToList();
