@@ -57,9 +57,9 @@
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваши кровавые клинки теперь вызывают сильное кровотечение при атаке.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Lonely Ritual</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Heart, Stomach, Lung, Pen</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Summons a flesh stalker, a strong combat summon with shapeshift and cleave.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Одинокий Ритуал</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Сердце, Желудок, Лёгкое, Ручка</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Призывает гончего плоти — сильного боевого призываемого, способного превращаться и рассекать.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Последний Гимн Жреца</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Четыре трупа</Box></ColorBox>
@@ -89,13 +89,13 @@
 
   ## Советы
 
-  - Your Mansus Grasp allows you to turn dead humanoids into ghouls (even mindshielded humanoids like security officers and the captain). It also Leaves a mark that spawns a loyal flesh mimic when triggered by your bloody blade.
-  - As a Flesh Heretic, organs and dead bodies are your best friends! You can use them for rituals, to heal or to gain buffs.
-  - You can recall your ghouls or summonned creatures by [color=yellow]Alt-Clicking[/color] the ritual rune using your mansus grasp.
-  - Your Flesh Surgery spell can heal your summons. It also acts like a good surgery tool that bypasses surgery steps and works through clothes.
-  - Raw Prophets can link you and other summons in a telepathic network, allowing for long distance co-ordination. They also have healing aura for you and your minions.
-  - Flesh Stalkers are decent combatants with the ability to disguise themselves as various creatures. They can also utilize the Crimson Cleave spell.
-  - Your success with this path is reliant on how knowledgable or robust your minions are. However, there is always power in numbers; the more minions, the higher your chances of success.
-  - Your minions are more expendable than you are. Do not be afraid to tell them to go to their deaths. You can just recover them later... maybe.
+  - Ваша Хватка Мансуса позволяет превращать мёртвых гуманоидов в вурдалаков (даже гуманоидов со Щитом Разума, таких как офицеры безопасности и капитан). Она также оставляет метку, которая при активации вашим кровавым клинком создаёт преданного мимика плоти.
+  - Как Еретик Плоти, органы и трупы — ваши лучшие друзья! Вы можете использовать их для ритуалов, исцеления или получения усилений.
+  - Вы можете отозвать своих вурдалаков или призванных существ, [color=yellow]кликнув с Alt[/color] по ритуальной руне с помощью Хватки Мансуса.
+  - Ваше заклинание Плетения Плоти может лечить ваших призванных существ. Оно также работает как хороший хирургический инструмент, пропускающий этапы операции и действующий через одежду.
+  - Сырые пророки могут связать вас и других призванных существ в телепатическую сеть, позволяя координировать действия на больших расстояниях. Они также обладают лечащей аурой для вас и ваших миньонов.
+  - Гончие плоти — неплохие бойцы, способные маскироваться под различных существ. Они также могут использовать заклинание Багрового Раскола.
+  - Ваш успех на этом пути зависит от того, насколько знающими или крепкими являются ваши миньоны. Однако сила всегда в числе; чем больше миньонов, тем выше ваши шансы на успех.
+  - Ваши миньоны более расходны, чем вы сами. Не бойтесь отправлять их на смерть. Вы всегда можете восстановить их позже... возможно.
 
 </Document>

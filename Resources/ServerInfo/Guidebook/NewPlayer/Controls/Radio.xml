@@ -15,7 +15,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 Шёпот можно услышать, только находясь рядом с кем-то. Вы автоматически шепчете в свою рацию, отправляя по ней сообщения.
 
-Emotes are gestures that you make. Can be received by anyone who is not blinded. You will often see mimes do many emotes.
+Эмоции — это жесты, которые вы совершаете. Их могут воспринять все, кто не ослеплён. Часто можно увидеть, как мимы используют множество эмоций.
 
 Сообщения шёпотом можно отправлять, начав сообщение с [color=#a4885c][keybind="FocusWhisperChatWindow"/][/color], а эмоции — начав сообщение с ([color=#a4885c]@[/color]).
 Вы также можете переключаться между всеми этими текстовыми каналами, нажимая [keybind="CycleChatChannelForward"/].

@@ -1,36 +1,36 @@
 <Document>
   # Зачарование
 
-Those with magical literacy, through years of study or a magical gift, have access to the arcane art of Enchanting.
+Те, кто обладает магической грамотностью — благодаря годам учёбы или магическому дару — имеют доступ к тайному искусству Зачарования.
 
-# Equipment
+# Снаряжение
 
 <Box>
   <GuideEntityEmbed Entity="BloodEnchanter"/>
   <GuideEntityEmbed Entity="EnchantingRune"/>
 </Box>
 
-A holy bible must be [bold]defaced[/bold] to enchant items, atop a [bold]Enchantment Rune[/bold] carved into the floor.
+Чтобы зачаровывать предметы, святую библию необходимо [bold]осквернить[/bold], положив её на [bold]Руну Зачарования[/bold], вырезанную на полу.
 
-# Enchanting an item
+# Зачарование предмета
 
-To enchant an item, you need a sacrificial offering and an item to enchant. Most often these are the cores of anomalies, but are occasionally more mundane components like Diamonds.
+Чтобы зачаровать предмет, вам нужны жертвенное подношение и предмет для зачарования. Чаще всего это ядра аномалий, но иногда и более приземлённые компоненты, такие как алмазы.
 
-Enchanting scrolls can be scribed using magical inks.
+Свитки зачарования можно писать с помощью магических чернил.
 
-Place an item on your enchanting rune alongside the offering and hit the item with your magical tome. For wizards, this is their Wizard's Grimoire. For Chaplain, their Bible or other religious texts. For Heretics, their Codex Cicatrix.
+Положите предмет на свою руну зачарования вместе с подношением и ударьте по предмету своим магическим томом. Для волшебников это их Гримуар волшебника. Для Священника — Библия или другие религиозные тексты. Для Еретиков — их Кодекс Цикатрикс.
 
   Если предмет и подношение совместимы, подношение будет израсходовано, а предмет станет зачарованным. Если вы используете ядро аномалии, ядра от критических аномалий более мощны, чем инертные ядра, и усиливают ваш предмет более эффективно.
 
   # Пределы зачарования
 
-An item can only be enchanted with two kinds of enchantment, unless you perform a ritual. By killing any living entity with a soul on top of a rune alongside your enchanted item, their soul will be consumed and increase the enchantment limit.
+Предмет можно зачаровать только двумя видами зачарования, если только вы не проведёте ритуал. Убив любое живое существо с душой на руне рядом с вашим зачарованным предметом, вы поглотите его душу и увеличите лимит зачарований.
 
   Жертву можно будет оживить, но она будет страдать от дурных последствий потери души, подобно тому, как если бы продала свою душу Дьяволу.
 
-Sacrafices can be made up to 10 enchantments worth.
+Жертвоприношения можно совершать в сумме до 10 зачарований.
 
-# Types of enchantments
+# Типы зачарований
 
   ### Огненный Аспект
   Огненный Аспект поджигает ваших врагов при ударе оружием. Получается из ядер Пирокластической Аномалии.
@@ -71,7 +71,7 @@ Sacrafices can be made up to 10 enchantments worth.
   ### Удача
   Удача даёт шанс увеличить добычу руды для дрелей и кирок, шанс пропорционален уровню зачарования. Получается из ядер Аномалии Санты и алмазов.
 
-  ### More...
-There are many other enchantments and curses, perhaps creatures from the underworld could provide them?
+  ### Прочее...
+Существует множество других зачарований и проклятий; возможно, их могли бы предоставить существа из преисподней?
 
 </Document>
