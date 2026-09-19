@@ -11,43 +11,43 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-loadout-group-ntr-head = Nanotrasen Representative head
-loadout-group-ntr-backpack = Nanotrasen Representative backpack
-loadout-group-ntr-neck = Nanotrasen Representative neck
-loadout-group-ntr-jumpsuit = Nanotrasen Representative jumpsuit
-loadout-group-ntr-belt = Nanotrasen Representative belt
-loadout-group-ntr-shoes = Nanotrasen Representative shoes
+loadout-group-ntr-head = ПNT, голова
+loadout-group-ntr-backpack = ПNT, рюкзак
+loadout-group-ntr-neck = ПNT, шея
+loadout-group-ntr-jumpsuit = ПNT, комбинезон
+loadout-group-ntr-belt = ПNT, пояс
+loadout-group-ntr-shoes = ПNT, обувь
 
-loadout-group-roboticist-head = Roboticist head
-loadout-group-roboticist-jumpsuit = Roboticist jumpsuit
-loadout-group-roboticist-backpack = Roboticist backpack
-loadout-group-roboticist-outerclothing = Roboticist outer clothing
-loadout-group-roboticist-gloves = Roboticist gloves
-loadout-group-roboticist-shoes = Roboticist shoes
-loadout-group-roboticist-id = Roboticist ID
+loadout-group-roboticist-head = Робототехник, голова
+loadout-group-roboticist-jumpsuit = Робототехник, комбинезон
+loadout-group-roboticist-backpack = Робототехник, рюкзак
+loadout-group-roboticist-outerclothing = Робототехник, верхняя одежда
+loadout-group-roboticist-gloves = Робототехник, перчатки
+loadout-group-roboticist-shoes = Робототехник, обувь
+loadout-group-roboticist-id = Робототехник, ID карта
 
-loadout-group-security-neck = Security neck
+loadout-group-security-neck = СБ, шея
 
-loadout-group-captain-mask = Captain Mask
+loadout-group-captain-mask = Капитан, маска
 
-loadout-group-salvage-specialist-neck = Salvage Specialist neck
+loadout-group-salvage-specialist-neck = Утилизатор, шея
 
-loadout-group-chemist-head = Chemist head
+loadout-group-chemist-head = Химик, голова
 
-loadout-group-hos-shoes = Head of Security shoes
+loadout-group-hos-shoes = Глава службы безопасности, обувь
 
-loadout-group-brigmedic-jumpsuit = Brigmedic jumpsuit
-loadout-group-brigmedic-head = Brigmedic head
-loadout-group-brigmedic-outer = Brigmedic outer clothing
-loadout-group-brigmedic-backpack = Brigmedic backpack
+loadout-group-brigmedic-jumpsuit = Бригмедик, комбинезон
+loadout-group-brigmedic-head = Бригмедик, голова
+loadout-group-brigmedic-outer = Бригмедик, верхняя одежда
+loadout-group-brigmedic-backpack = Бригмедик, рюкзак
 
-loadout-group-security-melee = Security melee weapon
+loadout-group-security-melee = СБ, оружие ближнего боя
 
 # Virology
-loadout-group-virologist-jumpsuit = Virologist jumpsuit
-loadout-group-virologist-backpack = Virologist backpack
-loadout-group-virologist-outerclothing = Virologist outer clothing
-loadout-group-virologist-id = Virologist ID
+loadout-group-virologist-jumpsuit = Вирусолог, комбинезон
+loadout-group-virologist-backpack = Вирусолог, рюкзак
+loadout-group-virologist-outerclothing = Вирусолог, верхняя одежда
+loadout-group-virologist-id = Вирусолог, ID карта
 
 #RadioHost
-loadout-group-radiohost-jumpsuit = Shirt
+loadout-group-radiohost-jumpsuit = Рубашка
