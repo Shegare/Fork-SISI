@@ -35,7 +35,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - [textlink="Все клапаны" link="Valves"]
   - [textlink="Радиаторы" link="Radiators"]
 
-  Пример разделения пайпнета на два отдельных пайпнета с помощью [textlink="насоса" link="Pumps"] показан ниже:
+  Пример разделения сети труб на два отдельных сети труб с помощью [textlink="насоса" link="Pumps"] показан ниже:
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption="Трубопроводная сеть 1" Rotation="90"/>
