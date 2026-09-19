@@ -4,7 +4,7 @@ using Robust.Shared.Random;
 
 namespace Content.Shared.Speech.EntitySystems;
 
-public sealed class LizardAccentSystem : RelayAccentSystem<LizardAccentComponent>
+public sealed partial class LizardAccentSystem : RelayAccentSystem<LizardAccentComponent> // RU-Localization
 {
     [Dependency] private IRobustRandom _random = default!; // RU-Localization
 
@@ -15,14 +15,14 @@ public sealed class LizardAccentSystem : RelayAccentSystem<LizardAccentComponent
     private static readonly Regex RegexUpperEndX = new(@"\bX([\-|r|R]|\b)");
 
     // RU-Localization Start
-    private static readonly Regex RegexLowerC = new Regex("с+");
-    private static readonly Regex RegexUpperC = new Regex("С+");
-    private static readonly Regex RegexLowerZ = new Regex("з+");
-    private static readonly Regex RegexUpperZ = new Regex("З+");
-    private static readonly Regex RegexLowerSh = new Regex("ш+");
-    private static readonly Regex RegexUpperSh = new Regex("Ш+");
-    private static readonly Regex RegexLowerCh = new Regex("ч+");
-    private static readonly Regex RegexUpperCh = new Regex("Ч+");
+    private static readonly Regex RegexLowerC = new("с+");
+    private static readonly Regex RegexUpperC = new("С+");
+    private static readonly Regex RegexLowerZ = new("з+");
+    private static readonly Regex RegexUpperZ = new("З+");
+    private static readonly Regex RegexLowerSh = new("ш+");
+    private static readonly Regex RegexUpperSh = new("Ш+");
+    private static readonly Regex RegexLowerCh = new("ч+");
+    private static readonly Regex RegexUpperCh = new("Ч+");
 
     private static readonly List<string> ReplacementsSs = new List<string> { "сс", "ссс" };
     private static readonly List<string> ReplacementsSsUpper = new List<string> { "СС", "ССС" };
