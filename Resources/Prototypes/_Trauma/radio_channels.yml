@@ -10,7 +10,7 @@
 - type: radioChannel
   id: HeadRevolutionary
   name: chat-radio-head-revolutionary
-  keycode: 'j'
+  keycode: 'в' # RU-Localization
   frequency: 1216
   color: "#ff0000"
   longRange: true
