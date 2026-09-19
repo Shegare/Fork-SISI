@@ -264,8 +264,7 @@ Entries:
   changes:
   - type: Tweak
     message: >-
-      Removed the two extra faxes from the Central Command Map and labeled the
-      remaining one as Centcomm.
+      Убраны два лишних факса с карты Центрального Командования, а оставшийся подписан как ЦК.
   id: 35
   time: '2026-07-26T11:15:44.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3726
@@ -273,24 +272,23 @@ Entries:
   changes:
   - type: Add
     message: >-
-      Bans can now specify a webhook reason override e.g. to not have slurs or
-      player info posted publicly.
+      Баны теперь могут указывать переопределение причины для вебхука, например, чтобы оскорбления или данные игрока не публиковались публично.
   id: 36
   time: '2026-07-27T14:25:51.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3757
 - author: deltanedas
   changes:
   - type: Add
-    message: Added antag smite verbs for a bunch of antags.
+    message: Добавлены вербы кары антагонистов для кучи антагов.
   id: 37
   time: '2026-07-28T00:16:29.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3776
 - author: deltanedas
   changes:
   - type: Tweak
-    message: Skillchips now have verb logs for adding and removing them.
+    message: У чипов навыков теперь есть логи вербов для их добавления и удаления.
   - type: Tweak
-    message: Aghosts can now always see peoples exact skillchips.
+    message: А-госты теперь всегда могут видеть точные чипы навыков людей.
   id: 38
   time: '2026-07-29T02:29:16.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3812
@@ -298,22 +296,21 @@ Entries:
   changes:
   - type: Add
     message: >-
-      Added new antag token types! The admin remark they give the player says
-      what they can be redeemed for.
+      Добавлены новые типы токенов антагонистов! Админ-пометка, которую они дают игроку, сообщает, на что их можно обменять.
   id: 39
   time: '2026-07-30T00:45:20.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3801
 - author: deltanedas
   changes:
   - type: Fix
-    message: Fixed shadowling and thrall players just being listed as team antag.
+    message: Исправлено, что игроки-тенеморфы и траллы просто отображались как командный антаг.
   id: 40
   time: '2026-08-09T23:50:39.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/4019
 - author: deltanedas
   changes:
   - type: Tweak
-    message: Gamemode votes only set the gamemode for 1 round instead of until changed.
+    message: Голосования за режим теперь устанавливают режим только на 1 раунд, а не до изменения.
   id: 41
   time: '2026-08-12T13:47:10.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/4054
