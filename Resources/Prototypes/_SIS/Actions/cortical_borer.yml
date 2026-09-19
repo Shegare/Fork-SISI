@@ -7,9 +7,9 @@
   components:
   - type: Action
     itemIconStyle: NoItem
-    icon:
-      sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-      state: borer_chem
+  - type: Sprite
+    sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
+    state: borer_chem
   - type: InstantAction
     event: !type:CorticalChemMenuActionEvent
 
@@ -21,9 +21,9 @@
   - type: Action
     useDelay: 5
     itemIconStyle: NoItem
-    icon:
-      sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-      state: borer_infest
+  - type: Sprite
+    sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
+    state: borer_infest
   - type: TargetAction
     range: 0.5
     interactOnMiss: false
@@ -41,9 +41,9 @@
   components:
   - type: Action
     useDelay: 5
-    icon:
-      sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-      state: borer_eject
+  - type: Sprite
+    sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
+    state: borer_eject
   - type: InstantAction
     event: !type:CorticalEjectEvent
 
@@ -54,9 +54,9 @@
   components:
   - type: Action
     useDelay: 5
-    icon:
-      sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-      state: borer_bloodcheck
+  - type: Sprite
+    sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
+    state: borer_bloodcheck
   - type: InstantAction
     event: !type:CorticalCheckBloodEvent
 
@@ -67,9 +67,9 @@
   components:
   - type: Action
     useDelay: 120
-    icon:
-      sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-      state: borer_control
+  - type: Sprite
+    sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
+    state: borer_control
   - type: InstantAction
     event: !type:CorticalTakeControlEvent
 
@@ -80,9 +80,9 @@
   components:
   - type: Action
     useDelay: 5
-    icon:
-      sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-      state: borer_eject
+  - type: Sprite
+    sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
+    state: borer_eject
   - type: InstantAction
     event: !type:CorticalEndControlEvent
 
@@ -93,8 +93,8 @@
   components:
   - type: Action
     useDelay: 5
-    icon:
-      sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-      state: borer_egg
+  - type: Sprite
+    sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
+    state: borer_egg
   - type: InstantAction
     event: !type:CorticalLayEggEvent

@@ -134,11 +134,24 @@
   targetNode: shuttleWall
 
 - type: construction
-  parent: Girder
   id: DiagonalShuttleWall
   name: construction-recipe-diagonal-shuttle-wall
+  # SIS-Start
+  graph: DiagonalGirder
+  startNode: start
+  # SIS-End
   targetNode: diagonalshuttleWall
+  # SIS-Start
+  category: construction-category-structures
+  objectType: Structure
+  placementMode: SnapgridCenter
+  # SIS-End
   canRotate: true
+  # SIS-Start
+  canBuildInImpassable: false
+  conditions:
+  - !type:TileNotBlocked
+  # SIS-End
 
 - type: construction
   parent: Girder
