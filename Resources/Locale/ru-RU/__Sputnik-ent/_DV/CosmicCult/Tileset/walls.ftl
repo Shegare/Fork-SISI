@@ -18,4 +18,4 @@ ent-WindowCosmicCultDiagonal = зловещее окно
 
 ent-WindowCosmicCultDiagonalDark = зловещее окно
     .desc = { ent-WindowCosmicCultDiagonal.desc }
-    .suffix = Diagonal, Tinted
+    .suffix = Диагональная, тонированная

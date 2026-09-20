@@ -41,6 +41,9 @@
   - Botanicals
   - AdvancedBrute
   - PlasticProduction
+  # <Trauma>
+  - ChemiCompiler
+  # </Trauma>
 
 - type: guideEntry
   id: Medicine

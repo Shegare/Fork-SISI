@@ -4,6 +4,7 @@ using Content.Shared.CCVar;
 using Content.Shared.Chat;
 using Content.Shared.Database;
 using Content.Shared.Ghost;
+using Content.Shared.Ghost.Components;
 using Content.Trauma.Common.Language;
 using Robust.Shared.Utility;
 

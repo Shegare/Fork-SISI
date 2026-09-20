@@ -7,6 +7,9 @@ ent-SpawnCBURN = { ent-BaseUnknownShuttleRule }
 ent-SpawnERTSecurity = { ent-BaseUnknownShuttleRule }
     .desc = { ent-BaseUnknownShuttleRule.desc }
 
+ent-SpawnERTSecurityDelayed = { ent-SpawnERTSecurity }
+    .desc = { ent-SpawnERTSecurity.desc }
+
 ent-SpawnERTMedical = { ent-BaseUnknownShuttleRule }
     .desc = { ent-BaseUnknownShuttleRule.desc }
 

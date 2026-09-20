@@ -1,3 +1,6 @@
+ent-BaseVendingMachine = торговый автомат
+    .desc = Просто добавь капитализма!
+
 ent-VendingMachine = торговый автомат
     .desc = Просто добавь капитализма!
 

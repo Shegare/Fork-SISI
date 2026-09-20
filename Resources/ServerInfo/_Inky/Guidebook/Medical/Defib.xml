@@ -54,6 +54,13 @@
   - 3 тумблера/1500В - Повышает BPM на 150-200, полезно, если у пациента остановка сердца (0 BPM)
   - 4 тумблера/2000В - Повышает BPM на 200-300, полезно всегда никогда
 
+  <Box>
+    <GuideEntityEmbed Entity="StasisBed" Caption="stasis bed" />
+  </Box>
+
+  If you are having trouble with keeping someone alive, or doing a heart surgery on yourself, try stasis beds!
+  A patient that is on the stasis bed will NOT take any damage from the absence of his heart.
+
 
 
 </Document>

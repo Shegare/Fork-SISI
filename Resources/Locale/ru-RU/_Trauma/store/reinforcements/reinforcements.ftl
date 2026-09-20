@@ -119,3 +119,9 @@ reinforcement-service-worker-desc = Наймите работника сферы
 
 reinforcement-assistant-name = Нанять ассистента
 reinforcement-assistant-desc = Наймите ассистента, фент не прилагается. Минимальное время прибытия — три минуты.
+
+bioweapon-manual-name = Купить руководство по биооружию
+bioweapon-manual-desc = Купите руководство по биооружию, обучающее кодам, необходимым для управления биооружием.
+
+bioweapon-name = Купить биооружие
+bioweapon-desc = Купите мутировавшее биооружие для выполнения приказов службы безопасности.
