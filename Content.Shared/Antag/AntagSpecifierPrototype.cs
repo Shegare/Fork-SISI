@@ -4,6 +4,7 @@ using Content.Shared.Whitelist;
 using Robust.Shared.Audio;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom.Prototype.Array;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Shared.Antag;
 
@@ -118,10 +119,10 @@ public sealed partial class AntagSpecifierPrototype : IPrototype, IInheritingPro
     public List<ProtoId<RoleLoadoutPrototype>>? RoleLoadout;
 
     /// <summary>
-    /// A briefing shown to the player.
+    /// A greeting shown to the player. // SIS-ChatBriefing | briefing
     /// </summary>
     [DataField]
-    public BriefingData? Briefing;
+    public GreetingEntry? Briefing; // SIS-ChatBriefing | BriefingData
 
     /// <summary>
     /// A spawner used to defer the selection of this particular definition.
@@ -154,6 +155,8 @@ public enum AntagAcceptability
     All,
 }
 
+// SIS-ChatBriefing Start
+/*
 /// <summary>
 /// Contains data used to generate a briefing.
 /// </summary>
@@ -178,3 +181,5 @@ public partial struct BriefingData
     [DataField]
     public SoundSpecifier? Sound;
 }
+*/
+// SIS-ChatBriefing End

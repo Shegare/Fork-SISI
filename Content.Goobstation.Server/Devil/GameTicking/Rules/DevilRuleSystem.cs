@@ -12,6 +12,8 @@ using Content.Shared.NPC.Prototypes;
 using Content.Shared.NPC.Systems;
 using Content.Shared.Roles;
 using Robust.Shared.Audio;
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Goobstation.Server.Devil.GameTicking.Rules;
 
@@ -21,6 +23,8 @@ public sealed partial class DevilRuleSystem : GameRuleSystem<DevilRuleComponent>
     [Dependency] private AntagSelectionSystem _antag = default!;
     [Dependency] private NpcFactionSystem _npcFaction = default!;
     [Dependency] private ObjectivesSystem _objective = default!;
+    [Dependency] private GreetingSystem _greeting = default!; // SIS-ChatGreeting
+
     public override void Initialize()
     {
         base.Initialize();
@@ -32,15 +36,18 @@ public sealed partial class DevilRuleSystem : GameRuleSystem<DevilRuleComponent>
 
     private void OnSelectAntag(EntityUid uid, DevilRuleComponent comp, ref AfterAntagEntitySelectedEvent args)
     {
-        MakeDevil(args.EntityUid, comp);
+        MakeDevil(args.EntityUid, comp, args.Def); // SIS-ChatGreeting
     }
 
-    private bool MakeDevil(EntityUid target, DevilRuleComponent rule)
+    private bool MakeDevil(EntityUid target, DevilRuleComponent rule, AntagSpecifierPrototype proto) // SIS-ChatGreeting
     {
         var devilComp = EnsureComp<DevilComponent>(target);
 
-        var briefing = Loc.GetString("devil-role-greeting", ("trueName", devilComp.TrueName), ("playerName", Name(target)));
-        _antag.SendBriefing(target, briefing, Color.DarkRed, rule.BriefingSound);
+        // SIS-ChatGreeting Start
+        (string, object)[] args = [("trueName", devilComp.TrueName), ("playerName", Name(target))];
+        var entry = _greeting.CreateGreetingEntry("devil-", proto.Briefing, args);
+        _antag.SendBriefing(target, entry);
+        // SIS-ChatGreeting End
 
         _npcFaction.RemoveFaction(target, rule.NanotrasenFaction);
         _npcFaction.AddFaction(target, rule.DevilFaction);

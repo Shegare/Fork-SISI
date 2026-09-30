@@ -50,7 +50,7 @@ public sealed partial class HereticRuleSystem : GameRuleSystem<HereticRuleCompon
         if (uid == null)
             return;
 
-        var briefingShort = Loc.GetString("heretic-role-greeting-short");
+        var briefingShort = Loc.GetString("heretic-role-briefing"); // SIS-ChatGreeting | heretic-role-greeting-short
         args.Append(briefingShort);
     }
 
@@ -90,8 +90,12 @@ public sealed partial class HereticRuleSystem : GameRuleSystem<HereticRuleCompon
         // briefing
         if (HasComp<MetaDataComponent>(target))
         {
+            // SIS-ChatGreeting Start
+            /*
             _antag.SendBriefing(target, Loc.GetString("heretic-role-greeting-fluff"), Color.MediumPurple, null);
             _antag.SendBriefing(target, Loc.GetString("heretic-role-greeting"), Color.Red, BriefingSound);
+            */
+            // SIS-ChatGreeting End
         }
 
         // add store

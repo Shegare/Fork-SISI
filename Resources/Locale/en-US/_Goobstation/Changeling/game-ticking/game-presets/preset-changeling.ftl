@@ -14,10 +14,17 @@ changeling-gamemode-title = Changelings
 changeling-gamemode-description =
     The changeling hive has boarded the station, ready to take anything it desires - be it your equipment, your faces, or your lives!
 
+# SIS-Start
 changeling-role-greeting =
-    You are a changeling who has absorbed and taken the form of {$name}!
-    Your objectives are listed in the character menu.
-    Absorb, shapeshift and evolve to complete them!
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Генокрад[/gradient]!
+    Вы поглотили исходную личность [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]{$name}[/gradient] и заняли её место, внедрившись в экипаж станции.
+    Ваша цель: [color={$hl1}]поглощать органику[/color], собирать образцы ДНК и эволюционировать любой ценой.
+
+changeling-role-greeting-desc =
+    • [color={$hl1}]Сбор ДНК:[/color] используйте жала и поглощайте тела оглушенных жертв, чтобы получать очки эволюции и новые маскировки.
+    • [color={$hl1}]Эволюция:[/color] покупайте мутации в меню эволюции: боевые клинки, хитиновую броню, регенерацию и химические железы.
+    • [color={$hl1}]Скрытность:[/color] вы можете в любой момент изменить свой облик и голос на любой из поглощенных образцов. Не дайте раскрыть себя!
+# SIS-End
 
 changeling-role-greeting-short =
     You are a changeling who has absorbed and taken the initial form of {$name}.

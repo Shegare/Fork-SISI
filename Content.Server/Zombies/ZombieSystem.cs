@@ -31,6 +31,8 @@ using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
 using Robust.Shared.Timing;
 using Content.Server.Ghost.Roles.Components;
+using Content.Server.Antag;
+using Content.Shared.Antag;
 
 namespace Content.Server.Zombies
 {
@@ -47,8 +49,10 @@ namespace Content.Server.Zombies
         [Dependency] private MobStateSystem _mobState = default!;
         [Dependency] private SharedPopupSystem _popup = default!;
         [Dependency] private SharedRoleSystem _role = default!;
+        [Dependency] private AntagSelectionSystem _antag = default!; // SIS-ChatBriefing
 
         public readonly ProtoId<NpcFactionPrototype> Faction = "Zombie";
+        private static readonly ProtoId<AntagSpecifierPrototype> InitialInfectedAntag = "InitialInfected"; // SIS-ChatBriefing
 
         public const SlotFlags ProtectiveSlots =
             SlotFlags.FEET |

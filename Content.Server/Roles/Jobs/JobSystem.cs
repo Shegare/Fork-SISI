@@ -20,22 +20,30 @@ public sealed partial class JobSystem : SharedJobSystem
     {
         base.Initialize();
         SubscribeLocalEvent<RoleAddedEvent>(OnRoleAddedEvent);
-        SubscribeLocalEvent<RoleRemovedEvent>(OnRoleRemovedEvent);
+        // SubscribeLocalEvent<RoleRemovedEvent>(OnRoleRemovedEvent); // SIS-ChatBriefing
     }
 
     private void OnRoleAddedEvent(RoleAddedEvent args)
     {
         MindOnDoGreeting(args.MindId, args.Mind, args);
 
+        // SIS-ChatBriefing Start
+        /*
         if (args.RoleTypeUpdate)
             _roles.RoleUpdateMessage(args.Mind);
+        */
+        // SIS-ChatGreeting End
     }
 
+    // SIS-ChatGreeting Start
+    /*
     private void OnRoleRemovedEvent(RoleRemovedEvent args)
     {
         if (args.RoleTypeUpdate)
             _roles.RoleUpdateMessage(args.Mind);
     }
+    */
+    // SIS-ChatGreeting End
 
     private void MindOnDoGreeting(EntityUid mindId, MindComponent component, RoleAddedEvent args)
     {

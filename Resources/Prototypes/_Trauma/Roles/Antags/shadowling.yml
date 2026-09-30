@@ -4,6 +4,25 @@
   parent: RestrictedAntag
   id: Shadowling
   prefRoles: [ Shadowling ]
+  # SIS-ChatGreeting Start
+  briefing:
+    sound: /Audio/_EinsteinEngines/Shadowling/shadowling.ogg
+    theme:
+      titleBackground: "#110817"
+      titleBorder: "#6d28d9"
+      messageBackground: "#06030a"
+      messageBorder: "#1f0c29"
+      titleText: "#a855f7"
+      messageText: "#9ca3af"
+      titleHighlight1: "#a855f7"
+      messageHighlight1: "#a855f7"
+      messageHighlight2: "#4c1d95"
+    sections:
+    - title: role-greeting-title
+      message: shadowling-role-greeting
+    - title: role-greeting-desc
+      message: shadowling-role-greeting-desc
+  # SIS-ChatGreeting End
 
 - type: antagSpecifier
   parent: Shadowling

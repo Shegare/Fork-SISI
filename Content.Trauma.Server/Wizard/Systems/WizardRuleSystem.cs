@@ -33,6 +33,8 @@ using Content.Trauma.Shared.Wizard.BindSoul;
 using Robust.Server.Audio;
 using Robust.Shared.Player;
 using Robust.Shared.Random;
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Trauma.Server.Wizard.Systems;
 
@@ -49,6 +51,7 @@ public sealed partial class WizardRuleSystem : GameRuleSystem<WizardRuleComponen
     [Dependency] private NpcFactionSystem _faction = default!;
     [Dependency] private IAdminLogManager _log = default!;
     [Dependency] private IChatManager _chatManager = default!;
+    [Dependency] private GreetingSystem _greeting = default!; // SIS-ChatGreeting
 
     public static readonly ProtoId<NpcFactionPrototype> Faction = "Wizard";
 
@@ -264,14 +267,16 @@ public sealed partial class WizardRuleSystem : GameRuleSystem<WizardRuleComponen
 
     private void OnAfterAntagSelected(Entity<WizardRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
     {
-        MakeWizard(args.EntityUid, ent.Comp);
+        MakeWizard(args.EntityUid, ent.Comp, args.Def); // SIS-ChatGreeting
     }
 
-    public bool MakeWizard(EntityUid target, WizardRuleComponent rule)
+    public bool MakeWizard(EntityUid target, WizardRuleComponent rule, AntagSpecifierPrototype proto) // SIS-ChatGreeting
     {
         var station = (rule.TargetStation is not null) ? Name(rule.TargetStation.Value) : "the station";
-
-        _antag.SendBriefing(target, Loc.GetString("wizard-role-greeting", ("station", station)), Color.Cyan, null);
+        // SIS-ChatGreeting Start
+        var entry = _greeting.CreateGreetingEntry("wizard-", proto.Briefing, ("station", station));
+        _antag.SendBriefing(target, entry);
+        // SIS-ChatGreeting End
 
         if (!TryComp(target, out HumanoidProfileComponent? humanoid) || humanoid.Age >= 60)
             return true;

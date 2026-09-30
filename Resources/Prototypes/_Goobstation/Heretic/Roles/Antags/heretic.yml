@@ -45,6 +45,26 @@
   id: Heretic
   prefRoles: [ Heretic ]
   jobBlacklist: [ Chaplain ]
+  # SIS-ChatGreeting Start
+  briefing:
+    sound: /Audio/_Goobstation/Heretic/Ambience/Antag/Heretic/heretic_gain.ogg
+    theme:
+      titleBackground: "#1a0e24"
+      titleBorder: "#9b59b6"
+      messageBackground: "#0d0614"
+      messageBorder: "#2e1140"
+      titleText: "#ffffff"
+      messageText: "#d6c8e0"
+      titleHighlight1: "#00ff9f"
+      titleHighlight2: "#c084fc"
+      messageHighlight1: "#00ff9f"
+      messageHighlight2: "#c084fc"
+    sections:
+    - title: role-greeting-title
+      message: heretic-role-greeting
+    - title: role-greeting-desc
+      message: heretic-role-greeting-desc
+  # SIS-ChatGreeting End
 
 - type: antagSpecifier
   parent: Heretic

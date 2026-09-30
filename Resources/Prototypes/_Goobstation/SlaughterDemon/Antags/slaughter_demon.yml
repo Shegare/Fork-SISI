@@ -17,9 +17,28 @@
   spawnerPrototype: SpawnPointGhostSlaughterDemon
   allowNonHumans: true
   briefing:
-    text: slaughter-role-greeting
-    color: Red
+    # SIS-ChatGreeting Start
+    # text: slaughter-role-greeting
+    # color: Red
+    # SIS-ChatGreeting End
     sound: /Audio/_Goobstation/SlaughterDemon/briefing.ogg
+    # SIS-ChatGreeting Start
+    theme:
+      titleBackground: "#3a0005"
+      titleBorder: "#ff0033"
+      messageBackground: "#170204"
+      messageBorder: "#66000e"
+      titleText: "#ff3366"
+      messageText: "#fca5a5"
+      titleHighlight1: "#ff0033"
+      messageHighlight1: "#660000"
+      messageHighlight2: "#ff0033"
+    sections:
+    - title: role-greeting-title
+      message: slaughter-role-greeting
+    - title: role-greeting-desc
+      message: slaughter-role-greeting-desc
+    # SIS-ChatGreeting End
   components:
   - type: RandomMetadata
     nameSegments:
@@ -32,18 +51,56 @@
   parent: SlaughterDemon
   id: SlaughterDemonMidround
   briefing:
-    text: slaughter-role-greeting
-    color: Red
+    # SIS-ChatGreeting Start
+    # text: slaughter-role-greeting
+    # color: Red
+    # SIS-ChatGreeting End
     sound: /Audio/Misc/narsie_rises.ogg
+    # SIS-ChatGreeting Start
+    theme:
+      titleBackground: "#3a0005"
+      titleBorder: "#ff0033"
+      messageBackground: "#170204"
+      messageBorder: "#66000e"
+      titleText: "#ff3366"
+      messageText: "#fca5a5"
+      titleHighlight1: "#ff0033"
+      messageHighlight1: "#660000"
+      messageHighlight2: "#ff0033"
+    sections:
+    - title: role-greeting-title
+      message: slaughter-role-greeting
+    - title: role-greeting-desc
+      message: slaughter-role-greeting-desc
+    # SIS-ChatGreeting End
 
 - type: antagSpecifier
   id: LaughterDemon
   spawnerPrototype: SpawnPointGhostLaughterDemon
   allowNonHumans: true
   briefing:
-    text: laughter-role-greeting
-    color: Pink
+    # SIS-ChatGreeting Start
+    # text: laughter-role-greeting
+    # color: Pink
+    # SIS-ChatGreeting End
     sound: /Audio/_Goobstation/Vehicle/Clowncar/clowncar_fart.ogg
+    # SIS-ChatGreeting Start
+    theme:
+      titleBackground: "#21001f"
+      titleBorder: "#ffe600"
+      messageBackground: "#0d0012"
+      messageBorder: "#ff007f"
+      titleText: "#ffe600"
+      messageText: "#f5d0fe"
+      titleHighlight1: "#ffe600"
+      messageHighlight1: "#ff007f"
+      messageHighlight2: "#ffe600"
+    sections:
+    - title: role-greeting-title
+      message: laughter-role-greeting
+    - title: role-greeting-desc
+      message: laughter-role-greeting-desc
+    # SIS-ChatGreeting End
   components:
   - type: RandomMetadata
     nameSegments:

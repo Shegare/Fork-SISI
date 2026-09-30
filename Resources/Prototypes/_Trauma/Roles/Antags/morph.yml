@@ -12,9 +12,28 @@
   allowNonHumans: true
   mindRoles: [ MindRoleMorph ]
   briefing:
-    text: morph-role-greeting
-    color: lime
+    # SIS-ChatGreeting Start
+    # text: morph-role-greeting
+    # color: lime
+    # SIS-ChatGreeting End
     sound: /Audio/_Trauma/Morph/mutate.ogg
+    # SIS-ChatGreeting Start
+    theme:
+      titleBackground: "#192112"
+      titleBorder: "#79b037"
+      messageBackground: "#0d1208"
+      messageBorder: "#283618"
+      titleText: "#d4ed85"
+      messageText: "#c5d9a5"
+      titleHighlight1: "#a3e635"
+      messageHighlight1: "#a3e635"
+      messageHighlight2: "#728c49"
+    sections:
+    - title: role-greeting-title
+      message: morph-role-greeting
+    - title: role-greeting-desc
+      message: morph-role-greeting-desc
+    # SIS-ChatGreeting End
 
 - type: antagSmite
   id: Morph

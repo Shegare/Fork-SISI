@@ -6,6 +6,8 @@ using Content.Server.Station.Systems;
 using Content.Shared.Localizations;
 using Content.Shared.Roles.Components;
 using Robust.Server.GameObjects;
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Server.GameTicking.Rules;
 
@@ -16,6 +18,7 @@ public sealed partial class DragonRuleSystem : GameRuleSystem<DragonRuleComponen
     [Dependency] private StationSystem _station = default!;
     [Dependency] private RoleSystem _roleSystem = default!;
     [Dependency] private MindSystem _mind = default!;
+    [Dependency] private GreetingSystem _greeting = default!; // SIS-ChatGreeting
 
     public override void Initialize()
     {
@@ -32,7 +35,10 @@ public sealed partial class DragonRuleSystem : GameRuleSystem<DragonRuleComponen
         if(ent is null)
             return;
 
-        args.Append(MakeBriefing(ent.Value));
+        // SIS-ChatGreeting Start
+        var direction = GetDirectionToStation(ent.Value);
+        args.Append(Loc.GetString("dragon-role-briefing", ("direction", direction)));
+        // SIS-ChatGreeting End
     }
 
     private void AfterAntagEntitySelected(Entity<DragonRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
@@ -45,13 +51,18 @@ public sealed partial class DragonRuleSystem : GameRuleSystem<DragonRuleComponen
         if(dragonRole is null)
             return;
 
-        _antag.SendBriefing(args.EntityUid, MakeBriefing(args.EntityUid), null, null);
+        _antag.SendBriefing(args.EntityUid, MakeGreeting(args.EntityUid, args.Def)); // SIS-ChatGreeting
     }
 
-    private string MakeBriefing(EntityUid dragon)
+    // SIS-ChatGreeting Start
+    private GreetingEntry MakeGreeting(EntityUid dragon, AntagSpecifierPrototype proto)
     {
-        var direction = string.Empty;
+        var direction = GetDirectionToStation(dragon);
+        return _greeting.CreateGreetingEntry("dragon-", proto.Briefing, ("direction", direction));
+    }
 
+    private string GetDirectionToStation(EntityUid dragon)
+    {
         var dragonXform = Transform(dragon);
 
         EntityUid? stationGrid = null;
@@ -60,15 +71,14 @@ public sealed partial class DragonRuleSystem : GameRuleSystem<DragonRuleComponen
 
         if (stationGrid is not null)
         {
-            var stationPosition = _transform.GetWorldPosition((EntityUid)stationGrid);
+            var stationPosition = _transform.GetWorldPosition(stationGrid.Value);
             var dragonPosition = _transform.GetWorldPosition(dragon);
 
             var vectorToStation = stationPosition - dragonPosition;
-            direction = ContentLocalizationManager.FormatDirection(vectorToStation.GetDir());
+            return ContentLocalizationManager.FormatDirection(vectorToStation.GetDir());
         }
 
-        var briefing = Loc.GetString("dragon-role-briefing", ("direction", direction));
-
-        return briefing;
+        return Loc.GetString("generic-unknown-title");
     }
+    // SIS-ChatGreeting End
 }

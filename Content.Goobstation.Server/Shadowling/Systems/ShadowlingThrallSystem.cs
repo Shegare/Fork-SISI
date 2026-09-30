@@ -11,6 +11,8 @@ using Content.Shared.Examine;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Overlays;
 using Content.Trauma.Common.CollectiveMind;
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Goobstation.Server.Shadowling.Systems;
 
@@ -23,6 +25,13 @@ public sealed partial class ShadowlingThrallSystem : EntitySystem
     [Dependency] private MindSystem _mind = default!;
     [Dependency] private RoleSystem _roles = default!;
     [Dependency] private ShadowlingSystem _shadowling = default!;
+    // SIS-ChatGreeting Start
+    [Dependency] private IPrototypeManager _proto = default!;
+    [Dependency] private GreetingSystem _greeting = default!;
+    // SIS-ChatGreeting End
+
+    private static readonly ProtoId<AntagSpecifierPrototype> ShadowlingAntag = "Shadowling"; // SIS-ChatGreeting
+
     public override void Initialize()
     {
         base.Initialize();
@@ -44,7 +53,11 @@ public sealed partial class ShadowlingThrallSystem : EntitySystem
 
         EnsureComp<CollectiveMindComponent>(uid).Channels.Add(ShadowMind);
 
-        _antag.SendBriefing(uid, Loc.GetString("thrall-role-greeting"), Color.MediumPurple, component.ThrallConverted);
+        // SIS-ChatGreeting Start
+        var proto = _proto.Index(ShadowlingAntag);
+        var entry = _greeting.CreateGreetingEntry("thrall-", proto.Briefing);
+        _antag.SendBriefing(uid, entry);
+        // SIS-ChatGreeting End
     }
 
     private void OnRemove(EntityUid uid, ThrallComponent component, ComponentShutdown args)

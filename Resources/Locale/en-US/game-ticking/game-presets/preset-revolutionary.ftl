@@ -18,13 +18,19 @@ roles-antag-rev-head-name = Head Revolutionary
 roles-antag-rev-head-objective = Your objective is to take over the station by converting people to your cause and eliminating all members of Command.
 
 ## Trauma - rewrote
+
+# SIS-Start
 head-rev-role-greeting =
-    You are a Head Revolutionary.
-    You are tasked with removing all of Command from station via death, exilement or imprisonment.
-    You have prepared the components needed to make an industrial forge and produce the tools you need.
-    Produce propoganda flyers with the printing press to convert the crew.
-    Be careful, your machines are very loud. You will have to hide and defend your base of operations.
-    Viva la revolución!
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Глава Революции[/gradient]!
+    Ваша главная цель: свергнуть тиранию [color={$hl1}]NanoTrasen[/color] и [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]устранить весь командный состав[/gradient] станции любыми средствами.
+
+head-rev-role-greeting-desc =
+    • [color={$hl1}]Вербуйте сторонников:[/color] используйте своё снаряжение, чтобы обращать членов экипажа на сторону восстания.
+    • [color={$hl1}]Ограничения:[/color] обращение не сработает на тех, кто носит [color={$hl1}]защиту для глаз[/color] (очки/маски) или имеет имплант [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]«Щит Разума»[/gradient].
+    • [color={$hl1}]Берегите лидеров:[/color] если все Главы Революции погибнут - восстание будет подавлено, а все обращенные вернутся к обычной работе.
+
+    {"["}color={$hl1}]Viva la revolución![/color]
+# SIS-End
 
 ## Trauma - rewrote
 head-rev-briefing =
@@ -40,10 +46,18 @@ roles-antag-rev-objective = Your objective is to ensure the safety and follow th
 
 rev-break-control = {$name} has remembered their true allegiance!
 
+# SIS-Start
 rev-role-greeting =
-    You are a revolutionary. You are tasked with protecting the head revolutionaries and helping them take over the station.
-    The revolution must work together to kill, restrain, or convert all members of Command.
-    Viva la revolución!
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Революционер[/gradient].
+    Вам поручено защищать [color={$hl1}]Глав Революции[/color] и помочь им захватить станцию.
+    Действуйте сообща, чтобы устранить или обратить [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]весь командный состав[/gradient]!
+
+rev-role-greeting-desc =
+    • [color={$hl1}]Деконвертация:[/color] остерегайтесь поимки службой безопасности, в вас могут подавить революционные идеи путём установки [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]«Щита Разума»[/gradient].
+    • [color={$hl1}]Берегите лидеров:[/color] если все Главы Революции погибнут - восстание будет подавлено, а все обращенные вернутся к обычной работе.
+
+    {"["}color={$hl1}]Viva la revolución![/color]
+# SIS-End
 
 rev-briefing = Help the head revolutionaries kill, restrain, or convert all members of Command to take over the station.
 

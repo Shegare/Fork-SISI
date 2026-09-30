@@ -33,6 +33,7 @@
     - BaseStationAllEventsEligible
     - BaseStationNanotrasen
     - BaseStationDeliveries
+    - BaseStationNinjaTarget # SIS-ChatGreeting
   categories: [ HideSpawnMenu ]
   components:
     - type: Transform

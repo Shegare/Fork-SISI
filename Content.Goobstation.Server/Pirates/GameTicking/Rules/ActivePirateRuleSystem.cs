@@ -11,6 +11,8 @@ using Content.Shared.GameTicking.Components;
 using Content.Shared.NPC.Prototypes;
 using Content.Shared.NPC.Systems;
 using Robust.Shared.Audio;
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Goobstation.Server.Pirates.GameTicking.Rules;
 
@@ -20,6 +22,7 @@ public sealed partial class ActivePirateRuleSystem : GameRuleSystem<ActivePirate
     [Dependency] private RoleSystem _role = default!;
     [Dependency] private AntagSelectionSystem _antag = default!;
     [Dependency] private NpcFactionSystem _npcFaction = default!;
+    [Dependency] private GreetingSystem _greeting = default!; // SIS-ChatGreeting
 
     private static readonly SoundSpecifier BriefingSound = new SoundPathSpecifier("/Audio/Ambience/Antag/pirate_start.ogg");
     private static readonly EntProtoId MindRole = "MindRolePirate";
@@ -35,7 +38,7 @@ public sealed partial class ActivePirateRuleSystem : GameRuleSystem<ActivePirate
 
     private void OnAntagSelect(Entity<ActivePirateRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
     {
-        if (_mind.TryGetMind(args.EntityUid, out var mindId, out var mind) && TryMakePirate(args.EntityUid))
+        if (_mind.TryGetMind(args.EntityUid, out var mindId, out var mind) && TryMakePirate(args.EntityUid, args.Def)) // SIS-ChatGreeting
             ent.Comp.Pirates.Add((mindId, mind));
     }
 
@@ -63,15 +66,16 @@ public sealed partial class ActivePirateRuleSystem : GameRuleSystem<ActivePirate
         }
     }
 
-    public bool TryMakePirate(EntityUid target)
+    public bool TryMakePirate(EntityUid target, AntagSpecifierPrototype proto) // SIS-ChatGreeting
     {
         if (!_mind.TryGetMind(target, out var mindId, out var mind))
             return false;
 
+        // SIS-ChatGreeting Start
         _role.MindAddRole(mindId, MindRole.Id, mind, true);
-
-        var briefing = Loc.GetString("antag-pirate-briefing");
-        _antag.SendBriefing(target, briefing, Color.OrangeRed, BriefingSound);
+        var entry = _greeting.CreateGreetingEntry("pirate-", proto.Briefing);
+        _antag.SendBriefing(target, entry);
+        // SIS-ChatGreeting End
 
         _npcFaction.AddFaction(target, PirateFaction); // yaml fucking sucks!!!
 

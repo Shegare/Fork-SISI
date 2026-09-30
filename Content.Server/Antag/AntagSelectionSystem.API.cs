@@ -342,6 +342,8 @@ public sealed partial class AntagSelectionSystem
         }
     }
 
+    // SIS-ChatGreeting Start
+    /*
     /// <summary>
     /// Helper method to send the briefing text and sound to a session
     /// </summary>
@@ -357,6 +359,8 @@ public sealed partial class AntagSelectionSystem
         var text = data.Value.Text == null ? string.Empty : Loc.GetString(data.Value.Text);
         SendBriefing(session, text, data.Value.Color, data.Value.Sound);
     }
+    */
+    // SIS-ChatGreeting End
 
     /// <summary>
     /// Helper method to send the briefing text and sound to a session

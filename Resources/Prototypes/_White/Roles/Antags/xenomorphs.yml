@@ -18,5 +18,20 @@
   spawnerPrototype: SpawnPointGhostXenomorph
   allowNonHumans: true
   briefing:
-    text: xenomorph-role-greeting
-    color: "#8c3986"
+    # SIS-ChatGreeting Start
+    theme:
+      titleBackground: "#190e1c"
+      titleBorder: "#8c3986"
+      messageBackground: "#0d070f"
+      messageBorder: "#331538"
+      titleText: "#d680d0"
+      messageText: "#e4d4e6"
+      titleHighlight1: "#8c3986"
+      messageHighlight1: "#8c3986"
+      messageHighlight2: "#e4d4e6"
+    sections:
+    - title: role-greeting-title
+      message: xenomorph-role-greeting
+    - title: role-greeting-desc
+      message: xenomorph-role-greeting-desc
+    # SIS-ChatGreeting End

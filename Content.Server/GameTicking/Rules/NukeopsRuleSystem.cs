@@ -46,6 +46,8 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using Content.Shared.StationRecords.Systems;
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Server.GameTicking.Rules;
 
@@ -70,6 +72,7 @@ public sealed partial class NukeopsRuleSystem : GameRuleSystem<NukeopsRuleCompon
     [Dependency] private StationRecordsSystem _records = default!;
     [Dependency] private StoreSystem _store = default!;
     [Dependency] private TagSystem _tag = default!;
+    [Dependency] private GreetingSystem _greeting = default!; // SIS-ChatGreeting
 
     private static readonly ProtoId<CurrencyPrototype> TelecrystalCurrencyPrototype = "Telecrystal";
     private static readonly ProtoId<TagPrototype> NukeOpsUplinkTagPrototype = "NukeOpsUplink";
@@ -619,12 +622,14 @@ public sealed partial class NukeopsRuleSystem : GameRuleSystem<NukeopsRuleCompon
     {
         var target = (ent.Comp.TargetStation is not null) ? Name(ent.Comp.TargetStation.Value) : "the target";
 
-        _antag.SendBriefing(args.Session,
-            Loc.GetString($"{ent.Comp.LocalePrefix}welcome",
-                ("station", target),
-                ("name", Name(ent))),
-            Color.Red,
-            ent.Comp.GreetSoundNotification);
+        // SIS-ChatGreeting Start
+        var targetStation = target;
+        var teamName = Name(ent);
+
+        (string, object)[] entryArgs = [("station", targetStation), ("name", teamName)];
+        var entry = _greeting.CreateGreetingEntry(ent.Comp.LocalePrefix, args.Def.Briefing, entryArgs);
+        _antag.SendBriefing(args.Session, entry);
+        // SIS-ChatGreeting End
     }
 
     private void OnGetBriefing(Entity<NukeopsRoleComponent> role, ref GetBriefingEvent args)

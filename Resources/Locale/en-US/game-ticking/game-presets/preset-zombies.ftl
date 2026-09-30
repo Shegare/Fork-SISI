@@ -18,7 +18,23 @@ zombieteors-description = The undead have been unleashed on the station amid a c
 zombie-not-enough-ready-players = Not enough players readied up for the game! There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start Zombies.
 zombie-no-one-ready = No players readied up! Can't start Zombies.
 
-zombie-patientzero-role-greeting = You are an initial infected. Get supplies and prepare for your eventual transformation. Your goal is to overtake the station while infecting as many people as possible.
+# SIS-Start
+zombie-patientzero-role-greeting =
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Нулевой Пациент[/gradient]!
+    В вашем теле созревает мутировавший штамм зомби-вируса.
+    Ваша цель: [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]захватить станцию[/gradient], обратив весь экипаж в живых мертвецов.
+
+zombie-patientzero-role-greeting-desc =
+    • [color={$hl1}]Подготовка:[/color] пока вирус не проявился, вооружитесь, найдите инструменты и изолируйте первую жертву в темном углу.
+    • [color={$hl1}]Таймер:[/color] вы обратитесь в зомби после смерти, по истечении времени или нажав кнопку активации в панели действий.
+    • [color={$hl1}]Орда:[/color] атакуйте членов экипажа в ближнем бою - каждый павший станет вашим верным соратником!
+
+zombie-patientzero-role-briefing =
+    Вы — Нулевой Пациент!
+    В вашем теле созревает мутировавший штамм зомби-вируса.
+    Ваша цель: захватить станцию, обратив весь экипаж в живых мертвецов.
+# SIS-End
+
 zombie-healing = You feel a stirring in your flesh
 zombie-infection-warning = You feel the zombie virus take hold
 zombie-infection-underway = Your blood begins to thicken

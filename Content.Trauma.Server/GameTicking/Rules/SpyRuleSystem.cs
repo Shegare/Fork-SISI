@@ -13,6 +13,7 @@ using Content.Server.Roles.Jobs;
 using Content.Server.Station.Systems;
 using Content.Server.Store.Systems;
 using Content.Server.Traitor.Uplink;
+using Content.Shared.Antag;
 using Content.Shared.Body;
 using Content.Shared.Body.Components;
 using Content.Shared.GameTicking.Components;
@@ -23,6 +24,7 @@ using Content.Shared.Objectives.Components;
 using Content.Shared.Random;
 using Content.Shared.Random.Helpers;
 using Content.Shared.Store.Components;
+using Content.SIS.Common.ChatBriefing;
 using Content.Trauma.Shared.Areas;
 using Content.Trauma.Shared.Roles;
 using Content.Trauma.Shared.Spy;
@@ -56,6 +58,8 @@ public sealed partial class SpyRuleSystem : GameRuleSystem<SpyRuleComponent>
     [Dependency] private EntityQuery<HumanoidProfileComponent> _humanoidQuery = default!;
     [Dependency] private EntityQuery<BrainComponent> _brainQuery = default!;
     [Dependency] private EntityQuery<HeartComponent> _heartQuery = default!;
+
+    [Dependency] private GreetingSystem _greeting = default!; // SIS-ChatGreeting
 
     public override void Initialize()
     {
@@ -244,10 +248,10 @@ public sealed partial class SpyRuleSystem : GameRuleSystem<SpyRuleComponent>
     [SubscribeLocalEvent]
     private void AfterEntitySelected(Entity<SpyRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
     {
-        MakeSpy(args.EntityUid, ent);
+        MakeSpy(args.EntityUid, ent, args.Def); // SIS-ChatGreeting
     }
 
-    public bool MakeSpy(EntityUid spy, Entity<SpyRuleComponent> rule)
+    public bool MakeSpy(EntityUid spy, Entity<SpyRuleComponent> rule, AntagSpecifierPrototype proto) // SIS-ChatGreeting
     {
         if (!_mind.TryGetMind(spy, out var mindId, out var mind))
         {
@@ -271,7 +275,12 @@ public sealed partial class SpyRuleSystem : GameRuleSystem<SpyRuleComponent>
         }
 
         if (rule.Comp.GiveBriefing)
-            _antag.SendBriefing(spy, Loc.GetString("spy-role-greeting"), null, rule.Comp.GreetSoundNotification);
+        {
+            // SIS-ChatGreeting Start
+            var entry = _greeting.CreateGreetingEntry("spy-", proto.Briefing);
+            _antag.SendBriefing(spy, entry);
+            // SIS-ChatGreeting End
+        }
 
         return true;
     }

@@ -14,6 +14,8 @@ using Content.Shared.Store;
 using Content.Shared.Store.Components;
 using Content.Trauma.Common.Silicon;
 using Robust.Shared.Audio;
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Goobstation.Server.Changeling.GameTicking.Rules;
 
@@ -26,6 +28,7 @@ public sealed partial class ChangelingRuleSystem : GameRuleSystem<ChangelingRule
     // [Dependency] private SharedUserInterfaceSystem _ui = default!; // inky edit TRAUMA FUCKUP
     [Dependency] private NpcFactionSystem _npcFaction = default!;
     [Dependency] private ObjectivesSystem _objective = default!;
+    [Dependency] private GreetingSystem _greeting = default!; // SIS-ChatGreeting
 
     public readonly SoundSpecifier BriefingSound = new SoundPathSpecifier("/Audio/_Goobstation/Ambience/Antag/changeling_start.ogg");
 
@@ -47,9 +50,10 @@ public sealed partial class ChangelingRuleSystem : GameRuleSystem<ChangelingRule
 
     private void OnSelectAntag(EntityUid uid, ChangelingRuleComponent comp, ref AfterAntagEntitySelectedEvent args)
     {
-        MakeChangeling(args.EntityUid, comp);
+        MakeChangeling(args.EntityUid, comp, args.Def); // SIS-ChatGreeting
     }
-    public bool MakeChangeling(EntityUid target, ChangelingRuleComponent rule)
+
+    public bool MakeChangeling(EntityUid target, ChangelingRuleComponent rule, AntagSpecifierPrototype proto) // SIS-ChatGreeting
     {
         if (_silicon.IsSilicon(target))
             return false;
@@ -59,10 +63,11 @@ public sealed partial class ChangelingRuleSystem : GameRuleSystem<ChangelingRule
 
         // briefing
         var name = Name(target) ?? Loc.GetString("generic-unknown-title");
-        var briefing = Loc.GetString("changeling-role-greeting", ("name", name));
+        // SIS-ChatGreeting Start
         var briefingShort = Loc.GetString("changeling-role-greeting-short", ("name", name));
-
-        _antag.SendBriefing(target, briefing, Color.Yellow, BriefingSound);
+        var entry = _greeting.CreateGreetingEntry("changeling-", proto.Briefing, ("name", name));
+        _antag.SendBriefing(target, entry);
+        // SIS-ChatGreeting End
 
         if (!_role.MindHasRole<ChangelingRoleComponent>(mindId, out var mr))
         {

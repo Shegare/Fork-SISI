@@ -7,9 +7,29 @@
   roleLoadout: [ RoleSurvivalNukie ]
   mindRoles: [ MindRoleContractor ]
   briefing:
-    text: contractor-role-greeting
-    color: Red
+    # SIS-ChatGreeting Start
+    # text: contractor-role-greeting
+    # color: Red
+    # SIS-ChatGreeting End
     sound: /Audio/Ambience/Antag/traitor_wawa.ogg
+    # SIS-ChatGreeting Start
+    theme:
+      titleBackground: "#181214"
+      titleBorder: "#e71d36"
+      messageBackground: "#0b0809"
+      messageBorder: "#38181c"
+      titleText: "#ff6b81"
+      messageText: "#cbd5e1"
+      titleHighlight1: "#ff1744"
+      titleHighlight2: "#ff5252"
+      messageHighlight1: "#ff1744"
+      messageHighlight2: "#ff5252"
+    sections:
+    - title: role-greeting-title
+      message: contractor-role-greeting
+    - title: role-greeting-desc
+      message: contractor-role-greeting-desc
+    # SIS-ChatGreeting End
   components:
   - type: RandomMetadata
     nameSegments:

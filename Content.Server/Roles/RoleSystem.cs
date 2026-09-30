@@ -46,6 +46,8 @@ public sealed partial class RoleSystem : SharedRoleSystem
         return ev.Briefing;
     }
 
+    // SIS-ChatBriefing Start - fuck THE ROLE UPDATE MESSAGE
+    /*
     public void RoleUpdateMessage(MindComponent mind)
     {
         if (!Player.TryGetSessionById(mind.UserId, out var session))
@@ -69,6 +71,8 @@ public sealed partial class RoleSystem : SharedRoleSystem
             false,
             session.Channel);
     }
+    */
+    // SIS-ChatBriefing End
 
     protected override void UpdateCharacterWindow(NetUserId? user, MindStringRepresentation mindString)
     {

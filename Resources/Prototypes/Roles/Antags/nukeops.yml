@@ -66,6 +66,21 @@
   abstract: true
   parent: RestrictedAntag
   id: BaseNukeops
+  # SIS-ChatGreeting Start
+  briefing:
+    sound: /Audio/Ambience/Antag/nukeops_start.ogg
+    theme:
+      titleBackground: "#1a0f11"
+      titleBorder: "#e61937"
+      messageBackground: "#0d0708"
+      messageBorder: "#381619"
+      titleText: "#ff667a"
+      messageText: "#d6c9cb"
+      titleHighlight1: Red
+      titleHighlight2: "#c33030"
+      messageHighlight1: Red
+      messageHighlight2: "#c33030"
+  # SIS-ChatGreeting End
   prefRoles:
   - GenericTeamAntagonist # For antag ban purposes
   roleLoadout:

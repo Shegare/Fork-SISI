@@ -274,6 +274,7 @@
       proto: SpaceNinja
   - type: DynamicRuleCost
     cost: 75
+  - type: NinjaRule # SIS-ChatGreeting
 
 - type: entity
   parent: BaseAntagGhostRoleRule

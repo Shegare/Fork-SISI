@@ -48,6 +48,7 @@ using Robust.Shared.Audio.Systems;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Utility;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Server.Zombies;
 
@@ -79,6 +80,10 @@ public sealed partial class ZombieSystem
     [Dependency] private NPCSystem _npc = default!;
     [Dependency] private TagSystem _tag = default!;
     [Dependency] private ISharedPlayerManager _player = default!;
+    // SIS-ChatGreeting Start
+    [Dependency] private IPrototypeManager _prototype = default!;
+    [Dependency] private GreetingSystem _greeting = default!;
+    // SIS-ChatGreeting End
 
     private static readonly ProtoId<TagPrototype> InvalidForGlobalSpawnSpellTag = "InvalidForGlobalSpawnSpell";
     private static readonly ProtoId<TagPrototype> CannotSuicideTag = "CannotSuicide";
@@ -306,11 +311,14 @@ public sealed partial class ZombieSystem
             //Zombie role for player manifest
             _role.MindAddRole(mindId, MindRoleZombie, mind: null, silent: true);
 
-            //Greeting message for new bebe zombers
-            _chatMan.DispatchServerMessage(session, Loc.GetString("zombie-infection-greeting"));
+            // SIS-ChatGreeting Start
+            var proto = _prototype.Index(InitialInfectedAntag);
+            var entry = _greeting.CreateGreetingEntry("zombie-", proto.Briefing);
+            _antag.SendBriefing(session, entry);
+            // SIS-ChatGreeting End
 
             // Notificate player about new role assignment
-            _audio.PlayGlobal(zombiecomp.GreetSoundNotification, session);
+            // _audio.PlayGlobal(zombiecomp.GreetSoundNotification, session); // SIS-ChatGreeting
         }
         else
         {
