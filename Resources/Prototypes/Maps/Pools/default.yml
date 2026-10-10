@@ -9,6 +9,10 @@
   - SpawnPointExtraAiCore # for maps with AI (almost all of them) to work with triumvirate station trait
   - MachineMaterialSilo # for main departments
   - MachineMasterMaterialSilo # for cargo to easily distribute mats to department silos
+  # SIS-Start
+  - CrateSecurityTrackingMindshieldImplants
+  - DefaultStationBeaconArmory
+  # SIS-End
   maps:
   - Atlas
   #- Amber # SIS
