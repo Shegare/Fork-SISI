@@ -42,6 +42,11 @@
     CartridgeBicaridine: 2
     CartridgeDermaline: 2
     # </Trauma>
+    # SIS-Start
+    WeaponDisabler: 8
+    Stunbaton: 8
+    Truncheon: 8
+    # SIS-End
   # security officers need to follow a diet regimen!
   contrabandInventory:
     WeaponMeleeNeedle: 2
