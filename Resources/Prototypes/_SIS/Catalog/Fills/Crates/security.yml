@@ -1,0 +1,142 @@
+# Collection of entity tables
+
+- type: entityTable
+  id: RandomArmoryWeapon
+  table: !type:GroupSelector
+    children:
+    - !type:NestedSelector
+      weight: 45
+      tableId: RandomBallisticWeapon
+    - !type:NestedSelector
+      weight: 35
+      tableId: RandomLaserWeapon
+    - !type:NestedSelector
+      weight: 20
+      tableId: RandomSituationalWeapon
+
+- type: entityTable
+  id: RandomArmoryArmor
+  table: !type:GroupSelector
+    children:
+    - id: UndeterminedVoidsuitSecurity
+      weight: 35
+    - id: ClothingOuterArmorBulletproof
+      weight: 25
+    - !type:AllSelector
+      weight: 25
+      children:
+      - id: ClothingOuterArmorRiot
+      - id: ClothingHeadHelmetRiot
+    - id: ClothingOuterArmorReflective
+      weight: 15
+
+- type: entityTable
+  id: ArmoryRiotControlKit
+  table: !type:GroupSelector
+    children:
+    - !type:AllSelector
+      children:
+      - id: Stunbaton
+      - id: Truncheon
+      - id: ClothingBeltCorporateJudo
+      - id: WeaponLauncherNonLethal
+      - !type:GroupSelector
+        children:
+        - id: BoxGrenadesBaton
+        - id: BoxGrenadesFlash
+        - id: BoxGrenadesTeargas
+
+# Collection of entities
+
+- type: entityTable
+  id: RandomBallisticWeapon
+  table: !type:GroupSelector
+    children:
+    # Guns
+    - !type:AllSelector
+      weight: 14
+      children:
+      - id: WeaponRifleLecter
+      - id: MagazineRifle
+      - id: MagazineRifle
+    - !type:AllSelector
+      weight: 14
+      children:
+      - id: WeaponSubMachineGunDrozd
+      - id: MagazinePistolSubMachineGun
+      - id: MagazinePistolSubMachineGun
+    - !type:AllSelector
+      weight: 14
+      children:
+      - id: WeaponSubMachineGunWt550
+      - id: MagazinePistolSubMachineGunTopMounted
+      - id: MagazinePistolSubMachineGunTopMounted
+    # Shotguns
+    - !type:AllSelector
+      weight: 10
+      children:
+      - id: WeaponShotgunAntelope
+      - id: MagazineShotgun
+      - id: MagazineShotgun
+    - !type:AllSelector
+      weight: 10
+      children:
+      - id: WeaponShotgunEnforcer
+      - id: BoxLethalshot
+    - !type:AllSelector
+      weight: 10
+      children:
+      - id: WeaponShotgunKammerer
+      - id: BoxLethalshot
+    - !type:AllSelector
+      weight: 10
+      children:
+      - id: WeaponShotgunDoubleBarreled
+      - id: BoxBeanbag
+    # Specific
+    - !type:AllSelector
+      weight: 6
+      children:
+      - id: WeaponRevolverDeckard
+      - id: SpeedLoaderMagnum
+      - id: SpeedLoaderMagnum
+    - !type:AllSelector
+      weight: 6
+      children:
+      - id: WeaponRifleAk
+      - id: MagazineLightRifle
+      - id: MagazineLightRifle
+    - !type:AllSelector
+      weight: 6
+      children:
+      - id: WeaponPistolN1984
+      - id: MagazineMagnum
+
+- type: entityTable
+  id: RandomLaserWeapon
+  table: !type:GroupSelector
+    children:
+    - id: WeaponLaserCannon
+    - id: WeaponXrayCannon
+    - !type:AllSelector
+      children:
+      - id: WeaponEnergyRifle
+      - id: EnergyMagRifleLethal
+      - id: EnergyMagRifleLethal
+      - id: EnergyMagRifleLethal
+    - !type:AllSelector
+      children:
+      - id: WeaponLaserCellSMG
+      - id: PowerCellIRSMG
+      - id: PowerCellIRSMG
+      - id: PowerCellIRSMG
+
+- type: entityTable
+  id: RandomSituationalWeapon
+  table: !type:GroupSelector
+    children:
+    - !type:AllSelector
+      children:
+      - id: WeaponTemperatureGun
+      - id: WeaponEnergyIonRifle
+      - id: TelescopicShield
