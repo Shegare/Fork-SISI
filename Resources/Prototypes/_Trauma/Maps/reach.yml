@@ -9,6 +9,10 @@
   ignoredRequiredEntities:
   - MachineMasterMaterialSilo # 1 department silo can probably cover the whole ship be real
   - SpawnPointExtraAiCore # no AI core
+  # SIS-Start
+  - CrateSecurityTrackingMindshieldImplants
+  - DefaultStationBeaconArmory
+  # SIS-End
   jobWeights: Reach
   stations:
     Reach:
