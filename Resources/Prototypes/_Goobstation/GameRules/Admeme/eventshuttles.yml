@@ -143,3 +143,4 @@
     antags:
     - !type:FixedAntagCount
       proto: Contractor
+  - type: ContractorRule # SIS

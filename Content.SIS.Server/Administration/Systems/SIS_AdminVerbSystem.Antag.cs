@@ -4,6 +4,7 @@ using Content.Shared.Administration;
 using Content.Shared.Database;
 using Content.Shared.Mind.Components;
 using Content.Shared.Verbs;
+using Content.SIS.Server.Contractor;
 using Content.Trauma.Server.GameTicking.Rules.Components;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
@@ -20,6 +21,7 @@ public sealed partial class SIS_AdminVerbSystem
     private static readonly EntProtoId DefaultInsurgencyRule = "InsurgencyShipVariantInsurgents";
     private static readonly EntProtoId InsurgencyTideRule = "InsurgencyShipVariantTide";
     private static readonly EntProtoId TerminatorRule = "TerminatorSpawn";
+    private static readonly EntProtoId ContractorRule = "ContractorSpawn";
 
     private void AddAdminVerbs(GetVerbsEvent<Verb> args)
     {
@@ -62,6 +64,19 @@ public sealed partial class SIS_AdminVerbSystem
             },
             Impact = LogImpact.High,
             Message = Loc.GetString("admin-verb-make-terminator"),
+        });
+
+        args.Verbs.Add(new()
+        {
+            Text = Loc.GetString("admin-verb-make-contractor"),
+            Category = VerbCategory.Antag,
+            Icon = new SpriteSpecifier.Rsi(new("_EinsteinEngines/Objects/Weapons/Guns/Battery/syndicate-disabler.rsi"), "base"),
+            Act = () =>
+            {
+                _antag.ForceMakeAntag<ContractorRuleComponent>(targetPlayer, ContractorRule);
+            },
+            Impact = LogImpact.High,
+            Message = Loc.GetString("admin-verb-make-contractor"),
         });
     }
 }

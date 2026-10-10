@@ -96,7 +96,7 @@ public sealed partial class AdminVerbSystem
             Impact = LogImpact.High,
             Message = string.Join(": ", zombieName, Loc.GetString("admin-verb-make-zombie")),
         };
-        args.Verbs.Add(zombie);
+        // args.Verbs.Add(zombie); // SIS-Admin_verbs
 
         var nukeOpName = Loc.GetString("admin-verb-text-make-nuclear-operative");
         Verb nukeOp = new()
@@ -157,7 +157,7 @@ public sealed partial class AdminVerbSystem
             Impact = LogImpact.High,
             Message = string.Join(": ", thiefName, Loc.GetString("admin-verb-make-thief")),
         };
-        args.Verbs.Add(thief);
+        // args.Verbs.Add(thief); // SIS-Admin_verbs
 
         var paradoxCloneName = Loc.GetString("admin-verb-text-make-paradox-clone");
         Verb paradox = new()
